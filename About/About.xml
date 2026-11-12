@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Lord of the Mysteries — русский перевод</name>
   <author>Huginn</author>
@@ -17,5 +17,10 @@
   <loadAfter>
     <li>Reg.LordOfTheMysteries</li>
   </loadAfter>
-  <description>Русский перевод Lord of the Mysteries от Reg для версии мода 0.8.2. Включает интерфейс, способности, рецепты и исследования, сюжетные события и диалоги. Загрузите после оригинального мода и выберите русский язык в настройках RimWorld.</description>
+  <description>Русификатор мода «Повелитель тайн» для RimWorld 1.6 и 1.7. Переведены интерфейс, способности, рецепты, события и диалоги.
+
+Требуется оригинальный мод. Загружайте русификатор после него.
+https://steamcommunity.com/sharedfiles/filedetails/?id=3809971059
+
+Перевод сделан с помощью ИИ без вычитки. Возможны ошибки и неточности.</description>
 </ModMetaData>
