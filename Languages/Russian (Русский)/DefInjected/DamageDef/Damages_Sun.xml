@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_SunBurn.label>солнечный ожог</LotM_SunBurn.label>
+  <LotM_SunBurn.deathMessage>{0} распался под светом, подобным полуденному солнцу.</LotM_SunBurn.deathMessage>
+  <LotM_HolyLight.label>священный свет</LotM_HolyLight.label>
+  <LotM_HolyLight.deathMessage>{0} был очищен священным светом.</LotM_HolyLight.deathMessage>
+  <LotM_GoldenFlame.label>золотое пламя</LotM_GoldenFlame.label>
+  <LotM_GoldenFlame.deathMessage>{0} сгорел в золотых пламени солнца.</LotM_GoldenFlame.deathMessage>
+  <LotM_HolyWaterBurn.label>святая вода</LotM_HolyWaterBurn.label>
+  <LotM_HolyWaterBurn.deathMessage>{0} был изгнан с помощью святой воды.</LotM_HolyWaterBurn.deathMessage>
+  <LotM_ContractFlame.label>огненные контракты</LotM_ContractFlame.label>
+  <LotM_ContractFlame.deathMessage>{0} нарушил контракт и сгорел в золотых пламени.</LotM_ContractFlame.deathMessage>
+</LanguageData>

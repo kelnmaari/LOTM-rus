@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Characteristic_Apprentice.label>Характеристика Потустороннего Ученика</LotM_Characteristic_Apprentice.label>
+  <LotM_Characteristic_Apprentice.description>То, что осталось от Ученика после его смерти. Это полупрозрачный камешек, который, в зависимости от того, как на него смотреть, существует или нет.</LotM_Characteristic_Apprentice.description>
+  <LotM_Characteristic_Trickmaster.label>Характеристика Потустороннего Мастера Обмана</LotM_Characteristic_Trickmaster.label>
+  <LotM_Characteristic_Trickmaster.description>То, что осталось от Марионеточника после смерти. Это игральная карта, твердая как стекло, с изображением, которое меняется каждый раз, когда ее переворачивают.</LotM_Characteristic_Trickmaster.description>
+  <LotM_Characteristic_Astrologer.label>Характеристика Потустороннего Астролога</LotM_Characteristic_Astrologer.label>
+  <LotM_Characteristic_Astrologer.description>Что осталось от Астролога после смерти. Это тёмный синий кристалл с внутри созвездием, которое медленно вращается.</LotM_Characteristic_Astrologer.description>
+  <LotM_Characteristic_Scribe.label>Характеристика Потустороннего Писаря</LotM_Characteristic_Scribe.label>
+  <LotM_Characteristic_Scribe.description>То, что осталось от Писаря после его смерти. Это сюрреалистичный, мерцающий глаз, пересеченный серо-белыми узорами и вкраплениями звездного света.</LotM_Characteristic_Scribe.description>
+  <LotM_Characteristic_Traveler.label>Характеристика Потустороннего Путешественника</LotM_Characteristic_Traveler.label>
+  <LotM_Characteristic_Traveler.description>То, что осталось от Путешественника после смерти. Это маленькая ключ фиолетового света, который, повернутый в воздухе, открывает и закрывает несуществующие двери.</LotM_Characteristic_Traveler.description>
+  <LotM_Characteristic_SecretsSorcerer.label>Характеристика Потустороннего Мага Тайн</LotM_Characteristic_SecretsSorcerer.label>
+  <LotM_Characteristic_SecretsSorcerer.description>То, что осталось от Мага Тайн после смерти. Это деревянная дверь размером с руку, запертая. С другой стороны слышен ветер.</LotM_Characteristic_SecretsSorcerer.description>
+  <LotM_Characteristic_Wanderer.label>Характеристика Потустороннего Странника</LotM_Characteristic_Wanderer.label>
+  <LotM_Characteristic_Wanderer.description>То, что осталось от Странника после смерти. Это стеклянный глаз с дорогой внутри, которая исчезает в горизонте.</LotM_Characteristic_Wanderer.description>
+  <LotM_Characteristic_Planeswalker.label>Характеристика Потустороннего Планетарного Путешественника</LotM_Characteristic_Planeswalker.label>
+  <LotM_Characteristic_Planeswalker.description>То, что осталось от Пересекателя Планов после смерти. Это символ накладывающихся дверей, одна за другой, который никогда не заканчивается.</LotM_Characteristic_Planeswalker.description>
+  <LotM_Characteristic_KeyOfStars.label>Характеристика Потустороннего Ключа Звёзд</LotM_Characteristic_KeyOfStars.label>
+  <LotM_Characteristic_KeyOfStars.description>Что осталось от Ключа Звёзд после смерти. Это ключ звёздного света, который сам загорается, пока не укажет куда-то очень далеко.</LotM_Characteristic_KeyOfStars.description>
+</LanguageData>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Ing_SavageDogHead.label>голова дикого пса</LotM_Ing_SavageDogHead.label>
+  <LotM_Ing_SavageDogHead.description>Голова собаки, которая укусила ради удовольствия, её зубы всё ещё сжаты. Её глаза никогда не закрываются.</LotM_Ing_SavageDogHead.description>
+  <LotM_Ing_MurderousCrowFeather.label>Перо кристаллического чёрного ворона, смертоносного</LotM_Ing_MurderousCrowFeather.label>
+  <LotM_Ing_MurderousCrowFeather.description>Чёрное перо, превратившееся в кристалл. Говорят, ворона, которая его носила, убивала других птиц, не поедая их.</LotM_Ing_MurderousCrowFeather.description>
+  <LotM_Ing_IllGottenGain.label>незаслуженная выгода</LotM_Ing_IllGottenGain.label>
+  <LotM_Ing_IllGottenGain.description>Всё, что взято в результате преступления: несколько монет, часы, кольцо. Что это такое не имеет значения; важно, как это было получено.</LotM_Ing_IllGottenGain.description>
+  <LotM_Ing_RatKingRemains.label>остается король крыс</LotM_Ing_RatKingRemains.label>
+  <LotM_Ing_RatKingRemains.description>Узел хвостов, крошечные кости и мех: что осталось от кучи крыс, которые сцепились вместе и думали как одно целое.</LotM_Ing_RatKingRemains.description>
+  <LotM_Ing_SkinlessBloodCatHeart.label>сердце безкожной кровавой кошки</LotM_Ing_SkinlessBloodCatHeart.label>
+  <LotM_Ing_SkinlessBloodCatHeart.description>Маленькое, твёрдое сердце кошки, ходившей по безмясной коже, оставляя за собой след крови, которая не была её собственной.</LotM_Ing_SkinlessBloodCatHeart.description>
+  <LotM_Ing_VictimHeart.label>сердце жертвы</LotM_Ing_VictimHeart.label>
+  <LotM_Ing_VictimHeart.description>Сердце убитого человека, сохранённое в соли. Формула просит первое, но зелье не может сказать.</LotM_Ing_VictimHeart.description>
+  <LotM_Ing_TwinFlowerHydrolat.label>гидролат двойного цветка</LotM_Ing_TwinFlowerHydrolat.label>
+  <LotM_Ing_TwinFlowerHydrolat.description>Тринадцать капель дистиллированной воды цветка, который всегда растёт парами: один белый и один чёрный на одном стебле.</LotM_Ing_TwinFlowerHydrolat.description>
+  <LotM_Ing_ManEatingVultureBeak.label>клюв падальщика-ястреба</LotM_Ing_ManEatingVultureBeak.label>
+  <LotM_Ing_ManEatingVultureBeak.description>Загнутый клюв стервятника, который не стал ждать смерти своей добычи. На нём засохшая кровь, которую ничего не смыть.</LotM_Ing_ManEatingVultureBeak.description>
+  <LotM_Ing_ShadowSerpentFangs.label>зубы теневого змея</LotM_Ing_ShadowSerpentFangs.label>
+  <LotM_Ing_ShadowSerpentFangs.description>Два тонких чёрных клыка, весящих почти ничего. На свет они не отбрасывают тени: они — тень.</LotM_Ing_ShadowSerpentFangs.description>
+  <LotM_Ing_CompleteHumanSkin.label>целая человеческая кожа</LotM_Ing_CompleteHumanSkin.label>
+  <LotM_Ing_CompleteHumanSkin.description>Вся кожа человека, запечённая в одном куске.</LotM_Ing_CompleteHumanSkin.description>
+  <LotM_Ing_VictimOrgans.label>органы жертвы</LotM_Ing_VictimOrgans.label>
+  <LotM_Ing_VictimOrgans.description>Набор органов убитого человека в банке с солью. Требуется три.</LotM_Ing_VictimOrgans.description>
+  <LotM_Ing_RedEyedPantherTongue.label>Язык злого пантеры с красными глазами</LotM_Ing_RedEyedPantherTongue.label>
+  <LotM_Ing_RedEyedPantherTongue.description>Длинный, шершавый язык, всё ещё тёплый. Пантера, которую он охотился ночью, и её глаза светились красным, как угли.</LotM_Ing_RedEyedPantherTongue.description>
+  <LotM_Ing_MagmaDemonHorn.label>рог магматического демона</LotM_Ing_MagmaDemonHorn.label>
+  <LotM_Ing_MagmaDemonHorn.description>Чёрный, извитой рог с трещинами, сквозь которые всё ещё можно увидеть свет лавы. Он пахнет сернистой.</LotM_Ing_MagmaDemonHorn.description>
+  <LotM_Ing_BlackLilyEssence.label>эссенция черной лилии</LotM_Ing_BlackLilyEssence.label>
+  <LotM_Ing_BlackLilyEssence.description>Десять капель эссенции лилии, чёрной, как уголь, которая расцветает только там, где пролила много крови.</LotM_Ing_BlackLilyEssence.description>
+  <LotM_Ing_MurderedInfantFingers.label>пальцы убитого младенца</LotM_Ing_MurderedInfantFingers.label>
+  <LotM_Ing_MurderedInfantFingers.description>Тринадцать крошечных пальцев в баночке, запечатанной чёрной восковой печатью. Формула говорит, кем они должны быть. Никто не спрашивает, откуда они взялись.</LotM_Ing_MurderedInfantFingers.description>
+  <LotM_Ing_SuccubusSkin.label>кожа суккуба</LotM_Ing_SuccubusSkin.label>
+  <LotM_Ing_SuccubusSkin.description>Мягкая, тёплая кожа цвета, которое не может определиться. Прикосновение к ней напоминает о том, чего ты желаешь больше всего.</LotM_Ing_SuccubusSkin.description>
+  <LotM_Ing_SonOfSorrowEyes.label>глаза Сына Скорби</LotM_Ing_SonOfSorrowEyes.label>
+  <LotM_Ing_SonOfSorrowEyes.description>Два серых глаза в банке, всё ещё влажные. Они смотрят вниз, как бы ни повернута банка, и заставляют тебя хотеть плакать.</LotM_Ing_SonOfSorrowEyes.description>
+  <LotM_Ing_WhitePoppy.label>белая мак</LotM_Ing_WhitePoppy.label>
+  <LotM_Ing_WhitePoppy.description>Чистый белый мак, срезанный стеблем. Требуется три.</LotM_Ing_WhitePoppy.description>
+  <LotM_Ing_PituitaryGland.label>гипофизарная железа</LotM_Ing_PituitaryGland.label>
+  <LotM_Ing_PituitaryGland.description>Железа размером с горошину, взятая из черепа человека. Формула требует таких из нескольких разных людей.</LotM_Ing_PituitaryGland.description>
+  <LotM_Ing_ArchdemonBloodCrystal.label>кристалл крови архдемона</LotM_Ing_ArchdemonBloodCrystal.label>
+  <LotM_Ing_ArchdemonBloodCrystal.description>Тёмно-красный кристалл размером с кулак, медленно бьющийся, как сердце. Внутри что-то густое движется.</LotM_Ing_ArchdemonBloodCrystal.description>
+  <LotM_Ing_DesireDemonOrgans.label>органы демона желания</LotM_Ing_DesireDemonOrgans.label>
+  <LotM_Ing_DesireDemonOrgans.description>Тёплые, ароматные органы в запечатанной банке. Наблюдение за ними некоторое время пробуждает желания, о которых ты не знал.</LotM_Ing_DesireDemonOrgans.description>
+  <LotM_Ing_SacredSymbol.label>священный символ</LotM_Ing_SacredSymbol.label>
+  <LotM_Ing_SacredSymbol.description>Священный символ церкви истинного божества, носящийся от стольких молитв. Формула требует его осквернения.</LotM_Ing_SacredSymbol.description>
+  <LotM_Ing_BeyonderHeart.label>сердце Потустороннего</LotM_Ing_BeyonderHeart.label>
+  <LotM_Ing_BeyonderHeart.description>Сердце Потустороннего, всё ещё с остатком духовности, который заставляет его биться. Требуется девять.</LotM_Ing_BeyonderHeart.description>
+  <LotM_Ing_WordDevilBrain.label>мозг Слова Дьявола</LotM_Ing_WordDevilBrain.label>
+  <LotM_Ing_WordDevilBrain.description>Чёрный, сморщенный мозг в банке. Хотя он мёртв, вблизи можно услышать, как он всё ещё бормочет слова, которые никто не понимает.</LotM_Ing_WordDevilBrain.description>
+  <LotM_Ing_SoulDemonStone.label>камень души Демона Душ</LotM_Ing_SoulDemonStone.label>
+  <LotM_Ing_SoulDemonStone.description>Серый, полированный камень, тёплый на ощупь. Внутри него движутся крошечные тени, как души, пытающиеся выбраться.</LotM_Ing_SoulDemonStone.description>
+  <LotM_Ing_WordDevilFluids.label>жидкости Дьявола Слова</LotM_Ing_WordDevilFluids.label>
+  <LotM_Ing_WordDevilFluids.description>Сто миллилитров густой чёрной жидкости. При тряске она издаёт звук, похожий на далёкие голоса.</LotM_Ing_WordDevilFluids.description>
+  <LotM_Ing_SoulDemonCursedItem.label>Предмет, проклятый Демоном Душ</LotM_Ing_SoulDemonCursedItem.label>
+  <LotM_Ing_SoulDemonCursedItem.description>Обычный предмет (расчёска, часы, кольцо), который хранит проклятие Демона Душ. Тот, кто держит его, чувствует, что за ним наблюдают.</LotM_Ing_SoulDemonCursedItem.description>
+  <LotM_Ing_ConsciousnessSeaCreature.label>Существо из Моря Сознания</LotM_Ing_ConsciousnessSeaCreature.label>
+  <LotM_Ing_ConsciousnessSeaCreature.description>Крошечное, почти прозрачное существо, запечатанное в банке с небольшим количеством света. Оно родилось в Море Сознания и медленно исчезает из него.</LotM_Ing_ConsciousnessSeaCreature.description>
+  <LotM_Ing_DespairTears.label>слезы отчаявшегося</LotM_Ing_DespairTears.label>
+  <LotM_Ing_DespairTears.description>Флакон с слезами того, кто пал в отчаяние. Нужно девять, от разных людей.</LotM_Ing_DespairTears.description>
+  <LotM_Ing_DemonPrinceHead.label>голова демонического принца</LotM_Ing_DemonPrinceHead.label>
+  <LotM_Ing_DemonPrinceHead.description>Рогатая голова Демон-принца, его глаза всё ещё открыты. Кровь, капающая с шеи, сжигает дерево.</LotM_Ing_DemonPrinceHead.description>
+  <LotM_Ing_TwinSerpentLordHeart.label>сердце Лорда Двойного Змея</LotM_Ing_TwinSerpentLordHeart.label>
+  <LotM_Ing_TwinSerpentLordHeart.description>Два змеиных сердца, соединённые одной артерией, бьются не в такт. Одно холодное, другое горит.</LotM_Ing_TwinSerpentLordHeart.description>
+  <LotM_Ing_ArchdukeBlood.label>кровь архидука</LotM_Ing_ArchdukeBlood.label>
+  <LotM_Ing_ArchdukeBlood.description>Лит тёмной, густой крови, которая никогда не сворачивается. При движении кажется, что она пытается вырваться из банки.</LotM_Ing_ArchdukeBlood.description>
+  <LotM_Ing_VariedBlood.label>капля чужой крови</LotM_Ing_VariedBlood.label>
+  <LotM_Ing_VariedBlood.description>Капля крови человека в маленьком флаконе с его именем. Формула требует крови девяти разных людей.</LotM_Ing_VariedBlood.description>
+  <LotM_Ing_DivineBloodDrop.label>капля божественной крови</LotM_Ing_DivineBloodDrop.label>
+  <LotM_Ing_DivineBloodDrop.description>Одна капля крови истинного бога. Она светится в темноте и никогда не высыхает.</LotM_Ing_DivineBloodDrop.description>
+  <LotM_Ing_CursedLandAbomination.label>отвратительное существо из проклятой земли</LotM_Ing_CursedLandAbomination.label>
+  <LotM_Ing_CursedLandAbomination.description>Что родилось в земле, покинутой богами: кусок плоти, который движется сам по себе и никогда по-настоящему не умирает.</LotM_Ing_CursedLandAbomination.description>
+  <LotM_Ing_LostAngelBlood.label>кровь потерянного ангела</LotM_Ing_LostAngelBlood.label>
+  <LotM_Ing_LostAngelBlood.description>Триста миллилитров крови ангела, потерявшего контроль. Она весит как металл.</LotM_Ing_LostAngelBlood.description>
+  <LotM_Ing_CorruptedDivineCreature.label>испорченное божественное существо</LotM_Ing_CorruptedDivineCreature.label>
+  <LotM_Ing_CorruptedDivineCreature.description>Существо, которое когда-то было священным, запечатанное в банке. Внутри оно полностью гнилое. Нужно девять.</LotM_Ing_CorruptedDivineCreature.description>
+  <LotM_Ing_DrowningSoul.label>душа, утонувшая в желании</LotM_Ing_DrowningSoul.label>
+  <LotM_Ing_DrowningSoul.description>Грязный, мерцающий свет в банке: душа того, кто утонул в своих желаниях. Требуется девять.</LotM_Ing_DrowningSoul.description>
+</LanguageData>

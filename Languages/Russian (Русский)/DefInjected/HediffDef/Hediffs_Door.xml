@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_DoorDeafened.label>глухой</LotM_DoorDeafened.label>
+  <LotM_DoorDeafened.description>Гулкий шум из ниоткуда заставил их уши зазвенеть: они едва слышат.</LotM_DoorDeafened.description>
+  <LotM_DoorFrosted.label>иней</LotM_DoorFrosted.label>
+  <LotM_DoorFrosted.description>Иней, появившийся внезапно, затвердевает их тело: они двигаются намного медленнее.</LotM_DoorFrosted.description>
+  <LotM_TrickDiversion.label>отвлечение</LotM_TrickDiversion.label>
+  <LotM_TrickDiversion.description>Они просто отвлекли все внимание: это момент для трюка побега.</LotM_TrickDiversion.description>
+  <LotM_InterferenceHediff.label>вмешательство</LotM_InterferenceHediff.label>
+  <LotM_InterferenceHediff.description>Облака проливают предсказания и интуицию других: половина того, что брошено издалека на них и их близким людям, они не могут найти, а угрозы находят колонию легче. Потребляет духовность в час.</LotM_InterferenceHediff.description>
+  <LotM_PremonitionUsed.label>потраченное предчувствие</LotM_PremonitionUsed.label>
+  <LotM_PremonitionUsed.description>Сегодня их интуиция уже спасла их от сильного удара. Она снова предупредит их завтра.</LotM_PremonitionUsed.description>
+  <LotM_ScribeRecords.label>записи</LotM_ScribeRecords.label>
+  <LotM_ScribeRecords.description>Силы, которые они записали: каждая страница может быть использована только один раз. В скобках — места, используемые для Последовательностей 9 по 7, для 6 и 5, и для полубогов.</LotM_ScribeRecords.description>
+  <LotM_ScribeRecording.label>запись</LotM_ScribeRecording.label>
+  <LotM_ScribeRecording.description>"Я пришел, я видел, я записал": каждую активную силу Потустороннего, которую они видят поблизости, они пытаются записать. Каждая попытка стоит духовности.</LotM_ScribeRecording.description>
+  <LotM_BlinkStance.label>мигающее сражение</LotM_BlinkStance.label>
+  <LotM_BlinkStance.description>Переключатель: сражается миганием вокруг врага, открывая и закрывая расстояние по желанию. Многие ближние удары (и некоторые выстрелы) не находят их: они появляются позади того, кто атаковал. Потребляет духовность в час.</LotM_BlinkStance.description>
+</LanguageData>

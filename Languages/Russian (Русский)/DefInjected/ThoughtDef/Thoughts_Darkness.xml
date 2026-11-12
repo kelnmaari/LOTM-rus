@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Tranquil.stages.0.label>стихотворение дало мне покой</LotM_Tranquil.stages.0.label>
+  <LotM_Tranquil.stages.0.description>Я слышал некоторые стихи о ночи, и все успокоилось: мое тело, мое сердце и моя душа.</LotM_Tranquil.stages.0.description>
+  <LotM_SoulSoothed.stages.0.label>моя душа обрела покой</LotM_SoulSoothed.stages.0.label>
+  <LotM_SoulSoothed.stages.0.description>Реквием усыпил мою душу на мгновение. Когда я очнулся, то, что давило на меня, исчезло.</LotM_SoulSoothed.stages.0.description>
+  <LotM_HadNightmare.stages.0.label>у меня был ужасный кошмар</LotM_HadNightmare.stages.0.label>
+  <LotM_HadNightmare.stages.0.description>Во что-то попало в мой сон. Я не помню, что, но не могу перестать дрожать.</LotM_HadNightmare.stages.0.description>
+  <LotM_WolfFormHorror.stages.0.label>я был демонической волком</LotM_WolfFormHorror.stages.0.label>
+  <LotM_WolfFormHorror.stages.0.description>На несколько секунд у меня было восемь ног и голод по тьме. Я все еще чувствую клыки во рту.</LotM_WolfFormHorror.stages.0.description>
+  <LotM_WolfFormHorror.stages.1.label>Волчья форма всё ещё меня беспокоит</LotM_WolfFormHorror.stages.1.label>
+  <LotM_WolfFormHorror.stages.1.description>Становится всё легче и легче возвращаться... и это самое страшное для меня.</LotM_WolfFormHorror.stages.1.description>
+  <LotM_TerrifyingPresence.stages.0.label>устрашающее присутствие</LotM_TerrifyingPresence.stages.0.label>
+  <LotM_TerrifyingPresence.stages.0.description>Когда я смотрю на них, моё тело само дрожит. Это похоже на взгляд на нечто, таящееся в самой глубокой тьме... и оно смотрит в ответ.</LotM_TerrifyingPresence.stages.0.description>
+  <LotM_SunbirdFormHorror.stages.0.label>я был солнцем</LotM_SunbirdFormHorror.stages.0.label>
+  <LotM_SunbirdFormHorror.stages.0.description>На несколько секунд я был солнцем. Я все еще чувствую пламя под своей кожей.</LotM_SunbirdFormHorror.stages.0.description>
+  <LotM_SunbirdFormHorror.stages.1.label>форма солнца всё ещё меня тревожит</LotM_SunbirdFormHorror.stages.1.label>
+  <LotM_SunbirdFormHorror.stages.1.description>Становится всё легче и легче возвращаться... и это самое страшное для меня.</LotM_SunbirdFormHorror.stages.1.description>
+  <LotM_SunPrayerHeard.stages.0.label>солнце услышало мою молитву</LotM_SunPrayerHeard.stages.0.label>
+  <LotM_SunPrayerHeard.stages.0.description>я молился и почувствовал тепло, как будто солнце услышало меня.</LotM_SunPrayerHeard.stages.0.description>
+  <LotM_SunPrayerAnswered.stages.0.label>свет ответил на мою молитву</LotM_SunPrayerAnswered.stages.0.label>
+  <LotM_SunPrayerAnswered.stages.0.description>Я был на краю и молился. Теплое сияние окутало меня, и тяжесть стала легче.</LotM_SunPrayerAnswered.stages.0.description>
+  <LotM_BetrayedJustice.stages.0.label>я предал свою Справедливость</LotM_BetrayedJustice.stages.0.label>
+  <LotM_BetrayedJustice.stages.0.description>Я сделал то, что поклялся никогда не делать. Свет внутри меня теперь горит иначе.</LotM_BetrayedJustice.stages.0.description>
+</LanguageData>

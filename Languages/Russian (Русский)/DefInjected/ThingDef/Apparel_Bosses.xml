@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Apparel_AntigonusCoat.label>накидка Антигонуса</LotM_Apparel_AntigonusCoat.label>
+  <LotM_Apparel_AntigonusCoat.description>Длинное чёрное военное пальто с фиолетовыми полосами, серебряной чешуей, золотыми пуговицами и красным камнем на шее. Это часть его: оно никогда не рвётся и растворяется, когда он умирает.</LotM_Apparel_AntigonusCoat.description>
+  <LotM_Apparel_ZaratulRobe.label>мантия Заратула</LotM_Apparel_ZaratulRobe.label>
+  <LotM_Apparel_ZaratulRobe.description>Черная роба длиной до пола с золотой отделкой. Это часть его: она никогда не рвётся и растворяется, когда он умирает.</LotM_Apparel_ZaratulRobe.description>
+  <LotM_Apparel_ZaratulHood.label>Покров Заратула</LotM_Apparel_ZaratulHood.label>
+  <LotM_Apparel_ZaratulHood.description>Черная капюшон с золотой окантовкой, оставляющей лицо в тени. Это часть его: оно никогда не ломается и растворяется, когда он умирает.</LotM_Apparel_ZaratulHood.description>
+  <LotM_Apparel_NightGown.label>платье Вечной Ночи</LotM_Apparel_NightGown.label>
+  <LotM_Apparel_NightGown.description>Черное платье длиной до пола с серебряным поясом, звездами и подолом из перьев. Это часть ее: оно никогда не рвется и растворяется при ее смерти.</LotM_Apparel_NightGown.description>
+  <LotM_Apparel_NightVeil.label>вуаль Вечной Ночи</LotM_Apparel_NightVeil.label>
+  <LotM_Apparel_NightVeil.description>Черная вуаль, закрывающая глаза и падающая на плечи, с тонкой диадемой из звезд. Это часть ее: она никогда не рвется и растворяется, когда она умирает.</LotM_Apparel_NightVeil.description>
+  <LotM_Apparel_SunRobe.label>Плащ Вечного Солнца</LotM_Apparel_SunRobe.label>
+  <LotM_Apparel_SunRobe.description>Белая роба с золотой отделкой и плащом, окаймлённым золотом. Это часть его: она никогда не рвётся и растворяется, когда он умирает.</LotM_Apparel_SunRobe.description>
+  <LotM_Apparel_SunHalo.label>солнечный ореол</LotM_Apparel_SunHalo.label>
+  <LotM_Apparel_SunHalo.description>Ореол пылающего света за головой Вечно Пылающего Солнца. Это часть его: он никогда не гаснет и растворяется при его смерти.</LotM_Apparel_SunHalo.description>
+  <LotM_Apparel_BadheilArmor.label>Броня Бога Боя</LotM_Apparel_BadheilArmor.label>
+  <LotM_Apparel_BadheilArmor.description>Бронированная одежда из бронзы и старого золота, цвета заката, с закатом на нагруднике. Это часть его: она никогда не рвется и растворяется, когда он умирает.</LotM_Apparel_BadheilArmor.description>
+  <LotM_Apparel_BadheilCape.label>Плащ Бога Боя</LotM_Apparel_BadheilCape.label>
+  <LotM_Apparel_BadheilCape.description>Длинное плащ, красный, как последнее солнце вечера. Он является частью его: он никогда не рвется и растворяется, когда он умирает.</LotM_Apparel_BadheilCape.description>
+  <LotM_Apparel_BadheilHelmet.label>крыла шлем Бога Боя</LotM_Apparel_BadheilHelmet.label>
+  <LotM_Apparel_BadheilHelmet.description>Закрытый бронзовый шлем с крыльями по бокам и солнцем на лбу; его глаза горят сквозь щель. Это часть его: оно никогда не рвётся и растворяется, когда он умирает.</LotM_Apparel_BadheilHelmet.description>
+  <LotM_TwilightGreatsword.label>сумеречный меч</LotM_TwilightGreatsword.label>
+  <LotM_TwilightGreatsword.description>Меч заката, более высокий, чем человек: что бы он ни рассекал, то увядает. Это часть Бога Боя и растворяется, если он отпускает его.</LotM_TwilightGreatsword.description>
+  <LotM_TwilightGreatsword.tools.0.label>Клинок</LotM_TwilightGreatsword.tools.0.label>
+  <LotM_TwilightGreatsword.tools.1.label>Кончик</LotM_TwilightGreatsword.tools.1.label>
+  <LotM_Apparel_AmonCoat.label>Плащ Амона</LotM_Apparel_AmonCoat.label>
+  <LotM_Apparel_AmonCoat.description>Длинное черный плащ с бирюзовой подкладкой, высокий воротник, жилет с серебряными пуговицами, серебряной отделкой, поясная лента с медальонами и набивкой на подоле. Это часть его: он никогда не ломается и растворяется, когда он умирает.</LotM_Apparel_AmonCoat.description>
+  <LotM_Apparel_AmonHat.label>Шляпа Амона</LotM_Apparel_AmonHat.label>
+  <LotM_Apparel_AmonHat.description>Широкополая черная волшебная шляпа (с бирюзовой подкладкой), с кривым кончиком и темной бирюзовой лентой с золотой филигранью. Она оставляет волосы открытыми. Она является частью его: она никогда не ломается и растворяется, когда он умирает.</LotM_Apparel_AmonHat.description>
+  <LotM_Apparel_AmonMonocle.label>Монокль Амона</LotM_Apparel_AmonMonocle.label>
+  <LotM_Apparel_AmonMonocle.description>Кристальный монокль с золотой оправой и маленькой цепочкой, на правом глазу. Это часть его: он никогда не ломается и растворяется при его смерти.</LotM_Apparel_AmonMonocle.description>
+  <LotM_Apparel_MrDoorCoat.label>Фрак мистера Двери</LotM_Apparel_MrDoorCoat.label>
+  <LotM_Apparel_MrDoorCoat.description>Длинный ночной синий сюртук, почти черный, с двойными золотыми лацканами и золотой вышивкой; под ним — темный жилет и белая галстук.</LotM_Apparel_MrDoorCoat.description>
+  <LotM_Apparel_MrDoorBlindfold.label>повязка на глаза мистера Двери</LotM_Apparel_MrDoorBlindfold.label>
+  <LotM_Apparel_MrDoorBlindfold.description>Белый повязка на глаза, завязанная сзади. Он видит всё равно: то, на что он смотрит, не на этой стороне двери.</LotM_Apparel_MrDoorBlindfold.description>
+  <LotM_Apparel_CreatorChains.label>цепи Истинного Творца</LotM_Apparel_CreatorChains.label>
+  <LotM_Apparel_CreatorChains.description>Железные цепи, сковывающие его, и тёмная, порванная ткань на талии.</LotM_Apparel_CreatorChains.description>
+  <LotM_Apparel_CreatorCross.label>перевернутый крест Истинного Творца</LotM_Apparel_CreatorCross.label>
+  <LotM_Apparel_CreatorCross.description>Перевернутый крест из серо-зеленого камня, вырезанный, с цепями, свисающими с его концов. Он связан с ним.</LotM_Apparel_CreatorCross.description>
+  <LotM_Apparel_CreatorEye.label>глаз Истинного Творца</LotM_Apparel_CreatorEye.label>
+  <LotM_Apparel_CreatorEye.description>Один красный глаз, вертикально, посередине лица.</LotM_Apparel_CreatorEye.description>
+  <LotM_Apparel_BadheilGear.label>Военная экипировка Бога Боя</LotM_Apparel_BadheilGear.label>
+  <LotM_Apparel_BadheilGear.description>Все, что он носит на своем теле: серебряный амулет на шее, кожаный пояс с пряжкой, черный килт и темные железные сапоги и перчатки.</LotM_Apparel_BadheilGear.description>
+  <LotM_Apparel_BadheilWarCape.label>Плащ Бога Боя</LotM_Apparel_BadheilWarCape.label>
+  <LotM_Apparel_BadheilWarCape.description>Длинное темное плащ, ношенный в тысяче битв.</LotM_Apparel_BadheilWarCape.description>
+  <LotM_Apparel_BadheilWarHelm.label>крыла шлем Бога Боя</LotM_Apparel_BadheilWarHelm.label>
+  <LotM_Apparel_BadheilWarHelm.description>Темный железный шлем с перьевыми крыльями по бокам, щелевой глаз и защитой носа и щек. Он оставляет открытым рот и серебряные волосы.</LotM_Apparel_BadheilWarHelm.description>
+  <LotM_Apparel_CheekDress.label>платье Чека</LotM_Apparel_CheekDress.label>
+  <LotM_Apparel_CheekDress.description>Длинное платье в древнем стиле, серо-лавандовое и облегающее тело, с золотой лентой через грудь, брошью на плече и вырезанным золотым поясом. Это часть ее: оно никогда не рвется и растворяется, когда она умирает.</LotM_Apparel_CheekDress.description>
+  <LotM_Apparel_CheekSerpents.label>Змеи на щеке</LotM_Apparel_CheekSerpents.label>
+  <LotM_Apparel_CheekSerpents.description>Густые черные змеи, растущие из ее волос и поднимающиеся вокруг ее головы, каждая с черным и белым глазом. Это часть ее: они растворяются, когда она умирает.</LotM_Apparel_CheekSerpents.description>
+</LanguageData>

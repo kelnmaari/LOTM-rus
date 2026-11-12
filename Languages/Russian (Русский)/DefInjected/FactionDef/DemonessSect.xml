@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_DemonessSect.label>Секта Демонесс</LotM_DemonessSect.label>
+  <LotM_DemonessSect.fixedName>Секта Демонесс</LotM_DemonessSect.fixedName>
+  <LotM_DemonessSect.description>Последователи Первородной Демонессы. Ее богиня, Чек, потеряла рассудок и была запечатана в глубинах Зеркального Мира; Секта живет только для восстановления ее рассудка и не заботится о том, сколько крови это стоит.
+
+Они прекрасны и жестоки. Они проникают в колонии, маскируясь под путников, и сеют раздор изнутри; они проклинают чумой и катастрофами; они соблазняют того, кто слушает, и уводят их; они похищают людей для своих ритуалов в потайных храмах. Они враги для всех.
+
+Их ранги: убийцы, подстрекатели, ведьмы и Демонессы Удовольствия, Страдания и Отчаяния. Над ними все — три Демонессы Нестареющего, Гризельда, Виолетта и Бланш, и матриарх, Юдиф, Демонесса Катастрофы.</LotM_DemonessSect.description>
+  <LotM_DemonessSect.pawnSingular>сектантский</LotM_DemonessSect.pawnSingular>
+  <LotM_DemonessSect.pawnsPlural>сектанты</LotM_DemonessSect.pawnsPlural>
+  <LotM_DemonessSect.leaderTitle>матриарх</LotM_DemonessSect.leaderTitle>
+</LanguageData>

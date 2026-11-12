@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_Potion_Bard.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Bard.jobString>
+  <LotM_Make_Potion_Bard.label>приготовить зелье: Бард</LotM_Make_Potion_Bard.label>
+  <LotM_Make_Potion_LightSuppliant.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_LightSuppliant.jobString>
+  <LotM_Make_Potion_LightSuppliant.label>приготовить зелье: Проситель света</LotM_Make_Potion_LightSuppliant.label>
+  <LotM_Make_Potion_SolarHighPriest.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_SolarHighPriest.jobString>
+  <LotM_Make_Potion_SolarHighPriest.label>приготовить зелье: Верховный жрец солнца</LotM_Make_Potion_SolarHighPriest.label>
+  <LotM_Make_Potion_Notary.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Notary.jobString>
+  <LotM_Make_Potion_Notary.label>приготовить зелье: Нотариус</LotM_Make_Potion_Notary.label>
+  <LotM_Make_Potion_PriestOfLight.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_PriestOfLight.jobString>
+  <LotM_Make_Potion_PriestOfLight.label>приготовить зелье: Жрец света</LotM_Make_Potion_PriestOfLight.label>
+  <LotM_Make_Potion_Unshadowed.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Unshadowed.jobString>
+  <LotM_Make_Potion_Unshadowed.label>приготовить зелье: Бестеневой</LotM_Make_Potion_Unshadowed.label>
+  <LotM_Make_Potion_JusticeMentor.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_JusticeMentor.jobString>
+  <LotM_Make_Potion_JusticeMentor.label>приготовить зелье: Наставник справедливости</LotM_Make_Potion_JusticeMentor.label>
+  <LotM_Make_Potion_Lightseeker.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Lightseeker.jobString>
+  <LotM_Make_Potion_Lightseeker.label>приготовить зелье: Искатель света</LotM_Make_Potion_Lightseeker.label>
+  <LotM_Make_Potion_WhiteAngel.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_WhiteAngel.jobString>
+  <LotM_Make_Potion_WhiteAngel.label>приготовить зелье: Белый ангел</LotM_Make_Potion_WhiteAngel.label>
+  <LotM_Make_Potion_Bard.description>Смешайте кристальный подсолнух (или характеристику Барда Потустороннего) с летней травой и соком июльского вина.</LotM_Make_Potion_Bard.description>
+  <LotM_Make_Potion_LightSuppliant.description>Смешайте блеск камня (или характеристику Просителя Света Потустороннего) с подсолнухом с золотой окантовкой и соком аконита.</LotM_Make_Potion_LightSuppliant.description>
+  <LotM_Make_Potion_SolarHighPriest.description>Смешивает красную гриву утреннего петуха (или характеристику Потустороннего Солнечного Жреца) с кровью утреннего петуха и затвердевшей магмой.</LotM_Make_Potion_SolarHighPriest.description>
+  <LotM_Make_Potion_Notary.description>Смешать кристаллизованные корни Древа Старейшин (или характеристику Потустороннего Нотариуса) с соком дерева завета сияния и подсолнухом с белой окантовкой.</LotM_Make_Potion_Notary.description>
+  <LotM_Make_Potion_PriestOfLight.description>Смешай кристалл священного света (или характеристику Потустороннего Жреца Света) с розмарином и соком цитрона с пальцами.</LotM_Make_Potion_PriestOfLight.description>
+  <LotM_Make_Potion_Unshadowed.description>Смешать камень священного сияния или конские хвосты Божественного Птицы Солнца (или характеристика Потустороннего Безтени) с порошком магматического сердца и мутировавшим сочным соком цитрона.</LotM_Make_Potion_Unshadowed.description>
+  <LotM_Make_Potion_JusticeMentor.description>Смешать голову гигантского сияющего существа или чёрное конное перо Короля Божественного Птицы Солнца (или характеристику Потустороннего Наставника Справедливости) с кровью гигантского сияющего существа или лепестками Всеблагого и тремя нитями солнечного света.</LotM_Make_Potion_JusticeMentor.description>
+  <LotM_Make_Potion_Lightseeker.description>Смешать сердце лидера гигантского сияющего существа (или характеристику Потустороннего Искателя Света) с глазами лидера гигантского сияющего существа или глазами Искателя Света и кровью лидера гигантского сияющего существа или кровью Искателя Света.</LotM_Make_Potion_Lightseeker.description>
+  <LotM_Make_Potion_WhiteAngel.description>Смешайте характеристику Белого Ангела Потустороннего с нестабильным миниатюрным солнцем и кровью ангела Повешенного.</LotM_Make_Potion_WhiteAngel.description>
+</LanguageData>

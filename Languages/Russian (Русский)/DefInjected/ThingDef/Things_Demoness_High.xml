@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_IceAmulet.label>амулет из льда</LotM_IceAmulet.label>
+  <LotM_IceAmulet.description>Лёд-амулет, отполированный до зеркального блеска, который не тает, сделанный Демонессой Отчаяния. Тот, кто его использует (он расходуется), может пройти в течение трёх дней из одного из её ледяных зеркал (или зеркал другой Демонессы с её стороны) в другое.</LotM_IceAmulet.description>
+  <LotM_IceAmulet.comps.1.useLabel>использовать амулет льда</LotM_IceAmulet.comps.1.useLabel>
+  <LotM_DormantMirror.label>спящее зеркало</LotM_DormantMirror.label>
+  <LotM_DormantMirror.description>Темное зеркало в черной раме, покрытое тканью, с внутри спящим зеркалом, сделанным из крови и волос Демонессы Бессмертия. Если она умирает без других своих зеркал под рукой, она возрождается здесь через несколько часов, и зеркало разбивается.</LotM_DormantMirror.description>
+  <LotM_PetrifiedStatue.label>каменная статуя</LotM_PetrifiedStatue.label>
+  <LotM_PetrifiedStatue.description>Серая каменная статуя, совершенная до мельчайших деталей, с лицом одновременно наслаждения и ужаса. Это был человек: змеи Горгоны смотрели на них.</LotM_PetrifiedStatue.description>
+</LanguageData>

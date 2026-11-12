@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Boss_Zaratul_Child.title>наследник Заратула</LotM_Boss_Zaratul_Child.title>
+  <LotM_Boss_Zaratul_Child.titleShort>наследник</LotM_Boss_Zaratul_Child.titleShort>
+  <LotM_Boss_Zaratul_Child.description>[PAWN_nameDef] вырос среди тайн древней семьи, которая хранила тайны пути Провидца. [PAWN_pronoun] научился читать судьбу, прежде чем научился писать.</LotM_Boss_Zaratul_Child.description>
+  <LotM_Boss_Zaratul_Adult.title>патриарх Заратул</LotM_Boss_Zaratul_Adult.title>
+  <LotM_Boss_Zaratul_Adult.titleShort>патриарх</LotM_Boss_Zaratul_Adult.titleShort>
+  <LotM_Boss_Zaratul_Adult.description>На протяжении веков [PAWN_pronoun] тянет за нити из тени, всегда ища Замок Сефирот. [PAWN_pronoun] не доверяет никому и никогда не появляется там, где ожидается.</LotM_Boss_Zaratul_Adult.description>
+  <LotM_Boss_Antigonus_Child.title>сын Антигона</LotM_Boss_Antigonus_Child.title>
+  <LotM_Boss_Antigonus_Child.titleShort>Антигон</LotM_Boss_Antigonus_Child.titleShort>
+  <LotM_Boss_Antigonus_Child.description>[PAWN_nameDef] родился в семье Антигонуса в Четвёртой Эпохе, когда путь Провидца всё ещё имел хозяев.</LotM_Boss_Antigonus_Child.description>
+  <LotM_Boss_Antigonus_Adult.title>блуждающий провидец</LotM_Boss_Antigonus_Adult.title>
+  <LotM_Boss_Antigonus_Adult.titleShort>бродяга</LotM_Boss_Antigonus_Adult.titleShort>
+  <LotM_Boss_Antigonus_Adult.description>[PAWN_pronoun] выжил после падения семьи [PAWN_possessive]. С тех пор [PAWN_pronoun] бродят, играют музыку, которую никто не просил, и смеются над пророчествами, которые понимает только [PAWN_pronoun].</LotM_Boss_Antigonus_Adult.description>
+  <LotM_Boss_AldricMourne_Child.title>сирота из похоронного дома</LotM_Boss_AldricMourne_Child.title>
+  <LotM_Boss_AldricMourne_Child.titleShort>сирота</LotM_Boss_AldricMourne_Child.titleShort>
+  <LotM_Boss_AldricMourne_Child.description>[PAWN_nameDef] вырос в доме могильщика из Бэклунда, среди гробов и свечей.</LotM_Boss_AldricMourne_Child.description>
+  <LotM_Boss_AldricMourne_Adult.title>джентльмен тайн</LotM_Boss_AldricMourne_Adult.title>
+  <LotM_Boss_AldricMourne_Adult.titleShort>джентльмен</LotM_Boss_AldricMourne_Adult.titleShort>
+  <LotM_Boss_AldricMourne_Adult.description>Джентльмен в цилиндре, который платит свои долги чудесами. Его милости всегда собираются.</LotM_Boss_AldricMourne_Adult.description>
+  <LotM_Boss_Aucuses_Child.title>ребенок храма солнца</LotM_Boss_Aucuses_Child.title>
+  <LotM_Boss_Aucuses_Child.titleShort>аколит</LotM_Boss_Aucuses_Child.titleShort>
+  <LotM_Boss_Aucuses_Child.description>[PAWN_nameDef] был воспитан жрецами древнего солнечного храма: [PAWN_pronoun] пел гимны, прежде чем [PAWN_pronoun] смог заговорить.</LotM_Boss_Aucuses_Child.description>
+  <LotM_Boss_Aucuses_Adult.title>высокий жрец солнца</LotM_Boss_Aucuses_Adult.title>
+  <LotM_Boss_Aucuses_Adult.titleShort>высокий жрец</LotM_Boss_Aucuses_Adult.titleShort>
+  <LotM_Boss_Aucuses_Adult.description>На протяжении веков [PAWN_pronoun] направлял верных Вечно Пылающему Солнцу. [PAWN_possessive] свет исцеляет [PAWN_possessive] самого себя и сжигает тех, кого [PAWN_pronoun] считает нечистыми.</LotM_Boss_Aucuses_Adult.description>
+  <LotM_Boss_Sharaak_Child.title>ребенок пустыни</LotM_Boss_Sharaak_Child.title>
+  <LotM_Boss_Sharaak_Child.titleShort>кочевник</LotM_Boss_Sharaak_Child.titleShort>
+  <LotM_Boss_Sharaak_Child.description>[PAWN_nameDef] вырос в пустынной деревне, где солнце было единственным, чего никогда не хватало.</LotM_Boss_Sharaak_Child.description>
+  <LotM_Boss_Sharaak_Adult.title>солнечный инквизитор</LotM_Boss_Sharaak_Adult.title>
+  <LotM_Boss_Sharaak_Adult.titleShort>инквизитор</LotM_Boss_Sharaak_Adult.titleShort>
+  <LotM_Boss_Sharaak_Adult.description>Он охотится на еретиков и нежити с тем же терпением. Никакое тело не поднимается дважды, где он прошёл.</LotM_Boss_Sharaak_Adult.description>
+  <LotM_Boss_AureliaSolmont_Child.title>дворянская дочь</LotM_Boss_AureliaSolmont_Child.title>
+  <LotM_Boss_AureliaSolmont_Child.titleShort>дворянин</LotM_Boss_AureliaSolmont_Child.titleShort>
+  <LotM_Boss_AureliaSolmont_Child.description>Самая младшая дочь знатной семьи, которая отправила ее в монастырь, чтобы сэкономить на приданом.</LotM_Boss_AureliaSolmont_Child.description>
+  <LotM_Boss_AureliaSolmont_Adult.title>святой полудня</LotM_Boss_AureliaSolmont_Adult.title>
+  <LotM_Boss_AureliaSolmont_Adult.titleShort>святой</LotM_Boss_AureliaSolmont_Adult.titleShort>
+  <LotM_Boss_AureliaSolmont_Adult.description>Она ходила по трущобам, исцеляя тех, которых никто не хотел трогать. Люди молятся ей почти так же, как и Солнцу.</LotM_Boss_AureliaSolmont_Adult.description>
+  <LotM_Boss_LucanAshgrave_Child.title>сын могильщика</LotM_Boss_LucanAshgrave_Child.title>
+  <LotM_Boss_LucanAshgrave_Child.titleShort>кладник</LotM_Boss_LucanAshgrave_Child.titleShort>
+  <LotM_Boss_LucanAshgrave_Child.description>[PAWN_nameDef] копал могилы рядом с [PAWN_possessive] отцом на окраине кладбища. Так [PAWN_pronoun] научился, что ночь не страшна.</LotM_Boss_LucanAshgrave_Child.description>
+  <LotM_Boss_LucanAshgrave_Adult.title>хранитель сокрытия</LotM_Boss_LucanAshgrave_Adult.title>
+  <LotM_Boss_LucanAshgrave_Adult.titleShort>страж</LotM_Boss_LucanAshgrave_Adult.titleShort>
+  <LotM_Boss_LucanAshgrave_Adult.description>Он служит Богине Вечной Ночи, скрывая то, что не должно быть увидено. Он уже похоронил почти всех, кого когда-либо знал.</LotM_Boss_LucanAshgrave_Adult.description>
+  <LotM_Boss_IsoldeVarne_Child.title>въеводческий сирота</LotM_Boss_IsoldeVarne_Child.title>
+  <LotM_Boss_IsoldeVarne_Child.titleShort>сирота</LotM_Boss_IsoldeVarne_Child.titleShort>
+  <LotM_Boss_IsoldeVarne_Child.description>[PAWN_nameDef] выросла в Божественном монастыре Вечной Ночи, среди молитв, произносимых в темноте.</LotM_Boss_IsoldeVarne_Child.description>
+  <LotM_Boss_IsoldeVarne_Adult.title>дама вуали</LotM_Boss_IsoldeVarne_Adult.title>
+  <LotM_Boss_IsoldeVarne_Adult.titleShort>дама</LotM_Boss_IsoldeVarne_Adult.titleShort>
+  <LotM_Boss_IsoldeVarne_Adult.description>Она мало говорит и навсегда усыпляет своих врагов. Говорят, Богиня шепчет секреты ей на ухо.</LotM_Boss_IsoldeVarne_Adult.description>
+  <LotM_Boss_CorvinHale_Child.title>ребенок на доке</LotM_Boss_CorvinHale_Child.title>
+  <LotM_Boss_CorvinHale_Child.titleShort>карманник</LotM_Boss_CorvinHale_Child.titleShort>
+  <LotM_Boss_CorvinHale_Child.description>[PAWN_nameDef] ночью воровал на доках, пока Ночной ястреб не поймал [PAWN_objective] и не нанял [PAWN_objective].</LotM_Boss_CorvinHale_Child.description>
+  <LotM_Boss_CorvinHale_Adult.title>ночной ястреб</LotM_Boss_CorvinHale_Adult.title>
+  <LotM_Boss_CorvinHale_Adult.titleShort>ночной ястреб</LotM_Boss_CorvinHale_Adult.titleShort>
+  <LotM_Boss_CorvinHale_Adult.description>Самая младшая из слуг Богини. Он все еще охотится, как будто у него есть что доказать.</LotM_Boss_CorvinHale_Adult.description>
+  <LotM_Boss_Sasrir_Child.title>ребенок забытой эпохи</LotM_Boss_Sasrir_Child.title>
+  <LotM_Boss_Sasrir_Child.titleShort>забытый</LotM_Boss_Sasrir_Child.titleShort>
+  <LotM_Boss_Sasrir_Child.description>[PAWN_nameDef] родился в эпохе настолько древней, что никто больше не помнит истинного имени [PAWN_possessive].</LotM_Boss_Sasrir_Child.description>
+  <LotM_Boss_Sasrir_Adult.title>злой дух</LotM_Boss_Sasrir_Adult.title>
+  <LotM_Boss_Sasrir_Adult.titleShort>злой дух</LotM_Boss_Sasrir_Adult.titleShort>
+  <LotM_Boss_Sasrir_Adult.description>[PAWN_possessive] тень и руки имеют свою волю. [PAWN_pronoun] портит того, кто слушает обещания [PAWN_possessive], и не хранит ни одного из них.</LotM_Boss_Sasrir_Adult.description>
+  <LotM_Boss_HesterVauclain_Child.title>дочь хирурга</LotM_Boss_HesterVauclain_Child.title>
+  <LotM_Boss_HesterVauclain_Child.titleShort>ученик</LotM_Boss_HesterVauclain_Child.titleShort>
+  <LotM_Boss_HesterVauclain_Child.description>[PAWN_nameDef] помог [PAWN_possessive] отцу зашивать раны и открывать трупы для изучения.</LotM_Boss_HesterVauclain_Child.description>
+  <LotM_Boss_HesterVauclain_Adult.title>мать плоти</LotM_Boss_HesterVauclain_Adult.title>
+  <LotM_Boss_HesterVauclain_Adult.titleShort>мать</LotM_Boss_HesterVauclain_Adult.titleShort>
+  <LotM_Boss_HesterVauclain_Adult.description>Она переделывает тела так же, как другие чинят одежду. Её верные охотно отдают свою кровь.</LotM_Boss_HesterVauclain_Adult.description>
+  <LotM_Boss_OswinGrall_Child.title>мальчик из мясокомбината</LotM_Boss_OswinGrall_Child.title>
+  <LotM_Boss_OswinGrall_Child.titleShort>мясник</LotM_Boss_OswinGrall_Child.titleShort>
+  <LotM_Boss_OswinGrall_Child.description>[PAWN_nameDef] вырос на бойне. Запах крови никогда не беспокоил [PAWN_objective].</LotM_Boss_OswinGrall_Child.description>
+  <LotM_Boss_OswinGrall_Adult.title>нечестивый мясник</LotM_Boss_OswinGrall_Adult.title>
+  <LotM_Boss_OswinGrall_Adult.titleShort>повар</LotM_Boss_OswinGrall_Adult.titleShort>
+  <LotM_Boss_OswinGrall_Adult.description>Он проповедует слово Истинного Творца с ножом в руке.</LotM_Boss_OswinGrall_Adult.description>
+  <LotM_Boss_BethelAbraham_Child.title>наследник Авраама</LotM_Boss_BethelAbraham_Child.title>
+  <LotM_Boss_BethelAbraham_Child.titleShort>наследник</LotM_Boss_BethelAbraham_Child.titleShort>
+  <LotM_Boss_BethelAbraham_Child.description>[PAWN_nameDef] родился в семье Абрахам, семье пути Двери, в Четвёртой Эпохе.</LotM_Boss_BethelAbraham_Child.description>
+  <LotM_Boss_BethelAbraham_Adult.title>мистер Дверь</LotM_Boss_BethelAbraham_Adult.title>
+  <LotM_Boss_BethelAbraham_Adult.titleShort>мистер Дверь</LotM_Boss_BethelAbraham_Adult.titleShort>
+  <LotM_Boss_BethelAbraham_Adult.description>Полный Король ангелов Двери, запечатанный в звёздах давным-давно. Печать стоила ему рассудка: он лишь повторяет, что кто-то должен открыть ему дверь.</LotM_Boss_BethelAbraham_Adult.description>
+  <LotM_Boss_GodSun_Child.title>осколок солнца</LotM_Boss_GodSun_Child.title>
+  <LotM_Boss_GodSun_Child.titleShort>осколок</LotM_Boss_GodSun_Child.titleShort>
+  <LotM_Boss_GodSun_Child.description>[PAWN_nameDef] родился из части Древнего Бога Солнца, который отказался выйти.</LotM_Boss_GodSun_Child.description>
+  <LotM_Boss_GodSun_Adult.title>Вечно Пылающее Солнце</LotM_Boss_GodSun_Adult.title>
+  <LotM_Boss_GodSun_Adult.titleShort>Солнце</LotM_Boss_GodSun_Adult.titleShort>
+  <LotM_Boss_GodSun_Adult.description>Бог света, порядка и очищения. [PAWN_possessive] верные поют [PAWN_objective], и [PAWN_pronoun] слушает тех, кто поёт хорошо.</LotM_Boss_GodSun_Adult.description>
+  <LotM_Boss_GodDarkness_Child.title>дочь ночи</LotM_Boss_GodDarkness_Child.title>
+  <LotM_Boss_GodDarkness_Child.titleShort>ночь</LotM_Boss_GodDarkness_Child.titleShort>
+  <LotM_Boss_GodDarkness_Child.description>Никто не знает, откуда появился [PAWN_nameDef]: однажды тьма обрела облик.</LotM_Boss_GodDarkness_Child.description>
+  <LotM_Boss_GodDarkness_Adult.title>Богиня Вечной Ночи</LotM_Boss_GodDarkness_Adult.title>
+  <LotM_Boss_GodDarkness_Adult.titleShort>богиня</LotM_Boss_GodDarkness_Adult.titleShort>
+  <LotM_Boss_GodDarkness_Adult.description>Леди тьмы, тишины и покоя. Она следит за сном своих и скрывает то, что не должно запоминаться.</LotM_Boss_GodDarkness_Adult.description>
+  <LotM_Boss_GodHangedMan_Child.title>тень Творца</LotM_Boss_GodHangedMan_Child.title>
+  <LotM_Boss_GodHangedMan_Child.titleShort>тень</LotM_Boss_GodHangedMan_Child.titleShort>
+  <LotM_Boss_GodHangedMan_Child.description>[PAWN_nameDef] родился из падшей половины древнего Творца, половины, оставшейся висеть в темноте.</LotM_Boss_GodHangedMan_Child.description>
+  <LotM_Boss_GodHangedMan_Adult.title>Истинный Творец</LotM_Boss_GodHangedMan_Adult.title>
+  <LotM_Boss_GodHangedMan_Adult.titleShort>Творец</LotM_Boss_GodHangedMan_Adult.titleShort>
+  <LotM_Boss_GodHangedMan_Adult.description>[PAWN_pronoun] заявляет, что является единственным истинным Творцом. [PAWN_pronoun] обещает новый мир и строит его из плоти, крови и разложения.</LotM_Boss_GodHangedMan_Adult.description>
+  <LotM_Boss_GodGiant_Child.title>сын гигантов</LotM_Boss_GodGiant_Child.title>
+  <LotM_Boss_GodGiant_Child.titleShort>гигант</LotM_Boss_GodGiant_Child.titleShort>
+  <LotM_Boss_GodGiant_Child.description>[PAWN_nameDef] родился среди гигантов, когда гиганты ещё властвовали над землёй.</LotM_Boss_GodGiant_Child.description>
+  <LotM_Boss_GodGiant_Adult.title>Бог боя</LotM_Boss_GodGiant_Adult.title>
+  <LotM_Boss_GodGiant_Adult.titleShort>Бог боя</LotM_Boss_GodGiant_Adult.titleShort>
+  <LotM_Boss_GodGiant_Adult.description>Гигант, принёсший войну в Сумерки. Он уважает только тех, кто противостоит ему, и берёт дань с тех, кто проигрывает.</LotM_Boss_GodGiant_Adult.description>
+  <LotM_Boss_GodAbyss_Child.title>дитя Бездны</LotM_Boss_GodAbyss_Child.title>
+  <LotM_Boss_GodAbyss_Child.titleShort>бездна</LotM_Boss_GodAbyss_Child.titleShort>
+  <LotM_Boss_GodAbyss_Child.description>Никто не помнит [PAWN_nameDef] до Бездны. Некоторые говорят, что [PAWN_pronoun] родился из первой злобы в мире; другие, что [PAWN_pronoun] всегда был там, ожидая в глубине каждого сердца.</LotM_Boss_GodAbyss_Child.description>
+  <LotM_Boss_GodAbyss_Adult.title>Бездна</LotM_Boss_GodAbyss_Adult.title>
+  <LotM_Boss_GodAbyss_Adult.titleShort>Бездна</LotM_Boss_GodAbyss_Adult.titleShort>
+  <LotM_Boss_GodAbyss_Adult.description>Бог дегенерации, грязи и желания. [PAWN_possessive] Секта освящает кровь, и [PAWN_possessive] три демонические семьи живут как короли на [PAWN_possessive] стороне, в глубине Бездны.</LotM_Boss_GodAbyss_Adult.description>
+</LanguageData>

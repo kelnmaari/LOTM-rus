@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_HunterSpiritVision.label>духовное зрение</LotM_HunterSpiritVision.label>
+  <LotM_HunterSpiritVision.description>Переключатель: открывает Духовное зрение. Охотник должен сначала научиться этому через Созерцание, и это почти никогда не работает с первого раза (каждая неудачная попытка приближает следующую); как только это работает, он получает это. Он видит только Эфирное Тело и слабые духи. От Провокатора на нем открывается жестом без промаха, а от Пироманатика на нем — полное Духовное зрение. Потребляет духовность в час.</LotM_HunterSpiritVision.description>
+  <LotM_HunterKeenSenses.label>острые чувства</LotM_HunterKeenSenses.label>
+  <LotM_HunterKeenSenses.description>Фокусируется: на два часа их зрение, слух и обоняние достигают намного, намного дальше. Они лучше нацеливаются и обнаруживают тех, кто прячется или невидим, в пределах 22 клеток (более высокие Последовательности могут оставаться скрытыми).</LotM_HunterKeenSenses.description>
+  <LotM_HunterTrack.label>следить за добычей</LotM_HunterTrack.label>
+  <LotM_HunterTrack.description>Читает их следы, их запах и вес шагов: в течение дня они знают, где находится цель (она не может прятаться или становиться невидимой) и бьют ее немного сильнее. Достигает любого на карте, даже невидимого.</LotM_HunterTrack.description>
+  <LotM_HunterImprovisedTrap.label>импровизированная ловушка</LotM_HunterImprovisedTrap.label>
+  <LotM_HunterImprovisedTrap.description>Находит правильное место и за секунды настраивает скрытую ловушку с тем, что есть под рукой: шипами или взрывчаткой. Враги не могут её увидеть. Она длится три дня, и они могут иметь четыре одновременно (самая старая обезврежена). Враг, попавший в их ловушки, усваивает зелье.</LotM_HunterImprovisedTrap.description>
+  <LotM_HunterNaturalTrap.label>естественная ловушка</LotM_HunterNaturalTrap.label>
+  <LotM_HunterNaturalTrap.description>Использует местность в качестве ловушки. Под крышей из камня она обрушивает крышу на месте. На открытой местности она превращает её во зыбучий песок на некоторое время: враги, которые в него входят, застревают на несколько секунд, а затем очень медленно двигаются.</LotM_HunterNaturalTrap.description>
+  <LotM_HunterPoison.label>Ядовитое отравление охотника</LotM_HunterPoison.label>
+  <LotM_HunterPoison.description>Смазывает свое оружие ядом из растений и животных органов: в течение трех часов каждый удар или выстрел вводит токсины и яд, который ранит и мешает.</LotM_HunterPoison.description>
+  <LotM_HunterHemostatic.label>Полевое гемостатическое</LotM_HunterHemostatic.label>
+  <LotM_HunterHemostatic.description>С помощью трав и всего, что они находят, останавливает кровотечение всех ран кого-либо (или своего) без использования лекарств.</LotM_HunterHemostatic.description>
+  <LotM_HunterProvoke.label>провоцировать</LotM_HunterProvoke.label>
+  <LotM_HunterProvoke.description>Оскорбляет и унижает их там, где это больно больше всего: они теряют самообладание и бросаются в ближний бой с Провокатором, не укрываясь и целясь хуже. Потусторонний иногда теряет контроль на некоторое время. Звери и монстры провоцируются их аурой. Более высокие Последовательности могут сопротивляться. Только провокация усваивает мало: она усваивается, когда провоцированный умирает или попадает в ловушку, и больше, если это кто-то сильнее.</LotM_HunterProvoke.description>
+  <LotM_HunterMassProvoke.label>Массовое провоцирование</LotM_HunterMassProvoke.label>
+  <LotM_HunterMassProvoke.description>Более грубое провоцирование, для всех, кто рядом с кем-то (7 клеток): они теряют самообладание и нападают на Провокатора. Это длится меньше и срабатывает реже, чем специально подобранное провоцирование. Полезно для ведения набега в ловушки.</LotM_HunterMassProvoke.description>
+  <LotM_HunterRepugnantAura.label>отвратительная аура</LotM_HunterRepugnantAura.label>
+  <LotM_HunterRepugnantAura.description>Излучает отвратительную ауру, которая провоцирует конфликт: звери, монстры, сущности и Потусторонние, потерявшие контроль в пределах 15 клеток, идут за Провокатором. Полезно для приманки туда, куда они хотят.</LotM_HunterRepugnantAura.description>
+  <LotM_HunterFireball.label>Огненный шар</LotM_HunterFireball.label>
+  <LotM_HunterFireball.description>Бросают компактный багровый огненный шар, который взрывается и разжигает всё вокруг. Если сначала сжать пламя, оно будет намного сильнее.</LotM_HunterFireball.description>
+  <LotM_HunterCompress.label>Сжать пламя</LotM_HunterCompress.label>
+  <LotM_HunterCompress.description>Сжимает пламя в руке: чем дольше они их собирают, тем сильнее следующий огненный удар (до удвоения примерно за пять секунд; Заговорщик справляется за два, Жнец — за полсекунды). Если не используется, они рассеиваются.</LotM_HunterCompress.description>
+  <LotM_HunterFireArmor.label>огненная броня</LotM_HunterFireArmor.label>
+  <LotM_HunterFireArmor.description>Переключатель: покрывают себя слоем пламени, которое всё ещё позволяет им дышать. Это защищает их от ударов, холода, газов и яда в воздухе, и сжигает того, кто наносит им удар в ближнем бою. Потребляет духовность в час.</LotM_HunterFireArmor.description>
+  <LotM_HunterFlameWeapon.label>Огненное оружие</LotM_HunterFlameWeapon.label>
+  <LotM_HunterFlameWeapon.description>Переключатель: призывает огнестрельное оружие в своей руке, которое сжигает, режет и пронзает. Как Пироманьяк, оно не имеет твердой формы и не может использоваться для парирования; от Конспиратора на нем получается твердый огненный хлыст или сабел, который может. Его удары вкладывают огонь в противника. Потребляет духовность в час.</LotM_HunterFlameWeapon.description>
+  <LotM_HunterEruption.label>извержение</LotM_HunterEruption.label>
+  <LotM_HunterEruption.description>Протягивает пламя вдоль земли вместо того, чтобы метать его, и заставляет его извергаться точно там, где они хотят (радиус 3 клетки).</LotM_HunterEruption.description>
+  <LotM_HunterFlameBomb.label>задержанная огневая бомба</LotM_HunterFlameBomb.label>
+  <LotM_HunterFlameBomb.description>На месте мгновенно создают бомбу огня и оставляют её: она взрывается через пять секунд (радиус 4 клетки). Идеально в сочетании с ловушками.</LotM_HunterFlameBomb.description>
+  <LotM_HunterFireEnchant.label>Огненное чарование</LotM_HunterFireEnchant.label>
+  <LotM_HunterFireEnchant.description>В течение трёх часов их оружие и пули несут огонь: каждый попадание сгорает, а против духов, призраков и сущностей оно удваивается (и достигает их даже невидимо).</LotM_HunterFireEnchant.description>
+  <LotM_HunterFireInfusion.label>Взорвать пропитанный огнем</LotM_HunterFireInfusion.label>
+  <LotM_HunterFireInfusion.description>Их ближние удары заставляют огонь идти внутрь врага, понемногу (до пяти раз). С этой силой они взрывают весь огонь, который они вложили в тех, кто находится в пределах 25 клеток.</LotM_HunterFireInfusion.description>
+  <LotM_HunterFireRavens.label>огненные вороны</LotM_HunterFireRavens.label>
+  <LotM_HunterFireRavens.description>Быстрое заклинание: три огненных ворона (пять от Конспиратора, семь от Жнеца за половину стоимости), которые летят к цели и к другим врагам рядом с ней, следуя за ними, даже если они двигаются.</LotM_HunterFireRavens.description>
+  <LotM_HunterWallOfFire.label>Стена огня</LotM_HunterWallOfFire.label>
+  <LotM_HunterWallOfFire.description>Быстрое заклинание: два огненных змея ползут к цели и поднимают кольцо огня вокруг нее, которое поддерживает себя некоторое время. Оно сжигает врагов, которые его пересекают или остаются внутри.</LotM_HunterWallOfFire.description>
+  <LotM_HunterBlazingSpear.label>Пылающий копье</LotM_HunterBlazingSpear.label>
+  <LotM_HunterBlazingSpear.description>Быстрое заклинание: копье белого огня. Оно бьёт сильнее огненного шара, но на меньшей площади: того, кого оно поражает, прибивают к земле на мгновение и сжигают изнутри.</LotM_HunterBlazingSpear.description>
+  <LotM_HunterGiantFireball.label>гигантский огненный шар</LotM_HunterGiantFireball.label>
+  <LotM_HunterGiantFireball.description>Быстрое заклинание: сжимает множество огненных шаров в один гигантский. Там, где он попадает, он взрывается с огромным радиусом (5 клеток) и охватывает всё огнем.</LotM_HunterGiantFireball.description>
+  <LotM_HunterQuench.label>Командовать пламенем</LotM_HunterQuench.label>
+  <LotM_HunterQuench.description>Оказывает свое минутное влияние на то, что горит поблизости: тушит любой огонь в пределах 10 клеток. (Даже без использования силы огонь не распространяется на вещи их колонии рядом с ними.)</LotM_HunterQuench.description>
+  <LotM_HunterIncite.label>подстрекать</LotM_HunterIncite.label>
+  <LotM_HunterIncite.description>Через разговор воспламеняет мысль или желание в сердце кого-то (до 25 клеток): драться, бежать, разрушать (только не врагов) или верить в ложь. Работает как Инстигация Инициатора: если работает, никто не знает, откуда это. Более высокие Последовательности могут сопротивляться.</LotM_HunterIncite.description>
+  <LotM_HunterLure.label>Заговор: отвлечение</LotM_HunterLure.label>
+  <LotM_HunterLure.description>С ложной информацией и сигналами ведет целую вражескую группу по карте в место, которое они выбирают (их ловушки, засада): они идут туда и сражаются снова только после прибытия, или если на них нападут. Выбирайте группу после пометки места. Если их лидер имеет более высокую Последовательность, они могут не поверить. Те, кто падает после того, как их вели туда, усваивают зелье.</LotM_HunterLure.description>
+  <LotM_HunterDecoy.label>заговор: приманка</LotM_HunterDecoy.label>
+  <LotM_HunterDecoy.description>Оставляют фигуру огня в своей форме на месте (до 15 клеток): в течение минуты враги стреляют в неё вместо них. Несколько попаданий гасят её.</LotM_HunterDecoy.description>
+  <LotM_HunterConfusion.label>заговор: замешательство</LotM_HunterConfusion.label>
+  <LotM_HunterConfusion.description>Сеет слухи и ложные сигналы: враги рядом с кем-то (6 клеток) теряют ориентацию или атакуют друг друга некоторое время. Более высокие Последовательности могут сопротивляться.</LotM_HunterConfusion.description>
+  <LotM_HunterTradeConspiracy.label>Заговор: торговец</LotM_HunterTradeConspiracy.label>
+  <LotM_HunterTradeConspiracy.description>Как Люмиан, они устраивают небольшую заговор вокруг торговца, чтобы выяснить, лгут ли они: в течение двенадцати часов Заговорщик ведёт себя намного лучше, и иногда торговец обнаруживает мистический предмет, который он прятал (один раз на торговца).</LotM_HunterTradeConspiracy.description>
+  <LotM_HunterFlameJump.label>огненная трансформация</LotM_HunterFlameJump.label>
+  <LotM_HunterFlameJump.description>Бросает огненное оружие, сливается с ним и появляется там, где оно приземлилось. Сначала достигает 10 клеток; после усвоения зелья — 25; от Ночного ястреба — 60. Забирает с собой кого-то, стоящего рядом (который, в отличие от них, слегка обгорает).</LotM_HunterFlameJump.description>
+  <LotM_HunterWeakness.label>расследование слабости</LotM_HunterWeakness.label>
+  <LotM_HunterWeakness.description>Обнаруживает слабости того, на что смотрят. На человеке, животном или духе: на один день их удары пробивают броню и наносят удар по жизненно важным точкам, достигая их даже если это дух или проекция. На стене, двери или щита: следующий удар наносит в четыре раза больше урона.</LotM_HunterWeakness.description>
+  <LotM_HunterCull.label>Сбор</LotM_HunterCull.label>
+  <LotM_HunterCull.description>Переключатель: каждый удар и каждый выстрел, попадающий, собирает жизнь цели, как будто поражая жизненно важную точку: он наносит дополнительный урон прямо жизненно важной части и по-настоящему ранит даже полубогов, духов и структуры. Три последовательных удара (в течение нескольких секунд) по одной и той же цели высвобождают огромный удар, еще больше, если они исследовали её слабость. Потребляет много духовности: немного в час и немного за каждый удар.</LotM_HunterCull.description>
+  <LotM_HunterCullWeather.label>уничтожение погоды</LotM_HunterCullWeather.label>
+  <LotM_HunterCullWeather.description>Исследует слабость погоды и атакует её с помощью Сбора: отсекает шторм, дождь, снег или туман на карте и заканчивает холодный сквозняк или волну жары, сухой грозой или катастрофическим метелью или засухой. Потребляет большое количество духовности.</LotM_HunterCullWeather.description>
+  <LotM_HunterSplitFireball.label>Разделить огненный шар</LotM_HunterSplitFireball.label>
+  <LotM_HunterSplitFireball.description>С точностью разделяет гигантский огненный шар на один маленький огненный шар для каждого врага в пределах 15 клеток от места (до тридцати), и каждый летит к своей цели.</LotM_HunterSplitFireball.description>
+  <LotM_HunterBurningFigure.label>сгорающая фигура</LotM_HunterBurningFigure.label>
+  <LotM_HunterBurningFigure.description>Призывает их пламя в горящую фигуру в их форме, которая движется и сражается минуту: враги атакуют её, и её удары сжигают.</LotM_HunterBurningFigure.description>
+  <LotM_HunterWeaponize.label>Вооружить</LotM_HunterWeaponize.label>
+  <LotM_HunterWeaponize.description>Превращает то, что он держит, в смертоносное оружие: на один день его удары и выстрелы наносят значительно больше урона.</LotM_HunterWeaponize.description>
+  <LotM_HunterHurl.label>Пушечная гиря</LotM_HunterHurl.label>
+  <LotM_HunterHurl.description>Хватает все, что у него поблизости (в пределах 3 клеток), превращает это в оружие, обматывает огненным шаром и бросает: оно бьет как пушечное ядро и взрывается. То, что бросили, тратится.</LotM_HunterHurl.description>
+  <LotM_HunterBombard.label>дистанционное бомбардирование</LotM_HunterBombard.label>
+  <LotM_HunterBombard.description>Запускает издалека вооруженный предмет, заряженный огнем, который продолжает ускоряться: он приземляется где угодно на карте, даже невидимо. Потребуется несколько секунд, чтобы прибыть, и его можно увидеть, так что он лучше всего работает против того, что не движется: он наносит тройной урон сооружениям.</LotM_HunterBombard.description>
+  <LotM_HunterRecruit.label>добавить в команду</LotM_HunterRecruit.label>
+  <LotM_HunterRecruit.description>Назначает одного из своих членов команды (до тридцати; пятьдесят от Военного Епископа). Если у них хорошее мнение о нем (+20), связь формируется мгновенно; иначе нужен ритуал: они должны провести рядом два часа. Команда следует за ними через скрытую связь: они просыпаются от опасности, сражаются лучше рядом с ними, дают им свою силу и делятся своим уроном. Охотник более высокой Последовательности не присоединяется к их команде. Используется на того, кто уже в ней, он его удаляет.</LotM_HunterRecruit.description>
+  <LotM_HunterConcentrate.label>Концентрировать силу</LotM_HunterConcentrate.label>
+  <LotM_HunterConcentrate.description>Концентрирует духовность и силу своей команды на себе: в течение минуты все их силы на 5% сильнее для каждого члена поблизости (до удвоения). Потусторонние в команде теряют духовность (которая передается им), а остальные устают.</LotM_HunterConcentrate.description>
+  <LotM_HunterAlleviation.label>облегчение</LotM_HunterAlleviation.label>
+  <LotM_HunterAlleviation.description>Переключатель: распределяет половину полученного урона среди своей команды (тех, кто на карте), а то, что поражает их разум (очарование, ужас, удовольствие, сбои), становится кратковременным оцепенением. Потребляет духовность в час.</LotM_HunterAlleviation.description>
+  <LotM_HunterGalvanize.label>Гальванизировать</LotM_HunterGalvanize.label>
+  <LotM_HunterGalvanize.description>Переключатель: превращает свое тело и свои пламя в сталь. Они гораздо лучше сопротивляются ударам, пулям и побоям (но не тому, что плавит сталь: огонь и жар действуют на них одинаково) и двигаются немного медленнее; их оружие из пламени становится железом. Потребляет духовность в час.</LotM_HunterGalvanize.description>
+  <LotM_HunterSwordPlant.label>вставленный меч</LotM_HunterSwordPlant.label>
+  <LotM_HunterSwordPlant.description>Призывает меч из голубо-белого огня и погружает его в землю: огненные шары взрываются волнами вокруг них (до 10 клеток), слой за слоем. Они достигают только врагов и их вещей.</LotM_HunterSwordPlant.description>
+  <LotM_HunterFlameBody.label>Тело пламени</LotM_HunterFlameBody.label>
+  <LotM_HunterFlameBody.description>Переключатель: зажигает всё своё тело и превращается в пламя. Они двигаются быстрее; большая часть физического урона, который они получают, истощает их духовность вместо здоровья (пока у них есть), и они исцеляются, поглощая близлежащие огни. Потребляет духовность в час.</LotM_HunterFlameBody.description>
+  <LotM_MythicalFormHunter.label>форма мифического существа</LotM_MythicalFormHunter.label>
+  <LotM_MythicalFormHunter.description>Они выпускают то, чем они являются: Катаклизмический Гигант, огромный, из горячей стали. Почти ничего не ранит его, он регенерирует за секунды, его удары огромны, и он сжигает врагов поблизости. Как Рыцарь с железной кровью, он неполноценен и толкает их к потере контроля; от Военного Епископа на нем он полон.
+
+Поддержание этой формы требует платы.</LotM_MythicalFormHunter.description>
+  <LotM_HunterWarSong.label>военная песня</LotM_HunterWarSong.label>
+  <LotM_HunterWarSong.description>Переключатель: поет о войне. Их собственные в пределах 25 клеток обретают мужество (они бьют, целится и выдерживают лучше), а ближайшие враги действуют хуже (они хуже целится и двигаются медленнее). Потребляет духовность в час.</LotM_HunterWarSong.description>
+  <LotM_HunterWarCry.label>боевой клич</LotM_HunterWarCry.label>
+  <LotM_HunterWarCry.description>Боевой клич, который достигает в пределах 13 клеток: он на короткое время оглушает врагов (слабые паникуют и убегают) и их собственное тело некоторое время не ощущает боли.</LotM_HunterWarCry.description>
+  <LotM_HunterFogOfWar.label>Туман войны</LotM_HunterFogOfWar.label>
+  <LotM_HunterFogOfWar.description>Поднимает Туман Войны (около 15 клеток, шесть часов; два одновременно). Враги внутри видят, слышат и нацеливаются намного хуже; их побеги (прыжки, телепорты, Мир духов) проваливаются, а их интуиция темнеет. Те, кто внутри и не враги, не могут быть найдены заклинаниями и прорицаниями извне. Туман не действует на них и на их самих.</LotM_HunterFogOfWar.description>
+  <LotM_HunterSacrifice.label>жертва</LotM_HunterSacrifice.label>
+  <LotM_HunterSacrifice.description>Предлагает Эссенцию Войны пленнику, поверженному врагу, человеческому трупу или 300 серебра (рядом с ним) и просит о помощи: багровое, капающее знамя на лбу (три дня: набор легче и работает по карте), силы Мага Погоды на один день (изменение и успокоение погоды, молниеносное дерево и ураган) или несколько лет жизни. Один раз за войну (без войны, каждые три дня). От Мага Погоды, один раз в неделю; вместо погоды они просят Заимствованное Покорение (день тёмно-фиолетовых пламен и марионеток в солдаты), а жертва в великой войне позволяет им действовать как Последовательность 1 некоторое время. Это не работает в местах, изолированных изнутри и снаружи, как Мир Зеркал.</LotM_HunterSacrifice.description>
+  <LotM_HunterTakePower.label>Сбор: взять силу</LotM_HunterTakePower.label>
+  <LotM_HunterTakePower.description>Собирает силу своей армии: использует силу Потустороннего кого-то из их команды (где угодно на карте) без спроса; в то время как другой теряет её. Это длится два часа, и они платят за это своей духовностью. Когда они дают свою силу кому-то, они не могут взять ни одной. Если они берут её у товарища-Демонесса, они сливаются: его огонь несёт чёрные пламя, и она может ставить его огненный меч.</LotM_HunterTakePower.description>
+  <LotM_HunterGivePower.label>Сбор: дать силу</LotM_HunterGivePower.label>
+  <LotM_HunterGivePower.description>Дарует кому-то из своей команды (в любом месте на карте) одну из своих способностей, с их силой, на два часа; они не могут использовать её в это время. Если получатель не Потусторонний, это оплачивается духовностью Епископа. Только один раз: пока кто-то держит одну из своих способностей, никто другой не может просить другую.</LotM_HunterGivePower.description>
+  <LotM_HunterCrowdControl.label>Контроль толпы</LotM_HunterCrowdControl.label>
+  <LotM_HunterCrowdControl.description>Переключатель: лучи света крови и ржавчины связывают их ближайшую команду (30 клеток). Общий щит поглощает выстрелы и взрывы для всех, пока не будет исчерпан (он медленно перезаряжается сам); оглушения едва пробиваются, и они сопротивляются всему, что сильнее бьёт по их разуму. Потребляет духовность в час.</LotM_HunterCrowdControl.description>
+  <LotM_HunterOrder.label>общение: приказ</LotM_HunterOrder.label>
+  <LotM_HunterOrder.description>Передает приказ по цепочке командования: вся их команда на карте мобилизуется и направляется на отмеченное место.</LotM_HunterOrder.description>
+  <LotM_HunterConceal.label>общение: сокрытие</LotM_HunterConceal.label>
+  <LotM_HunterConceal.description>Покрывает и изменяет то, что проходит через цепочку командования: на день они и вся их команда скрыты от прорицаний, проклятий и других сил, которые враги наносят им издалека. Полезно для заговоров.</LotM_HunterConceal.description>
+  <LotM_HunterRecruitFar.label>добавить в команду (баннер)</LotM_HunterRecruitFar.label>
+  <LotM_HunterRecruitFar.description>С багровым флагом Сути Войны на лбу: объявляет кого-то из своей команды где угодно на карте. Достаточно, чтобы они не думали о них плохо; иначе ритуал длится час, и им не нужно быть близко. Используется на ком-то, кто уже в нем, это удаляет его.</LotM_HunterRecruitFar.description>
+  <LotM_HunterWeatherChange.label>Погода: изменить погоду</LotM_HunterWeatherChange.label>
+  <LotM_HunterWeatherChange.description>Власть Погоды: меняет погоду в регионе на то, что они выбирают (ясная, дождь, гроза, густой туман, метель или день заморозка).</LotM_HunterWeatherChange.description>
+  <LotM_HunterWeatherCalm.label>Погода: спокойная</LotM_HunterWeatherCalm.label>
+  <LotM_HunterWeatherCalm.description>Власть погоды: рассеивает и успокаивает любую погоду, нормальную или экстремальную: небо проясняется и случаются холодные волны, волны жары, сухие бури, токсичные осадки, вулканическая зима и катастрофические погодные явления прекращаются.</LotM_HunterWeatherCalm.description>
+  <LotM_HunterLightningTree.label>Погода: грозовая гора</LotM_HunterLightningTree.label>
+  <LotM_HunterLightningTree.description>Направляет погоду, чтобы обрушить колоссальный разряд молнии, как серебряное дерево между небом и землей, который поражает всю область (6 клеток). Он не касается их самих. Если он падает на проливной дождь, вода распространяет его как серебряную паутину.</LotM_HunterLightningTree.description>
+  <LotM_HunterTorrent.label>Погода: проливной дождь</LotM_HunterTorrent.label>
+  <LotM_HunterTorrent.description>Направляет проливной дождь на область на три часа: вода замедляет врагов, которые в неё ступают. Молния, падающая туда после этого, электризует всю воду и причиняет боль всем в ней (ангелу едва ли).</LotM_HunterTorrent.description>
+  <LotM_HunterHurricane.label>Погода: ураган</LotM_HunterHurricane.label>
+  <LotM_HunterHurricane.description>Выпускает ураган по всей карте на час: ветер ранит и сбивает врагов на открытом воздухе и рвет слабые крыши вдали от их базы.</LotM_HunterHurricane.description>
+  <LotM_HunterMeteors.label>Погода: метеоры</LotM_HunterMeteors.label>
+  <LotM_HunterMeteors.description>Точно вызывая другие погодные явления, спускает некоторые метеориты на область: они падают по одному, их можно увидеть, как они приближаются, и они взрываются (они не касаются самих себя).</LotM_HunterMeteors.description>
+  <LotM_HunterTsunami.label>Погода: цунами</LotM_HunterTsunami.label>
+  <LotM_HunterTsunami.description>Только на карте с морем: ураган над морем поднимает волны выше десяти метров, которые смывают берег и наносят удар по врагам у воды.</LotM_HunterTsunami.description>
+  <LotM_HunterWindFlight.label>Летать на ветру</LotM_HunterWindFlight.label>
+  <LotM_HunterWindFlight.description>Летит по ветру в любую точку на карте.</LotM_HunterWindFlight.description>
+  <LotM_HunterShareWeather.label>Поделиться погодой</LotM_HunterShareWeather.label>
+  <LotM_HunterShareWeather.description>Делит свою власть над Погодой со всей своей командой на карте на два часа: каждый из них может вызвать молнию. Это погода, где взмах крыла бабочки заканчивается ураганом: чем больше делятся, тем больше разрядов и сильнее.</LotM_HunterShareWeather.description>
+  <LotM_HunterCallLightning.label>призвать молнию</LotM_HunterCallLightning.label>
+  <LotM_HunterCallLightning.description>Погода, разделяемая их Колдуном Погоды: вызывает молнию на месте. Чем больше команды разделяет погоду, тем больше ударов молний падает, и тем сильнее они становятся.</LotM_HunterCallLightning.description>
+  <LotM_HunterFireMeteorShower.label>ливни метеоров</LotM_HunterFireMeteorShower.label>
+  <LotM_HunterFireMeteorShower.description>Покрывает поле боя дождём огненных метеоритов (около 9 клеток вокруг места). Они не касаются самих себя.</LotM_HunterFireMeteorShower.description>
+  <LotM_HunterFlameKnight.label>рыцарь пламени</LotM_HunterFlameKnight.label>
+  <LotM_HunterFlameKnight.description>Сине-фиолетовые пламя вырываются из их тела и конденсируются в железную черную броню с символикой стали: в течение часа они являются бронированным рыцарем.</LotM_HunterFlameKnight.description>
+  <LotM_HunterFlameMeteor.label>метеорит</LotM_HunterFlameMeteor.label>
+  <LotM_HunterFlameMeteor.description>Становится огненным метеоритом: пересекает поле боя (в любом месте карты) и взрывается при приземлении, не касаясь их самих. Ускорение таким образом немного ранит их тело.</LotM_HunterFlameMeteor.description>
+  <LotM_HunterDescend.label>Нисхождение</LotM_HunterDescend.label>
+  <LotM_HunterDescend.description>Через молитвы их команды они спускаются прямо рядом с любым из них, даже на другой карте.</LotM_HunterDescend.description>
+  <LotM_HunterBombardFar.label>дальняя бомбардировка</LotM_HunterBombardFar.label>
+  <LotM_HunterBombardFar.description>Запускает оружие, заряженное огнем, которое летит со скоростью, превышающей несколько раз скорость звука, на другую открытую карту (другую базу, посещенное место): оно падает на врага или вражескую структуру там. Прибытие занимает время, и его можно увидеть приближающимся.</LotM_HunterBombardFar.description>
+  <LotM_HunterConquer.label>Завоевание: завоевать</LotM_HunterConquer.label>
+  <LotM_HunterConquer.description>Их воля порабощения: тело, разум и дух другого хотят подчиниться и выбирают подчиниться. Если это работает, они присоединяются к их стороне и остаются верными навсегда. Против Потустороннего Последовательность решает.</LotM_HunterConquer.description>
+  <LotM_HunterAwe.label>Завоевание: благоговение</LotM_HunterAwe.label>
+  <LotM_HunterAwe.description>Враги в радиусе 20 клеток чувствуют благоговение, которое лишает воли сопротивляться: они бегут или замирают на некоторое время.</LotM_HunterAwe.description>
+  <LotM_HunterControl.label>Завоевание: контроль</LotM_HunterControl.label>
+  <LotM_HunterControl.description>Покоряет волю кого-то и контролирует его тело: они сражаются на своей стороне около двух часов, а затем возвращаются к своей. Кого-то намного более слабого также можно приказать умереть.</LotM_HunterControl.description>
+  <LotM_HunterPuppetSoldiers.label>марионетки в солдат</LotM_HunterPuppetSoldiers.label>
+  <LotM_HunterPuppetSoldiers.description>Покоряет неживые предметы вокруг места (камни, дерево, трупы) и превращает их в солдат, которые сражаются за них около четырех часов; если их нет, они создаются из их пламени.</LotM_HunterPuppetSoldiers.description>
+  <LotM_HunterShareRank.label>Война: разделение ранга</LotM_HunterShareRank.label>
+  <LotM_HunterShareRank.description>Делит свой ранг со всей своей командой: в течение часа у них у всех есть все их силы. Это стоит огромного количества духовности (и еще больше за каждого члена).</LotM_HunterShareRank.description>
+  <LotM_HunterWarCommander.label>Война: военный командир</LotM_HunterWarCommander.label>
+  <LotM_HunterWarCommander.description>Формирует временную команду без ограничений: на один день все они и их союзники на карте считаются их командой.</LotM_HunterWarCommander.description>
+  <LotM_HunterSpear.label>Копье Разрушения</LotM_HunterSpear.label>
+  <LotM_HunterSpear.description>Сбор трансформирован: против одной цели или области. Даже не попав в слабость, он уничтожает многое; он проходит сквозь клонов, проекции и заменители и достигает истинного тела. При изученной слабости это смерть (кроме кого-то с более высокой Последовательностью).</LotM_HunterSpear.description>
+  <LotM_HunterBloodArmor.label>кровяная броня</LotM_HunterBloodArmor.label>
+  <LotM_HunterBloodArmor.description>Переключатель: гальванизирует их пламя в окровавленную, железо-черную броню, чья защита, физическая и мистическая, ненамного слабее Руки Бога. Потребляет духовность в час.</LotM_HunterBloodArmor.description>
+  <LotM_HunterVioletSword.label>меч фиолетового огня</LotM_HunterVioletSword.label>
+  <LotM_HunterVioletSword.description>Небо становится вихрем фиолетовых пламен, а через три секунды на месте падает колоссальный огненный меч (8 клеток). Он не затрагивает их самих.</LotM_HunterVioletSword.description>
+  <LotM_HunterFogSpear.label>туманное копье</LotM_HunterFogSpear.label>
+  <LotM_HunterFogSpear.description>Собирает туман в копье, которое взрывается фиолетовым пламенем на месте. Те, кто это видит, чувствуют, что стоят перед городом, окутанным туманом: близкие враги ошеломлены благоговением.</LotM_HunterFogSpear.description>
+  <LotM_HunterSelfSacrifice.label>пожертвовать собой</LotM_HunterSelfSacrifice.label>
+  <LotM_HunterSelfSacrifice.description>Последнее средство: они жертвуют собой. На минуту они действуют почти как бог и почти ничего их не ранит; затем они умирают.</LotM_HunterSelfSacrifice.description>
+</LanguageData>

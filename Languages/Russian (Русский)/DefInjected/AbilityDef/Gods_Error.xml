@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Apotheosis_Error.label>апофеоз</LotM_Apotheosis_Error.label>
+  <LotM_Apotheosis_Error.description>С тремя характеристиками Черви Времени и Уникальностью Ошибки внутри них, они начинают, на алтаре своего Святилища, ритуал превращения в Ошибку: во всем мире появляется лазейка. Это длится три дня, и весь мир придет, чтобы остановить это. Если они умрут, потеряют контроль, алтарь сломается или Святилище перестанет соответствовать требованиям, время сломается вокруг них.</LotM_Apotheosis_Error.description>
+  <LotM_ErrorDivineBug.label>создать ошибку</LotM_ErrorDivineBug.label>
+  <LotM_ErrorDivineBug.description>Создает ошибку в ком-то: целый день все идет не так для него (половина его сил не отвечает, его удары промахиваются, и то, что он делает, прерывается). Как только создано, почти невозможно удалить.</LotM_ErrorDivineBug.description>
+  <LotM_ErrorDivineFix.label>исправление ошибок</LotM_ErrorDivineFix.label>
+  <LotM_ErrorDivineFix.description>Исправляет ошибки кого-либо: всё плохое, что не является раной, исчезает (болезни, проклятия, печати, яды, безумие), а их раны заживают наполовину.</LotM_ErrorDivineFix.description>
+  <LotM_ErrorDivineLoophole.label>отделение от мира</LotM_ErrorDivineLoophole.label>
+  <LotM_ErrorDivineLoophole.description>Открывает лазейку и отделяется от реального мира: ничто в реальности не касается их, но они также не могут касаться ничего (нет атаки, нет работы). Это длится час или пока они снова не используют это.</LotM_ErrorDivineLoophole.description>
+  <LotM_ErrorDivineSwap.label>поменять на аватар</LotM_ErrorDivineSwap.label>
+  <LotM_ErrorDivineSwap.description>Заменяет ложное на настоящее: они меняются местами с одним из своих аватаров где бы он ни находился (на другой карте тоже). Почти ничего не может это прервать.</LotM_ErrorDivineSwap.description>
+  <LotM_ErrorDivineSubstitute.label>заменитель — оригинал</LotM_ErrorDivineSubstitute.label>
+  <LotM_ErrorDivineSubstitute.description>Создает ошибку сходства в заменителе кого-либо (марионетка, аватар, проекция): на один день весь ущерб, который получает заменитель, также принимается его владельцем.</LotM_ErrorDivineSubstitute.description>
+  <LotM_ErrorDivineDreamWalk.label>путешествие во снах</LotM_ErrorDivineDreamWalk.label>
+  <LotM_ErrorDivineDreamWalk.description>Находит лазейку в снах: они появляются рядом с любым, спящим на карте.</LotM_ErrorDivineDreamWalk.description>
+  <LotM_ErrorDivinePrayer.label>появляться рядом с верующими</LotM_ErrorDivinePrayer.label>
+  <LotM_ErrorDivinePrayer.description>Находит одного из своих, который молится им, и использует ошибку, чтобы появиться рядом с ним на любой карте.</LotM_ErrorDivinePrayer.description>
+  <LotM_ErrorDivineChildhood.label>украсть детство</LotM_ErrorDivineChildhood.label>
+  <LotM_ErrorDivineChildhood.description>Точно крадет детство и юность кого-то: ребенок мгновенно становится взрослым.</LotM_ErrorDivineChildhood.description>
+  <LotM_ErrorDivineSlumber.label>украсть вечный сон</LotM_ErrorDivineSlumber.label>
+  <LotM_ErrorDivineSlumber.description>Дарует врагу вечный сон: он засыпает и не просыпается, пока Ошибка не вернет его. На союзнике, спящем таким образом, она забирает его и будит.</LotM_ErrorDivineSlumber.description>
+  <LotM_ErrorDivineTimeStop.label>остановка времени</LotM_ErrorDivineTimeStop.label>
+  <LotM_ErrorDivineTimeStop.description>Останавливает время в большой области вокруг себя: все их враги застывают на несколько секунд.</LotM_ErrorDivineTimeStop.description>
+  <LotM_ErrorDivineStep.label>шаг сквозь пространство</LotM_ErrorDivineStep.label>
+  <LotM_ErrorDivineStep.description>Немного власти пространства: они мгновенно появляются где-то поблизости.</LotM_ErrorDivineStep.description>
+  <LotM_ErrorDivineKingdom.label>царство ошибки</LotM_ErrorDivineKingdom.label>
+  <LotM_ErrorDivineKingdom.description>Превращает карту в ошибочную среду, их Божественное царство, на один день (или пока они не используют его снова): силы их врагов иногда дают сбой или не отвечают, а их удары иногда уходят к одному из их собственных.</LotM_ErrorDivineKingdom.description>
+</LanguageData>

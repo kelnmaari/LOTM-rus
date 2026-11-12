@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_RogueBeyonders.label>изгнанные Потусторонние</LotM_RogueBeyonders.label>
+  <LotM_RogueBeyonders.fixedName>изгнанные Потусторонние</LotM_RogueBeyonders.fixedName>
+  <LotM_RogueBeyonders.description>Потусторонние без церкви или организации: бродяги, хитрые воры и безумцы, потерявшие дорогу. Они не ведут переговоры.</LotM_RogueBeyonders.description>
+  <LotM_RogueBeyonders.pawnSingular>изгнанный Потусторонний</LotM_RogueBeyonders.pawnSingular>
+  <LotM_RogueBeyonders.pawnsPlural>изгнанные Потусторонние</LotM_RogueBeyonders.pawnsPlural>
+  <LotM_RogueBeyonders.leaderTitle>глава секты</LotM_RogueBeyonders.leaderTitle>
+</LanguageData>

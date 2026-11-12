@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_Ointment_Lightning.jobString>Готовлю охотничий бальзам.</LotM_Make_Ointment_Lightning.jobString>
+  <LotM_Make_Ointment_Lightning.label>приготовить громовое бальзам</LotM_Make_Ointment_Lightning.label>
+  <LotM_Make_Ointment_Lightning.description>Смешивание травяной медицины с разобранным компонентом.</LotM_Make_Ointment_Lightning.description>
+  <LotM_Make_Ointment_Frost.jobString>Готовлю охотничий бальзам.</LotM_Make_Ointment_Frost.jobString>
+  <LotM_Make_Ointment_Frost.label>приготовление морозового бальзама</LotM_Make_Ointment_Frost.label>
+  <LotM_Make_Ointment_Frost.description>Смешивать травяное лекарство с нейтраламином.</LotM_Make_Ointment_Frost.description>
+  <LotM_Make_Ointment_Purifying.jobString>Готовлю охотничий бальзам.</LotM_Make_Ointment_Purifying.jobString>
+  <LotM_Make_Ointment_Purifying.label>приготовить очищающий бальзам</LotM_Make_Ointment_Purifying.label>
+  <LotM_Make_Ointment_Purifying.description>Смешивать травяное лекарство с молотым золотом.</LotM_Make_Ointment_Purifying.description>
+  <LotM_Make_Ointment_Fire.jobString>Готовлю охотничий бальзам.</LotM_Make_Ointment_Fire.jobString>
+  <LotM_Make_Ointment_Fire.label>приготовить огненное бальзам</LotM_Make_Ointment_Fire.label>
+  <LotM_Make_Ointment_Fire.description>Смешивать травяное лекарство с химтопливом.</LotM_Make_Ointment_Fire.description>
+  <LotM_Make_Ointment_Decay.jobString>Готовлю охотничий бальзам.</LotM_Make_Ointment_Decay.jobString>
+  <LotM_Make_Ointment_Decay.label>приготовить бальзам распада</LotM_Make_Ointment_Decay.label>
+  <LotM_Make_Ointment_Decay.description>Смешивание травяной медицины с насекомым желе.</LotM_Make_Ointment_Decay.description>
+  <LotM_Make_Ointment_Exorcism.jobString>Готовлю охотничий бальзам.</LotM_Make_Ointment_Exorcism.jobString>
+  <LotM_Make_Ointment_Exorcism.label>приготовить бальзам изгнания</LotM_Make_Ointment_Exorcism.label>
+  <LotM_Make_Ointment_Exorcism.description>Смешивание травяной медицины с серебром.</LotM_Make_Ointment_Exorcism.description>
+</LanguageData>

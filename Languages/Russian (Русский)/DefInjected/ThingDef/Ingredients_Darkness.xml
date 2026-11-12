@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Ing_SerpentFeather.description>Переливчатое перо летающего змея. Никто не знает, где он гнездится.</LotM_Ing_SerpentFeather.description>
+  <LotM_Ing_MidnightBeauty.label>цветок ночной красоты</LotM_Ing_MidnightBeauty.label>
+  <LotM_Ing_MidnightBeauty.description>Бледный цветок, который открывается только ночью и закрывается первым лучом солнечного света.</LotM_Ing_MidnightBeauty.description>
+  <LotM_Ing_AncientWellWater.label>вода древнего колодца</LotM_Ing_AncientWellWater.label>
+  <LotM_Ing_AncientWellWater.description>Вода, взятая из колодца, настолько старого, что никто не помнит, кто его копал. Она всегда холодная.</LotM_Ing_AncientWellWater.description>
+  <LotM_Ing_AgedLiquor.label>старый крепкий алкоголь</LotM_Ing_AgedLiquor.label>
+  <LotM_Ing_AgedLiquor.description>Напиток, способный разбудить мёртвых. Старые Ночные Ястребы пили его с кофе.</LotM_Ing_AgedLiquor.description>
+  <LotM_Ing_HowlerVocalCords.label>гортанные связки воя</LotM_Ing_HowlerVocalCords.label>
+  <LotM_Ing_HowlerVocalCords.description>Голосовые связки волка, который лаял на красную луну. Они всё ещё вибрируют сами по себе.</LotM_Ing_HowlerVocalCords.description>
+  <LotM_Ing_BellflowerSoil.label>почва колокольчика, ловящего души</LotM_Ing_BellflowerSoil.label>
+  <LotM_Ing_BellflowerSoil.description>Тёмная почва, откуда растёт колокольчик, притягивающий души. Приложив к уху, можно услышать далёкий звон колокола.</LotM_Ing_BellflowerSoil.description>
+  <LotM_Ing_CrimsonSandalwood.label>бальзам из красного сандала</LotM_Ing_CrimsonSandalwood.label>
+  <LotM_Ing_CrimsonSandalwood.description>Осколки сандалового цвета, как кровь. Его запах вызывает сонливость.</LotM_Ing_CrimsonSandalwood.description>
+  <LotM_Ing_NightmareShadow.label>тень кошмара</LotM_Ing_NightmareShadow.label>
+  <LotM_Ing_NightmareShadow.description>Концентрированная тень, извивающаяся внутри флакона. Ночью в ней можно увидеть фигуры.</LotM_Ing_NightmareShadow.description>
+  <LotM_Ing_SpiritMoonWater.label>вода луны Мира духов</LotM_Ing_SpiritMoonWater.label>
+  <LotM_Ing_SpiritMoonWater.description>Вода, в которой отражается багровый лунный свет Мира духов.</LotM_Ing_SpiritMoonWater.description>
+  <LotM_Ing_MoonflowerHydrosol.label>гидросол лунного цветка</LotM_Ing_MoonflowerHydrosol.label>
+  <LotM_Ing_MoonflowerHydrosol.description>Эссенция пустынного цветка, который распускается только под луной.</LotM_Ing_MoonflowerHydrosol.description>
+  <LotM_Ing_DeepSleeperSkull.label>череп экзотического глубокого спящего</LotM_Ing_DeepSleeperSkull.label>
+  <LotM_Ing_DeepSleeperSkull.description>Череп зверя, который спал месяцами. Тот, кто держит его, чувствует непреодолимую сонливость.</LotM_Ing_DeepSleeperSkull.description>
+  <LotM_Ing_HolyWater.label>святая вода</LotM_Ing_HolyWater.label>
+  <LotM_Ing_HolyWater.description>Вода, благословлённая Церковью Богини Вечной Ночи.</LotM_Ing_HolyWater.description>
+  <LotM_Ing_DeepSleepPowder.label>порошок цветка глубокого сна</LotM_Ing_DeepSleepPowder.label>
+  <LotM_Ing_DeepSleepPowder.description>Пыльца цветка, который растёт в холоде. Щепотка, и любой засыпает.</LotM_Ing_DeepSleepPowder.description>
+  <LotM_Ing_MadDreamSource.label>источник безумных снов</LotM_Ing_MadDreamSource.label>
+  <LotM_Ing_MadDreamSource.description>Орган, который бесконечно мечтает, взятый у зверя, который слишком долго спал.</LotM_Ing_MadDreamSource.description>
+  <LotM_Ing_SpiritNestGas.label>эффлюкс душевного гнезда</LotM_Ing_SpiritNestGas.label>
+  <LotM_Ing_SpiritNestGas.description>Бледный газ, просачивающийся из трещин, где собираются духи.</LotM_Ing_SpiritNestGas.description>
+  <LotM_Ing_FullMoonMilkTooth.label>зуб молока полной луны</LotM_Ing_FullMoonMilkTooth.label>
+  <LotM_Ing_FullMoonMilkTooth.description>Молочный зуб, выпавший в ночь полнолуния.</LotM_Ing_FullMoonMilkTooth.description>
+  <LotM_Ing_MoonGuardianHeart.label>сердце злого лунного стража</LotM_Ing_MoonGuardianHeart.label>
+  <LotM_Ing_MoonGuardianHeart.description>Сердце зверя, охранявшего злую луну. Оно медленно бьётся, даже спустя годы вне тела.</LotM_Ing_MoonGuardianHeart.description>
+  <LotM_Ing_DarkBrainContaminant.label>загрязнитель тёмного мозга</LotM_Ing_DarkBrainContaminant.label>
+  <LotM_Ing_DarkBrainContaminant.description>Чёрный осадок, который сочится из скалы в самых глубоких местах. Он окрашивает сны того, кто его касается.</LotM_Ing_DarkBrainContaminant.description>
+  <LotM_Ing_CrimsonTreeSap.label>красная древесная смола</LotM_Ing_CrimsonTreeSap.label>
+  <LotM_Ing_CrimsonTreeSap.description>Густая красная смола дерева, которую почти никто не видел.</LotM_Ing_CrimsonTreeSap.description>
+  <LotM_Ing_HowlingWolfSkull.label>череп воющего волка</LotM_Ing_HowlingWolfSkull.label>
+  <LotM_Ing_HowlingWolfSkull.description>Череп волка, который так долго выл в темноту, что тьма ответила. Далёкий вой всё ещё слышен.</LotM_Ing_HowlingWolfSkull.description>
+  <LotM_Ing_SupplicantPowder.label>остаточный порошок подношения из подземного мира</LotM_Ing_SupplicantPowder.label>
+  <LotM_Ing_SupplicantPowder.description>Серый порошок, оставленный чем-то, что молилось из подземного мира. Просто взгляд на него вызывает холод.</LotM_Ing_SupplicantPowder.description>
+  <LotM_Ing_TerrifiedSpirit.label>испуганный дух</LotM_Ing_TerrifiedSpirit.label>
+  <LotM_Ing_TerrifiedSpirit.description>Остаток духа существа, умершего в ужасе. Зелье требует девяти существ.</LotM_Ing_TerrifiedSpirit.description>
+  <LotM_Ing_DarkWolfPelt.label>шкура тёмного зверя</LotM_Ing_DarkWolfPelt.label>
+  <LotM_Ing_DarkWolfPelt.description>Шкура зверя, сделанного из ночи. Свет погружается в неё.</LotM_Ing_DarkWolfPelt.description>
+  <LotM_Ing_SecrecyWolfBlood.label>кровь секретного зверя</LotM_Ing_SecrecyWolfBlood.label>
+  <LotM_Ing_SecrecyWolfBlood.description>Чёрная кровь зверя тьмы, хранящего тайны. Тот, кто смотрит на неё, забывает, о чём думал.</LotM_Ing_SecrecyWolfBlood.description>
+  <LotM_Ing_SerpentFeather.label>перо змея</LotM_Ing_SerpentFeather.label>
+  <LotM_Ing_FateBlessing.label>написанное благословение судьбы</LotM_Ing_FateBlessing.label>
+  <LotM_Ing_FateBlessing.description>Лист бумаги с рукописной надписью «благословение судьбы». Буквы сами меняются, когда никто не смотрит.</LotM_Ing_FateBlessing.description>
+  <LotM_Ing_UnderworldAura.label>аура подземного мира</LotM_Ing_UnderworldAura.label>
+  <LotM_Ing_UnderworldAura.description>Фляга с небольшим количеством ауры подземного мира или Мира Сумерек. Внутри всегда ночь.</LotM_Ing_UnderworldAura.description>
+</LanguageData>

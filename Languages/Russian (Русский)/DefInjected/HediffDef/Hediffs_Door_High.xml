@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_TransfigurationHediff.label>трансформация</LotM_TransfigurationHediff.label>
+  <LotM_TransfigurationHediff.description>Они превратились в одну иллюзорную дверь за другой: почти каждый удар и выстрел попадает в дверь. Каждая сломанная дверь стоит духовности.</LotM_TransfigurationHediff.description>
+  <LotM_DoorSecret.label>сохранённая тайна</LotM_DoorSecret.label>
+  <LotM_DoorSecret.description>Их тайны хранятся: предсказание и мистическое отслеживание издалека не могут их найти.</LotM_DoorSecret.description>
+  <LotM_SpiritFracture.label>треснувшее духовное тело</LotM_SpiritFracture.label>
+  <LotM_SpiritFracture.description>Они отделили черви от своей мифической формы (или один из их аватаров распался): их духовное тело треснуло. Оно восстанавливается само по себе в течение дней. Если оно треснет полностью, они умирают.</LotM_SpiritFracture.description>
+  <LotM_SpiritFracture.stages.0.label>мягкий</LotM_SpiritFracture.stages.0.label>
+  <LotM_SpiritFracture.stages.1.label>тяжёлый</LotM_SpiritFracture.stages.1.label>
+  <LotM_SpiritFracture.stages.2.label>на грани разрушения</LotM_SpiritFracture.stages.2.label>
+  <LotM_BlinkFrenzy.label>быстрое моргание</LotM_BlinkFrenzy.label>
+  <LotM_BlinkFrenzy.description>Непрерывно моргает: пока это длится, их силы перезаряжаются в три раза быстрее благодаря их Червям Звёзд, и они лучше уклоняются от ментальных атак. Они не могут долго это поддерживать.</LotM_BlinkFrenzy.description>
+  <LotM_SpaceIntegrationHediff.label>интеграция пространства</LotM_SpaceIntegrationHediff.label>
+  <LotM_SpaceIntegrationHediff.description>Они слились с пространством: никто не видит их, пока они не атакуют, и холод, жар и токсины им ничего не делают.</LotM_SpaceIntegrationHediff.description>
+  <LotM_PositionSealed.label>запечатанная позиция</LotM_PositionSealed.label>
+  <LotM_PositionSealed.description>Ключ звёзд запечатал их положение: они не могут двигаться или сбежать куда-либо.</LotM_PositionSealed.description>
+  <LotM_StarSealed.label>запечатанный в звёздном свете</LotM_StarSealed.label>
+  <LotM_StarSealed.description>Иллюзорные двери звездного света слились с их телом: они не могут двигаться, использовать руки или трансформироваться.</LotM_StarSealed.description>
+  <LotM_DoorLost.label>потерянная позиция</LotM_DoorLost.label>
+  <LotM_DoorLost.description>Они потеряли своё положение: не находят никого и плохо наводят прицел.</LotM_DoorLost.description>
+  <LotM_EraseEnemyPosition.label>стереть позицию</LotM_EraseEnemyPosition.label>
+  <LotM_EraseEnemyPosition.description>Переключатель, Положение: враги, приближающиеся к ним, теряют позицию. Они сбиваются с толку, плохо целится и не находят никого.</LotM_EraseEnemyPosition.description>
+  <LotM_TimeSlowed.label>замедление времени</LotM_TimeSlowed.label>
+  <LotM_TimeSlowed.description>Гравитация замедляет их время: они двигаются намного медленнее.</LotM_TimeSlowed.description>
+  <LotM_FateLost.label>дезориентированная судьба</LotM_FateLost.label>
+  <LotM_FateLost.description>Они потеряли направление в Реке Судьбы: всё идет не так, они терпят неудачу в том, что пытаются, и спотыкаются.</LotM_FateLost.description>
+  <LotM_StarWard.label>амулет звезды</LotM_StarWard.label>
+  <LotM_StarWard.description>Червь Звезды охраняет их разум: следующий ментальный удар не достигает их.</LotM_StarWard.description>
+  <LotM_StarSealHearing.label>запечатанное слуховое восприятие</LotM_StarSealHearing.label>
+  <LotM_StarSealHearing.description>Их слух был запечатан звездным светом, в буквальном смысле и в мистическом.</LotM_StarSealHearing.description>
+  <LotM_StarSealSight.label>запечатанное зрение</LotM_StarSealSight.label>
+  <LotM_StarSealSight.description>Их зрение было запечатано звёздным светом, в буквальном смысле и мистическом.</LotM_StarSealSight.description>
+  <LotM_ConceptualizationHediff.label>концептуализация</LotM_ConceptualizationHediff.label>
+  <LotM_ConceptualizationHediff.description>Они стали Концептуальным Существом: набор символов, окрашенных звездным светом. Почти ничто не вредит им и не достигает их разума.</LotM_ConceptualizationHediff.description>
+  <LotM_MythicalForm_Door.label>дверь</LotM_MythicalForm_Door.label>
+  <LotM_MythicalForm_Door.description>Их мифическая форма: элегантная деревянная дверь с Червями Духами, вытекающими из-за неё. Почти ничего не причиняет ей вреда, она пересоздаётся за секунды, и враги, которые приближаются, теряют позицию.</LotM_MythicalForm_Door.description>
+  <LotM_MythicalForm_Door.comps.0.tools.0.label>Черви Духа</LotM_MythicalForm_Door.comps.0.tools.0.label>
+  <LotM_MythicalForm_Door.comps.0.tools.1.label>хлопок двери</LotM_MythicalForm_Door.comps.0.tools.1.label>
+  <LotM_MythicalForm_Door.stages.0.label>неполный</LotM_MythicalForm_Door.stages.0.label>
+  <LotM_MythicalForm_Door.stages.1.label>почти стабильно</LotM_MythicalForm_Door.stages.1.label>
+  <LotM_MythicalForm_Door.stages.2.label>полный</LotM_MythicalForm_Door.stages.2.label>
+</LanguageData>

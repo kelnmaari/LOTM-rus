@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_EvKidnap.label>похищение</LotM_EvKidnap.label>
+  <LotM_EvContainRequest.label>запрос на сдерживание</LotM_EvContainRequest.label>
+  <LotM_EvBounty.label>награда за разыскиваемого Потустороннего</LotM_EvBounty.label>
+  <LotM_EvRuins.label>руины Четвертой Эпохи</LotM_EvRuins.label>
+  <LotM_EvTomb.label>гробница полубога</LotM_EvTomb.label>
+  <LotM_EvAuction.label>подпочный аукцион</LotM_EvAuction.label>
+  <LotM_EvEscort.label>работа проводника</LotM_EvEscort.label>
+  <LotM_EvMysticPeddler.label>мистический торговец</LotM_EvMysticPeddler.label>
+</LanguageData>

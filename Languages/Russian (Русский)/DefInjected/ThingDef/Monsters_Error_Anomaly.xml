@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_A_LostMarauder.label>потерянный разбойник</LotM_A_LostMarauder.label>
+  <LotM_A_LostMarauder.description>Разбойник, потерявший контроль. Он вырывает оружие из рук того, кто подходит близко, и бросает его далеко.</LotM_A_LostMarauder.description>
+  <LotM_A_LostMarauder.tools.0.label>Когти</LotM_A_LostMarauder.tools.0.label>
+  <LotM_A_LostMarauder.tools.1.label>укус</LotM_A_LostMarauder.tools.1.label>
+  <LotM_A_LostSwindler.label>потерянный мошенник</LotM_A_LostSwindler.label>
+  <LotM_A_LostSwindler.description>Мошенник, потерявший контроль. Его бормотание заставляет людей видеть то, чего нет.</LotM_A_LostSwindler.description>
+  <LotM_A_LostSwindler.tools.0.label>щупальца</LotM_A_LostSwindler.tools.0.label>
+  <LotM_A_LostSwindler.tools.1.label>укус</LotM_A_LostSwindler.tools.1.label>
+  <LotM_A_LostCryptologist.label>потерянный криптолог</LotM_A_LostCryptologist.label>
+  <LotM_A_LostCryptologist.description>Криптолог, потерявший контроль. Его глаза превратились в кристаллы, и он видит всё, что скрыто у всех.</LotM_A_LostCryptologist.description>
+  <LotM_A_LostCryptologist.tools.0.label>Когти</LotM_A_LostCryptologist.tools.0.label>
+  <LotM_A_LostCryptologist.tools.1.label>укус</LotM_A_LostCryptologist.tools.1.label>
+  <LotM_A_LostPrometheus.label>потерянный Прометей</LotM_A_LostPrometheus.label>
+  <LotM_A_LostPrometheus.description>Прометей, потерявший контроль. Он вырывает силы у Потусторонних рядом с ним.</LotM_A_LostPrometheus.description>
+  <LotM_A_LostPrometheus.tools.0.label>Когти</LotM_A_LostPrometheus.tools.0.label>
+  <LotM_A_LostPrometheus.tools.1.label>укус</LotM_A_LostPrometheus.tools.1.label>
+  <LotM_A_LostDreamStealer.label>потерянный похититель снов</LotM_A_LostDreamStealer.label>
+  <LotM_A_LostDreamStealer.description>Похититель снов, потерявший контроль. Он крадёт у всех то, что они собирались сделать.</LotM_A_LostDreamStealer.description>
+  <LotM_A_LostDreamStealer.tools.0.label>Когти</LotM_A_LostDreamStealer.tools.0.label>
+  <LotM_A_LostDreamStealer.tools.1.label>укус</LotM_A_LostDreamStealer.tools.1.label>
+  <LotM_A_LostParasite.label>потерянный паразит</LotM_A_LostParasite.label>
+  <LotM_A_LostParasite.description>Паразит, потерявший контроль: масса Червей Времени, сформированная в виде зверя. Он появляется рядом с тем, кого хочет, и вырывает оружие у всех вокруг.</LotM_A_LostParasite.description>
+  <LotM_A_LostParasite.tools.0.label>Когти</LotM_A_LostParasite.tools.0.label>
+  <LotM_A_LostParasite.tools.1.label>черви</LotM_A_LostParasite.tools.1.label>
+  <LotM_A_LostMentorOfDeceit.label>потерянный наставник обмана</LotM_A_LostMentorOfDeceit.label>
+  <LotM_A_LostMentorOfDeceit.description>Наставник обмана, который потерял контроль: огромный зверь, завернутый в грибные саваны. Кто бы ни посмотрел на него, убеждается, что находится на неправильной стороне.</LotM_A_LostMentorOfDeceit.description>
+  <LotM_A_LostMentorOfDeceit.tools.0.label>Когти</LotM_A_LostMentorOfDeceit.tools.0.label>
+  <LotM_A_LostMentorOfDeceit.tools.1.label>черви</LotM_A_LostMentorOfDeceit.tools.1.label>
+  <LotM_A_LostTrojanHorse.label>потерянный троянский конь</LotM_A_LostTrojanHorse.label>
+  <LotM_A_LostTrojanHorse.description>Троянский конь Судьбы, который потерял контроль: гигантский червь Времени, медно-цветный. Он вносит ошибки в судьбу всех, кто находится рядом с ним.</LotM_A_LostTrojanHorse.description>
+  <LotM_A_LostTrojanHorse.tools.0.label>Когти</LotM_A_LostTrojanHorse.tools.0.label>
+  <LotM_A_LostTrojanHorse.tools.1.label>Черви Времени</LotM_A_LostTrojanHorse.tools.1.label>
+  <LotM_A_LostWormOfTime.label>потерянный червь времени</LotM_A_LostWormOfTime.label>
+  <LotM_A_LostWormOfTime.description>Червь Времени, который потерял контроль: гигантский рой двенадцатикольцевых червей в форме зверя. Он крадет годы и время у всех, кто находится рядом с ним.</LotM_A_LostWormOfTime.description>
+  <LotM_A_LostWormOfTime.tools.0.label>Когти</LotM_A_LostWormOfTime.tools.0.label>
+  <LotM_A_LostWormOfTime.tools.1.label>Черви Времени</LotM_A_LostWormOfTime.tools.1.label>
+</LanguageData>

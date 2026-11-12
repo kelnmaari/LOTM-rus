@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_SinBearingHediff.label>козел отпущения</LotM_SinBearingHediff.label>
+  <LotM_SinBearingHediff.description>Он несёт грехи своего народа: он принимает урон, предназначенный для его ближайших союзников, а враги ищут его вместо него.</LotM_SinBearingHediff.description>
+  <LotM_CreatorDepravity.label>деградация</LotM_CreatorDepravity.label>
+  <LotM_CreatorDepravity.description>Они тонут в порочности теней Истинного Творца. Если она наполняется, они становятся одним из его испорченных монстров. Если её не питает ничего, она медленно угасает.</LotM_CreatorDepravity.description>
+  <LotM_CreatorDepravity.stages.0.label>мягкий</LotM_CreatorDepravity.stages.0.label>
+  <LotM_CreatorDepravity.stages.1.label>глубокий</LotM_CreatorDepravity.stages.1.label>
+  <LotM_ShadowOnBack.label>тень на спине</LotM_ShadowOnBack.label>
+  <LotM_ShadowOnBack.description>Тень, цепляющаяся за их спину, и другие, поднимающиеся из их разума и меняющие их: их дегенеративная природа. За исключением высоких Последовательностей, они превращаются в испорченный монстр Истинного Творца.</LotM_ShadowOnBack.description>
+  <LotM_ShadowOnBack.stages.1.label>переформирование</LotM_ShadowOnBack.stages.1.label>
+  <LotM_CreatorSeed.label>семя</LotM_CreatorSeed.label>
+  <LotM_CreatorSeed.description>Семена Истинного Творца слились с их духовным телом. Почти невозможно очистить, и каждые несколько дней оно искажает их разум и судьбу.</LotM_CreatorSeed.description>
+  <LotM_Mutated.label>мутировавший</LotM_Mutated.label>
+  <LotM_Mutated.description>Их плоть мутировала: они деформированы и с трудом двигаются и используют руки.</LotM_Mutated.description>
+  <LotM_SacrificeSpent.label>пожертвованный</LotM_SacrificeSpent.label>
+  <LotM_SacrificeSpent.description>Он пожертвовал собой, чтобы обеспечить абсолютную надежду для своего народа: он сломлен и не может действовать.</LotM_SacrificeSpent.description>
+  <LotM_AbsoluteHope.label>абсолютная надежда</LotM_AbsoluteHope.label>
+  <LotM_AbsoluteHope.description>Их бог пожертвовал собой ради них: ни страх, ни сомнение не могут их достичь.</LotM_AbsoluteHope.description>
+  <LotM_FleshRevenant.label>плоть Творца</LotM_FleshRevenant.label>
+  <LotM_FleshRevenant.description>Плоть Истинного Творца: когда её убивают, она снова поднимается.</LotM_FleshRevenant.description>
+</LanguageData>

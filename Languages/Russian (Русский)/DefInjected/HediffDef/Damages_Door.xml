@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_DoorRendInjury.label>открытие</LotM_DoorRendInjury.label>
+  <LotM_DoorRendInjury.labelNoun>отверстие</LotM_DoorRendInjury.labelNoun>
+  <LotM_DoorRendInjury.description>Плоть открылась, как дверь, с гладкими, глубокими краями. Она сильно кровоточит.</LotM_DoorRendInjury.description>
+  <LotM_DoorRendInjury.comps.0.labelTendedWell>перевязанный</LotM_DoorRendInjury.comps.0.labelTendedWell>
+  <LotM_DoorRendInjury.comps.0.labelTendedWellInner>сшитый</LotM_DoorRendInjury.comps.0.labelTendedWellInner>
+  <LotM_DoorRendInjury.comps.0.labelSolidTendedWell>леченный</LotM_DoorRendInjury.comps.0.labelSolidTendedWell>
+  <LotM_DoorRendInjury.comps.2.permanentLabel>шрам отверстия</LotM_DoorRendInjury.comps.2.permanentLabel>
+  <LotM_DoorRendInjury.injuryProps.destroyedLabel>открыт как дверь</LotM_DoorRendInjury.injuryProps.destroyedLabel>
+  <LotM_DoorRendInjury.injuryProps.destroyedOutLabel>открыт как дверь</LotM_DoorRendInjury.injuryProps.destroyedOutLabel>
+</LanguageData>

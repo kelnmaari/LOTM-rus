@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Apotheosis_Door.label>апофеоз</LotM_Apotheosis_Door.label>
+  <LotM_Apotheosis_Door.description>С тремя характеристиками Ключа Звёзд и Уникальностью Двери внутри них (запечатывая склонность к слиянию, чтобы это не убило их), они начинают на алтаре своего Святилища ритуал превращения в Дверь: каждая дверь в мире открывается, и каждая печать ослабевает. Это длится три дня, и весь мир придёт, чтобы это остановить. Если они умирают, теряют контроль, алтарь ломается или Святилище перестаёт соответствовать требованиям, пространство вокруг них схлопывается.</LotM_Apotheosis_Door.description>
+  <LotM_DoorDivineOpenAll.label>открыть все двери</LotM_DoorDivineOpenAll.label>
+  <LotM_DoorDivineOpenAll.description>На один день все двери в мире открываются, а все печати ослабевают: двери их врагов остаются открытыми, а клетки, пространственные замки и печати на их людях ломаются.</LotM_DoorDivineOpenAll.description>
+  <LotM_DoorDivineCloseAll.label>закрыть все двери</LotM_DoorDivineCloseAll.label>
+  <LotM_DoorDivineCloseAll.description>На один день они закрывают всё, что связано с концепцией Двери: никто, кроме их людей, не открывает дверь, а их враги не могут телепортироваться или путешествовать через другие миры. Даже другой бог с трудом её ломает.</LotM_DoorDivineCloseAll.description>
+  <LotM_DoorDivineTravel.label>божественное путешествие</LotM_DoorDivineTravel.label>
+  <LotM_DoorDivineTravel.description>Перемещает того, кого хочет (и тех, кто прикасается к нему) куда угодно в мире, мгновенно. Они не покидают свой Святилище.</LotM_DoorDivineTravel.description>
+  <LotM_DoorDivineCollapse.label>коллапс пространства</LotM_DoorDivineCollapse.label>
+  <LotM_DoorDivineCollapse.description>На любом месте в мире: овал звёздного света и жест разрыва. Пространство деградирует, и то, что внутри, исчезает в пустоте. Сильные могут сопротивляться (и вернуться разбитыми).</LotM_DoorDivineCollapse.description>
+  <LotM_DoorDivineOmnipresence.label>вездесущность</LotM_DoorDivineOmnipresence.label>
+  <LotM_DoorDivineOmnipresence.description>Финальная форма Мерцания: где угодно в мире появляются восемь образов их, и они сражаются по-настоящему целый день.</LotM_DoorDivineOmnipresence.description>
+  <LotM_DoorDivineCage.label>божественная печать</LotM_DoorDivineCage.label>
+  <LotM_DoorDivineCage.description>Печать, которая ловит даже бога: тот, кто проигрывает (и это сложнее, чем против любой другой силы), запечатывается вне мира на один день.</LotM_DoorDivineCage.description>
+  <LotM_DoorDivineAlternateWorld.label>альтернативный мир</LotM_DoorDivineAlternateWorld.label>
+  <LotM_DoorDivineAlternateWorld.description>Создает альтернативный мир поверх Мира духов, с его Дверью где угодно, и определяет его своим Божественным Царством со своим собственным правилом (Репликация дает ему): там никто не имеет нужд, никто не умирает, или раны заживают сами по себе.</LotM_DoorDivineAlternateWorld.description>
+  <LotM_DoorDivineFragmentation.label>пространственная фрагментация</LotM_DoorDivineFragmentation.label>
+  <LotM_DoorDivineFragmentation.description>На любом месте в мире: фрагментация пространства до предела. Это тянет, замедляет время, искривляет свет и отменяет всё в огромной области.</LotM_DoorDivineFragmentation.description>
+  <LotM_DoorDivineReplicateAuthority.label>воспроизвести власть</LotM_DoorDivineReplicateAuthority.label>
+  <LotM_DoorDivineReplicateAuthority.description>Реплицирует власть другого истинного бога, не реплицируя его символы: использует одну из его сил, более слабую, один раз.</LotM_DoorDivineReplicateAuthority.description>
+  <LotM_DoorDivineFateLost.label>дезориентировать судьбу</LotM_DoorDivineFateLost.label>
+  <LotM_DoorDivineFateLost.description>Позиция: Позиция достигает времени, судьбы и разума. В любом месте мира они заставляют кого-то потерять направление в Реке Судьбы: на дни всё идет не так для них.</LotM_DoorDivineFateLost.description>
+  <LotM_DoorDivineConceptualize.label>концептуальный кластер</LotM_DoorDivineConceptualize.label>
+  <LotM_DoorDivineConceptualize.description>В любом месте мира они окутывают врагов области звездным светом и превращают их в Концептуальный Кластер: схожие концепции собираются вместе. Они остаются неподвижными, не в силах ничего сделать, целый день.</LotM_DoorDivineConceptualize.description>
+  <LotM_DoorConceptualization.label>концептуализация</LotM_DoorConceptualization.label>
+  <LotM_DoorConceptualization.description>Переключатель: они становятся Концептуальным Существом, набором символов (блуждание, астральный переход, ключ, дверь), окрашенных звездным светом. Почти ничто не вредит им или не достигает их разума.</LotM_DoorConceptualization.description>
+</LanguageData>

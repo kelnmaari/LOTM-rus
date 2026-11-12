@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_FleshRot.label>гнилая плоть</LotM_FleshRot.label>
+  <LotM_FleshRot.deathMessage>{0} умер, их плоть сгнила изнутри.</LotM_FleshRot.deathMessage>
+</LanguageData>

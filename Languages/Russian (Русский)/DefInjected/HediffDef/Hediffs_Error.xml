@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_ErrorThefts.label>кражи</LotM_ErrorThefts.label>
+  <LotM_ErrorThefts.description>Что они украли: силы других, которые они могут использовать (и как долго), огни, которыми они обладают, и удары, которые они все еще могут украсть сегодня.</LotM_ErrorThefts.description>
+  <LotM_ErrorShortBlade.label>руки вора</LotM_ErrorShortBlade.label>
+  <LotM_ErrorShortBlade.description>С коротким оружием в руке (нож, короткий меч) они сражаются намного лучше: увереннее, быстрее и глубже удары.</LotM_ErrorShortBlade.description>
+  <LotM_PowerStolen.label>украденная сила</LotM_PowerStolen.label>
+  <LotM_PowerStolen.description>Одна из их способностей была украдена: она не отвечает им, пока не пройдет время или пока тот, кто её украл, не отпустит её.</LotM_PowerStolen.description>
+  <LotM_ErrorPersuaded.label>торговец покорен</LotM_ErrorPersuaded.label>
+  <LotM_ErrorPersuaded.description>Завоевали торговца: получают лучшие цены на некоторое время.</LotM_ErrorPersuaded.description>
+  <LotM_ErrorMisdirected.label>отвлечённая мысль</LotM_ErrorMisdirected.label>
+  <LotM_ErrorMisdirected.description>Кто-то исказил их мышление: на несколько секунд они делают что-то другое или атакуют не ту цель.</LotM_ErrorMisdirected.description>
+  <LotM_ErrorHallucinating.label>галлюцинации</LotM_ErrorHallucinating.label>
+  <LotM_ErrorHallucinating.description>Видит то, чего нет: целится плохо, отвлекается и иногда испуганно отступает.</LotM_ErrorHallucinating.description>
+  <LotM_ErrorDivineGaze.label>вглядывался</LotM_ErrorDivineGaze.label>
+  <LotM_ErrorDivineGaze.description>Что-то далеко над ними заметило, что они делают, и посмотрело на них. Трудно думать, и холод не отступает.</LotM_ErrorDivineGaze.description>
+  <LotM_ErrorBlank.label>пустота</LotM_ErrorBlank.label>
+  <LotM_ErrorBlank.description>Они собирались сделать что-то... и не помнят, что.</LotM_ErrorBlank.description>
+  <LotM_ErrorStolenWalking.label>не может ходить</LotM_ErrorStolenWalking.label>
+  <LotM_ErrorStolenWalking.description>Их способность ходить была украдена: они едва ползают.</LotM_ErrorStolenWalking.description>
+  <LotM_ErrorStolenTalking.label>не может говорить</LotM_ErrorStolenTalking.label>
+  <LotM_ErrorStolenTalking.description>Их способность говорить украли: ни одно слово не выходит, ни силы, которые произносятся.</LotM_ErrorStolenTalking.description>
+  <LotM_ErrorStolenHands.label>не может использовать руки</LotM_ErrorStolenHands.label>
+  <LotM_ErrorStolenHands.description>Их способность использовать руки украли: они не чувствуют их как свои.</LotM_ErrorStolenHands.description>
+  <LotM_ErrorStolenSight.label>не может видеть</LotM_ErrorStolenSight.label>
+  <LotM_ErrorStolenSight.description>Их способность видеть украли: их глаза открыты, но они почти ничего не видят.</LotM_ErrorStolenSight.description>
+  <LotM_ErrorNoIdeal.label>нет идеала</LotM_ErrorNoIdeal.label>
+  <LotM_ErrorNoIdeal.description>Что их движило, украдено: они не видят смысла в том, что делают.</LotM_ErrorNoIdeal.description>
+  <LotM_ErrorStolenBlessing.label>украденное благословение</LotM_ErrorStolenBlessing.label>
+  <LotM_ErrorStolenBlessing.description>Украли ответ на молитву у бога.</LotM_ErrorStolenBlessing.description>
+  <LotM_ErrorStolenBlessing.stages.0.label>Солнца</LotM_ErrorStolenBlessing.stages.0.label>
+  <LotM_ErrorStolenBlessing.stages.1.label>Творца</LotM_ErrorStolenBlessing.stages.1.label>
+  <LotM_ErrorStolenBlessing.stages.2.label>Боевых</LotM_ErrorStolenBlessing.stages.2.label>
+  <LotM_ErrorStolenBlessing.stages.3.label>Шута</LotM_ErrorStolenBlessing.stages.3.label>
+  <LotM_ErrorStolenBlessing.stages.4.label>Двери</LotM_ErrorStolenBlessing.stages.4.label>
+  <LotM_ErrorStolenBlessing.stages.5.label>божественное</LotM_ErrorStolenBlessing.stages.5.label>
+  <LotM_ErrorStolenConcealment.label>украденное сокрытие</LotM_ErrorStolenConcealment.label>
+  <LotM_ErrorStolenConcealment.description>Украли ответ на молитву у богини Тьмы: никто не видит их, пока это длится.</LotM_ErrorStolenConcealment.description>
+  <LotM_ErrorSneaking.label>проникновение</LotM_ErrorSneaking.label>
+  <LotM_ErrorSneaking.description>Движется невидимо, ища что-то стоящее.</LotM_ErrorSneaking.description>
+  <LotM_ErrorHost.label>хозяин</LotM_ErrorHost.label>
+  <LotM_ErrorHost.description>Кто-то живёт внутри их духовного тела: Паразит пути Ошибки, сделанный из Червей Времени. Он видит сквозь их глаза и слышит через их уши; в глубоком паразитизме он читает их мысли и может захватить тело. Очищение солнцем вырывает его.</LotM_ErrorHost.description>
+  <LotM_ErrorAvatarLink.label>аватар</LotM_ErrorAvatarLink.label>
+  <LotM_ErrorAvatarLink.description>Они аватар Паразита: тот же самый, где-то ещё. Они делят украденные силы и то, что сохранено с их основным телом. Они могут поглощать характеристики Ошибки, чтобы подняться, никогда не доходя до уровня их основного тела. Если основное тело умирает, истинное сознание переходит к самому сильному аватару.</LotM_ErrorAvatarLink.description>
+  <LotM_ErrorTimeWormHost.label>Червь Времени</LotM_ErrorTimeWormHost.label>
+  <LotM_ErrorTimeWormHost.description>Прозрачный червь Времени с восемью кольцами, сквозь который, кажется, течет время, живет в этом теле. Через него Паразит, завладевший телом, использует свои силы, хотя и не так хорошо.</LotM_ErrorTimeWormHost.description>
+  <LotM_ErrorLostIdentity.label>забыли себя</LotM_ErrorLostIdentity.label>
+  <LotM_ErrorLostIdentity.description>Они так долго провели внутри животного, что забыли, что они человек: говорить, работать и быть с другими для них тяжело. Это проходит за несколько дней.</LotM_ErrorLostIdentity.description>
+  <LotM_ErrorSlipAway.label>ускользание</LotM_ErrorSlipAway.label>
+  <LotM_ErrorSlipAway.description>Оставили своего хозяина и ускользают незамеченными.</LotM_ErrorSlipAway.description>
+  <LotM_ErrorTimeWormsMending.label>Черви Времени, чинящие тело</LotM_ErrorTimeWormsMending.label>
+  <LotM_ErrorTimeWormsMending.description>Прозрачные, восьмикольчатые черви извиваются в ранах: они закрывают плоть, останавливают кровотечение и, с течением времени, восстанавливают утраченное.</LotM_ErrorTimeWormsMending.description>
+  <LotM_ErrorTimeSlowed.label>украденное время</LotM_ErrorTimeSlowed.label>
+  <LotM_ErrorTimeSlowed.description>Черви Времени крадут их время: всё для них становится дольше, они двигаются и нацеливаются медленно.</LotM_ErrorTimeSlowed.description>
+  <LotM_ErrorTimeStopped.label>заморожен в времени</LotM_ErrorTimeStopped.label>
+  <LotM_ErrorTimeStopped.description>Пуля времени украла у них несколько секунд: они застыли, как остановившиеся часы.</LotM_ErrorTimeStopped.description>
+  <LotM_ErrorTimeBulletLoaded.label>заряженный временем пуля</LotM_ErrorTimeBulletLoaded.label>
+  <LotM_ErrorTimeBulletLoaded.description>Его оружие несет пулю, сделанную из трупа Червя Времени: следующий выстрел пронзает броню и замораживает цель на несколько секунд.</LotM_ErrorTimeBulletLoaded.description>
+  <LotM_MythicalForm_Error.label>Черви Времени</LotM_MythicalForm_Error.label>
+  <LotM_MythicalForm_Error.description>Их мифическая форма: масса прозрачных восьмикольчатых червей, с узорами, меняющимися, как будто время течёт сквозь них. Черви наносят урон до тела, оно пересобирается за секунды, а враги, приближающиеся, теряют своё время.</LotM_MythicalForm_Error.description>
+  <LotM_MythicalForm_Error.comps.0.tools.0.label>Черви Времени</LotM_MythicalForm_Error.comps.0.tools.0.label>
+  <LotM_MythicalForm_Error.comps.0.tools.1.label>кольца</LotM_MythicalForm_Error.comps.0.tools.1.label>
+  <LotM_MythicalForm_Error.stages.0.label>неполный</LotM_MythicalForm_Error.stages.0.label>
+  <LotM_MythicalForm_Error.stages.1.label>почти стабильно</LotM_MythicalForm_Error.stages.1.label>
+  <LotM_MythicalForm_Error.stages.2.label>полный</LotM_MythicalForm_Error.stages.2.label>
+  <LotM_ErrorDeceived.label>обманут</LotM_ErrorDeceived.label>
+  <LotM_ErrorDeceived.description>Наставник обмана заставил их совершить ошибку суждения: они верят, что уже победили, что опасности нет или что они на неправильной стороне.</LotM_ErrorDeceived.description>
+  <LotM_ErrorExposed.label>найдена слабость</LotM_ErrorExposed.label>
+  <LotM_ErrorExposed.description>Наставник обмана увидел их слабое место: удары причиняют им боль сильнее, и им труднее сопротивляться обманам Наставника.</LotM_ErrorExposed.description>
+  <LotM_ErrorFateFlaw.label>ошибка в судьбе</LotM_ErrorFateFlaw.label>
+  <LotM_ErrorFateFlaw.description>Кто-то вложил ошибки в его судьбу: в моменты, которые имеют значение, все идет не так (атака промахивается, сила не отвечает, то, что он делает, прерывается).</LotM_ErrorFateFlaw.description>
+  <LotM_ErrorStolenIdentity.label>украденная личность</LotM_ErrorStolenIdentity.label>
+  <LotM_ErrorStolenIdentity.description>Жить с чужой личностью и судьбой: силы, ищущие, кем они были, почти никогда их не находят.</LotM_ErrorStolenIdentity.description>
+  <LotM_ErrorFateless.label>бесстрастный</LotM_ErrorFateless.label>
+  <LotM_ErrorFateless.description>Их личность и судьба были украдены. Они чувствуют себя оторванными от всего, удача их бросает и они медленно исчезают.</LotM_ErrorFateless.description>
+  <LotM_ErrorFateless.stages.0.label>отключённый</LotM_ErrorFateless.stages.0.label>
+  <LotM_ErrorFateless.stages.1.label>угасание</LotM_ErrorFateless.stages.1.label>
+  <LotM_ErrorFateless.stages.2.label>почти стерто</LotM_ErrorFateless.stages.2.label>
+  <LotM_ErrorIdentityCrisis.label>кризис идентичности</LotM_ErrorIdentityCrisis.label>
+  <LotM_ErrorIdentityCrisis.description>Они украли личность кого-то слишком сильного: внутри них двое людей сражаются за то, кто есть кто.</LotM_ErrorIdentityCrisis.description>
+  <LotM_ErrorCutOff.label>отключен от своего источника</LotM_ErrorCutOff.label>
+  <LotM_ErrorCutOff.description>Их связь с тем, что дало им силу извне, была украдена: они не восстанавливают духовность, и они потеряли свои благословения и то, что контролировали.</LotM_ErrorCutOff.description>
+  <LotM_ErrorAvatarsGathered.label>собраны аватары</LotM_ErrorAvatarsGathered.label>
+  <LotM_ErrorAvatarsGathered.description>Аватары Троянского коня Судьбы собираются вокруг самого сильного, который становится сильнее с каждым из них.</LotM_ErrorAvatarsGathered.description>
+  <LotM_ErrorAvatarsGathered.stages.1.label>1</LotM_ErrorAvatarsGathered.stages.1.label>
+  <LotM_ErrorAvatarsGathered.stages.2.label>2</LotM_ErrorAvatarsGathered.stages.2.label>
+  <LotM_ErrorAvatarsGathered.stages.3.label>3+</LotM_ErrorAvatarsGathered.stages.3.label>
+  <LotM_ErrorAnchorsStolen.label>украденные якоря</LotM_ErrorAnchorsStolen.label>
+  <LotM_ErrorAnchorsStolen.description>Червь Времени украл якоря, удерживавшие их: их разум менее устойчив, и якорь бога падает.</LotM_ErrorAnchorsStolen.description>
+  <LotM_ErrorBugged.label>ошибка</LotM_ErrorBugged.label>
+  <LotM_ErrorBugged.description>Ошибка создала ошибку в нем: все идет не так (половина его сил не отвечает, его удары промахиваются, то, что он делает, прерывается), и почти ничего этого не устраняет.</LotM_ErrorBugged.description>
+  <LotM_ErrorOutsideWorld.label>вне мира</LotM_ErrorOutsideWorld.label>
+  <LotM_ErrorOutsideWorld.description>Они отделились от мира через лазейку: ничто в реальности не касается их, но они также не могут касаться чего-либо.</LotM_ErrorOutsideWorld.description>
+  <LotM_ErrorSubstituteLinked.label>связанный заменитель</LotM_ErrorSubstituteLinked.label>
+  <LotM_ErrorSubstituteLinked.description>Ошибка создала ошибку сходства: урон, который получает эта замена, также получает её владелец.</LotM_ErrorSubstituteLinked.description>
+  <LotM_ErrorEternalSlumber.label>вечное сновидение</LotM_ErrorEternalSlumber.label>
+  <LotM_ErrorEternalSlumber.description>Ошибка даровала им вечный сон: они спят и не просыпаются, пока кто-то не украдёт его у них.</LotM_ErrorEternalSlumber.description>
+</LanguageData>

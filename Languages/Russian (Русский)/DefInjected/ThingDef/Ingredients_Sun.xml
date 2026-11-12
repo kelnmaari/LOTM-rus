@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Ing_CrystalSunflower.label>кристальный подсолнух</LotM_Ing_CrystalSunflower.label>
+  <LotM_Ing_CrystalSunflower.description>Подсолнух с лепестками, прозрачными как стекло. На солнце он очень тихо поёт.</LotM_Ing_CrystalSunflower.description>
+  <LotM_Ing_MidsummerGrass.label>летняя трава</LotM_Ing_MidsummerGrass.label>
+  <LotM_Ing_MidsummerGrass.description>Трава, которая всегда тёплая, как будто она хранит летний день внутри.</LotM_Ing_MidsummerGrass.description>
+  <LotM_Ing_JulyWineJuice.label>сок июльского вина</LotM_Ing_JulyWineJuice.label>
+  <LotM_Ing_JulyWineJuice.description>Несколько капель сладкого вина, отжатого в середине лета. Пахнет праздником.</LotM_Ing_JulyWineJuice.description>
+  <LotM_Ing_BrillianceRock.label>камень великолепия</LotM_Ing_BrillianceRock.label>
+  <LotM_Ing_BrillianceRock.description>Камень, хранящий солнечный свет и возвращающий его ночью. Он слегка обжигает при прикосновении.</LotM_Ing_BrillianceRock.description>
+  <LotM_Ing_GoldenRimSunflower.label>подсолнух с золотой окантовкой</LotM_Ing_GoldenRimSunflower.label>
+  <LotM_Ing_GoldenRimSunflower.description>Подсолнух с золотым краем лепестков. Он всегда смотрит туда, где солнце, даже когда пасмурно.</LotM_Ing_GoldenRimSunflower.description>
+  <LotM_Ing_AconiteJuice.label>сок аконита</LotM_Ing_AconiteJuice.label>
+  <LotM_Ing_AconiteJuice.description>Три капли сока ядовитого синего цветка. Хорошо использованное, оно отгоняет мертвых.</LotM_Ing_AconiteJuice.description>
+  <LotM_Ing_DawnRoosterComb.label>красный гребёнка петуха рассвета</LotM_Ing_DawnRoosterComb.label>
+  <LotM_Ing_DawnRoosterComb.description>Щетина петуха, который кричал раньше всех. Она всё ещё тёплая.</LotM_Ing_DawnRoosterComb.description>
+  <LotM_Ing_DawnRoosterBlood.label>кровь утренней петухи</LotM_Ing_DawnRoosterBlood.label>
+  <LotM_Ing_DawnRoosterBlood.description>сто миллилитров крови такой красной, что кажется светящейся.</LotM_Ing_DawnRoosterBlood.description>
+  <LotM_Ing_SolidifiedMagma.label>свёрженая магма</LotM_Ing_SolidifiedMagma.label>
+  <LotM_Ing_SolidifiedMagma.description>Пять граммов чёрного камня, который никогда не остывает.</LotM_Ing_SolidifiedMagma.description>
+  <LotM_Ing_ElderTreeRoots.label>кристаллизованные корни Древа Старейшин</LotM_Ing_ElderTreeRoots.label>
+  <LotM_Ing_ElderTreeRoots.description>Корни, настолько старые, что превратились в кристаллы. Тот, кто их держит, чувствует, как кто-то древний наблюдает за ними и одобряет.</LotM_Ing_ElderTreeRoots.description>
+  <LotM_Ing_RadianceTreeJuice.label>сок дерева клятвы сияния</LotM_Ing_RadianceTreeJuice.label>
+  <LotM_Ing_RadianceTreeJuice.description>Сто миллилитров золотой смолы. Она светится ярче, когда кто-то делает обещание поблизости.</LotM_Ing_RadianceTreeJuice.description>
+  <LotM_Ing_WhiteRimSunflower.label>подсолнух с белой окантовкой</LotM_Ing_WhiteRimSunflower.label>
+  <LotM_Ing_WhiteRimSunflower.description>Подсолнух с лепестками, окаймленными чистым белым, словно подпись.</LotM_Ing_WhiteRimSunflower.description>
+  <LotM_Ing_HolyLightCrystal.label>кристалл святого света</LotM_Ing_HolyLightCrystal.label>
+  <LotM_Ing_HolyLightCrystal.description>Прозрачный кристалл, хранящий неподвижный, чистый свет. Мертвые не могут вынести близости к нему.</LotM_Ing_HolyLightCrystal.description>
+  <LotM_Ing_Rosemary.label>розмарин</LotM_Ing_Rosemary.label>
+  <LotM_Ing_Rosemary.description>Пять граммов розмарина. Говорят, его дым отгоняет то, что не принадлежит миру живых.</LotM_Ing_Rosemary.description>
+  <LotM_Ing_FingeredCitronJuice.label>сок цитрона, нанесенный пальцами</LotM_Ing_FingeredCitronJuice.label>
+  <LotM_Ing_FingeredCitronJuice.description>Семь капель сока из желтого фрукта в форме открытой ладони. Он пахнет храмом.</LotM_Ing_FingeredCitronJuice.description>
+  <LotM_Ing_HolyBrillianceRock.label>камень священного сияния</LotM_Ing_HolyBrillianceRock.label>
+  <LotM_Ing_HolyBrillianceRock.description>Камень, который не отражает свет: он дарует его. В самой глубокой темноте он продолжает светиться, как кусок полудня.</LotM_Ing_HolyBrillianceRock.description>
+  <LotM_Ing_SunDivineBirdFeathers.label>перьев божественной птицы Солнца</LotM_Ing_SunDivineBirdFeathers.label>
+  <LotM_Ing_SunDivineBirdFeathers.description>Три длинных перьев живого золота. Они горят, не сгорая, и согревают всю комнату.</LotM_Ing_SunDivineBirdFeathers.description>
+  <LotM_Ing_MagmaHeartPowder.label>порошок магматического сердца</LotM_Ing_MagmaHeartPowder.label>
+  <LotM_Ing_MagmaHeartPowder.description>Десять граммов красного порошка, который тепло пульсирует, измельченный из сердца лавового ручья.</LotM_Ing_MagmaHeartPowder.description>
+  <LotM_Ing_MutatedFingeredCitronJuice.label>сок мутировавшего цитрона</LotM_Ing_MutatedFingeredCitronJuice.label>
+  <LotM_Ing_MutatedFingeredCitronJuice.description>Семь капель густого золотого сока. Фрукт, из которого он произошёл, имел слишком много пальцев.</LotM_Ing_MutatedFingeredCitronJuice.description>
+  <LotM_Ing_RadiantGiantHead.label>сияющая гигантская голова</LotM_Ing_RadiantGiantHead.label>
+  <LotM_Ing_RadiantGiantHead.description>Голова гиганта, сиявшего как солнце. Она всё ещё излучает свет, и никто не смеет смотреть ему в глаза.</LotM_Ing_RadiantGiantHead.description>
+  <LotM_Ing_SunBirdKingTailFeather.label>чёрное перо хвоста Короля ангелов Вечно Пылающего Солнца</LotM_Ing_SunBirdKingTailFeather.label>
+  <LotM_Ing_SunBirdKingTailFeather.description>Длинное перо черного цвета, настолько глубокого, что оно поглощает свет. Только у Короля Божественных Птиц Солнца есть такое.</LotM_Ing_SunBirdKingTailFeather.description>
+  <LotM_Ing_RadiantGiantBlood.label>сияющая гигантская кровь</LotM_Ing_RadiantGiantBlood.label>
+  <LotM_Ing_RadiantGiantBlood.description>Сто миллилитров теплой, золотой крови. Она зажигает флакон изнутри.</LotM_Ing_RadiantGiantBlood.description>
+  <LotM_Ing_AllPraiserPetals.label>лепестки Всеблагого</LotM_Ing_AllPraiserPetals.label>
+  <LotM_Ing_AllPraiserPetals.description>Девять огромных лепестков от чудовического цветка, который никогда не прекращал петь хвалу. Их можно ещё услышать, как они бормочут.</LotM_Ing_AllPraiserPetals.description>
+  <LotM_Ing_SunlightStrand.label>ниточка солнечного света</LotM_Ing_SunlightStrand.label>
+  <LotM_Ing_SunlightStrand.description>Нить света, которую можно держать между пальцами. Зелье требует трех: одно от рассвета, одно от полудня и одно от заката.</LotM_Ing_SunlightStrand.description>
+  <LotM_Ing_RadiantGiantLeaderHeart.label>сердце гигантского лидера</LotM_Ing_RadiantGiantLeaderHeart.label>
+  <LotM_Ing_RadiantGiantLeaderHeart.description>Сердце гиганта, который возглавлял других. Оно бьется медленно, и с каждым ударом комната освещается, как день.</LotM_Ing_RadiantGiantLeaderHeart.description>
+  <LotM_Ing_RadiantGiantLeaderEyes.label>глаза сияющего гигантского лидера</LotM_Ing_RadiantGiantLeaderEyes.label>
+  <LotM_Ing_RadiantGiantLeaderEyes.description>Пара огромных золотых глаз. Они больше не видят, но всё ещё ищут солнце.</LotM_Ing_RadiantGiantLeaderEyes.description>
+  <LotM_Ing_LightseekerEyes.label>глаза Искателя Света</LotM_Ing_LightseekerEyes.label>
+  <LotM_Ing_LightseekerEyes.description>Глаза ангела Солнца. Они ослепляют того, кто смотрит прямо на них.</LotM_Ing_LightseekerEyes.description>
+  <LotM_Ing_RadiantGiantLeaderBlood.label>Кровь сияющего гиганта-лидера</LotM_Ing_RadiantGiantLeaderBlood.label>
+  <LotM_Ing_RadiantGiantLeaderBlood.description>Триста миллилитров крови, сияющей, как расплавленное золото.</LotM_Ing_RadiantGiantLeaderBlood.description>
+  <LotM_Ing_LightseekerBlood.label>Кровь Искателя света</LotM_Ing_LightseekerBlood.label>
+  <LotM_Ing_LightseekerBlood.description>Триста миллилитров крови ангела Солнца. Она не красная: это жидкий свет.</LotM_Ing_LightseekerBlood.description>
+  <LotM_Ing_UnstableMiniSun.label>Нестабильное миниатюрное солнце</LotM_Ing_UnstableMiniSun.label>
+  <LotM_Ing_UnstableMiniSun.description>Солнце размером с кулак, которое не может решить, хочет ли оно существовать: оно пульсирует, сжимается и растёт, и сжигает воздух вокруг себя.</LotM_Ing_UnstableMiniSun.description>
+  <LotM_Ing_HangedAngelBlood.label>кровь ангела Висящего</LotM_Ing_HangedAngelBlood.label>
+  <LotM_Ing_HangedAngelBlood.description>Триста миллилитров крови ангела пути Повешенного. Она черная и густая, и двигается сама по себе внутри колбы.</LotM_Ing_HangedAngelBlood.description>
+</LanguageData>

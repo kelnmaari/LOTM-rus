@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Nighthawks.label>Церковь Богини Вечной Ночи</LotM_Nighthawks.label>
+  <LotM_Nighthawks.fixedName>Церковь Богини Вечной Ночи</LotM_Nighthawks.fixedName>
+  <LotM_Nighthawks.description>Церковь Богини Вечной Ночи: жрецы спокойствия, сна и останков мёртвых. Их епископы и архиепископы ведут верующих из своих соборов.
+
+Их вооружённой рукой являются Ночные Ястребы, Потусторонние, которые охотятся и заключают тех, кто стал злым, и монстров, оставленных теми, кто теряет контроль. Они одеты в чёрное и сражаются с револьверами и винтовками. У них нет интереса к войне, но они не прощают никому, кто прячет монстра. Их ранги: агенты, ветераны, капитаны и диаконы.</LotM_Nighthawks.description>
+  <LotM_Nighthawks.pawnSingular>верные Вечной Ночи</LotM_Nighthawks.pawnSingular>
+  <LotM_Nighthawks.pawnsPlural>верные Вечной Ночи</LotM_Nighthawks.pawnsPlural>
+  <LotM_Nighthawks.leaderTitle>Архиепископ</LotM_Nighthawks.leaderTitle>
+</LanguageData>

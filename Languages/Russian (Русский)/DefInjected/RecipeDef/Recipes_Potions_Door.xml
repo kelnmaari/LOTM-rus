@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_Potion_Apprentice.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Apprentice.jobString>
+  <LotM_Make_Potion_Apprentice.label>приготовить зелье: Ученик</LotM_Make_Potion_Apprentice.label>
+  <LotM_Make_Potion_Trickmaster.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Trickmaster.jobString>
+  <LotM_Make_Potion_Trickmaster.label>приготовить зелье: Мастер уловок</LotM_Make_Potion_Trickmaster.label>
+  <LotM_Make_Potion_Astrologer.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Astrologer.jobString>
+  <LotM_Make_Potion_Astrologer.label>приготовить зелье: Астролог</LotM_Make_Potion_Astrologer.label>
+  <LotM_Make_Potion_Scribe.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Scribe.jobString>
+  <LotM_Make_Potion_Scribe.label>приготовить зелье: Писец</LotM_Make_Potion_Scribe.label>
+  <LotM_Make_Potion_Traveler.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Traveler.jobString>
+  <LotM_Make_Potion_Traveler.label>приготовить зелье: Путешественник</LotM_Make_Potion_Traveler.label>
+  <LotM_Make_Potion_SecretsSorcerer.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_SecretsSorcerer.jobString>
+  <LotM_Make_Potion_SecretsSorcerer.label>приготовить зелье: Колдун секретов</LotM_Make_Potion_SecretsSorcerer.label>
+  <LotM_Make_Potion_Wanderer.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Wanderer.jobString>
+  <LotM_Make_Potion_Wanderer.label>приготовить зелье: Странник</LotM_Make_Potion_Wanderer.label>
+  <LotM_Make_Potion_Planeswalker.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Planeswalker.jobString>
+  <LotM_Make_Potion_Planeswalker.label>приготовить зелье: Мироходец</LotM_Make_Potion_Planeswalker.label>
+  <LotM_Make_Potion_KeyOfStars.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_KeyOfStars.jobString>
+  <LotM_Make_Potion_KeyOfStars.label>приготовить зелье: Ключ звёзд</LotM_Make_Potion_KeyOfStars.label>
+  <LotM_Make_Potion_Apprentice.description>Смешивает иллюзорный кристалл или червя, поглощающего драгоценности (или характеристику Ученика Потустороннего) с почвой Мира духов и древней колодезной водой.</LotM_Make_Potion_Apprentice.description>
+  <LotM_Make_Potion_Trickmaster.description>Смешивает желудочный мешок Пожирателя духов (или характеристику Марионеточника Потустороннего) с эфирным маслом хорнбима и порошком струнного травы.</LotM_Make_Potion_Trickmaster.description>
+  <LotM_Make_Potion_Astrologer.description>Смешивает метеоритный кристалл или кристаллизованную кровь кальмара Лавоса (или характеристику Потустороннего астролога) с порошком клематиса и выдержанным крепким алкоголем.</LotM_Make_Potion_Astrologer.description>
+  <LotM_Make_Potion_Scribe.description>Смешай мозг Асманна или проклятый реликт древнего призрака (или характеристику Потустороннего Писаря) с тремя старыми страницами дневника и эфирным маслом липы.</LotM_Make_Potion_Scribe.description>
+  <LotM_Make_Potion_Traveler.description>Смешай сердце демонического червя Сискуна или безтенистого демонического волка (или характеристику Потустороннего Путешественника) с безтенистой кровью демонического волка и звездной картой, нарисованной духовной кровью.</LotM_Make_Potion_Traveler.description>
+  <LotM_Make_Potion_SecretsSorcerer.description>Смешать глаз Золотого Феникса или вожака червя Сискун (или характеристику Потустороннего Мага Тайн) с гнездом червя Сискун или перышком Золотого Феникса и водой из озера, отражающего космос.</LotM_Make_Potion_SecretsSorcerer.description>
+  <LotM_Make_Potion_Wanderer.description>Смешать Кожу Бродяги или кристалл Стража Тумана (или характеристику Потустороннего Бродяги) с гноем Кожи Бродяги или веком Стража Тумана и Водой Звёзд.</LotM_Make_Potion_Wanderer.description>
+  <LotM_Make_Potion_Planeswalker.description>Смешать глаз фиолетового Феникса или Активный Пустота (или характеристику Потустороннего Путешественника по Планам) с Червем Звезды и Червем Времени.</LotM_Make_Potion_Planeswalker.description>
+  <LotM_Make_Potion_KeyOfStars.description>Смешай характеристику Потустороннего Ключа Звезд с астральным компасом и ядром блуждающей астероида.</LotM_Make_Potion_KeyOfStars.description>
+</LanguageData>

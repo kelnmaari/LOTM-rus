@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_AbyssGround.label>Бездонная земля</LotM_AbyssGround.label>
+  <LotM_AbyssGround.description>Черная земля Бездны, холодная и слегка липкая. Здесь ничего не растет.</LotM_AbyssGround.description>
+  <LotM_AbyssObsidian.label>Бездонный обсидиан</LotM_AbyssObsidian.label>
+  <LotM_AbyssObsidian.description>Полированный черный камень, как обсидиан. Он не отражает свет.</LotM_AbyssObsidian.description>
+  <LotM_AbyssVeinTile.label>Камень с прожилками крови</LotM_AbyssVeinTile.label>
+  <LotM_AbyssVeinTile.description>Черный камень, пересеченный прожилками, похожими на высохшую кровь, почти живые.</LotM_AbyssVeinTile.description>
+  <LotM_AbyssPool.label>бездонный бассейн</LotM_AbyssPool.label>
+  <LotM_AbyssPool.description>Бассейн чёрной, зеленоватой жидкости, пахнущей серой и гнилью. Она разъедает и отравляет того, кто в неё ступит.</LotM_AbyssPool.description>
+</LanguageData>

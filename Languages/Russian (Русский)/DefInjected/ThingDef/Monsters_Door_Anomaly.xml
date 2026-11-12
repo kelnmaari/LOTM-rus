@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_A_LostApprentice.label>потерянный ученик</LotM_A_LostApprentice.label>
+  <LotM_A_LostApprentice.description>Ученик, потерявший контроль. Он появляется и исчезает между стенами, как будто это двери.</LotM_A_LostApprentice.description>
+  <LotM_A_LostApprentice.tools.0.label>Когти</LotM_A_LostApprentice.tools.0.label>
+  <LotM_A_LostApprentice.tools.1.label>укус</LotM_A_LostApprentice.tools.1.label>
+  <LotM_A_LostTrickmaster.label>потерянный трюкач</LotM_A_LostTrickmaster.label>
+  <LotM_A_LostTrickmaster.description>Мастер трюков, потерявший контроль. Его вспышки ослепляют, и он прыгает сбоку на бок, не будучи замеченным.</LotM_A_LostTrickmaster.description>
+  <LotM_A_LostTrickmaster.tools.0.label>щупальца</LotM_A_LostTrickmaster.tools.0.label>
+  <LotM_A_LostTrickmaster.tools.1.label>укус</LotM_A_LostTrickmaster.tools.1.label>
+  <LotM_A_LostAstrologer.label>потерянный астролог</LotM_A_LostAstrologer.label>
+  <LotM_A_LostAstrologer.description>Астролог, потерявший контроль. Его глаза превратились в звёздное небо; он открывает плоть того, кто подходит близко.</LotM_A_LostAstrologer.description>
+  <LotM_A_LostAstrologer.tools.0.label>Когти</LotM_A_LostAstrologer.tools.0.label>
+  <LotM_A_LostAstrologer.tools.1.label>укус</LotM_A_LostAstrologer.tools.1.label>
+  <LotM_A_LostScribe.label>потерянный писец</LotM_A_LostScribe.label>
+  <LotM_A_LostScribe.description>Писец, потерявший контроль. Он повторяет и повторяет силы, которые видел, и иногда они проявляются.</LotM_A_LostScribe.description>
+  <LotM_A_LostScribe.tools.0.label>Когти</LotM_A_LostScribe.tools.0.label>
+  <LotM_A_LostScribe.tools.1.label>укус</LotM_A_LostScribe.tools.1.label>
+  <LotM_A_LostTraveler.label>потерянный странник</LotM_A_LostTraveler.label>
+  <LotM_A_LostTraveler.description>Путешественник, потерявший контроль. Он протаскивает людей сквозь несуществующие двери и оставляет их в любом углу.</LotM_A_LostTraveler.description>
+  <LotM_A_LostTraveler.tools.0.label>Когти</LotM_A_LostTraveler.tools.0.label>
+  <LotM_A_LostTraveler.tools.1.label>укус</LotM_A_LostTraveler.tools.1.label>
+  <LotM_A_LostSecretsSorcerer.label>потерянный чародей тайн</LotM_A_LostSecretsSorcerer.label>
+  <LotM_A_LostSecretsSorcerer.description>Марионеточник, потерявший контроль: тело Червей Звёзд, изогнутое, как двери. Он запирает людей в несуществующих пространствах.</LotM_A_LostSecretsSorcerer.description>
+  <LotM_A_LostSecretsSorcerer.tools.0.label>Когти</LotM_A_LostSecretsSorcerer.tools.0.label>
+  <LotM_A_LostSecretsSorcerer.tools.1.label>черви</LotM_A_LostSecretsSorcerer.tools.1.label>
+  <LotM_A_LostWanderer.label>потерянный бродяга</LotM_A_LostWanderer.label>
+  <LotM_A_LostWanderer.description>Бродяга, потерявший контроль. Куда бы он ни коснулся, пространство ломается, и пустота поглощает его.</LotM_A_LostWanderer.description>
+  <LotM_A_LostWanderer.tools.0.label>слеза</LotM_A_LostWanderer.tools.0.label>
+  <LotM_A_LostWanderer.tools.1.label>укус</LotM_A_LostWanderer.tools.1.label>
+  <LotM_A_LostPlaneswalker.label>потерянный планарник</LotM_A_LostPlaneswalker.label>
+  <LotM_A_LostPlaneswalker.description>Ангел Двери, потерявший контроль: огромная фигура, сделанная из звездного света и слоев дверей, реальных и иллюзорных.</LotM_A_LostPlaneswalker.description>
+  <LotM_A_LostPlaneswalker.tools.0.label>Удар дверей</LotM_A_LostPlaneswalker.tools.0.label>
+  <LotM_A_LostPlaneswalker.tools.1.label>Когти</LotM_A_LostPlaneswalker.tools.1.label>
+  <LotM_A_LostKeyOfStars.label>потерянный ключ звёзд</LotM_A_LostKeyOfStars.label>
+  <LotM_A_LostKeyOfStars.description>Ключ звёзд, потерявший контроль. За ним вращаются девять планет, и гравитация разрывает всё, что его окружает.</LotM_A_LostKeyOfStars.description>
+  <LotM_A_LostKeyOfStars.tools.0.label>рука звёзд</LotM_A_LostKeyOfStars.tools.0.label>
+  <LotM_A_LostKeyOfStars.tools.1.label>Когти</LotM_A_LostKeyOfStars.tools.1.label>
+</LanguageData>

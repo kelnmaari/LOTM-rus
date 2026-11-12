@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Characteristic_Criminal.label>Характеристика преступного Потустороннего</LotM_Characteristic_Criminal.label>
+  <LotM_Characteristic_Criminal.description>Что осталось от Преступника после смерти. Это похоже на красный кварцевый камень, усыпанный чёрными пятнами.</LotM_Characteristic_Criminal.description>
+  <LotM_Characteristic_UnwingedAngel.label>Характеристика Некрылатого Ангела Потустороннего</LotM_Characteristic_UnwingedAngel.label>
+  <LotM_Characteristic_UnwingedAngel.description>То, что осталось от Некрылатого Ангела после смерти. Это тёмное сердце с ледяной синей кровью, текущей сквозь него.</LotM_Characteristic_UnwingedAngel.description>
+  <LotM_Characteristic_SerialKiller.label>Характеристика Серийного Убийцы Потустороннего</LotM_Characteristic_SerialKiller.label>
+  <LotM_Characteristic_SerialKiller.description>То, что осталось от серийного убийцы после смерти. Это остроконечный, призматический кубик льда, окутывающий тонкие струйки черного газа.</LotM_Characteristic_SerialKiller.description>
+  <LotM_Characteristic_Devil.label>Характеристика Потустороннего Дьявола</LotM_Characteristic_Devil.label>
+  <LotM_Characteristic_Devil.description>То, что осталось от Дьявола после смерти. Это мягкий рог, похожий на рог, покрытый жуткими узорами.</LotM_Characteristic_Devil.description>
+  <LotM_Characteristic_DesireApostle.label>Характеристика Потустороннего Апостола Желания</LotM_Characteristic_DesireApostle.label>
+  <LotM_Characteristic_DesireApostle.description>То, что осталось от Апостола Желания после его смерти. Это похоже на черную мглу, которая не рассеивается: она остается неподвижной в своей форме.</LotM_Characteristic_DesireApostle.description>
+  <LotM_Characteristic_Demon.label>Характеристика Потустороннего Демона</LotM_Characteristic_Demon.label>
+  <LotM_Characteristic_Demon.description>То, что осталось от Демона после его смерти. Это кроваво-красный, манящий, полуоткрытый цветок.</LotM_Characteristic_Demon.description>
+  <LotM_Characteristic_Blatherer.label>Характеристика Потустороннего Блатерера</LotM_Characteristic_Blatherer.label>
+  <LotM_Characteristic_Blatherer.description>Что осталось от Блатерщика после смерти. Это сгущённый, морщинистый чёрный туман, как мозг из дыма.</LotM_Characteristic_Blatherer.description>
+  <LotM_Characteristic_BloodyArchduke.label>Характеристика Потустороннего Кровавого Архидука</LotM_Characteristic_BloodyArchduke.label>
+  <LotM_Characteristic_BloodyArchduke.description>То, что осталось от Кровавого Архидука после смерти. Это огромный, деформированный черный сердце, от которого исходит сильный запах крови и бесконечно капает.</LotM_Characteristic_BloodyArchduke.description>
+  <LotM_Characteristic_FilthyMonarch.label>Характеристика Потустороннего Грязного Монарха</LotM_Characteristic_FilthyMonarch.label>
+  <LotM_Characteristic_FilthyMonarch.description>То, что осталось от Тикающего Монарха после его смерти. Это черная ткань, как чешуя, разъедающая и в то же время странно эфирная.</LotM_Characteristic_FilthyMonarch.description>
+</LanguageData>

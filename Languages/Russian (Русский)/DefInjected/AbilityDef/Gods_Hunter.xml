@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_HunterGodDisaster.description>Повелитель бедствий обрушивает на выбранную область катастрофу: метель, грозу, землетрясение, метеоритный дождь или засуху.</LotM_HunterGodDisaster.description>
+  <LotM_Apotheosis_Hunter.label>апофеоз</LotM_Apotheosis_Hunter.label>
+  <LotM_Apotheosis_Hunter.description>С тремя характеристиками Завоевателя и Уникальностью Красного Жреца внутри него, он начинает, на алтаре своего Святилища, ритуал превращения в Красного Жреца: война, завоевание и разрушение. Он длится три дня, и весь мир придёт остановить его. Если он умирает, теряет контроль, алтарь ломается или Святилище перестаёт соответствовать требованиям, Разрушение взрывается вокруг него.</LotM_Apotheosis_Hunter.description>
+  <LotM_HunterGodShareAll.label>Владыка Войны: делиться всем</LotM_HunterGodShareAll.label>
+  <LotM_HunterGodShareAll.description>Символизм Владыки Войны: на один день он и вся его команда делят его силу и ранг повсюду одновременно (каждый из них обладает всеми его силами). Он выбирает одного, чтобы владеть Уникальностью: только один в один момент, и без основы бога он действует хуже, чем в его руках.</LotM_HunterGodShareAll.description>
+  <LotM_HunterGodOneForAll.label>Повелитель Войны: всесильный</LotM_HunterGodOneForAll.label>
+  <LotM_HunterGodOneForAll.description>Кто-то из их команды делится одной из своих способностей Потустороннего со всеми остальными (и с ним) на два часа.</LotM_HunterGodOneForAll.description>
+  <LotM_HunterGodSwap.label>Повелитель Войны: обмен</LotM_HunterGodSwap.label>
+  <LotM_HunterGodSwap.description>Меняет местами с любым в их команде, даже на другой карте.</LotM_HunterGodSwap.description>
+  <LotM_HunterGodConquest.label>божественное завоевание</LotM_HunterGodConquest.label>
+  <LotM_HunterGodConquest.description>Завоевание бога: он завоевывает любого, кто будет вечно ему верен. Если более слабый Потусторонний сопротивляется, иногда его собственные характеристики восстают против него: они теряют Последовательность, и характеристика падает на землю.</LotM_HunterGodConquest.description>
+  <LotM_HunterGodKingdom.label>божественное царство</LotM_HunterGodKingdom.label>
+  <LotM_HunterGodKingdom.description>Он полностью завоевывает место: на один день его Божественное царство покрывает карту (или пока он снова не использует его), красным туманом войны. Каждый враг без ранга (обычные люди и Потусторонние Последовательности 5 и ниже) внутри становится его солдатом.</LotM_HunterGodKingdom.description>
+  <LotM_HunterGodWar.label>выпустить войну</LotM_HunterGodWar.label>
+  <LotM_HunterGodWar.description>Одним взглядом начинается война: он выбирает масштаб. Маленькая война (часть врагов на карте сходят с ума от ярости и сражаются друг с другом), тотальная война (все они) или война в мире (две фракции объявляют войну друг другу).</LotM_HunterGodWar.description>
+  <LotM_HunterGodDestruction.label>Разрушение</LotM_HunterGodDestruction.label>
+  <LotM_HunterGodDestruction.description>Разрушение как действие и как состояние: обнаруживает слабость и нацеливается на цель в любом месте на карте. На ком-то — удар, который убивает почти любого (это действительно ранит бога); на структуре — он её разрушает; на месте — он уничтожает область. То, что убивает Разрушение, не возвращается: никакого воскрешения, никакого обмана.</LotM_HunterGodDestruction.description>
+  <LotM_HunterGodFormlessFlame.label>бесформенное пламя</LotM_HunterGodFormlessFlame.label>
+  <LotM_HunterGodFormlessFlame.description>Безликое, бесцветное пламя, которое сжигает всё: в области (7 клеток) предметы, растения и другие структуры превращаются в пепел, а враги сгорают. Оно не касается их собственного.</LotM_HunterGodFormlessFlame.description>
+  <LotM_HunterGodDisaster.label>катастрофа</LotM_HunterGodDisaster.label>
+  <LotM_HunterGodCalamityCity.label>жертва Городу Бедствия</LotM_HunterGodCalamityCity.label>
+  <LotM_HunterGodCalamityCity.description>Предлагает пленника, поверженного врага, человеческое тело или 1000 серебра Городу Бедствия: на один день он обладает силами Демонессы Катастрофы и Апокалипсиса, и его огонь становится кроваво-красным. Сефирот — это власть и опасность: каждый раз, когда он приближается к разложению.</LotM_HunterGodCalamityCity.description>
+  <LotM_HunterGodMasculinize.label>мужественность</LotM_HunterGodMasculinize.label>
+  <LotM_HunterGodMasculinize.description>Превращает того, кого он видит, в человека (животное, в мужчину). Враг, преобразованный таким образом, ошеломлён благоговением и бежит. Враг Потустороннего может сопротивляться.</LotM_HunterGodMasculinize.description>
+</LanguageData>

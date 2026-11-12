@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Potion_SecretsSuppliant.label>зелье: Проситель тайн</LotM_Potion_SecretsSuppliant.label>
+  <LotM_Potion_SecretsSuppliant.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_SecretsSuppliant.ingestible.ingestReportString>
+  <LotM_Potion_SecretsSuppliant.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_SecretsSuppliant.ingestible.ingestCommandString>
+  <LotM_Potion_Listener.label>зелье: Слушатель</LotM_Potion_Listener.label>
+  <LotM_Potion_Listener.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Listener.ingestible.ingestReportString>
+  <LotM_Potion_Listener.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Listener.ingestible.ingestCommandString>
+  <LotM_Potion_ShadowAscetic.label>зелье: Теневой аскет</LotM_Potion_ShadowAscetic.label>
+  <LotM_Potion_ShadowAscetic.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_ShadowAscetic.ingestible.ingestReportString>
+  <LotM_Potion_ShadowAscetic.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_ShadowAscetic.ingestible.ingestCommandString>
+  <LotM_Potion_RoseBishop.label>зелье: Епископ розы</LotM_Potion_RoseBishop.label>
+  <LotM_Potion_RoseBishop.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_RoseBishop.ingestible.ingestReportString>
+  <LotM_Potion_RoseBishop.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_RoseBishop.ingestible.ingestCommandString>
+  <LotM_Potion_Shepherd.label>зелье: Пастырь</LotM_Potion_Shepherd.label>
+  <LotM_Potion_Shepherd.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Shepherd.ingestible.ingestReportString>
+  <LotM_Potion_Shepherd.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Shepherd.ingestible.ingestCommandString>
+  <LotM_Potion_BlackKnight.label>зелье: Чёрный рыцарь</LotM_Potion_BlackKnight.label>
+  <LotM_Potion_BlackKnight.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_BlackKnight.ingestible.ingestReportString>
+  <LotM_Potion_BlackKnight.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_BlackKnight.ingestible.ingestCommandString>
+  <LotM_Potion_TrinityTemplar.label>зелье: Храмовник Троицы</LotM_Potion_TrinityTemplar.label>
+  <LotM_Potion_TrinityTemplar.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_TrinityTemplar.ingestible.ingestReportString>
+  <LotM_Potion_TrinityTemplar.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_TrinityTemplar.ingestible.ingestCommandString>
+  <LotM_Potion_ProfanePresbyter.label>зелье: Нечестивый пресвитер</LotM_Potion_ProfanePresbyter.label>
+  <LotM_Potion_ProfanePresbyter.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_ProfanePresbyter.ingestible.ingestReportString>
+  <LotM_Potion_ProfanePresbyter.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_ProfanePresbyter.ingestible.ingestCommandString>
+  <LotM_Potion_DarkAngel.label>зелье: Тёмный ангел</LotM_Potion_DarkAngel.label>
+  <LotM_Potion_DarkAngel.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_DarkAngel.ingestible.ingestReportString>
+  <LotM_Potion_DarkAngel.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_DarkAngel.ingestible.ingestCommandString>
+  <LotM_Potion_SecretsSuppliant.description>Священная черная жидкость, которая изредка пузырится. Она горькая, и при приближении слышны имена, которые никогда не должны произноситься.</LotM_Potion_SecretsSuppliant.description>
+  <LotM_Potion_Listener.description>Мутная, как болотная вода. Приложив к уху, она никогда не перестает шептать.</LotM_Potion_Listener.description>
+  <LotM_Potion_ShadowAscetic.description>Черная и неподвижная. Ее тень на столе не имеет формы флакона.</LotM_Potion_ShadowAscetic.description>
+  <LotM_Potion_RoseBishop.description>Красная и густая, как кровь. Если оставить неподвижным, она, кажется, пульсирует.</LotM_Potion_RoseBishop.description>
+  <LotM_Potion_Shepherd.description>Внутри плавают бледные фигуры, словно лица, пытающиеся выбраться.</LotM_Potion_Shepherd.description>
+  <LotM_Potion_BlackKnight.description>Так черная, что поглощает свет, с красным свечением внизу, как два глаза.</LotM_Potion_BlackKnight.description>
+  <LotM_Potion_TrinityTemplar.description>В флаконе три отражения: одно молодое, одно старое и одно, не принадлежащее никому.</LotM_Potion_TrinityTemplar.description>
+  <LotM_Potion_ProfanePresbyter.description>При потряхивании жидкость бормочет слова, которые оскверняют разум того, кто их слышит.</LotM_Potion_ProfanePresbyter.description>
+  <LotM_Potion_DarkAngel.description>Чёрный, как мёртвое солнце. Рядом с ним склоняются тени.</LotM_Potion_DarkAngel.description>
+</LanguageData>

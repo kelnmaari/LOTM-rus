@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Destruction.label>разрушение</LotM_Destruction.label>
+  <LotM_Destruction.deathMessage>{0} был уничтожен Красным Жрецом.</LotM_Destruction.deathMessage>
+</LanguageData>

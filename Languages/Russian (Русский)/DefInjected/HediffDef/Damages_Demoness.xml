@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_BlackFlameBurn.label>ожог черным пламенем</LotM_BlackFlameBurn.label>
+  <LotM_BlackFlameBurn.labelNoun>ожог черным пламенем</LotM_BlackFlameBurn.labelNoun>
+  <LotM_BlackFlameBurn.description>Черное пламя горит: оно горит из духа наружу.</LotM_BlackFlameBurn.description>
+  <LotM_BlackFlameBurn.comps.0.labelTendedWell>вендада</LotM_BlackFlameBurn.comps.0.labelTendedWell>
+  <LotM_BlackFlameBurn.comps.0.labelTendedWellInner>ухаживаемый</LotM_BlackFlameBurn.comps.0.labelTendedWellInner>
+  <LotM_BlackFlameBurn.comps.0.labelSolidTendedWell>ухаживаемый</LotM_BlackFlameBurn.comps.0.labelSolidTendedWell>
+  <LotM_BlackFlameBurn.comps.2.permanentLabel>шрам черной лавы</LotM_BlackFlameBurn.comps.2.permanentLabel>
+  <LotM_BlackFlameBurn.injuryProps.destroyedLabel>обгоревший</LotM_BlackFlameBurn.injuryProps.destroyedLabel>
+  <LotM_BlackFlameBurn.injuryProps.destroyedOutLabel>обгоревший</LotM_BlackFlameBurn.injuryProps.destroyedOutLabel>
+</LanguageData>

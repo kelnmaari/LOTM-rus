@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Potion_Assassin.label>зелье: Убийца</LotM_Potion_Assassin.label>
+  <LotM_Potion_Assassin.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Assassin.ingestible.ingestReportString>
+  <LotM_Potion_Assassin.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Assassin.ingestible.ingestCommandString>
+  <LotM_Potion_Instigator.label>зелье: Подстрекатель</LotM_Potion_Instigator.label>
+  <LotM_Potion_Instigator.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Instigator.ingestible.ingestReportString>
+  <LotM_Potion_Instigator.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Instigator.ingestible.ingestCommandString>
+  <LotM_Potion_Witch.label>зелье: Ведьма</LotM_Potion_Witch.label>
+  <LotM_Potion_Witch.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Witch.ingestible.ingestReportString>
+  <LotM_Potion_Witch.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Witch.ingestible.ingestCommandString>
+  <LotM_Potion_Pleasure.label>зелье: Наслаждение</LotM_Potion_Pleasure.label>
+  <LotM_Potion_Pleasure.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Pleasure.ingestible.ingestReportString>
+  <LotM_Potion_Pleasure.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Pleasure.ingestible.ingestCommandString>
+  <LotM_Potion_Affliction.label>зелье: Страдание</LotM_Potion_Affliction.label>
+  <LotM_Potion_Affliction.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Affliction.ingestible.ingestReportString>
+  <LotM_Potion_Affliction.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Affliction.ingestible.ingestCommandString>
+  <LotM_Potion_Despair.label>зелье: Отчаяние</LotM_Potion_Despair.label>
+  <LotM_Potion_Despair.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Despair.ingestible.ingestReportString>
+  <LotM_Potion_Despair.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Despair.ingestible.ingestCommandString>
+  <LotM_Potion_Unaging.label>зелье: Неувядающая</LotM_Potion_Unaging.label>
+  <LotM_Potion_Unaging.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Unaging.ingestible.ingestReportString>
+  <LotM_Potion_Unaging.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Unaging.ingestible.ingestCommandString>
+  <LotM_Potion_Catastrophe.label>зелье: Катастрофа</LotM_Potion_Catastrophe.label>
+  <LotM_Potion_Catastrophe.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Catastrophe.ingestible.ingestReportString>
+  <LotM_Potion_Catastrophe.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Catastrophe.ingestible.ingestCommandString>
+  <LotM_Potion_Apocalypse.label>зелье: Апокалипсис</LotM_Potion_Apocalypse.label>
+  <LotM_Potion_Apocalypse.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Apocalypse.ingestible.ingestReportString>
+  <LotM_Potion_Apocalypse.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Apocalypse.ingestible.ingestCommandString>
+  <LotM_Potion_Assassin.description>Тусклая, незаметная жидкость, которая без видимой причины вызывает жажду.</LotM_Potion_Assassin.description>
+  <LotM_Potion_Instigator.description>Обсидиановое зелье, шипящее крошечными пузырьками, как будто тая скрытые желания и злые намерения. При употреблении острая боль пробегает из рта вниз по горлу и вверх в голову.</LotM_Potion_Instigator.description>
+  <LotM_Potion_Witch.description>Темно-красное зелье с скрытыми тенями; при другом свете оно выглядит как розовая, романтичная, мечтательная жидкость. Оно имеет ледяной и нереальный вкус, как тающее иней. Кто его пьет, становится женщиной, независимо от пола.</LotM_Potion_Witch.description>
+  <LotM_Potion_Pleasure.description>Зелье, из которого отрываются нити, похожие на розовую кровь. Тот, кто его пьет, становится женщиной, независимо от его пола.</LotM_Potion_Pleasure.description>
+  <LotM_Potion_Affliction.description>Темно-красная, почти чёрная кровь, которая вскоре становится полностью чёрной и время от времени выделяет отвратительные зелёные пузыри: выглядит как бульон патогенов. Кто бы ни пил её, становится женщиной, независимо от пола.</LotM_Potion_Affliction.description>
+  <LotM_Potion_Despair.description>Темное фиолетовое зелье с розовым свечением внутри, дрожащее. Тот, кто его пьет, становится женщиной, независимо от его пола.</LotM_Potion_Despair.description>
+  <LotM_Potion_Unaging.description>Серовато-белая жидкость, которая отчетливо отражает окружающий Мир Зеркал. Она имеет вкус земли и камня. Тот, кто ее пьет, становится женщиной, независимо от его пола.</LotM_Potion_Unaging.description>
+  <LotM_Potion_Catastrophe.description>Ледяная синяя жидкость с крошечными молниями, проходящими внутри. Кто смотрит на нее, чувствует, что что-то вот-вот рухнет. Кто ее пьет, становится женщиной, независимо от пола.</LotM_Potion_Catastrophe.description>
+  <LotM_Potion_Apocalypse.description>Черная жидкость с фиолетовым ободком, которая ничего не отражает. Внизу, очень далеко, горит черное пламя. Тот, кто ее пьет, становится женщиной, независимо от его пола.</LotM_Potion_Apocalypse.description>
+</LanguageData>

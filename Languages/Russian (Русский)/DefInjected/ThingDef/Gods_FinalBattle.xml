@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_KingdomExit.label>выход из королевства</LotM_KingdomExit.label>
+  <LotM_KingdomExit.description>Трещина света на краю рушащегося королевства. Тот, кто наступит на неё, вернётся в реальность со всем, что он несёт.</LotM_KingdomExit.description>
+  <LotM_KingdomTrap.label>горящий пол</LotM_KingdomTrap.label>
+  <LotM_KingdomTrap.description>Пол королевства, который всё ещё хранит огонь своего бога. Если кто-то наступит на него, он загорится.</LotM_KingdomTrap.description>
+  <LotM_KingdomGate.label>золотой проход</LotM_KingdomGate.label>
+  <LotM_KingdomGate.description>Проход в лабиринте, где золотая стена сама закрывается и открывается. Она светится прямо перед закрытием.</LotM_KingdomGate.description>
+  <LotM_KingdomGateWall.label>золотая стена</LotM_KingdomGateWall.label>
+  <LotM_KingdomGateWall.description>Золотая стена рушащегося королевства. Её нельзя сломать, но она снова открывается сама по себе.</LotM_KingdomGateWall.description>
+  <LotM_KingdomWallDark.label>твердая ночь</LotM_KingdomWallDark.label>
+  <LotM_KingdomWallDark.description>Ночь превратилась в камень: край королевства Вечной Ночи. Ничто не проходит сквозь него и не разрушает его.</LotM_KingdomWallDark.description>
+  <LotM_KingdomShadowTrap.label>сжимающиеся тени</LotM_KingdomShadowTrap.label>
+  <LotM_KingdomShadowTrap.description>Тени королевства Вечной Ночи. Если кто-то наступает на них, они хватают его и едва позволяют ему двигаться некоторое время.</LotM_KingdomShadowTrap.description>
+  <LotM_KingdomStar.label>звезда</LotM_KingdomStar.label>
+  <LotM_KingdomStar.description>Звезда из неба Вечной Ночи, спустившаяся в её королевство. Когда богиня умирает, они уходят один за другим.</LotM_KingdomStar.description>
+  <LotM_DarknessVeil.label>тьма</LotM_DarknessVeil.label>
+  <LotM_DarknessVeil.description>Тьма, которая является Пунктом назначения всего, поглощающая королевство. Всё, что остается внутри, медленно растворяется.</LotM_DarknessVeil.description>
+  <LotM_KingdomWallFlesh.label>извивающаяся плоть</LotM_KingdomWallFlesh.label>
+  <LotM_KingdomWallFlesh.description>Стена живой плоти из Мира Теней. Её нельзя сломать, но когда умирает Истинный Творец, она движется.</LotM_KingdomWallFlesh.description>
+</LanguageData>

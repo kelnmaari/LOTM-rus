@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_CardCut.label>рез бумажного кинжала</LotM_CardCut.label>
+  <LotM_CardCut.deathMessage>{0} умер, пронзенный бумажным кинжалом.</LotM_CardCut.deathMessage>
+  <LotM_AirBlast.label>удар воздушной пули</LotM_AirBlast.label>
+  <LotM_AirBlast.deathMessage>{0} умер от удара воздушной пули.</LotM_AirBlast.deathMessage>
+  <LotM_AirCannonBlast.label>выстрел воздушной пушки</LotM_AirCannonBlast.label>
+  <LotM_AirCannonBlast.deathMessage>{0} погиб, разлетевшись на части воздушной пушкой.</LotM_AirCannonBlast.deathMessage>
+  <LotM_MysticFlame.label>мистическое пламя</LotM_MysticFlame.label>
+  <LotM_MysticFlame.deathMessage>{0} погиб, поглощенный мистическим пламенем.</LotM_MysticFlame.deathMessage>
+  <LotM_PotionBacklash.label>реакция зелья</LotM_PotionBacklash.label>
+  <LotM_PotionBacklash.deathMessage>{0} умер, усваивая зелье Потустороннего.</LotM_PotionBacklash.deathMessage>
+  <LotM_SelfHarm.label>самоповреждение</LotM_SelfHarm.label>
+  <LotM_SelfHarm.deathMessage>{0} погиб, разрывая себя на части.</LotM_SelfHarm.deathMessage>
+  <LotM_Crush.label>сокрушение</LotM_Crush.label>
+  <LotM_Crush.deathMessage>{0} был раздавлен до смерти, когда место сжалось на него.</LotM_Crush.deathMessage>
+</LanguageData>

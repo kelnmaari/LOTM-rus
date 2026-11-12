@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Potion_Sleepless.label>зелье: Бессонный</LotM_Potion_Sleepless.label>
+  <LotM_Potion_Sleepless.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Sleepless.ingestible.ingestReportString>
+  <LotM_Potion_Sleepless.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Sleepless.ingestible.ingestCommandString>
+  <LotM_Potion_MidnightPoet.label>зелье: Полуночный поэт</LotM_Potion_MidnightPoet.label>
+  <LotM_Potion_MidnightPoet.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_MidnightPoet.ingestible.ingestReportString>
+  <LotM_Potion_MidnightPoet.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_MidnightPoet.ingestible.ingestCommandString>
+  <LotM_Potion_Nightmare.label>зелье: Кошмар</LotM_Potion_Nightmare.label>
+  <LotM_Potion_Nightmare.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Nightmare.ingestible.ingestReportString>
+  <LotM_Potion_Nightmare.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Nightmare.ingestible.ingestCommandString>
+  <LotM_Potion_SoulAssurer.label>зелье: Усмиритель душ</LotM_Potion_SoulAssurer.label>
+  <LotM_Potion_SoulAssurer.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_SoulAssurer.ingestible.ingestReportString>
+  <LotM_Potion_SoulAssurer.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_SoulAssurer.ingestible.ingestCommandString>
+  <LotM_Potion_SpiritWarlock.label>зелье: Колдун духов</LotM_Potion_SpiritWarlock.label>
+  <LotM_Potion_SpiritWarlock.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_SpiritWarlock.ingestible.ingestReportString>
+  <LotM_Potion_SpiritWarlock.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_SpiritWarlock.ingestible.ingestCommandString>
+  <LotM_Potion_Nightwatcher.label>зелье: Ночной дозорный</LotM_Potion_Nightwatcher.label>
+  <LotM_Potion_Nightwatcher.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Nightwatcher.ingestible.ingestReportString>
+  <LotM_Potion_Nightwatcher.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Nightwatcher.ingestible.ingestCommandString>
+  <LotM_Potion_HorrorBishop.label>зелье: Епископ ужаса</LotM_Potion_HorrorBishop.label>
+  <LotM_Potion_HorrorBishop.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_HorrorBishop.ingestible.ingestReportString>
+  <LotM_Potion_HorrorBishop.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_HorrorBishop.ingestible.ingestCommandString>
+  <LotM_Potion_ServantOfConcealment.label>зелье: Слуга сокрытия</LotM_Potion_ServantOfConcealment.label>
+  <LotM_Potion_ServantOfConcealment.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_ServantOfConcealment.ingestible.ingestReportString>
+  <LotM_Potion_ServantOfConcealment.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_ServantOfConcealment.ingestible.ingestCommandString>
+  <LotM_Potion_KnightOfMisfortune.label>зелье: Рыцарь несчастья</LotM_Potion_KnightOfMisfortune.label>
+  <LotM_Potion_KnightOfMisfortune.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_KnightOfMisfortune.ingestible.ingestReportString>
+  <LotM_Potion_KnightOfMisfortune.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_KnightOfMisfortune.ingestible.ingestCommandString>
+  <LotM_Potion_Sleepless.description>Покажидливый черный жидкость, отражающая звезды, которых нет на небе. Тот, кто смотрит на нее, чувствует, что больше никогда не нужно спать.</LotM_Potion_Sleepless.description>
+  <LotM_Potion_MidnightPoet.description>Темная, как чернила. Если приложить к уху, можно услышать тихо произносимые стихи.</LotM_Potion_MidnightPoet.description>
+  <LotM_Potion_Nightmare.description>Движется как беспокойный сон. Иногда внутри колбы что-то открывает глаза.</LotM_Potion_Nightmare.description>
+  <LotM_Potion_SoulAssurer.description>Серая, безмятежная жидкость. Она успокаивает того, кто держит ее, как реквием без музыки.</LotM_Potion_SoulAssurer.description>
+  <LotM_Potion_SpiritWarlock.description>Холодный на ощупь. Среди его отражений проносятся бледные силуэты, и это не те, кто смотрит в него.</LotM_Potion_SpiritWarlock.description>
+  <LotM_Potion_Nightwatcher.description>Черная, с красным свечением внизу, как луна, выглядывающая сквозь облака.</LotM_Potion_Nightwatcher.description>
+  <LotM_Potion_HorrorBishop.description>Кто бы ни смотрел на него слишком долго, чувствует, что что-то в темноте смотрит в ответ.</LotM_Potion_HorrorBishop.description>
+  <LotM_Potion_ServantOfConcealment.description>Выглядит пустым. Только при тряске вы замечаете, что внутри есть нечто, что не хочет быть увиденным.</LotM_Potion_ServantOfConcealment.description>
+  <LotM_Potion_KnightOfMisfortune.description>Густая тьма с багровыми вспышками. Рядом с ней вещи падают, ломаются или идут не так.</LotM_Potion_KnightOfMisfortune.description>
+</LanguageData>

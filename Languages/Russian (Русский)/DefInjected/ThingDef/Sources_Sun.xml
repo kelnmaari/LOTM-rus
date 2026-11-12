@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_MineableBrillianceRock.label>веночник блеска</LotM_MineableBrillianceRock.label>
+  <LotM_MineableBrillianceRock.description>Камень, усыпанный камнями, которые хранят солнечный свет и возвращают его во тьме.</LotM_MineableBrillianceRock.description>
+  <LotM_MineableSolidifiedMagma.label>застывшая магматическая вена</LotM_MineableSolidifiedMagma.label>
+  <LotM_MineableSolidifiedMagma.description>Горячая трещина, где магма остыла, не успев полностью исчезнуть.</LotM_MineableSolidifiedMagma.description>
+  <LotM_Plant_CrystalSunflower.label>кристальный подсолнух</LotM_Plant_CrystalSunflower.label>
+  <LotM_Plant_CrystalSunflower.description>Подсолнух с прозрачными лепестками. На солнце он очень тихо поет. При сборе он дает свой цветок.</LotM_Plant_CrystalSunflower.description>
+  <LotM_Plant_MidsummerGrass.label>летняя трава</LotM_Plant_MidsummerGrass.label>
+  <LotM_Plant_MidsummerGrass.description>Трава, которая всегда тёплая. При сборе даёт летнюю траву.</LotM_Plant_MidsummerGrass.description>
+  <LotM_Plant_GoldenRimSunflower.label>подсолнух с золотой окантовкой</LotM_Plant_GoldenRimSunflower.label>
+  <LotM_Plant_GoldenRimSunflower.description>Подсолнух с лепестками, обрамленными золотом. Он всегда смотрит на солнце. При сборе он дает свой цветок.</LotM_Plant_GoldenRimSunflower.description>
+  <LotM_Plant_Aconite.label>аконит</LotM_Plant_Aconite.label>
+  <LotM_Plant_Aconite.description>Ядовитый синий цветок. При сборе даёт сок аконита.</LotM_Plant_Aconite.description>
+  <LotM_Plant_WhiteRimSunflower.label>подсолнух с белой окантовкой</LotM_Plant_WhiteRimSunflower.label>
+  <LotM_Plant_WhiteRimSunflower.description>Подсолнух с лепестками, окаймлёнными чистым белым. При сборе даёт его цветок.</LotM_Plant_WhiteRimSunflower.description>
+  <LotM_Plant_ElderTree.label>Древо Старейшин</LotM_Plant_ElderTree.label>
+  <LotM_Plant_ElderTree.description>Огромное, древнее дерево. Его корни превратились в кристаллы. При срезе он дает его кристаллизованные корни.</LotM_Plant_ElderTree.description>
+  <LotM_Plant_RadianceTree.label>дерево клятвы сияния</LotM_Plant_RadianceTree.label>
+  <LotM_Plant_RadianceTree.description>Дерево с бледной корой, чья смола сияет как золото. При рубке даёт свой сок.</LotM_Plant_RadianceTree.description>
+  <LotM_MineableHolyLightCrystal.label>вена хрустального света</LotM_MineableHolyLightCrystal.label>
+  <LotM_MineableHolyLightCrystal.description>Камень, пронизанный кристаллами, удерживающими неподвижный, чистый свет.</LotM_MineableHolyLightCrystal.description>
+  <LotM_MineableHolyBrillianceRock.label>вена камня великолепия</LotM_MineableHolyBrillianceRock.label>
+  <LotM_MineableHolyBrillianceRock.description>Камень, который не отражает свет: он его даёт.</LotM_MineableHolyBrillianceRock.description>
+  <LotM_MineableMagmaHeart.label>вена магматического сердца</LotM_MineableMagmaHeart.label>
+  <LotM_MineableMagmaHeart.description>Красная трещина, которая тёплой пульсирует, как будто внутри спал живой.</LotM_MineableMagmaHeart.description>
+  <LotM_Plant_Rosemary.label>розмарин</LotM_Plant_Rosemary.label>
+  <LotM_Plant_Rosemary.description>Ароматный кустарник с синими цветами. При сборе даёт розмарин.</LotM_Plant_Rosemary.description>
+  <LotM_Plant_FingeredCitron.label>пальцевая цитрона</LotM_Plant_FingeredCitron.label>
+  <LotM_Plant_FingeredCitron.description>Кустарник с желтыми плодами в форме раскрытой ладони. При сборе дает его сок.</LotM_Plant_FingeredCitron.description>
+  <LotM_Plant_MutatedFingeredCitron.label>мутировавшая пальцевая цитрона</LotM_Plant_MutatedFingeredCitron.label>
+  <LotM_Plant_MutatedFingeredCitron.description>Неправильно выросший цитрон: его золотые плоды имеют слишком много пальцев и слабо светятся ночью. При сборе они дают сок.</LotM_Plant_MutatedFingeredCitron.description>
+</LanguageData>

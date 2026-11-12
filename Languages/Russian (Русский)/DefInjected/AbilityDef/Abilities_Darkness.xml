@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_MythicalFormWolf.description>Потусторонний принимает свой истинный облик: восьминогий демонический волк. Почти ничто не может ему навредить, а его вой вселяет ужас.
+
+Поддержание этой формы требует платы.</LotM_MythicalFormWolf.description>
+  <LotM_SpiritVisionLesser.label>духовное зрение</LotM_SpiritVisionLesser.label>
+  <LotM_SpiritVisionLesser.description>Переключатель: открывает Духовное зрение, слабее, чем у Провидца, но достаточно, чтобы видеть то, что скрывается и существ Мира духов, которые видят их в ответ. Пока оно открыто, они немного лучше нацеливаются и уклоняются. Потребляет духовность в час.</LotM_SpiritVisionLesser.description>
+  <LotM_DivinationLesser.label>ограниченное прорицание</LotM_DivinationLesser.label>
+  <LotM_DivinationLesser.description>Простое прорицание: чувствует, есть ли опасность поблизости, и насколько.</LotM_DivinationLesser.description>
+  <LotM_PoemTranquilize.label>стихотворение: успокоить</LotM_PoemTranquilize.label>
+  <LotM_PoemTranquilize.description>"Когда солнце садится на западе и роса жемчужит грудь вечера..." Стихотворение, которое успокаивает тело и душу тех, кто его слышит. Однако то, что скрыто, реагирует.</LotM_PoemTranquilize.description>
+  <LotM_PoemLullaby.label>стихотворение: колыбельная</LotM_PoemLullaby.label>
+  <LotM_PoemLullaby.description>"Спокойствие — это утро, без звука..." Колыбельная, которая усыпляет врагов в зоне. Удар будит их.</LotM_PoemLullaby.description>
+  <LotM_PoemPacify.label>стихотворение: умиротворить</LotM_PoemPacify.label>
+  <LotM_PoemPacify.description>"Так оно расцветает, пока длится ночь; когда день открывает свои глаза, оно увядает и исчезает." Такое спокойствие, что цель теряет всякую волю что-либо делать.</LotM_PoemPacify.description>
+  <LotM_PoemHorror.label>стихотворение: ужас</LotM_PoemHorror.label>
+  <LotM_PoemHorror.description>Поэма о том, что таится в ночи. Тот, кто её слышит, испытывает ужас, который невозможно объяснить.</LotM_PoemHorror.description>
+  <LotM_DreamInvasion.label>захват сновидения</LotM_DreamInvasion.label>
+  <LotM_DreamInvasion.description>Затягивает врагов в область в сон, из которого они не могут выйти сами.</LotM_DreamInvasion.description>
+  <LotM_DreamInvasionWide.label>захват сновидения</LotM_DreamInvasionWide.label>
+  <LotM_DreamInvasionWide.description>Затягивает врагов в область в сон, из которого они не могут выйти сами.</LotM_DreamInvasionWide.description>
+  <LotM_NightmareState.label>состояние кошмара</LotM_NightmareState.label>
+  <LotM_NightmareState.description>Засыпает, и их душа выходит рядом с телом: невидимая, быстрая, и ничто не останавливает её. Она входит в сны тех, кто спит. Если тело ранено, душа возвращается.</LotM_NightmareState.description>
+  <LotM_NightmareLimbs.label>кошмарные конечности</LotM_NightmareLimbs.label>
+  <LotM_NightmareLimbs.description>Кошмарные конечности прорастают из их спины, чтобы сражаться вблизи. Они являются частью их плоти: если они ломаются, это причиняет им боль.</LotM_NightmareLimbs.description>
+  <LotM_Requiem.label>реквием</LotM_Requiem.label>
+  <LotM_Requiem.description>Онемевает духовное тело цели. Оно гасит врага изнутри, умолкает дух и приносит союзнику покой.</LotM_Requiem.description>
+  <LotM_PoemAgitate.label>стихотворение: возбудить</LotM_PoemAgitate.label>
+  <LotM_PoemAgitate.description>Песня, которая будоражит души врагов в зоне: их ярость кипит во всём, что находится рядом с ними.</LotM_PoemAgitate.description>
+  <LotM_SealSpirit.label>запечатать дух</LotM_SealSpirit.label>
+  <LotM_SealSpirit.description>Побеждает дух, всё ещё витающий вокруг недавнего трупа, и запирает его в одном из своих зубов. Какой дух это зависит от того, кем он был.</LotM_SealSpirit.description>
+  <LotM_ReleaseWraith.label>выпустить призрака</LotM_ReleaseWraith.label>
+  <LotM_ReleaseWraith.description>Щелчок по зубу: спектр бросается на цель с её холодом.</LotM_ReleaseWraith.description>
+  <LotM_ReleaseBanshee.label>выпустить проклятую банши</LotM_ReleaseBanshee.label>
+  <LotM_ReleaseBanshee.description>Баанши с огромными крыльями вырывается из зуба и вопит. Тот, кто это слышит, теряет силу и мужество.</LotM_ReleaseBanshee.description>
+  <LotM_ReleaseMud.label>выпустить дух грязи</LotM_ReleaseMud.label>
+  <LotM_ReleaseMud.description>Грязевой дух погружает их в землю и уносит под землю в выбранное место.</LotM_ReleaseMud.description>
+  <LotM_ReleaseShapeshifter.label>выпустить дух с изменением формы</LotM_ReleaseShapeshifter.label>
+  <LotM_ReleaseShapeshifter.description>Дух принимает свою форму. Дух принимает следующий удар.</LotM_ReleaseShapeshifter.description>
+  <LotM_ReleaseHands.label>освободить оторванные руки</LotM_ReleaseHands.label>
+  <LotM_ReleaseHands.description>Две бледные руки с окровавленными запястьями толкают цель издалека.</LotM_ReleaseHands.description>
+  <LotM_ReleaseFlight.label>выпустить летающего духа</LotM_ReleaseFlight.label>
+  <LotM_ReleaseFlight.description>Дух поднимает их и уносит в выбранное место.</LotM_ReleaseFlight.description>
+  <LotM_NightDomain.label>домен ночи</LotM_NightDomain.label>
+  <LotM_NightDomain.description>Тьма изливается из их тела, как прилив. Внутри ночь принадлежит им самим, а не их врагам.</LotM_NightDomain.description>
+  <LotM_HairEntanglement.label>запутывание волос</LotM_HairEntanglement.label>
+  <LotM_HairEntanglement.description>Черные волосы, вырванные из тьмы сна, связывают врагов в области. Их холод приглашает ко сну.</LotM_HairEntanglement.description>
+  <LotM_Concealment.label>сокрытие</LotM_Concealment.label>
+  <LotM_Concealment.description>Темный, мечтательный туман окутывает кого-то. Враги перестают их воспринимать, пока не начнут атаковать.</LotM_Concealment.description>
+  <LotM_CurseMisfortune.label>проклятие несчастья</LotM_CurseMisfortune.label>
+  <LotM_CurseMisfortune.description>Накладывает крупную дозу неудач на цель: спотыкания, промахи, неработающее оружие.</LotM_CurseMisfortune.description>
+  <LotM_RequiemDarkness.label>реквием тьмы</LotM_RequiemDarkness.label>
+  <LotM_RequiemDarkness.description>Гасит точку света и покрывает ее самой густой тьмой, где можно услышать спокойную поэму. Всё, что внутри, засыпает или успокаивается.</LotM_RequiemDarkness.description>
+  <LotM_DreamInvasionGreater.label>большее вторжение сна</LotM_DreamInvasionGreater.label>
+  <LotM_DreamInvasionGreater.description>Тащит многих, где угодно в месте, в один и тот же сон. Что бы ни делало их душа с ними, они все страдают.</LotM_DreamInvasionGreater.description>
+  <LotM_MythicalFormWolf.label>форма мифического существа</LotM_MythicalFormWolf.label>
+  <LotM_SwordOfDarkness.label>меч тьмы</LotM_SwordOfDarkness.label>
+  <LotM_SwordOfDarkness.description>Вытаскивает из самой глубокой тьмы костяной меч, покрытый странными узорами. В руке с ним тьма подчиняется.</LotM_SwordOfDarkness.description>
+  <LotM_TideOfDarkness.label>прилив тьмы</LotM_TideOfDarkness.label>
+  <LotM_TideOfDarkness.description>Вооружена Мечом Тьмы, и черная, почти невидимая волна наступает, куда бы она ни указывала. Тот, кто оказывается под водой, заражается тьмой; если он умирает, он тает, а волна усиливается.</LotM_TideOfDarkness.description>
+  <LotM_NightmareWorld.label>мир кошмаров</LotM_NightmareWorld.label>
+  <LotM_NightmareWorld.description>Кошмарный мир покрывает всю область. Их союзники в безопасности от безумия; их враги, сонливые и неуклюжие.</LotM_NightmareWorld.description>
+  <LotM_PoemPacifyCity.label>стихотворение: умиротворить город</LotM_PoemPacifyCity.label>
+  <LotM_PoemPacifyCity.description>Песня, способная усыпить целый город. Свет тускнеет, как будто проносятся облака.</LotM_PoemPacifyCity.description>
+  <LotM_IntangibleSpirit.label>нематериальный дух</LotM_IntangibleSpirit.label>
+  <LotM_IntangibleSpirit.description>Неосязающий дух окутывает их и уносит в Зеркальный Мир. Ничто не касается их, но они также не могут навредить чему-либо.</LotM_IntangibleSpirit.description>
+  <LotM_Conceal.label>скрыть</LotM_Conceal.label>
+  <LotM_Conceal.description>Удаляет цель из мира, желая или нет. Враг исчезает на некоторое время; союзник остается в безопасности, но не может действовать.</LotM_Conceal.description>
+  <LotM_ConcealedWorld.label>скрытый мир</LotM_ConcealedWorld.label>
+  <LotM_ConcealedWorld.description>Сокрывает целое место. То, что происходит внутри, не вредит реальному миру, враги внутри не могут уйти, и ничто извне не достигает их.</LotM_ConcealedWorld.description>
+  <LotM_RevealConcealment.label>обратное сокрытие</LotM_RevealConcealment.label>
+  <LotM_RevealConcealment.description>Отменяет то, что скрыто вокруг цели: невидимое, замаскированное и сокрытое раскрывается. На том, кто теряет себя, это может вырвать то, что его поглощает.</LotM_RevealConcealment.description>
+  <LotM_SecretField.label>поле тайны</LotM_SecretField.label>
+  <LotM_SecretField.description>Окружает область полем, где всё тайно: их союзников нельзя увидеть или предсказать, пока они не нападут.</LotM_SecretField.description>
+  <LotM_ConcealColony.label>скрыть колонию</LotM_ConcealColony.label>
+  <LotM_ConcealColony.description>Скрывает всю колонию. Несколько дней найти её намного сложнее.</LotM_ConcealColony.description>
+  <LotM_MisfortuneMap.label>власть несчастья</LotM_MisfortuneMap.label>
+  <LotM_MisfortuneMap.description>Вызывает несчастье на всех их врагов в области. Даже небо поворачивается против них.</LotM_MisfortuneMap.description>
+  <LotM_MisfortuneFaction.label>несчастье над народом</LotM_MisfortuneFaction.label>
+  <LotM_MisfortuneFaction.description>Проклинает всё население цели. Где бы они ни находились, несчастье следует за ними.</LotM_MisfortuneFaction.description>
+  <LotM_TideOfDarknessGreater.label>великая волна тьмы</LotM_TideOfDarknessGreater.label>
+  <LotM_TideOfDarknessGreater.description>Более длинный, широкий прилив, который приносит вечный покой, отчаяние и разрушение. Он ломает всё, что построено на его пути, и каждая вещь, которую он ломает, немного изнашивает его.</LotM_TideOfDarknessGreater.description>
+  <LotM_CommandSpirits.label>командир духов</LotM_CommandSpirits.label>
+  <LotM_CommandSpirits.description>Усыпляет и командует духами и мёртвыми в зоне. Пораженные подчиняются им; слабые вечно отдыхают.</LotM_CommandSpirits.description>
+  <LotM_EnterDream.label>войти в сон</LotM_EnterDream.label>
+  <LotM_EnterDream.description>Входит в сон спящего и наполняет его страхом, пока их дух не сломается.</LotM_EnterDream.description>
+  <LotM_SoulGlide.label>пройти сквозь</LotM_SoulGlide.label>
+  <LotM_SoulGlide.description>Душа проходит сквозь стены, горы и закрытые двери туда, куда ей хочется.</LotM_SoulGlide.description>
+  <LotM_PoemHorrorGreater.label>стихотворение: ужас</LotM_PoemHorrorGreater.label>
+  <LotM_PoemHorrorGreater.description>Поэма о том, что таится в ночи, для всей области. Тот, кто это слышит, испытывает ужас, который невозможно объяснить.</LotM_PoemHorrorGreater.description>
+  <LotM_HorrorGaze.label>взгляд ужаса</LotM_HorrorGaze.label>
+  <LotM_HorrorGaze.description>Они смотрят прямо на них, и весь ужас ложится только на одного. Они бегут в ужасе; слабые могут потерять контроль или умереть от страха.</LotM_HorrorGaze.description>
+  <LotM_ConcealThing.label>скрыть вещь</LotM_ConcealThing.label>
+  <LotM_ConcealThing.description>Удаляет здание или предмет из мира на некоторое время. Затем он возвращается на место.</LotM_ConcealThing.description>
+  <LotM_SerenityGaze.label>спокойный взгляд</LotM_SerenityGaze.label>
+  <LotM_SerenityGaze.description>Их глаза приносят спокойствие из самой глубины. Враг перестаёт сражаться; союзник теряет всё, что их мучает.</LotM_SerenityGaze.description>
+  <LotM_DarkNight.label>темная ночь</LotM_DarkNight.label>
+  <LotM_DarkNight.description>Приносит кромешную тьму на место. В ней они почти невозможно убить по-настоящему.</LotM_DarkNight.description>
+</LanguageData>

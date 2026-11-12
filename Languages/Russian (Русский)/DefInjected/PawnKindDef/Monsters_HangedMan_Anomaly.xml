@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_A_LostSuppliant.label>потерянный проситель</LotM_A_LostSuppliant.label>
+  <LotM_A_LostListener.label>потерянный слушатель</LotM_A_LostListener.label>
+  <LotM_A_LostShadowAscetic.label>потерянный теневой аскет</LotM_A_LostShadowAscetic.label>
+  <LotM_A_LostRoseBishop.label>потерянный розовый епископ</LotM_A_LostRoseBishop.label>
+  <LotM_A_LostShepherd.label>потерянный пастух</LotM_A_LostShepherd.label>
+  <LotM_A_LostBlackKnight.label>потерянный чёрный рыцарь</LotM_A_LostBlackKnight.label>
+  <LotM_A_LostTrinityTemplar.label>потерянный рыцарь триады</LotM_A_LostTrinityTemplar.label>
+  <LotM_A_LostProfanePresbyter.label>потерянный профанный пресбитер</LotM_A_LostProfanePresbyter.label>
+  <LotM_A_LostDarkAngel.label>потерянный тёмный ангел</LotM_A_LostDarkAngel.label>
+  <LotM_FragmentFlesh_Bulbfreak.label>фрагмент чёрного рыцаря</LotM_FragmentFlesh_Bulbfreak.label>
+  <LotM_FragmentFlesh_Toughspike.label>фрагмент низшего чёрного рыцаря</LotM_FragmentFlesh_Toughspike.label>
+  <LotM_FragmentFlesh_Trispike.label>крошечный фрагмент чёрного рыцаря</LotM_FragmentFlesh_Trispike.label>
+  <LotM_FleshServantA.label>плотский слуга</LotM_FleshServantA.label>
+</LanguageData>

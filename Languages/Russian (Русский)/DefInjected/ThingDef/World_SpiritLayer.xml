@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_SpiritWisp.label>блуждающий свет</LotM_SpiritWisp.label>
+  <LotM_SpiritWisp.description>Маленький свет из Мира духов, который блуждает бесцельно. Он никому не вредит; если кто-то смотрит на него вблизи, он уплывает.</LotM_SpiritWisp.description>
+  <LotM_SpiritWisp.tools.0.label>кисть</LotM_SpiritWisp.tools.0.label>
+  <LotM_SpiritCurious.label>любопытный дух</LotM_SpiritCurious.label>
+  <LotM_SpiritCurious.description>Маленькое существо Мира духов, все глаза и маленькие ноги из дыма. Если кто-то его видит, оно следует за ними повсюду: оно приносит неудачу и странные сны.</LotM_SpiritCurious.description>
+  <LotM_SpiritCurious.tools.0.label>сжатие</LotM_SpiritCurious.tools.0.label>
+  <LotM_BizarroBane.label>Уничтожитель Бизарро</LotM_BizarroBane.label>
+  <LotM_BizarroBane.description>Существо Мира духов, сделанное из червей, с главным глазом, который никогда не перестает смотреть. Оно охотится на того, кто его видит.</LotM_BizarroBane.description>
+  <LotM_BizarroBane.tools.0.label>укус червя</LotM_BizarroBane.tools.0.label>
+  <LotM_BizarroBane.tools.1.label>взгляд</LotM_BizarroBane.tools.1.label>
+  <LotM_SpiritAncient.label>Древнее существо Мира духов</LotM_SpiritAncient.label>
+  <LotM_SpiritAncient.description>Что жило в Мире духов с незапамятных времен: огромная, сделанная из огней, не имеющих цвета. Взгляд на неё повреждает разум, и ей не нравится, когда на неё смотрят.</LotM_SpiritAncient.description>
+  <LotM_SpiritAncient.tools.0.label>щупальца света</LotM_SpiritAncient.tools.0.label>
+  <LotM_SpiritAncient.tools.1.label>взгляд</LotM_SpiritAncient.tools.1.label>
+</LanguageData>

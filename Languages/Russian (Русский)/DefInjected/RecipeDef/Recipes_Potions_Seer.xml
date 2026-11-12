@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_Potion_Seer.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Seer.jobString>
+  <LotM_Make_Potion_Seer.label>приготовить зелье: Провидец</LotM_Make_Potion_Seer.label>
+  <LotM_Make_Potion_Clown.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Clown.jobString>
+  <LotM_Make_Potion_Clown.label>приготовить зелье: Клоун</LotM_Make_Potion_Clown.label>
+  <LotM_Make_Potion_Clown.description>Смешать целый стебель розы с человеческим лицом или характеристику Потустороннего «Клоун» с соком дурмана и порошком черноокаймлённого подсолнуха.</LotM_Make_Potion_Clown.description>
+  <LotM_Make_Potion_Magician.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Magician.jobString>
+  <LotM_Make_Potion_Magician.label>приготовить зелье: Фокусник</LotM_Make_Potion_Magician.label>
+  <LotM_Make_Potion_Faceless.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Faceless.jobString>
+  <LotM_Make_Potion_Faceless.label>приготовить зелье: Безликий</LotM_Make_Potion_Faceless.label>
+  <LotM_Make_Potion_Marionettist.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Marionettist.jobString>
+  <LotM_Make_Potion_Marionettist.label>приготовить зелье: Марионеточник</LotM_Make_Potion_Marionettist.label>
+  <LotM_Make_Potion_BizarroSorcerer.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_BizarroSorcerer.jobString>
+  <LotM_Make_Potion_BizarroSorcerer.label>приготовить зелье: Причудливый колдун</LotM_Make_Potion_BizarroSorcerer.label>
+  <LotM_Make_Potion_ScholarOfYore.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_ScholarOfYore.jobString>
+  <LotM_Make_Potion_ScholarOfYore.label>приготовить зелье: Знаток былого</LotM_Make_Potion_ScholarOfYore.label>
+  <LotM_Make_Potion_MiracleInvoker.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_MiracleInvoker.jobString>
+  <LotM_Make_Potion_MiracleInvoker.label>приготовить зелье: Чудотворец</LotM_Make_Potion_MiracleInvoker.label>
+  <LotM_Make_Potion_AttendantOfMysteries.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_AttendantOfMysteries.jobString>
+  <LotM_Make_Potion_AttendantOfMysteries.label>приготовить зелье: Служитель тайн</LotM_Make_Potion_AttendantOfMysteries.label>
+  <LotM_Make_Potion_Seer.description>Смешай звездный кристалл (или характеристику Потустороннего Провидца) с ночной ванильной жидкостью и золотыми мятой листьями.</LotM_Make_Potion_Seer.description>
+  <LotM_Make_Potion_Magician.description>Смешивает спинномозговую жидкость черного пантеры с черными пятнами (или характеристику Потустороннего Мага) с порошком капель драгоценных камней и эфирным маслом фантастической травы.</LotM_Make_Potion_Magician.description>
+  <LotM_Make_Potion_Faceless.description>Смешай мутировавную гипофизарную железу тысячиликого охотника (или характеристику Потустороннего Безликого) с кровью тысячиликого охотника и порошком из зубов дракона.</LotM_Make_Potion_Faceless.description>
+  <LotM_Make_Potion_Marionettist.description>Смешайте древнюю тварь пыли (или характеристику Марионеточника Потустороннего) с золотой родниковой водой и корой древа дракона.</LotM_Make_Potion_Marionettist.description>
+  <LotM_Make_Potion_BizarroSorcerer.description>Смешивает главный глаз Бизарро Бэйна (или характеристику Потустороннего Мага) с кровью Бизарро Бэйна и красноволосой берестой.</LotM_Make_Potion_BizarroSorcerer.description>
+  <LotM_Make_Potion_ScholarOfYore.description>Смешать трансформированное сердце туманного демонического волка (или характеристика Потустороннего Знатока былого) с кристаллом белого инея туманного волка и подлинными древними историческими записями.</LotM_Make_Potion_ScholarOfYore.description>
+  <LotM_Make_Potion_MiracleInvoker.description>Смешать сердце тёмного демонического волка (или характеристику Потустороннего Чудотворца) с кровью тёмного демонического волка и Червем Времени.</LotM_Make_Potion_MiracleInvoker.description>
+  <LotM_Make_Potion_AttendantOfMysteries.description>Смешивает характеристику Служителя тайн Потустороннего с 9 × специализацией Мира духов. Нет другого способа: в мире только три.</LotM_Make_Potion_AttendantOfMysteries.description>
+</LanguageData>

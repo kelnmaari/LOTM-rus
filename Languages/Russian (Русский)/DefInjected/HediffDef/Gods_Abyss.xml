@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_AbyssDemonized.label>демонизированный</LotM_AbyssDemonized.label>
+  <LotM_AbyssDemonized.description>Свет Чёрной Луны демонизировал их: они сражаются с Бездной до рассвета.</LotM_AbyssDemonized.description>
+  <LotM_AbyssGodCurse.label>проклятие духа</LotM_AbyssGodCurse.label>
+  <LotM_AbyssGodCurse.description>Проклинает дух и разум любого на карте, не видя их: в течение недели их безумие возрастает, их духовность не восстанавливается, и они несут одно из пяти проклятий Блатерера. Только бог может сопротивляться этому.</LotM_AbyssGodCurse.description>
+  <LotM_AbyssSoulPact.label>контракт души</LotM_AbyssSoulPact.label>
+  <LotM_AbyssSoulPact.description>Они заключили пакт с Бездной: он даровал им желание, и когда они умирают, их душа уходит в Бездну.</LotM_AbyssSoulPact.description>
+  <LotM_AbyssPactSouls.label>души в Бездне</LotM_AbyssPactSouls.label>
+  <LotM_AbyssPactSouls.description>Души контрактов, достигших Бездны: каждая немного увеличивает свою максимальную духовность. Они угасают в течение дней.</LotM_AbyssPactSouls.description>
+  <LotM_AbyssYearning.label>тоска</LotM_AbyssYearning.label>
+  <LotM_AbyssYearning.description>Они посмотрели в Бездонную и увидели то, чего желали больше всего: они опустили оружие и пошли к нему, загипнотизированные.</LotM_AbyssYearning.description>
+</LanguageData>

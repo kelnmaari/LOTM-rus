@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_AbyssSmokeCloud.label>токсичный чёрный дым</LotM_AbyssSmokeCloud.label>
+  <LotM_AbyssSmokeCloud.description>Чёрный дым Некрылатого Ангела: он блокирует зрение и отравляет врагов.</LotM_AbyssSmokeCloud.description>
+  <LotM_AbyssDevil.label>проекция Дьявола</LotM_AbyssDevil.label>
+  <LotM_AbyssDevil.description>Проекция Дьявола Бездны, призванная с помощью ритуала Убийцы серий. В теории он подчиняется тому, кто его призвал.</LotM_AbyssDevil.description>
+  <LotM_AbyssDevil.tools.0.label>Когти</LotM_AbyssDevil.tools.0.label>
+  <LotM_AbyssDevil.tools.1.label>Рога</LotM_AbyssDevil.tools.1.label>
+  <LotM_AbyssLavaSword.label>меч лавы</LotM_AbyssLavaSword.label>
+  <LotM_AbyssLavaSword.description>Переключатель: в руке он создает огромный меч в форме скипетра из пламени с чрезвычайно высокой силой атаки. Он бьет живых намного сильнее (меньше против нежити и испорченных), и один удар прорезает каменную колонну или стену, оставляя ее как расплавленную. Потребляет духовность в час.</LotM_AbyssLavaSword.description>
+  <LotM_AbyssLavaSword.tools.0.label>лавовая лезвие</LotM_AbyssLavaSword.tools.0.label>
+  <LotM_AbyssLavaSword.tools.1.label>Кончик</LotM_AbyssLavaSword.tools.1.label>
+  <LotM_Projectile_AbyssSulfurBall.label>огненный шар серы</LotM_Projectile_AbyssSulfurBall.label>
+  <LotM_AbyssEruption.label>вулканическое извержение</LotM_AbyssEruption.label>
+  <LotM_AbyssEruption.description>Земля раскололась Дьяволом: извергаются огонь и лава.</LotM_AbyssEruption.description>
+  <LotM_Filth_Abyssal.label>бездонная грязь</LotM_Filth_Abyssal.label>
+  <LotM_AbyssAcidSwamp.label>кислотный болото</LotM_AbyssAcidSwamp.label>
+  <LotM_AbyssAcidSwamp.description>Земля в этом районе превращается в кислотную грязь на двадцать секунд: их враги тонут, замедляется и сгорают. Она пачкает пол.</LotM_AbyssAcidSwamp.description>
+  <LotM_AbyssCorrosiveFog.label>коррозионный туман</LotM_AbyssCorrosiveFog.label>
+  <LotM_AbyssCorrosiveFog.description>Черный и зеленоватый туман покрывает область на полминуты. Он разъедает одежду и броню их врагов, пока они не распадаются, отравляет их и повреждает механоидов.</LotM_AbyssCorrosiveFog.description>
+  <LotM_AbyssFilthyIllusion.label>грязная иллюзия</LotM_AbyssFilthyIllusion.label>
+  <LotM_AbyssFilthyIllusion.description>Три фигуры в их форме появляются в месте: враги стреляют в них, и пару попаданий отменяет их. Они существуют полминуты.</LotM_AbyssFilthyIllusion.description>
+  <LotM_AbyssBloodPool.label>корродиющая кровь</LotM_AbyssBloodPool.label>
+  <LotM_AbyssBloodPool.description>Проливает свою кровь и телесные жидкости на область на полминуты: они разъедают, отравляют и заставляют врагов кровоточить, а также разъедают их броню. Каждая капля их крови, оставленная на земле, является путём назад, если они умрут.</LotM_AbyssBloodPool.description>
+  <LotM_Filth_ArchdukeBlood.label>кровь архидука</LotM_Filth_ArchdukeBlood.label>
+</LanguageData>

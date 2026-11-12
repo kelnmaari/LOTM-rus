@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Characteristic_Warrior.label>Характеристика Потустороннего Воина</LotM_Characteristic_Warrior.label>
+  <LotM_Characteristic_Warrior.description>То, что осталось от Воина после смерти. Это запутанная масса плоти, которая медленно извивается.</LotM_Characteristic_Warrior.description>
+  <LotM_Characteristic_Pugilist.label>Характеристика Потустороннего Бойца</LotM_Characteristic_Pugilist.label>
+  <LotM_Characteristic_Pugilist.description>То, что осталось от Бойца после смерти. Сфера чистого света с кулак младенца, красная и золотая, как облака на рассвете и на закате. Внутри пляшет слабый огонёк.</LotM_Characteristic_Pugilist.description>
+  <LotM_Characteristic_WeaponMaster.label>Характеристика Потустороннего Мастера Оружия</LotM_Characteristic_WeaponMaster.label>
+  <LotM_Characteristic_WeaponMaster.description>То, что осталось от Мастера Оружия после смерти. Это холодная, запятнанная кровью кость в форме длинного меча.</LotM_Characteristic_WeaponMaster.description>
+  <LotM_Characteristic_DawnPaladin.label>Характеристика Потустороннего Паладина Рассвета</LotM_Characteristic_DawnPaladin.label>
+  <LotM_Characteristic_DawnPaladin.description>То, что осталось от Рассветного Паладина после смерти. Это кристалл, сформированный частицами утреннего света и текущей воды.</LotM_Characteristic_DawnPaladin.description>
+  <LotM_Characteristic_Guardian.label>Характеристика Потустороннего Стража</LotM_Characteristic_Guardian.label>
+  <LotM_Characteristic_Guardian.description>Что осталось от Стража после смерти. Он размером с кулак и выглядит как сердце, полное дыр, сияющее светом рассвета.</LotM_Characteristic_Guardian.description>
+  <LotM_Characteristic_DemonHunter.label>Характеристика Потустороннего Охотника на Демонов</LotM_Characteristic_DemonHunter.label>
+  <LotM_Characteristic_DemonHunter.description>Что осталось от Охотника за Демонами после смерти. Это предмет в форме вертикального глаза, сотканный из тёмно-зелёных символов.</LotM_Characteristic_DemonHunter.description>
+  <LotM_Characteristic_SilverKnight.label>Характеристика Потустороннего Серебряного Рыцаря</LotM_Characteristic_SilverKnight.label>
+  <LotM_Characteristic_SilverKnight.description>Что осталось от Серебряного Рыцаря после смерти. Это масса серебристо-белого блеска, подобная миниатюрному солнцу в форме сердца.</LotM_Characteristic_SilverKnight.description>
+  <LotM_Characteristic_Glory.label>характеристика Потустороннего Славы</LotM_Characteristic_Glory.label>
+  <LotM_Characteristic_Glory.description>Что осталось от Славы после смерти. Это чистый квадратный камень, излучающий божественный свет.</LotM_Characteristic_Glory.description>
+  <LotM_Characteristic_HandOfGod.label>Характеристика Потусторонней Руки Бога</LotM_Characteristic_HandOfGod.label>
+  <LotM_Characteristic_HandOfGod.description>То, что осталось от Руки Бога после смерти. Это гигантская рука, сине-черная и полупрозрачная, с множеством божественных узоров.</LotM_Characteristic_HandOfGod.description>
+</LanguageData>

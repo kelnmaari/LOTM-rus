@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_RogueBeyonderSite.label>разбойничий Потусторонний</LotM_RogueBeyonderSite.label>
+  <LotM_RogueBeyonderSite.description>Потусторонний потерял контроль здесь. То, что осталось, всё ещё свободно... и несёт свою характеристику внутрь.</LotM_RogueBeyonderSite.description>
+  <LotM_RogueBeyonderSite.arrivedLetter>Воздух вибрирует. Что-то, что когда-то было Потусторонним, ждет здесь.</LotM_RogueBeyonderSite.arrivedLetter>
+  <LotM_AngelLairSite.label>убежище ангела</LotM_AngelLairSite.label>
+  <LotM_AngelLairSite.description>Здесь находится один из трёх Служителей тайн, окружённый своими марионетками.</LotM_AngelLairSite.description>
+  <LotM_AngelLairSite.arrivedLetter>Воздух становится тяжёлым, а свет дрожит. Здесь ждёт высокий ангел.</LotM_AngelLairSite.arrivedLetter>
+  <LotM_UniquenessSite.label>Уникальность</LotM_UniquenessSite.label>
+  <LotM_UniquenessSite.description>Уникальность пути пульсирует здесь. Они были не единственными, кто это почувствовал.</LotM_UniquenessSite.description>
+  <LotM_UniquenessSite.arrivedLetter>Что-то пульсирует в сердце этого места. Другие пришли сюда раньше, ища это.</LotM_UniquenessSite.arrivedLetter>
+</LanguageData>

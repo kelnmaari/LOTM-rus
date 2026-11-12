@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_A_LostAssassin.label>потерянный ассасин</LotM_A_LostAssassin.label>
+  <LotM_A_LostAssassin.description>Убийца, потерявший контроль. Это шипастая тень, которая скользит во тьму и прыгает на того, кто ослабил бдительность.</LotM_A_LostAssassin.description>
+  <LotM_A_LostAssassin.tools.0.label>Когти</LotM_A_LostAssassin.tools.0.label>
+  <LotM_A_LostAssassin.tools.1.label>укус</LotM_A_LostAssassin.tools.1.label>
+  <LotM_A_LostInstigator.label>потерянный интригант</LotM_A_LostInstigator.label>
+  <LotM_A_LostInstigator.description>Подстрекатель, потерявший контроль. Его бормотание пробуждает худшие желания: те, кто слышит его, атакуют друг друга.</LotM_A_LostInstigator.description>
+  <LotM_A_LostInstigator.tools.0.label>щупальца</LotM_A_LostInstigator.tools.0.label>
+  <LotM_A_LostInstigator.tools.1.label>укус</LotM_A_LostInstigator.tools.1.label>
+  <LotM_A_LostWitch.label>потерянная ведьма</LotM_A_LostWitch.label>
+  <LotM_A_LostWitch.description>Ведьма, потерявшая контроль. Она горит чёрными пламенями, которые не зажигают ничего и оставляют иней повсюду, куда она идёт.</LotM_A_LostWitch.description>
+  <LotM_A_LostWitch.tools.0.label>Когти</LotM_A_LostWitch.tools.0.label>
+  <LotM_A_LostWitch.tools.1.label>укус</LotM_A_LostWitch.tools.1.label>
+  <LotM_A_LostPleasure.label>потерянное Удовольствие</LotM_A_LostPleasure.label>
+  <LotM_A_LostPleasure.description>Демонесса наслаждений, потерявшая контроль. Это розовое чудовище, завёрнутое в шёлковые нити, которые связывают любого, кто подходит близко.</LotM_A_LostPleasure.description>
+  <LotM_A_LostPleasure.tools.0.label>Когти</LotM_A_LostPleasure.tools.0.label>
+  <LotM_A_LostPleasure.tools.1.label>укус</LotM_A_LostPleasure.tools.1.label>
+  <LotM_A_LostAffliction.label>потерянное Недуг</LotM_A_LostAffliction.label>
+  <LotM_A_LostAffliction.description>Демонесса Обличения, которая потеряла контроль. Это черная зеленоватая масса, которая выделяет патогены вокруг себя и горит черным пламенем.</LotM_A_LostAffliction.description>
+  <LotM_A_LostAffliction.tools.0.label>Когти</LotM_A_LostAffliction.tools.0.label>
+  <LotM_A_LostAffliction.tools.1.label>волосы</LotM_A_LostAffliction.tools.1.label>
+  <LotM_A_LostDespair.label>потерянное Отчаяние</LotM_A_LostDespair.label>
+  <LotM_A_LostDespair.description>Демонесса Отчаяния, потерявшая контроль: огромный зверь с массой змей вместо волос. Его дыхание — это чума, а то, чем он кусает, превращается в камень.</LotM_A_LostDespair.description>
+  <LotM_A_LostDespair.tools.0.label>Когти</LotM_A_LostDespair.tools.0.label>
+  <LotM_A_LostDespair.tools.1.label>Змеи</LotM_A_LostDespair.tools.1.label>
+  <LotM_A_LostUnaging.label>потерянное Бессмертие</LotM_A_LostUnaging.label>
+  <LotM_A_LostUnaging.description>Демонесса бессмертного, которая потеряла контроль: гигантская Горгона, серая как камень, которая пересоздает себя в зеркалах. То, на что смотрят её змеи, превращается в камень.</LotM_A_LostUnaging.description>
+  <LotM_A_LostUnaging.tools.0.label>Когти</LotM_A_LostUnaging.tools.0.label>
+  <LotM_A_LostUnaging.tools.1.label>Змеи</LotM_A_LostUnaging.tools.1.label>
+  <LotM_A_LostCatastrophe.label>потерянная Катастрофа</LotM_A_LostCatastrophe.label>
+  <LotM_A_LostCatastrophe.description>Демонесса Катастрофы, потерявшая контроль: гигантская Горгона, ледяно-синяя, с короной из змей. Куда бы она ни шла, падает молния, а всё, что было разбито, продолжает разбиваться.</LotM_A_LostCatastrophe.description>
+  <LotM_A_LostCatastrophe.tools.0.label>Когти</LotM_A_LostCatastrophe.tools.0.label>
+  <LotM_A_LostCatastrophe.tools.1.label>Змеи</LotM_A_LostCatastrophe.tools.1.label>
+  <LotM_A_LostApocalypse.label>потерянное Апокалипсис</LotM_A_LostApocalypse.label>
+  <LotM_A_LostApocalypse.description>Демонесса Апокалипсиса, потерявшая контроль: огромная масса почти черной фиолетовой плоти, завернутая в черные пламя и осколки зеркал. Всё, к чему она прикасается, приближается к концу.</LotM_A_LostApocalypse.description>
+  <LotM_A_LostApocalypse.tools.0.label>Когти</LotM_A_LostApocalypse.tools.0.label>
+  <LotM_A_LostApocalypse.tools.1.label>Змеи</LotM_A_LostApocalypse.tools.1.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Altar_Giant.label>трон Бога Боя</LotM_Altar_Giant.label>
+  <LotM_Altar_Giant.description>Сердце Святилища Бога Боя: трон из тёмного камня под заходящим солнцем, окружённый оружием, вон진ным в ступени. Его комната должна быть залом славы: стены из камня или металла, и качественное оружие и доспехи хранятся внутри. Сломать трон ослабит его.</LotM_Altar_Giant.description>
+  <LotM_KingdomWallTwilight.label>камень сумерек</LotM_KingdomWallTwilight.label>
+  <LotM_KingdomWallTwilight.description>Камень, застывший в течении времени: край Земли Сумерек. Ничто не проходит сквозь него и не разрушает его.</LotM_KingdomWallTwilight.description>
+  <LotM_TwilightVeil.label>Сумерки</LotM_TwilightVeil.label>
+  <LotM_TwilightVeil.description>Сумерки умирающего бога, поглощающего его королевство: всё, что остается внутри, стареет и ржавеет.</LotM_TwilightVeil.description>
+  <LotM_KingdomTwilightTrap.label>печать сумерек</LotM_KingdomTwilightTrap.label>
+  <LotM_KingdomTwilightTrap.description>Печать Земли Сумерек. Тот, кто на неё наступит, застынет во времени на мгновение и состарится.</LotM_KingdomTwilightTrap.description>
+</LanguageData>

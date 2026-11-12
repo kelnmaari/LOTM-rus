@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_DoorRend.label>открытие</LotM_DoorRend.label>
+  <LotM_DoorRend.deathMessage>У {0} открылась Дверь в его теле.</LotM_DoorRend.deathMessage>
+</LanguageData>

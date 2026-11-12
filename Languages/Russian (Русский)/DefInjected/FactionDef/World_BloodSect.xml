@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_BloodSect.label>Секта Освящения Крови</LotM_BloodSect.label>
+  <LotM_BloodSect.fixedName>Секта Освящения Крови</LotM_BloodSect.fixedName>
+  <LotM_BloodSect.description>Рабы Фарбаути, бога Бездны. Их вера — это освящение крови, а их верные — Потусторонние Бездны: преступники, убийцы, дьяволы и демоны, принявшие их порочность.
+
+Секта разделена на три демонические семьи, которые живут в роскоши рядом со своим богом, в самой Бездне: Нойс, крови и желания; Берия, слов и проклятий; и Андариэль, огня и грязи. Каждая возглавляется Кровавым Архидухом. Они враги всех, и время от времени они приходят за тем, что хотят.</LotM_BloodSect.description>
+  <LotM_BloodSect.pawnSingular>Секта Блида</LotM_BloodSect.pawnSingular>
+  <LotM_BloodSect.pawnsPlural>Секта Блида</LotM_BloodSect.pawnsPlural>
+  <LotM_BloodSect.leaderTitle>бог</LotM_BloodSect.leaderTitle>
+</LanguageData>

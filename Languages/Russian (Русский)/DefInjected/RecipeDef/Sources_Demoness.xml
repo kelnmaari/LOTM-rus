@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_StrongVinegar.label>приготовить крепкий уксус</LotM_Make_StrongVinegar.label>
+  <LotM_Make_StrongVinegar.description>Делай пиво кислым до тех пор, пока оно не станет уксусом, который заставляет глаза слезиться. Зелье Убийцы нуждается в этом.</LotM_Make_StrongVinegar.description>
+  <LotM_Make_StrongVinegar.jobString>Приготовление крепкого уксуса.</LotM_Make_StrongVinegar.jobString>
+  <LotM_Make_WitchPowder.label>измельчить ведьминский порошок</LotM_Make_WitchPowder.label>
+  <LotM_Make_WitchPowder.description>Измельчает травы, серебро и немного сока джимсонного вереска в порошок, который мерцает. Колдовство меньшего зла Ведьмы использует его.</LotM_Make_WitchPowder.description>
+  <LotM_Make_WitchPowder.jobString>Измельчение ведьминского порошка.</LotM_Make_WitchPowder.jobString>
+  <LotM_Make_BlackJimsonweedJuice.label>приготовить сок черного джинсового растения</LotM_Make_BlackJimsonweedJuice.label>
+  <LotM_Make_BlackJimsonweedJuice.description>Черни пищу из джинсового растения с ведьминской пудрой, пока она не станет похожа на чернила. Зелье Удовольствия нуждается в этом.</LotM_Make_BlackJimsonweedJuice.description>
+  <LotM_Make_BlackJimsonweedJuice.jobString>Приготовление черного джимсонного сока.</LotM_Make_BlackJimsonweedJuice.jobString>
+</LanguageData>

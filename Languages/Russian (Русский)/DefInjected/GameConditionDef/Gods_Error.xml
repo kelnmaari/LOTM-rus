@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_ErrorStolenDay.label>украденный день</LotM_ErrorStolenDay.label>
+  <LotM_ErrorStolenDay.description>Червь Времени украл день: ночь, что бы ни показывал часы.</LotM_ErrorStolenDay.description>
+  <LotM_ErrorStolenDay.endMessage>День вернулся.</LotM_ErrorStolenDay.endMessage>
+  <LotM_ErrorStolenNight.label>Украденная ночь</LotM_ErrorStolenNight.label>
+  <LotM_ErrorStolenNight.description>Червь Времени украл ночь: день, что бы ни показывал часы.</LotM_ErrorStolenNight.description>
+  <LotM_ErrorStolenNight.endMessage>Ночь вернулась.</LotM_ErrorStolenNight.endMessage>
+  <LotM_ErrorTimeChaos.label>хаос времени</LotM_ErrorTimeChaos.label>
+  <LotM_ErrorTimeChaos.description>Червь Времени украл и день, и ночь: небо перескакивает с одного на другое, и погода меняется без причины.</LotM_ErrorTimeChaos.description>
+  <LotM_ErrorTimeChaos.endMessage>Время вернулось в свой порядок.</LotM_ErrorTimeChaos.endMessage>
+  <LotM_ErrorWorld.label>царство ошибки</LotM_ErrorWorld.label>
+  <LotM_ErrorWorld.description>Божественное царство Ошибки: ошибочная среда. Силы их врагов иногда дают сбой, и их удары иногда направляются на самих себя.</LotM_ErrorWorld.description>
+  <LotM_ErrorWorld.endMessage>Мир вернулся к своим правилам.</LotM_ErrorWorld.endMessage>
+</LanguageData>

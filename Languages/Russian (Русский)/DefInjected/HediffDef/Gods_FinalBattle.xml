@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_GodDying.label>умирающий</LotM_GodDying.label>
+  <LotM_GodDying.description>Их королевство рушится вместе с ними. Они больше не имеют своей мифической формы: они лежат на земле, не в силах двигаться, горя, пока не погаснет последний свет.</LotM_GodDying.description>
+  <LotM_KingdomSleep.label>усыпленный Тьмой</LotM_KingdomSleep.label>
+  <LotM_KingdomSleep.description>Тьма королевства усыпила их. Они просыпаются, если другой колонист подходит близко (или сам, со временем).</LotM_KingdomSleep.description>
+  <LotM_ShadowGrasp.label>захвачен тенями</LotM_ShadowGrasp.label>
+  <LotM_ShadowGrasp.description>Тени королевства держат их: они едва могут пошевелиться.</LotM_ShadowGrasp.description>
+</LanguageData>

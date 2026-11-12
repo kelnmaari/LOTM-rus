@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_StolenCharm.label>украденное чары</LotM_StolenCharm.label>
+  <LotM_StolenCharm.description>Очарование, сделанное с ответом «Пожиратель снов», замаскированное под последователя, украло у бога. Тот, кто его использует, получает благословение домена этого бога на один день. Оно расходуется.</LotM_StolenCharm.description>
+  <LotM_StolenCharm.comps.1.useLabel>использовать украденный амулет</LotM_StolenCharm.comps.1.useLabel>
+  <LotM_ErrorTheftCharm.label>чары кражи</LotM_ErrorTheftCharm.label>
+  <LotM_ErrorTheftCharm.description>Оберег, сделанный из трупа Червя Времени. Использование его расходует его и готовит силу "кража (оберег)": его можно использовать один раз, когда это необходимо, чтобы украсть у кого-то (до 30 клеток) оружие в их руках или лучшую вещь, которую они несут. Полубоги иногда замечают; ангелы всегда замечают. Любой может его использовать.</LotM_ErrorTheftCharm.description>
+  <LotM_ErrorTheftCharm.comps.1.useLabel>подготовить амулет воровства</LotM_ErrorTheftCharm.comps.1.useLabel>
+  <LotM_ErrorTimeBullet.label>пуля времени</LotM_ErrorTimeBullet.label>
+  <LotM_ErrorTimeBullet.description>Пуля, сделанная из трупа Червя Времени. Она заряжена в огнестрельное оружие (действует один день): следующий выстрел пронзает броню, бьёт сильнее и замораживает цель на несколько секунд. Она израсходована.</LotM_ErrorTimeBullet.description>
+  <LotM_ErrorTimeBullet.comps.1.useLabel>зарядить пулю времени</LotM_ErrorTimeBullet.comps.1.useLabel>
+</LanguageData>

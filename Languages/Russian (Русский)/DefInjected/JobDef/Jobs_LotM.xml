@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_ChannelThreads.reportString>тянуть нити ЦелиA.</LotM_ChannelThreads.reportString>
+  <LotM_AbsorbBeyonder.reportString>поедание ЦелиА.</LotM_AbsorbBeyonder.reportString>
+  <LotM_FillHollow.reportString>усваивают ЦельА.</LotM_FillHollow.reportString>
+  <LotM_ErrorAbsorb.reportString>усваивают ЦельА.</LotM_ErrorAbsorb.reportString>
+  <LotM_ChannelPurification.reportString>очищают ЦельА.</LotM_ChannelPurification.reportString>
+  <LotM_WakeAlly.reportString>пробуждение ЦелиА.</LotM_WakeAlly.reportString>
+  <LotM_GuardianKneel.reportString>защищают свой народ.</LotM_GuardianKneel.reportString>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Authority_FleshAndBlood.label>Плоть и кровь</LotM_Authority_FleshAndBlood.label>
+  <LotM_Authority_FleshAndBlood.description>Проявление властей Плоти и Крови, подчиненных власти Мутации.</LotM_Authority_FleshAndBlood.description>
+  <LotM_Authority_FleshAndBlood.passive>Троица: две тёмные головы, одна молодая и одна старая, которые берут раненую треть тела и переделывают его. Бессмертие плоти и кости: пока остаётся одна клетка и вокруг плоть, они восстанавливают, если только их дух не уничтожен. Из Последовательности 2 каждая голова использует более одной души.</LotM_Authority_FleshAndBlood.passive>
+  <LotM_Authority_FleshAndBlood.godLabel>Мутация</LotM_Authority_FleshAndBlood.godLabel>
+  <LotM_Authority_FleshAndBlood.godPassive>Полная Мутация (Плоть и Кровь происходит от нее): он создает испорченные монстры, которые воскресают из ничего во тьме, и мутирует плоть целых групп. Что-то из изменения всего отвечает ему.</LotM_Authority_FleshAndBlood.godPassive>
+  <LotM_Authority_ProfaneLanguage.label>Нечистый язык</LotM_Authority_ProfaneLanguage.label>
+  <LotM_Authority_ProfaneLanguage.description>Голос Дегенерации и Грязи: каждое слово, знак или обмен может обернуться против того, кто его произнёс.</LotM_Authority_ProfaneLanguage.description>
+  <LotM_Authority_ProfaneLanguage.passive>Захваченные слова: тот, кто говорит рядом с ними или с ними, оставляет им свои слова на три дня. Этот человек не может сопротивляться их языку и находится в пределах досягаемости их проклятия.</LotM_Authority_ProfaneLanguage.passive>
+  <LotM_Authority_ProfaneLanguage.godPassive>Порочный язык: враги поблизости, которые слышат его, чувствуют крайнюю боль, и их тела разрываются (чёрные черви и белые мотыльки). Одним словом он достигает целого места, а слабые взрываются в глаза.</LotM_Authority_ProfaneLanguage.godPassive>
+  <LotM_Authority_Shadows.label>Тени</LotM_Authority_Shadows.label>
+  <LotM_Authority_Shadows.description>Правитель Теней: они контролируют и используют Мир Теней, хотя они ещё не являются его хозяевами.</LotM_Authority_Shadows.description>
+  <LotM_Authority_Shadows.passive>Теневые силы не могут их коснуться, и теневые существа подчиняются им. Тень Солнца: огонь и свет наносят им гораздо меньший урон.</LotM_Authority_Shadows.passive>
+  <LotM_Authority_Shadows.godLabel>Повелитель теней</LotM_Authority_Shadows.godLabel>
+  <LotM_Authority_Shadows.godPassive>Владыка Теней: абсолютный мастер Мира Теней, который является его божественным царством. Его тени скрывают: его союзники, стоящие в тени, не могут быть увидены. Он открывает Мир Теней над любым местом.</LotM_Authority_Shadows.godPassive>
+  <LotM_Authority_Degeneration.label>Дегенерация</LotM_Authority_Degeneration.label>
+  <LotM_Authority_Degeneration.description>Они овладевают Дегенерацией: они заставляют людей, существ, машины и даже собственное тело предавать своего владельца.</LotM_Authority_Degeneration.description>
+  <LotM_Authority_Degeneration.passive>Любой, у кого вблизи дегенеративные мысли, не может сопротивляться им и получает больше урона.</LotM_Authority_Degeneration.passive>
+  <LotM_Authority_Degeneration.godLabel>Дегенерированная природа</LotM_Authority_Degeneration.godLabel>
+  <LotM_Authority_Degeneration.godPassive>Он — это дегенеративная природа каждого живого существа: никто не может от него отделиться, в лучшем случае подавить его. Он заставляет тень цепляться за спину того, кого он хочет, перестраивая их, пока они не станут одним из его монстров.</LotM_Authority_Degeneration.godPassive>
+  <LotM_Authority_Darkness.label>тьма</LotM_Authority_Darkness.label>
+  <LotM_Authority_Darkness.description>Воплощение власти Тьмы: чёрный, вязкий океан, пропитанный Дегенерацией.</LotM_Authority_Darkness.description>
+  <LotM_Authority_Darkness.passive>Тьма вокруг них поглощает одного из пяти выстрелов, достигших их.</LotM_Authority_Darkness.passive>
+  <LotM_Authority_Darkness.godLabel>Пожирающая тьма</LotM_Authority_Darkness.godLabel>
+  <LotM_Authority_Darkness.godPassive>Пожирающая Тьма: тот, что поглощает всё и портит сердце. Тот, кто входит в его тени и тьму без достаточного статуса (Последовательность 4 или ниже), погружается в порочность и становится одним из его испорченных монстров.</LotM_Authority_Darkness.godPassive>
+  <LotM_Authority_Filth.label>Воплощение нечистоты</LotM_Authority_Filth.label>
+  <LotM_Authority_Filth.description>Запятнанный Хаосным морем, он может осквернять всё. Вместе с Тьмой и Дегенерацией он проецирует следы влияния Хаосного моря.</LotM_Authority_Filth.description>
+  <LotM_Authority_Filth.passive>Он оскверняет всё, что хочет: грязь, гниль, болезни и треснувшие алтари других богов. Он сеет семена, которые сливаются с духовным телом и изгибают разум и судьбу; их едва ли можно очистить.</LotM_Authority_Filth.passive>
+  <LotM_Authority_Grazing.label>Пастбище</LotM_Authority_Grazing.label>
+  <LotM_Authority_Grazing.description>Власть пастбища, выведенная из символизма Всемогущества.</LotM_Authority_Grazing.description>
+  <LotM_Authority_Grazing.passive>Он без ограничений и риска пастит душу каждого Потустороннего, который умирает на его карте, и получает часть их сил от каждого из них. Он может пасти души мёртвых где угодно и высвобождать их как порочную армию.</LotM_Authority_Grazing.passive>
+  <LotM_Symbolism_SinBearing.label>Несущий грех</LotM_Symbolism_SinBearing.label>
+  <LotM_Symbolism_SinBearing.description>Козел отпущения: он несёт грехи мира.</LotM_Symbolism_SinBearing.description>
+  <LotM_Symbolism_SinBearing.passive>Его верные невинны в глазах мира: Справедливость и силы, осуждающие, не могут до них дотянуться. С козлом отпущения он принимает на себя ущерб и смерть, предназначенную его ближайшим союзникам, а основные атаки врагов направляются на него.</LotM_Symbolism_SinBearing.passive>
+  <LotM_Symbolism_Sacrifice.label>Жертвоприношение</LotM_Symbolism_Sacrifice.label>
+  <LotM_Symbolism_Sacrifice.description>Повешенный: при самопожертвовании он обеспечивает абсолютную надежду.</LotM_Symbolism_Sacrifice.description>
+  <LotM_Symbolism_Sacrifice.passive>Он может пожертвовать собой: он лежит сломленным один день, но его недавно умершие восстают снова, все его союзники полностью исцелены и наполнены абсолютной надеждой.</LotM_Symbolism_Sacrifice.passive>
+</LanguageData>

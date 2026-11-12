@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_VisitorLostControl.label>посетитель теряет контроль</LotM_VisitorLostControl.label>
+  <LotM_SpiritSeepage.label>Просачивание в Мир духов</LotM_SpiritSeepage.label>
+  <LotM_AnomalousNightEvent.label>Аномальная ночь</LotM_AnomalousNightEvent.label>
+  <LotM_HawkChase.label>погоня по вашей земле</LotM_HawkChase.label>
+  <LotM_WoundedBeyonder.label>ранен у ворот</LotM_WoundedBeyonder.label>
+  <LotM_HuntedByChurch.label>беглец просит убежища</LotM_HuntedByChurch.label>
+  <LotM_StrangerPact.label>пакт незнакомца</LotM_StrangerPact.label>
+  <LotM_Diviner.label>провидец</LotM_Diviner.label>
+  <LotM_Preacher.label>проповедник</LotM_Preacher.label>
+  <LotM_CursedItem.label>проклятый предмет</LotM_CursedItem.label>
+  <LotM_MysticMeteor.label>падает мистический материал</LotM_MysticMeteor.label>
+  <LotM_UnsignedLetters.label>неподписанные письма</LotM_UnsignedLetters.label>
+</LanguageData>

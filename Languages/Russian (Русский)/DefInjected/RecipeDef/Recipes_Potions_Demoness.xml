@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_Potion_Assassin.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Assassin.jobString>
+  <LotM_Make_Potion_Assassin.label>приготовить зелье: Убийца</LotM_Make_Potion_Assassin.label>
+  <LotM_Make_Potion_Instigator.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Instigator.jobString>
+  <LotM_Make_Potion_Instigator.label>приготовить зелье: Подстрекатель</LotM_Make_Potion_Instigator.label>
+  <LotM_Make_Potion_Witch.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Witch.jobString>
+  <LotM_Make_Potion_Witch.label>приготовить зелье: Ведьма</LotM_Make_Potion_Witch.label>
+  <LotM_Make_Potion_Pleasure.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Pleasure.jobString>
+  <LotM_Make_Potion_Pleasure.label>приготовить зелье: Наслаждение</LotM_Make_Potion_Pleasure.label>
+  <LotM_Make_Potion_Pleasure.description>Смешать глаза суккуба, прядильную железу чёрной вдовы или характеристику Потустороннего «Наслаждение» с волосами суккуба и соком чёрного дурмана.</LotM_Make_Potion_Pleasure.description>
+  <LotM_Make_Potion_Affliction.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Affliction.jobString>
+  <LotM_Make_Potion_Affliction.label>приготовить зелье: Страдание</LotM_Make_Potion_Affliction.label>
+  <LotM_Make_Potion_Despair.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Despair.jobString>
+  <LotM_Make_Potion_Despair.label>приготовить зелье: Отчаяние</LotM_Make_Potion_Despair.label>
+  <LotM_Make_Potion_Unaging.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Unaging.jobString>
+  <LotM_Make_Potion_Unaging.label>приготовить зелье: Неувядающая</LotM_Make_Potion_Unaging.label>
+  <LotM_Make_Potion_Catastrophe.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Catastrophe.jobString>
+  <LotM_Make_Potion_Catastrophe.label>приготовить зелье: Катастрофа</LotM_Make_Potion_Catastrophe.label>
+  <LotM_Make_Potion_Apocalypse.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Apocalypse.jobString>
+  <LotM_Make_Potion_Apocalypse.label>приготовить зелье: Апокалипсис</LotM_Make_Potion_Apocalypse.label>
+  <LotM_Make_Potion_Assassin.description>Смешивает корни цветка яда тени или перья чёрной змеи-птицы (или характеристику Потустороннего убийцы) с живой пауком и крепким уксусом.</LotM_Make_Potion_Assassin.description>
+  <LotM_Make_Potion_Instigator.description>Смешивает сердце гуида-медоносца из демонического горла или ядную сумку темного странника (или характеристику Потустороннего Инициатора) с сирингом гуида-медоносца из демонического горла и соком джинсового травы.</LotM_Make_Potion_Instigator.description>
+  <LotM_Make_Potion_Witch.description>Смешивает кровь рыбы из бездны или яйцо агата-павлина (или характеристику Потустороннего ведьмы) с чешуей теневого ящера и соком джимсонва.</LotM_Make_Potion_Witch.description>
+  <LotM_Make_Potion_Affliction.description>Смешать голову летучей мыши с лицом или желчный пузырь двуххвостой черной змеи (или характеристику Потустороннего Проказа) с кровью сильно больного человека и кончиком хвоста двуххвостой черной змеи.</LotM_Make_Potion_Affliction.description>
+  <LotM_Make_Potion_Despair.description>Смешай ядную сумку Змеи Матери Чумы или кристалл Серебряного Охотника (или характеристику Потустороннего Отчаяния) с желчью Матери Чумы и кровью семи жертв чумы.</LotM_Make_Potion_Despair.description>
+  <LotM_Make_Potion_Unaging.description>Смешать сердце Зеркального Бога или глаза Горгоны (или неувядающую характеристику Потустороннего) с кровью Горгоны и старинным зеркалом.</LotM_Make_Potion_Unaging.description>
+  <LotM_Make_Potion_Catastrophe.description>Смешивает сердце полной Горгоны (или характеристику Потустороннего катастрофы) с морозом катастрофы и кровью того, кто потерял контроль.</LotM_Make_Potion_Catastrophe.description>
+  <LotM_Make_Potion_Apocalypse.description>Это сделано только с характеристикой Потустороннего Апокалипсиса.</LotM_Make_Potion_Apocalypse.description>
+</LanguageData>

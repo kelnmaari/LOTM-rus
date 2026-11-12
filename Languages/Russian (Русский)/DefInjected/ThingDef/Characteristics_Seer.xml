@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Characteristic_Seer.description>То, что осталось после смерти Провидца. Внутри что-то мерно пульсирует и, кажется, всё ещё думает.</LotM_Characteristic_Seer.description>
+  <LotM_Characteristic_Seer.label>Характеристика Провидца Потустороннего</LotM_Characteristic_Seer.label>
+  <LotM_Characteristic_Clown.label>Характеристика Шута Потустороннего</LotM_Characteristic_Clown.label>
+  <LotM_Characteristic_Clown.description>Что осталось от Клоуна, когда он умер. Он медленно пульсирует, и внутри всё ещё что-то думает.</LotM_Characteristic_Clown.description>
+  <LotM_Characteristic_Magician.label>Характеристика Потустороннего Мага</LotM_Characteristic_Magician.label>
+  <LotM_Characteristic_Magician.description>Что осталось от Мага после смерти. Оно медленно пульсирует, и внутри всё ещё думает.</LotM_Characteristic_Magician.description>
+  <LotM_Characteristic_Faceless.label>Характеристика Потустороннего Безликого</LotM_Characteristic_Faceless.label>
+  <LotM_Characteristic_Faceless.description>Что осталось от Безликого после смерти. Оно медленно пульсирует, и внутри всё ещё думает.</LotM_Characteristic_Faceless.description>
+  <LotM_Characteristic_Marionettist.label>Характеристика Потустороннего Марионеточника</LotM_Characteristic_Marionettist.label>
+  <LotM_Characteristic_Marionettist.description>Что осталось от Марионеточника, когда он умер. Он медленно пульсирует, и внутри всё ещё что-то думает.</LotM_Characteristic_Marionettist.description>
+  <LotM_Characteristic_BizarroSorcerer.label>Характеристика Потустороннего Бизарного Колдуна</LotM_Characteristic_BizarroSorcerer.label>
+  <LotM_Characteristic_BizarroSorcerer.description>Что осталось от Бизарского Чародея, когда он умер. Он медленно пульсирует, и внутри всё ещё что-то думает.</LotM_Characteristic_BizarroSorcerer.description>
+  <LotM_Characteristic_ScholarOfYore.label>Характеристика Потустороннего Знатока былого</LotM_Characteristic_ScholarOfYore.label>
+  <LotM_Characteristic_ScholarOfYore.description>Что осталось от Знатока былого после смерти. Оно медленно пульсирует, и внутри всё ещё думает.</LotM_Characteristic_ScholarOfYore.description>
+  <LotM_Characteristic_MiracleInvoker.label>Характеристика Потустороннего Чудотворца</LotM_Characteristic_MiracleInvoker.label>
+  <LotM_Characteristic_MiracleInvoker.description>Что осталось от Чудотворца после смерти. Оно медленно пульсирует, и внутри всё ещё думает.</LotM_Characteristic_MiracleInvoker.description>
+  <LotM_Characteristic_AttendantOfMysteries.label>Характеристика Потустороннего Служителя Тайн</LotM_Characteristic_AttendantOfMysteries.label>
+  <LotM_Characteristic_AttendantOfMysteries.description>Что осталось от Служителя тайн после смерти. Оно медленно пульсирует, и внутри всё ещё думает.</LotM_Characteristic_AttendantOfMysteries.description>
+</LanguageData>

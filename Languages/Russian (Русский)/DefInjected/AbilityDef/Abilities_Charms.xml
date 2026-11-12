@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotMCharm_Blink.label>вспышка (очарование)</LotMCharm_Blink.label>
+  <LotMCharm_Blink.description>Появляется в видимой клетке на расстоянии до 25 клеток. Он исходит из чара мигания: может быть использован один раз.</LotMCharm_Blink.description>
+  <LotMCharm_Theft.label>кража (очарование)</LotMCharm_Theft.label>
+  <LotMCharm_Theft.description>Крадет у кого-либо в пределах 30 клеток оружие в руках или лучшую вещь, которую он несёт. Полубоги иногда замечают; ангелы всегда замечают. Это исходит от чара кражи: может быть использован один раз.</LotMCharm_Theft.description>
+</LanguageData>

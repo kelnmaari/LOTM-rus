@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_MineableStarCrystal.label>жила звёздного кристалла</LotM_MineableStarCrystal.label>
+  <LotM_Plant_NightVanilla.label>ночная ваниль</LotM_Plant_NightVanilla.label>
+  <LotM_Plant_GoldMint.label>золотая мята</LotM_Plant_GoldMint.label>
+  <LotM_Plant_Jimsonweed.label>дурман</LotM_Plant_Jimsonweed.label>
+  <LotM_MineableStarCrystal.description>Камень, пронзённый кристаллами, отражающими чужое звёздное небо.</LotM_MineableStarCrystal.description>
+  <LotM_MineableDropletGem.label>капля вены самоцвета</LotM_MineableDropletGem.label>
+  <LotM_MineableDropletGem.description>Камень с драгоценными камнями в форме слез, которые, кажется, вот-вот упадут.</LotM_MineableDropletGem.description>
+  <LotM_MineableGoldenSpring.label>жила золотого источника</LotM_MineableGoldenSpring.label>
+  <LotM_MineableGoldenSpring.description>Влажная трещина, из которой сочится тёплая, золотая вода, капля за каплей.</LotM_MineableGoldenSpring.description>
+  <LotM_Plant_NightVanilla.description>Ваниль, которая цветет только ночью. При сборе она дает жидкость ночной ванили.</LotM_Plant_NightVanilla.description>
+  <LotM_Plant_GoldMint.description>Мята с золотистыми листьями. При сборе она дает золотистые листья мяты.</LotM_Plant_GoldMint.description>
+  <LotM_Plant_HumanFacedRose.label>роза с человеческим лицом</LotM_Plant_HumanFacedRose.label>
+  <LotM_Plant_HumanFacedRose.description>Роза, чьи лепестки образуют человеческое лицо. Она, кажется, улыбается. При сборе она дает весь стебель.</LotM_Plant_HumanFacedRose.description>
+  <LotM_Plant_Jimsonweed.description>Растение с белыми, в форме трубы цветами. При сборе даёт сок жимсоновой травы.</LotM_Plant_Jimsonweed.description>
+  <LotM_Plant_FantasyGrass.label>фантазийная трава</LotM_Plant_FantasyGrass.label>
+  <LotM_Plant_FantasyGrass.description>Серовая трава, которая размывает края всего, к чему прикасается. При сборе дает эфирное масло фантастической травы.</LotM_Plant_FantasyGrass.description>
+  <LotM_Plant_DragonToothGrass.label>трава из драконьих зубов</LotM_Plant_DragonToothGrass.label>
+  <LotM_Plant_DragonToothGrass.description>Трава с листьями, острыми как зубы, которая растет в холоде. При сборе она дает ее порошок.</LotM_Plant_DragonToothGrass.description>
+  <LotM_Plant_DragoTree.label>дерево дракона</LotM_Plant_DragoTree.label>
+  <LotM_Plant_DragoTree.description>Дерево с зонтикообразной кроной, которое истекает красной смолой. При срезе дает кору драконьего дерева.</LotM_Plant_DragoTree.description>
+  <LotM_Plant_RedBirch.label>красноволосая берёза</LotM_Plant_RedBirch.label>
+  <LotM_Plant_RedBirch.description>Береза с красными волокнистыми волокнами в коре. При срезе она дает красноволосую березовую кору.</LotM_Plant_RedBirch.description>
+</LanguageData>

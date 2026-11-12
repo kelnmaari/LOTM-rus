@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_A_LostAssassin.label>потерянный ассасин</LotM_A_LostAssassin.label>
+  <LotM_A_LostInstigator.label>потерянный интригант</LotM_A_LostInstigator.label>
+  <LotM_A_LostWitch.label>потерянная ведьма</LotM_A_LostWitch.label>
+  <LotM_A_LostPleasure.label>потерянное Удовольствие</LotM_A_LostPleasure.label>
+  <LotM_A_LostAffliction.label>потерянное Недуг</LotM_A_LostAffliction.label>
+  <LotM_A_LostDespair.label>потерянное Отчаяние</LotM_A_LostDespair.label>
+  <LotM_A_LostUnaging.label>потерянное Бессмертие</LotM_A_LostUnaging.label>
+  <LotM_A_LostCatastrophe.label>потерянная Катастрофа</LotM_A_LostCatastrophe.label>
+  <LotM_A_LostApocalypse.label>потерянное Апокалипсис</LotM_A_LostApocalypse.label>
+</LanguageData>

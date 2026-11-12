@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_SpectralStrike.label>призрачный удар</LotM_SpectralStrike.label>
+  <LotM_SpectralStrike.deathMessage>{0} умер от замерзания от удара призрака.</LotM_SpectralStrike.deathMessage>
+  <LotM_NightCorrosion.label>ночная коррозия</LotM_NightCorrosion.label>
+  <LotM_NightCorrosion.deathMessage>{0} умер, поглощенный тьмой.</LotM_NightCorrosion.deathMessage>
+  <LotM_LimbBacklash.label>сломанная конечность кошмара</LotM_LimbBacklash.label>
+  <LotM_LimbBacklash.deathMessage>{0} умер, когда сломались их кошмарные конечности.</LotM_LimbBacklash.deathMessage>
+  <LotM_Stumble.label>спотыкание</LotM_Stumble.label>
+  <LotM_Stumble.deathMessage>{0} умер от несчастного спотыкания.</LotM_Stumble.deathMessage>
+</LanguageData>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_DawnSword.label>Меч Рассвета</LotM_DawnSword.label>
+  <LotM_DawnSword.description>Двуручный широкий меч, спрессованный из света рассвета, твердый и острый. Каждый удар очищает. Это самое сильное оружие Паладина Рассвета, и его разбивают, чтобы сформировать Ураган Света. Он распадается через несколько часов или как только его отпускают.</LotM_DawnSword.description>
+  <LotM_DawnSword.tools.0.label>лезвие рассвета</LotM_DawnSword.tools.0.label>
+  <LotM_DawnSword.tools.1.label>Кончик</LotM_DawnSword.tools.1.label>
+  <LotM_DawnAxe.label>топор рассвета</LotM_DawnAxe.label>
+  <LotM_DawnAxe.description>Огромный двуручный топор, спрессованный из света рассвета. Медленнее меча, но он разрезает все, к чему прикасается. Каждый удар очищает. Он распадается через несколько часов или как только его отпускают.</LotM_DawnAxe.description>
+  <LotM_DawnAxe.tools.0.label>кромка рассвета</LotM_DawnAxe.tools.0.label>
+  <LotM_DawnAxe.tools.1.label>рукоятка</LotM_DawnAxe.tools.1.label>
+  <LotM_DawnDagger.label>кинжал рассвета</LotM_DawnDagger.label>
+  <LotM_DawnDagger.description>Короткий кинжал, сгущенный из света рассвета. Он наносит очень быстрые удары. Каждый удар очищает. Он распадается через несколько часов или как только его отпускают.</LotM_DawnDagger.description>
+  <LotM_DawnDagger.tools.0.label>Кончик</LotM_DawnDagger.tools.0.label>
+  <LotM_DawnDagger.tools.1.label>кромка</LotM_DawnDagger.tools.1.label>
+  <LotM_Apparel_DawnArmor.label>Броня Рассвета</LotM_Apparel_DawnArmor.label>
+  <LotM_Apparel_DawnArmor.description>Полный костюм серебряной брони, с нагрудником и перчатками, конденсированный из света рассвета. Он защищает как отточенная пластинчатая броня, но не имеет веса и не мешает. Он восстанавливается, пока его носитель может выдержать усталость.</LotM_Apparel_DawnArmor.description>
+  <LotM_Apparel_SilverArmor.label>Серебряная броня</LotM_Apparel_SilverArmor.label>
+  <LotM_Apparel_SilverArmor.description>Броня Рассвета стала частью тела: полный костюм серебряной брони, который выдерживает удары намного лучше, чем гигантский дракон. Он ничего не весит, не мешает и его ремонт не утомляет носителя. Он полностью выдерживает удар ангела, но разбивается при третьем подряд.</LotM_Apparel_SilverArmor.description>
+  <LotM_Apparel_SilverHelmet.label>Серебряный шлем</LotM_Apparel_SilverHelmet.label>
+  <LotM_Apparel_SilverHelmet.description>Шлем Серебряной Брони. Он ничего не весит и не загораживает обзор.</LotM_Apparel_SilverHelmet.description>
+  <LotM_Apparel_DawnHelmet.label>Шлем Рассвета</LotM_Apparel_DawnHelmet.label>
+  <LotM_Apparel_DawnHelmet.description>Серебряный шлем Рассветной Брони. Он ничего не весит и не загораживает обзор.</LotM_Apparel_DawnHelmet.description>
+  <LotM_DawnChargeFlyer.label>зарядка</LotM_DawnChargeFlyer.label>
+  <LotM_LightHurricane.label>Ураган света</LotM_LightHurricane.label>
+  <LotM_LightHurricane.description>Бесчисленные осколки света рассвета, вращающиеся, как острый ураган.</LotM_LightHurricane.description>
+  <LotM_DawnGlow.label>Свет Рассвета</LotM_DawnGlow.label>
+  <LotM_DawnGlow.description>священный свет рассвета.</LotM_DawnGlow.description>
+  <LotM_Projectile_DawnSpear.label>копье рассвета</LotM_Projectile_DawnSpear.label>
+  <LotM_DawnBow.label>лук рассвета</LotM_DawnBow.label>
+  <LotM_DawnBow.description>Длинный лук, спрессованный из света рассвета. Его стрелы пронзают броню и очищают. Он распадается, как только отпускают его.</LotM_DawnBow.description>
+  <LotM_DawnBow.tools.0.label>конечность</LotM_DawnBow.tools.0.label>
+  <LotM_Projectile_DawnArrow.label>стрела рассвета</LotM_Projectile_DawnArrow.label>
+  <LotM_TwilightCageCore.label>клетка сумерек</LotM_TwilightCageCore.label>
+  <LotM_TwilightCageCore.description>Сердце клетки сумерек.</LotM_TwilightCageCore.description>
+  <LotM_TwilightCageBar.label>бар сумерек</LotM_TwilightCageBar.label>
+  <LotM_TwilightCageBar.description>Стержень твердого оранжевого света, как последнее солнце вечера. Он удерживает все, что внутри, пока клетка не разобьется.</LotM_TwilightCageBar.description>
+  <LotM_TwilightSwordFall.label>Меч сумерек</LotM_TwilightSwordFall.label>
+  <LotM_TwilightSwordFall.description>Огромный красно-оранжевый меч, падающий с неба.</LotM_TwilightSwordFall.description>
+  <LotM_Ointment_Lightning.label>мазь от молнии</LotM_Ointment_Lightning.label>
+  <LotM_Ointment_Lightning.description>Их оружие освящено ласкою молнии: удары горят, иногда оглушают и выводят из строя механоидов.</LotM_Ointment_Lightning.description>
+  <LotM_Ointment_Frost.label>мазь от инея</LotM_Ointment_Frost.label>
+  <LotM_Ointment_Frost.description>Их оружие пропитано инеем: удары замораживают и сбивают с толку.</LotM_Ointment_Frost.description>
+  <LotM_Ointment_Purifying.label>мазь очищения</LotM_Ointment_Purifying.label>
+  <LotM_Ointment_Purifying.description>Их оружие пропитано очищающим бальзамом: удары сжигают зло светом рассвета.</LotM_Ointment_Purifying.description>
+  <LotM_Ointment_Fire.label>мазь огня</LotM_Ointment_Fire.label>
+  <LotM_Ointment_Fire.description>Их оружие освящено ласкою огня: удары горят и иногда поджигают вещи.</LotM_Ointment_Fire.description>
+  <LotM_Ointment_Decay.label>мазь разложения</LotM_Ointment_Decay.label>
+  <LotM_Ointment_Decay.description>Их оружие пропитано осыпанием: удары отравляют плоть и гниют одежду.</LotM_Ointment_Decay.description>
+  <LotM_Ointment_Exorcism.label>обережное бальзам</LotM_Ointment_Exorcism.label>
+  <LotM_Ointment_Exorcism.description>Их оружие пропитано бальзамом изгнания: удары разрывают духов, тени и зло.</LotM_Ointment_Exorcism.description>
+  <LotM_ThrownWeapon.label>брошенное оружие</LotM_ThrownWeapon.label>
+  <LotM_HurledFlyer.label>брошенный в воздух</LotM_HurledFlyer.label>
+  <LotM_GiantBoulder.label>брошенный валун</LotM_GiantBoulder.label>
+</LanguageData>

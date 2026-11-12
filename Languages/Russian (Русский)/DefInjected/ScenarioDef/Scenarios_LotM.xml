@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Scenario_Beyonder.label>Потусторонний</LotM_Scenario_Beyonder.label>
+  <LotM_Scenario_Beyonder.description>Среди выживших после крушения есть тот, кто уже выпил зелье Потустороннего. Они знают достаточно, чтобы не потерять контроль... пока. Они знают основы формул, но им придется самим искать следующее зелье.</LotM_Scenario_Beyonder.description>
+  <LotM_Scenario_Beyonder.scenario.summary>Три выживших; один уже Последовательность 9 Потустороннего.</LotM_Scenario_Beyonder.scenario.summary>
+  <LotM_Scenario_Nighthawks.label>отряд Ночных Ястребов</LotM_Scenario_Nighthawks.label>
+  <LotM_Scenario_Nighthawks.description>Контейнерная миссия пошла не так, и отряд оказался далеко от любой церкви. Бессонный капитан, бессонный агент и молодой Провидец должны выжить и построить свою базу. Ночные Ястребы знают формулы своих путей.</LotM_Scenario_Nighthawks.description>
+  <LotM_Scenario_Nighthawks.scenario.summary>Три Потусторонних Ночных Ястреба (Тьма и Провидец). Более простой способ познакомиться с модом.</LotM_Scenario_Nighthawks.scenario.summary>
+</LanguageData>

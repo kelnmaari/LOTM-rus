@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_WormVortexSmall.label>червоточина червя</LotM_WormVortexSmall.label>
+  <LotM_WormVortex.label>беглый вихрь</LotM_WormVortex.label>
+  <LotM_WormVortexGreater.label>великий вихрь</LotM_WormVortexGreater.label>
+  <LotM_VoidPuppeteer.label>путешественник пустоты</LotM_VoidPuppeteer.label>
+  <LotM_SpiritWormSwarmKind.label>рое Червей Духа</LotM_SpiritWormSwarmKind.label>
+  <LotM_ThreadedObjectKind.label>нанизанный предмет</LotM_ThreadedObjectKind.label>
+</LanguageData>

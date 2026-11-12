@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Oblivion.label>забвение</LotM_Oblivion.label>
+  <LotM_Oblivion.recoveryMessage>{0} на мгновение вспоминает, кто они такие.</LotM_Oblivion.recoveryMessage>
+  <LotM_Oblivion.baseInspectLine>Состояние разума: забыл, кто он такой</LotM_Oblivion.baseInspectLine>
+</LanguageData>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Trait_Seer.degreeDatas.0.label>пробуждение духовности</LotM_Trait_Seer.degreeDatas.0.label>
+  <LotM_Trait_Seer.degreeDatas.0.description>Потусторонний по пути Провидца. Их духовность пробуждена: они открывают Духовное зрение, божественное с помощью маятника, и их интуиция предупреждает их об опасности, даже когда она скрыта. Как Шут, их тело проворное и сбалансированное, и они контролируют свое лицо и эмоции.</LotM_Trait_Seer.degreeDatas.0.description>
+  <LotM_Trait_Seer.degreeDatas.1.label>мастер трюков</LotM_Trait_Seer.degreeDatas.1.label>
+  <LotM_Trait_Seer.degreeDatas.1.description>Потусторонний средней Последовательности пути Провидца. Их трюки приходят естественно: они сражаются интуицией и, столкнувшись с серьёзным ударом, могут заменить себя бумажным двойником. Они меняют лица по желанию и, начиная от Марионеточника, видят нити духовного тела других людей.</LotM_Trait_Seer.degreeDatas.1.description>
+  <LotM_Trait_Seer.degreeDatas.2.label>тело червей</LotM_Trait_Seer.degreeDatas.2.label>
+  <LotM_Trait_Seer.degreeDatas.2.description>Полубог пути Провидца. Его тело сделано из Червей Духа: они заживляют свои раны и восстанавливают утраченное. Они путешествуют по Миру духов и выдерживают удары, которые убили бы любого.</LotM_Trait_Seer.degreeDatas.2.description>
+  <LotM_Trait_Seer.degreeDatas.3.label>ангел чудес</LotM_Trait_Seer.degreeDatas.3.label>
+  <LotM_Trait_Seer.degreeDatas.3.description>Ангел по пути Провидца. Им больше не нужна еда, сон, развлечения, комфорт, красота или на свежем воздухе, хотя они могут спать, если пожелают; остается только настроение. Они собирают Желания вокруг себя, воскресают несколько раз, и их мифическая форма завершена.</LotM_Trait_Seer.degreeDatas.3.description>
+  <LotM_Trait_Seer.degreeDatas.4.label>служитель тайн</LotM_Trait_Seer.degreeDatas.4.label>
+  <LotM_Trait_Seer.degreeDatas.4.description>Король ангелов пути Провидца. Их тело и дух уже едины. У них нет физических потребностей, только настроение, хотя они могут спать, если пожелают.</LotM_Trait_Seer.degreeDatas.4.description>
+  <LotM_Trait_Darkness.degreeDatas.0.label>дитя ночи</LotM_Trait_Darkness.degreeDatas.0.label>
+  <LotM_Trait_Darkness.degreeDatas.0.description>Потусторонний пути Тьмы. Чем глубже ночь, тем сильнее они: тело, интуиция и разум. Они видят во тьме без света, чувствуют опасности, скрытые в ней, и очень мало спят.</LotM_Trait_Darkness.degreeDatas.0.description>
+  <LotM_Trait_Darkness.degreeDatas.1.label>господин снов</LotM_Trait_Darkness.degreeDatas.1.label>
+  <LotM_Trait_Darkness.degreeDatas.1.description>Потусторонний средней Последовательности пути Тьмы. Их стихи и духовность крепнут ночью. Они входят в сны других, их душа может покинуть тело во сне, и им почти не нужен отдых.</LotM_Trait_Darkness.degreeDatas.1.description>
+  <LotM_Trait_Darkness.degreeDatas.2.label>хранитель тьмы</LotM_Trait_Darkness.degreeDatas.2.label>
+  <LotM_Trait_Darkness.degreeDatas.2.description>Полубог Пути Тьмы. Им больше не нужен ночной: темноты достаточно. Чем темнее, тем сильнее они и быстрее восстанавливаются; под полуденным солнцем они ослабевают. Они чувствуют несчастье, и их присутствие само по себе может пугать.</LotM_Trait_Darkness.degreeDatas.2.description>
+  <LotM_Trait_Darkness.degreeDatas.3.label>ангел сокрытия</LotM_Trait_Darkness.degreeDatas.3.label>
+  <LotM_Trait_Darkness.degreeDatas.3.description>Путь Ангела Тьмы. Им больше не нужна еда, сон, развлечения, комфорт, красота или открытый воздух, хотя они могут спать, если пожелают; остается только настроение. Их присутствие приносит крайний покой, и их мифическая форма завершена.</LotM_Trait_Darkness.degreeDatas.3.description>
+  <LotM_Trait_Darkness.degreeDatas.4.label>рыцарь несчастья</LotM_Trait_Darkness.degreeDatas.4.label>
+  <LotM_Trait_Darkness.degreeDatas.4.description>Путь Короля ангелов Тьмы. Ночью их почти невозможно убить, потому что они возвращаются из тьмы, и тьма едва влияет на них. У них нет телесных нужд, только настроение, хотя они могут спать, если пожелают.</LotM_Trait_Darkness.degreeDatas.4.description>
+  <LotM_Trait_HangedMan.degreeDatas.0.label>слышит шёпот</LotM_Trait_HangedMan.degreeDatas.0.label>
+  <LotM_Trait_HangedMan.degreeDatas.0.description>Потусторонний пути Висящего. Они слышат то, чего не должны: они ощущают ауру могущественных и шёпот тайных сущностей. Их разум искажается, и им становится труднее не потерять контроль.</LotM_Trait_HangedMan.degreeDatas.0.description>
+  <LotM_Trait_HangedMan.degreeDatas.1.label>плоть и тень</LotM_Trait_HangedMan.degreeDatas.1.label>
+  <LotM_Trait_HangedMan.degreeDatas.1.description>Потусторонний средней Последовательности пути Висячего. Они командуют тенями и, начиная от Розы Бишопа, магией плоти и крови: пока у них есть плоть, они регенерируют и у них нет слабых мест, но они должны питаться трупами. Начиная от Пастуха, они пасут души мёртвых.</LotM_Trait_HangedMan.degreeDatas.1.description>
+  <LotM_Trait_HangedMan.degreeDatas.2.label>дегенерация</LotM_Trait_HangedMan.degreeDatas.2.label>
+  <LotM_Trait_HangedMan.degreeDatas.2.description>Полубог пути Повешенного. Их тень и головы могут принимать удары вместо них, и пока рядом есть плоть, они пересоздаются. Они слышат молитвы, обращённые к ним.</LotM_Trait_HangedMan.degreeDatas.2.description>
+  <LotM_Trait_HangedMan.degreeDatas.3.label>профанный ангел</LotM_Trait_HangedMan.degreeDatas.3.label>
+  <LotM_Trait_HangedMan.degreeDatas.3.description>Путь Ангела Висящего. Им больше не нужна еда, сон, развлечения, комфорт, красота или открытый воздух, хотя они могут спать, если пожелают; остается только настроение. Их язык искажает то, что говорят другие, и их мифическая форма завершена.</LotM_Trait_HangedMan.degreeDatas.3.description>
+  <LotM_Trait_HangedMan.degreeDatas.4.label>тень солнца</LotM_Trait_HangedMan.degreeDatas.4.label>
+  <LotM_Trait_HangedMan.degreeDatas.4.description>Путь Короля ангелов Висячего. Теневая магия не касается их, и теневые существа подчиняются им. У них нет физических потребностей, только настроение, хотя они могут спать, если пожелают.</LotM_Trait_HangedMan.degreeDatas.4.description>
+  <LotM_Trait_Sun.degreeDatas.0.label>солнечная песня</LotM_Trait_Sun.degreeDatas.0.label>
+  <LotM_Trait_Sun.degreeDatas.0.description>Потусторонний пути Солнца. Их тело немного сильнее, а их пение даёт мужество, силу или лёгкость самому себе. Они чувствуют зло, и их свет его сжигает.</LotM_Trait_Sun.degreeDatas.0.description>
+  <LotM_Trait_Sun.degreeDatas.1.label>священный свет</LotM_Trait_Sun.degreeDatas.1.label>
+  <LotM_Trait_Sun.degreeDatas.1.description>Потусторонний средней Последовательности пути Солнца. Они очищают нежить, призраков, проклятых и дегенератов священным светом и огнем. Их тело сопротивляется болезням и суровым климатам; от Нотариуса они заключают контракты, свидетелями которых становятся боги.</LotM_Trait_Sun.degreeDatas.1.description>
+  <LotM_Trait_Sun.degreeDatas.2.label>без теней</LotM_Trait_Sun.degreeDatas.2.label>
+  <LotM_Trait_Sun.degreeDatas.2.description>путь полубога Солнца. Свет сливается с их телом.</LotM_Trait_Sun.degreeDatas.2.description>
+  <LotM_Trait_Sun.degreeDatas.3.label>ангел света</LotM_Trait_Sun.degreeDatas.3.label>
+  <LotM_Trait_Sun.degreeDatas.3.description>Путь Ангела Солнца. Им больше не нужна еда, сон, развлечения, комфорт, красота или нахождение на улице, хотя они могут спать, если пожелают; остается только настроение.</LotM_Trait_Sun.degreeDatas.3.description>
+  <LotM_Trait_Sun.degreeDatas.4.label>белый ангел</LotM_Trait_Sun.degreeDatas.4.label>
+  <LotM_Trait_Sun.degreeDatas.4.description>Путь Короля ангелов Солнца. У них нет телесных нужд, только настроение, хотя они могут спать, если пожелают.</LotM_Trait_Sun.degreeDatas.4.description>
+  <LotM_Trait_Giant.degreeDatas.0.label>рожденный воин</LotM_Trait_Giant.degreeDatas.0.label>
+  <LotM_Trait_Giant.degreeDatas.0.description>Потусторонний пути Гигантского Сумеречного. Их тело превосходит любое обычное, они овладевают каждым оружием и учатся сражаться намного быстрее. Тяжелая броня не замедляет их.</LotM_Trait_Giant.degreeDatas.0.description>
+  <LotM_Trait_Giant.degreeDatas.1.label>сила гигантов</LotM_Trait_Giant.degreeDatas.1.label>
+  <LotM_Trait_Giant.degreeDatas.1.description>Середина Последовательности Потустороннего Гиганта Сумерек. Любое оружие в их руках — это мастер; от Паладина Рассвета у них есть сила гиганта и свет рассвета.</LotM_Trait_Giant.degreeDatas.1.description>
+  <LotM_Trait_Giant.degreeDatas.2.label>охотник на демонов</LotM_Trait_Giant.degreeDatas.2.label>
+  <LotM_Trait_Giant.degreeDatas.2.description>Полубог пути Гигантского Сумеречного. Они охотятся на зло глазами, которые видят сквозь ложь; обычные пули едва их ранят, а их мифическая форма — Циклоп.</LotM_Trait_Giant.degreeDatas.2.description>
+  <LotM_Trait_Giant.degreeDatas.3.label>сумеречная слава</LotM_Trait_Giant.degreeDatas.3.label>
+  <LotM_Trait_Giant.degreeDatas.3.description>Ангел пути Потустороннего Гиганта Сумерек. Они несут власть Сумерек, Боя и Святости: они старят врагов, запирают их в клетках и низвергают Меч Сумерек.</LotM_Trait_Giant.degreeDatas.3.description>
+  <LotM_Trait_Giant.degreeDatas.4.label>рука Бога</LotM_Trait_Giant.degreeDatas.4.label>
+  <LotM_Trait_Giant.degreeDatas.4.description>Путь высокого ангела Сумеречного Гиганта, Прокси Бога Боя. Его правая рука воплощает его бога.</LotM_Trait_Giant.degreeDatas.4.description>
+  <LotM_Trait_Door.degreeDatas.0.label>следы свободы</LotM_Trait_Door.degreeDatas.0.label>
+  <LotM_Trait_Door.degreeDatas.0.description>Потусторонний по пути мистер Дверь. Их редко ловят: они проходят сквозь стены, открывают любой замок и очень быстро постигают мистику.</LotM_Trait_Door.degreeDatas.0.description>
+  <LotM_Trait_Door.degreeDatas.1.label>читатель звёзд</LotM_Trait_Door.degreeDatas.1.label>
+  <LotM_Trait_Door.degreeDatas.1.description>Потусторонний средней Последовательности пути мистер Дверь. Они чувствуют опасность, читают звёзды, записывают видимую силу и, от Путешественника, могут отправиться куда угодно через Мир духов.</LotM_Trait_Door.degreeDatas.1.description>
+  <LotM_Trait_Door.degreeDatas.2.label>хранитель тайн</LotM_Trait_Door.degreeDatas.2.label>
+  <LotM_Trait_Door.degreeDatas.2.description>Путь Полубога Двери. Они скрывают пространства, хранят тайны, изгнали своих врагов, а их мифическая форма — это дверь.</LotM_Trait_Door.degreeDatas.2.description>
+  <LotM_Trait_Door.degreeDatas.3.label>планетарный путешественник</LotM_Trait_Door.degreeDatas.3.label>
+  <LotM_Trait_Door.degreeDatas.3.description>Путь Ангела Двери. Они открывают двери куда угодно и в другие миры, и воспроизводят то, что видят.</LotM_Trait_Door.degreeDatas.3.description>
+  <LotM_Trait_Door.degreeDatas.4.label>ключ звезд</LotM_Trait_Door.degreeDatas.4.label>
+  <LotM_Trait_Door.degreeDatas.4.description>Высокий ангел (или бог) по пути мистер Дверь. Они никогда не теряют своего положения, запечатывают концепции и запирают других в лабиринтах пространства и времени.</LotM_Trait_Door.degreeDatas.4.description>
+  <LotM_Trait_Error.degreeDatas.0.label>руки вора</LotM_Trait_Error.degreeDatas.0.label>
+  <LotM_Trait_Error.degreeDatas.0.description>Потусторонний пути Ошибки. Кража — их призвание: они чувствуют ценное, сражаются лучше с короткими оружиями и забирают то, что носит любой, не замечая этого.</LotM_Trait_Error.degreeDatas.0.description>
+  <LotM_Trait_Error.degreeDatas.1.label>воровство огня</LotM_Trait_Error.degreeDatas.1.label>
+  <LotM_Trait_Error.degreeDatas.1.description>Потусторонний средней Последовательности по пути Ошибки. Они обманывают словами, расшифровывают то, что скрывают другие, и крадут силы, мысли и сны.</LotM_Trait_Error.degreeDatas.1.description>
+  <LotM_Trait_Error.degreeDatas.2.label>воровство жизни</LotM_Trait_Error.degreeDatas.2.label>
+  <LotM_Trait_Error.degreeDatas.2.description>Полубог пути Ошибки. Их тело частично сделано из Червей Времени: они просачиваются в других, отделяют аватаров от самих себя и крадут расстояния, позиции и жизни.</LotM_Trait_Error.degreeDatas.2.description>
+  <LotM_Trait_Error.degreeDatas.3.label>воровство судьбы</LotM_Trait_Error.degreeDatas.3.label>
+  <LotM_Trait_Error.degreeDatas.3.description>Ангел пути Ошибки. Они крадут личности, судьбы и характеристики; они находят лазейки в порядке мира и обманывают правила, связывающие ангелов.</LotM_Trait_Error.degreeDatas.3.description>
+  <LotM_Trait_Error.degreeDatas.4.label>Червь Времени</LotM_Trait_Error.degreeDatas.4.label>
+  <LotM_Trait_Error.degreeDatas.4.description>Высший ангел (или бог) пути Ошибки. Они крадут время, якоря, власть и даже Уникальность; они замедляют, останавливают и меняют время с помощью фантомных каменных часов.</LotM_Trait_Error.degreeDatas.4.description>
+  <LotM_Trait_Demoness.degreeDatas.0.label>теневой убийца</LotM_Trait_Demoness.degreeDatas.0.label>
+  <LotM_Trait_Demoness.degreeDatas.0.description>Потусторонний пути Демонессы. Тени — их маскировка; они пробуждают злые желания, которые все хранят в своих сердцах.</LotM_Trait_Demoness.degreeDatas.0.description>
+  <LotM_Trait_Demoness.degreeDatas.1.label>колдунья</LotM_Trait_Demoness.degreeDatas.1.label>
+  <LotM_Trait_Demoness.degreeDatas.1.description>Середина Последовательности Потустороннего Демонессы. Она овладевает тёмной магией: чёрными пламенными, морозом, зеркалами и проклятиями.</LotM_Trait_Demoness.degreeDatas.1.description>
+  <LotM_Trait_Demoness.degreeDatas.2.label>Горгона</LotM_Trait_Demoness.degreeDatas.2.label>
+  <LotM_Trait_Demoness.degreeDatas.2.description>Полубогиня Пути Демонессы. Чума, окаменение и зеркала, которые не дают ей умереть.</LotM_Trait_Demoness.degreeDatas.2.description>
+  <LotM_Trait_Demoness.degreeDatas.3.label>Демоница катастрофы</LotM_Trait_Demoness.degreeDatas.3.label>
+  <LotM_Trait_Demoness.degreeDatas.3.description>Путь Ангела Демонессы. Каждый, кто произносит ее имя, чувствует страх: она обрушивает катастрофы и апокалипсис.</LotM_Trait_Demoness.degreeDatas.3.description>
+  <LotM_Trait_Demoness.degreeDatas.4.label>Первородная Демоница</LotM_Trait_Demoness.degreeDatas.4.label>
+  <LotM_Trait_Demoness.degreeDatas.4.description>Богиня пути Демонессы: Хаос, Первозданность и Мир Зеркал.</LotM_Trait_Demoness.degreeDatas.4.description>
+  <LotM_Trait_Hunter.degreeDatas.0.label>охотник</LotM_Trait_Hunter.degreeDatas.0.label>
+  <LotM_Trait_Hunter.degreeDatas.0.description>Потусторонний пути Красного Жреца. Они охотятся, устанавливают ловушки с помощью местности и провоцируют своих врагов, пока те не потеряют головы.</LotM_Trait_Hunter.degreeDatas.0.description>
+  <LotM_Trait_Hunter.degreeDatas.1.label>пироманьяк</LotM_Trait_Hunter.degreeDatas.1.label>
+  <LotM_Trait_Hunter.degreeDatas.1.description>Потусторонний в середине Последовательности пути Красного Жреца. Они овладевают багровым огнем, который сжигает даже духов, и плетут заговоры.</LotM_Trait_Hunter.degreeDatas.1.description>
+  <LotM_Trait_Hunter.degreeDatas.2.label>железнокровный рыцарь</LotM_Trait_Hunter.degreeDatas.2.label>
+  <LotM_Trait_Hunter.degreeDatas.2.description>Путь Полубога Красного Жреца. Стальная храбрость, голубовато-белые пламя и команда, которая сражается с ним как единое целое.</LotM_Trait_Hunter.degreeDatas.2.description>
+  <LotM_Trait_Abyss.degreeDatas.0.label>преступник</LotM_Trait_Abyss.degreeDatas.0.label>
+  <LotM_Trait_Abyss.degreeDatas.0.description>Потусторонний пути Бездны. Они не сдерживают себя: их злые желания правят ими. Они хорошо убивают всем и живут за счет своих преступлений.</LotM_Trait_Abyss.degreeDatas.0.description>
+  <LotM_Trait_Abyss.degreeDatas.1.label>серийный убийца</LotM_Trait_Abyss.degreeDatas.1.label>
+  <LotM_Trait_Abyss.degreeDatas.1.description>Потусторонний средней Последовательности пути Бездны. У них больше нет совести: они убивают, следуя шаблону, чтобы угодить Дьяволам, и у них есть демонические силы.</LotM_Trait_Abyss.degreeDatas.1.description>
+</LanguageData>

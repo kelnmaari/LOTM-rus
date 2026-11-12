@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_Potion_SecretsSuppliant.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_SecretsSuppliant.jobString>
+  <LotM_Make_Potion_SecretsSuppliant.label>приготовить зелье: Проситель тайн</LotM_Make_Potion_SecretsSuppliant.label>
+  <LotM_Make_Potion_Listener.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Listener.jobString>
+  <LotM_Make_Potion_Listener.label>приготовить зелье: Слушатель</LotM_Make_Potion_Listener.label>
+  <LotM_Make_Potion_ShadowAscetic.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_ShadowAscetic.jobString>
+  <LotM_Make_Potion_ShadowAscetic.label>приготовить зелье: Теневой аскет</LotM_Make_Potion_ShadowAscetic.label>
+  <LotM_Make_Potion_RoseBishop.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_RoseBishop.jobString>
+  <LotM_Make_Potion_RoseBishop.label>приготовить зелье: Епископ розы</LotM_Make_Potion_RoseBishop.label>
+  <LotM_Make_Potion_Shepherd.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Shepherd.jobString>
+  <LotM_Make_Potion_Shepherd.label>приготовить зелье: Пастырь</LotM_Make_Potion_Shepherd.label>
+  <LotM_Make_Potion_BlackKnight.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_BlackKnight.jobString>
+  <LotM_Make_Potion_BlackKnight.label>приготовить зелье: Чёрный рыцарь</LotM_Make_Potion_BlackKnight.label>
+  <LotM_Make_Potion_TrinityTemplar.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_TrinityTemplar.jobString>
+  <LotM_Make_Potion_TrinityTemplar.label>приготовить зелье: Храмовник Троицы</LotM_Make_Potion_TrinityTemplar.label>
+  <LotM_Make_Potion_ProfanePresbyter.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_ProfanePresbyter.jobString>
+  <LotM_Make_Potion_ProfanePresbyter.label>приготовить зелье: Нечестивый пресвитер</LotM_Make_Potion_ProfanePresbyter.label>
+  <LotM_Make_Potion_DarkAngel.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_DarkAngel.jobString>
+  <LotM_Make_Potion_DarkAngel.label>приготовить зелье: Тёмный ангел</LotM_Make_Potion_DarkAngel.label>
+  <LotM_Make_Potion_SecretsSuppliant.description>Смешать поющий чёрный гриб (или характеристику Потустороннего Служителя Тайн) с подношением красного вина и освящённой свечой.</LotM_Make_Potion_SecretsSuppliant.description>
+  <LotM_Make_Potion_Listener.description>Смешать ухо черной кошки несчастья или сердце роющего по земле (или характеристика Потустороннего Слушателя) с сердцем черной кошки несчастья и эфирным маслом багении.</LotM_Make_Potion_Listener.description>
+  <LotM_Make_Potion_ShadowAscetic.description>Смешать рог чёрного козла с кровью в глазах (или характеристику Потустороннего Монаха Тени) с кровью другого и гидросолем дикой розы.</LotM_Make_Potion_ShadowAscetic.description>
+  <LotM_Make_Potion_RoseBishop.description>Смешать бессмертную грибную плоть (или характеристику Потустороннего Бископа Розы) с остаточным порошком мстительного призрака и симбиотическим растением.</LotM_Make_Potion_RoseBishop.description>
+  <LotM_Make_Potion_Shepherd.description>Смешай мозг пастуха (или характеристику Потустороннего Пастуха) с кровяной соломой для чучела и соткой бича.</LotM_Make_Potion_Shepherd.description>
+  <LotM_Make_Potion_BlackKnight.description>Смешать концентрат плоти Григеля (или характеристику Потустороннего Чёрного Рыцаря) с чёрной жидкостью чёрного рыцаря и следом Григеля.</LotM_Make_Potion_BlackKnight.description>
+  <LotM_Make_Potion_TrinityTemplar.description>Смешай череп стада суверена или сердце вождя Григеля (или характеристику Потустороннего Троичного Тамплиера) с кровью стада суверена или глазами вождя Григеля, и каменным, запечатанным душой камнем.</LotM_Make_Potion_TrinityTemplar.description>
+  <LotM_Make_Potion_ProfanePresbyter.description>Смешать кристалл Короля Плоти или рог Тени (или характеристику Потустороннего Проповедника) с порошком остатков Короля Тени или кровью Короля Плоти или плотью Короля Плоти, и многовековой легендой о дегенерации.</LotM_Make_Potion_ProfanePresbyter.description>
+  <LotM_Make_Potion_DarkAngel.description>Смешай характеристику Потустороннего Темного Ангела с древними священными писаниями и 2 × плоть и кровь ангела.</LotM_Make_Potion_DarkAngel.description>
+</LanguageData>

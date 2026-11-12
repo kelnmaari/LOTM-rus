@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_TranscribeFormula.label>переписать формулу в книгу</LotM_TranscribeFormula.label>
+  <LotM_TranscribeFormula.jobString>Переписывает формулу в книгу.</LotM_TranscribeFormula.jobString>
+  <LotM_TranscribeFormula.description>Берет формулу, фрагмент или Карту Проклятия на стол и копирует ее в свою книгу формул: колония узнает ее, а стол показывает, какие ингредиенты она требует. Бумага расходуется; Карта не расходуется.</LotM_TranscribeFormula.description>
+</LanguageData>

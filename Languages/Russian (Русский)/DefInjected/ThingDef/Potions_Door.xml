@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Potion_Apprentice.label>зелье: Ученик</LotM_Potion_Apprentice.label>
+  <LotM_Potion_Apprentice.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Apprentice.ingestible.ingestReportString>
+  <LotM_Potion_Apprentice.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Apprentice.ingestible.ingestCommandString>
+  <LotM_Potion_Trickmaster.label>зелье: Мастер уловок</LotM_Potion_Trickmaster.label>
+  <LotM_Potion_Trickmaster.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Trickmaster.ingestible.ingestReportString>
+  <LotM_Potion_Trickmaster.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Trickmaster.ingestible.ingestCommandString>
+  <LotM_Potion_Astrologer.label>зелье: Астролог</LotM_Potion_Astrologer.label>
+  <LotM_Potion_Astrologer.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Astrologer.ingestible.ingestReportString>
+  <LotM_Potion_Astrologer.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Astrologer.ingestible.ingestCommandString>
+  <LotM_Potion_Scribe.label>зелье: Писец</LotM_Potion_Scribe.label>
+  <LotM_Potion_Scribe.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Scribe.ingestible.ingestReportString>
+  <LotM_Potion_Scribe.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Scribe.ingestible.ingestCommandString>
+  <LotM_Potion_Traveler.label>зелье: Путешественник</LotM_Potion_Traveler.label>
+  <LotM_Potion_Traveler.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Traveler.ingestible.ingestReportString>
+  <LotM_Potion_Traveler.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Traveler.ingestible.ingestCommandString>
+  <LotM_Potion_SecretsSorcerer.label>зелье: Колдун секретов</LotM_Potion_SecretsSorcerer.label>
+  <LotM_Potion_SecretsSorcerer.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_SecretsSorcerer.ingestible.ingestReportString>
+  <LotM_Potion_SecretsSorcerer.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_SecretsSorcerer.ingestible.ingestCommandString>
+  <LotM_Potion_Wanderer.label>зелье: Странник</LotM_Potion_Wanderer.label>
+  <LotM_Potion_Wanderer.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Wanderer.ingestible.ingestReportString>
+  <LotM_Potion_Wanderer.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Wanderer.ingestible.ingestCommandString>
+  <LotM_Potion_Planeswalker.label>зелье: Мироходец</LotM_Potion_Planeswalker.label>
+  <LotM_Potion_Planeswalker.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Planeswalker.ingestible.ingestReportString>
+  <LotM_Potion_Planeswalker.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Planeswalker.ingestible.ingestCommandString>
+  <LotM_Potion_KeyOfStars.label>зелье: Ключ звёзд</LotM_Potion_KeyOfStars.label>
+  <LotM_Potion_KeyOfStars.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_KeyOfStars.ingestible.ingestReportString>
+  <LotM_Potion_KeyOfStars.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_KeyOfStars.ingestible.ingestCommandString>
+  <LotM_Potion_Apprentice.description>Синевато-черная жидкость с точками света, которые медленно движутся, как далекие звезды.</LotM_Potion_Apprentice.description>
+  <LotM_Potion_Trickmaster.description>Жидкость, меняющая цвет каждый раз, когда моргаешь, как трюк мага.</LotM_Potion_Trickmaster.description>
+  <LotM_Potion_Astrologer.description>Глубокий, неподвижный синий: при ближайшем рассмотрении это похоже на взгляд на ночное небо.</LotM_Potion_Astrologer.description>
+  <LotM_Potion_Scribe.description>Серебристо-серая, с крошечными символами, которые пишут и стирают сами на поверхности.</LotM_Potion_Scribe.description>
+  <LotM_Potion_Traveler.description>Фиолетовая жидкость, которая не может успокоиться: на мгновение, иногда, колба выглядит пустой.</LotM_Potion_Traveler.description>
+  <LotM_Potion_SecretsSorcerer.description>Он рябит звездным светом, как будто внутри он хранит крошечную галактику. Прикосновение к флакону ощущается как ледяная вода.</LotM_Potion_SecretsSorcerer.description>
+  <LotM_Potion_Wanderer.description>Жидкое, черное и прозрачное: в зависимости от того, как на него смотреть, внутри есть дорога, исчезающая вдали.</LotM_Potion_Wanderer.description>
+  <LotM_Potion_Planeswalker.description>Три цвета, которые не смешиваются: звезды, время и дух, вращающиеся друг вокруг друга.</LotM_Potion_Planeswalker.description>
+  <LotM_Potion_KeyOfStars.description>Густая звездная пыль, имеющая форму ключа, которая всегда указывает куда-то.</LotM_Potion_KeyOfStars.description>
+</LanguageData>

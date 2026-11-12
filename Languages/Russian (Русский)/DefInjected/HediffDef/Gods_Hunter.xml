@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_HunterDestroyed.label>разрушен</LotM_HunterDestroyed.label>
+  <LotM_HunterDestroyed.description>Убиты Разрушением Красного Жреца: они достигли своего конца, и ни какое воскрешение их не вернёт.</LotM_HunterDestroyed.description>
+  <LotM_HunterUniquenessHeld.label>сила Уникальности</LotM_HunterUniquenessHeld.label>
+  <LotM_HunterUniquenessHeld.description>Их Красный Жрец дал им силу Уникальности: их силы работают намного лучше, хотя без основы бога они не могут полностью её высвободить.</LotM_HunterUniquenessHeld.description>
+  <LotM_HunterCalamityCity.label>Город Бедствия</LotM_HunterCalamityCity.label>
+  <LotM_HunterCalamityCity.description>Город Бедствия принял его жертву: он держит силы Демонессы Катастрофы и Апокалипсиса, и его огонь кроваво-красный.</LotM_HunterCalamityCity.description>
+  <LotM_HunterCorruption.label>на грани разложения</LotM_HunterCorruption.label>
+  <LotM_HunterCorruption.description>Прося силу у Сефирот приближает его к разложению: чем выше, тем легче ему потерять рассудок, когда он снова просит. Это медленно угасает с течением времени.</LotM_HunterCorruption.description>
+</LanguageData>

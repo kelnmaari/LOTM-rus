@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_MirrorWinter.label>зеркальный зимний</LotM_MirrorWinter.label>
+  <LotM_MirrorWinter.description>Демонесса Бессмертного распространила свой мороз по всему месту: температура внезапно падает, и всё замерзает.</LotM_MirrorWinter.description>
+  <LotM_MirrorWinter.endMessage>Зеркальная зима окончена.</LotM_MirrorWinter.endMessage>
+  <LotM_MirrorWinter.letterText>Мороз Нестареющей принесённой Демонессы покрыл всё место: температура упадет до 35 градусов на два дня.</LotM_MirrorWinter.letterText>
+</LanguageData>

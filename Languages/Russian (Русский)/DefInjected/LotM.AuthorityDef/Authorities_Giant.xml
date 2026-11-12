@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Authority_Twilight.label>Сумерки</LotM_Authority_Twilight.label>
+  <LotM_Authority_Twilight.description>Часть власти Сумерек: конец всего, что восходит и падает.</LotM_Authority_Twilight.description>
+  <LotM_Authority_Twilight.passive>Столкнувшись с ударом, который может убить их, они стареют на несколько лет и появляются немного дальше (время от времени). Обычные пули едва их ранят. Тот, до какого возраста они стареют, почти никакого воскрешения не возвращает.</LotM_Authority_Twilight.passive>
+  <LotM_Authority_Twilight.godLabel>Сумерки всех вещей</LotM_Authority_Twilight.godLabel>
+  <LotM_Authority_Twilight.godPassive>Его само существование искривляет материю и пустоту: на его карте его враги разлагаются (трудно поднять руки), невидимое видно, и никто не ускользает через короткие пути в пространстве. Сумерки — это конец Света, Святости и Солнца: Потусторонние Солнца угасают рядом с ним. Того, кого он убивает, воскрешение не возвращает. Он затвердевает Сумерки в домене, замораживает любого своим мечом, заставляет его терять контроль, отправляет целую фракцию в свой сумрак и, потому что концы связаны с началом, он и Рассвет: он очищает и приносит восход.</LotM_Authority_Twilight.godPassive>
+  <LotM_Authority_Combat.label>Бой и Святость</LotM_Authority_Combat.label>
+  <LotM_Authority_Combat.description>Часть властей Боя и Святости: гигант, который сражается за их бога.</LotM_Authority_Combat.description>
+  <LotM_Authority_Combat.passive>Они становятся огромными. Бой с кем-то их статуса или больше заставляет их усваивать намного быстрее. Их клетки запечатывают силы врагов и защищают свои собственные, их меч появляется там, где их цель, и их Свет Зари достигает гораздо большей дальности.</LotM_Authority_Combat.passive>
+  <LotM_Authority_Combat.godLabel>Бой</LotM_Authority_Combat.godLabel>
+  <LotM_Authority_Combat.godPassive>Он Бог Боя: самая ужасающая Сила, самая гигантская форма, самое мощное Разрушение и самая несгибаемая Защита, вместе с мастерством и опытом. Тот, кто сражается против него или рядом с ним, делает это только инстинктивно: он лишает их мастерства. Он благословляет себя Силой, Гигантозмом и Защитой, разрушает целые места за счет износа и бросает вызовы фракциям на дуэль.</LotM_Authority_Combat.godPassive>
+  <LotM_Authority_Proxy.label>Прокси</LotM_Authority_Proxy.label>
+  <LotM_Authority_Proxy.description>Власть Прокси: они — рука Бога Боя в мире.</LotM_Authority_Proxy.description>
+  <LotM_Authority_Proxy.passive>Его правая рука воплощает его бога: каждый удар несет край Сумерек. Они могут заимствовать силу своего бога и отмечать своих союзников своей собственной. Их клетки огромны, служат вдвое дольше, восстанавливаются сами по себе, и даже ангел не может их пересечь. Если Бог Боя сражается падает, они ослабевают.</LotM_Authority_Proxy.passive>
+  <LotM_Authority_Proxy.godLabel>Прокси реки</LotM_Authority_Proxy.godLabel>
+  <LotM_Authority_Proxy.godPassive>Из трех путей Реки Вечной Тьмы, Гигант Сумерек может владеть частью своей силы. На несколько часов он может быть почти Полувеликим Старым Существом, платя цену Сефирот, а в качестве крайней меры взорваться и оставить свои характеристики наследнику, как Королю Гигантов. Его Руки Богов сильнее, пока он жив.</LotM_Authority_Proxy.godPassive>
+  <LotM_Authority_GiantHoliness.label>Святость</LotM_Authority_GiantHoliness.label>
+  <LotM_Authority_GiantHoliness.description>Часть власти Святости: смерть — одно из самых торжественных событий жизни и мира, и таким образом священное.</LotM_Authority_GiantHoliness.description>
+  <LotM_Authority_GiantHoliness.passive>Различает зло и порчу: на его карте зло не может скрыться от него. Он укладывает мёртвых места навсегда и увядает всё злое и испорченное, по пути Сумерек: через разрушение, а не свет.</LotM_Authority_GiantHoliness.passive>
+</LanguageData>

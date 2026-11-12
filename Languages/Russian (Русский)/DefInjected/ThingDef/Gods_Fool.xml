@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Altar_Seer.label>алтарь предсказаний Шута</LotM_Altar_Seer.label>
+  <LotM_Altar_Seer.description>Сердце Святилища Шута: наковальня для гадания с картами, маятником и бумажным двойником. Полный Служитель тайн совершает здесь свой апофеоз, и бог, рождённый здесь, остаётся в этой комнате навсегда: он покидает её только через Нисхождение.
+
+Комната должна быть закрыта и крыта, очень большая, чудесно впечатляющая, только для бога (без кроватей или рабочих столов) и скрыта: одна дверь и без окон. Выберите стол, чтобы увидеть, чего не хватает.
+
+Если комната разрушается во время апофеоза, ритуал проваливается. Если она разрушается после, бог ослабевает, пока не будет отремонтирован. Если стол ломается, у Шута нет места, куда можно вернуться, когда он умирает.</LotM_Altar_Seer.description>
+  <LotM_GraftGate.label>привитая дверь</LotM_GraftGate.label>
+  <LotM_GraftGate.description>Дверь Пересборки Шута, соединенная с другой где-то в мире: кто ступит на нее, выходит из другой. Если одна ломается, то и другая; если Шут умирает, обе исчезают.</LotM_GraftGate.description>
+  <LotM_SpiritWorldCreature.label>существо Мира духов</LotM_SpiritWorldCreature.label>
+  <LotM_SpiritWorldCreature.description>Существо уровня ангела из глубин Мира духов: полупрозрачная масса, полная глаз и светящихся цветов. Оно подчиняется Господу Мира духов и растворяется через несколько часов.</LotM_SpiritWorldCreature.description>
+  <LotM_SpiritWorldCreature.tools.0.label>щупальца света</LotM_SpiritWorldCreature.tools.0.label>
+  <LotM_SpiritWorldCreature.tools.1.label>взгляд</LotM_SpiritWorldCreature.tools.1.label>
+</LanguageData>

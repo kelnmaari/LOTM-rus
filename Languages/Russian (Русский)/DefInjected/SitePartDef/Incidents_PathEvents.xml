@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_PEv_HuntSite.label>легендарное чудовище</LotM_PEv_HuntSite.label>
+  <LotM_PEv_HuntSite.description>Огромное, древнее чудовище, сильнее любого из своих собратьев, бродит по этому месту. Охота за ним оставляет трофей и ингредиенты.</LotM_PEv_HuntSite.description>
+  <LotM_PEv_HuntSite.arrivedLetter>Есть огромные следы и расщеплённые деревья. Зверь близко, и он уже учуял тебя.</LotM_PEv_HuntSite.arrivedLetter>
+  <LotM_PEv_BattlefieldSite.label>древнее поле битвы</LotM_PEv_BattlefieldSite.label>
+  <LotM_PEv_BattlefieldSite.description>Поле битвы забытой войны. Там ржавая броня и зарытые оружие, и отголоски солдат, всё ещё сражающихся.</LotM_PEv_BattlefieldSite.description>
+  <LotM_PEv_BattlefieldSite.arrivedLetter>Земля полна ржавой брони. В тумане фигуры с мечами поворачиваются к вам.</LotM_PEv_BattlefieldSite.arrivedLetter>
+  <LotM_PEv_StatueSite.label>сад статуй</LotM_PEv_StatueSite.label>
+  <LotM_PEv_StatueSite.description>Сад, полный каменных статуй с испуганными лицами: люди окаменевшие Демоницей. Некоторые из них всё ещё дышат.</LotM_PEv_StatueSite.description>
+  <LotM_PEv_StatueSite.arrivedLetter>Десятки статуй с испуганными лицами. Некоторые, кажется, дышат. Возможно, тот, кто их создал, всё ещё рядом.</LotM_PEv_StatueSite.arrivedLetter>
+</LanguageData>

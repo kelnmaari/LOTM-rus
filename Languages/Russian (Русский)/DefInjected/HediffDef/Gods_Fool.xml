@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_StupidityAuraHediff.label>аура глупости</LotM_StupidityAuraHediff.label>
+  <LotM_StupidityAuraHediff.description>Враги, которые приближаются, думают, наводят прицел и двигаются медленнее.</LotM_StupidityAuraHediff.description>
+  <LotM_GraftDamageHediff.label>привитая повреждение</LotM_GraftDamageHediff.label>
+  <LotM_GraftDamageHediff.description>Урон, который они получают, переходит к ближайшему врагу.</LotM_GraftDamageHediff.description>
+  <LotM_WorldThreadsHediff.label>нити мира</LotM_WorldThreadsHediff.label>
+  <LotM_WorldThreadsHediff.description>Все их марионетки делают больше и передают им духовность.</LotM_WorldThreadsHediff.description>
+  <LotM_DestinyRestraint.label>сдерживание</LotM_DestinyRestraint.label>
+  <LotM_DestinyRestraint.description>Они сдерживают: их слова сами по себе не становятся судьбой, но их духовность возвращается медленнее.</LotM_DestinyRestraint.description>
+  <LotM_Fooled.label>обманут</LotM_Fooled.label>
+  <LotM_Fooled.description>Слепая Глупость: они не могут мыслить правильно. Они выбирают неверную цель, не видят того, что находится перед ними, и забывают, что делали.</LotM_Fooled.description>
+  <LotM_Fooled.stages.0.label>жизнь инстинктом</LotM_Fooled.stages.0.label>
+  <LotM_SlowThinking.label>медленное мышление</LotM_SlowThinking.label>
+  <LotM_SlowThinking.description>Близ Шута, они думают, наводят прицел и двигаются медленнее.</LotM_SlowThinking.description>
+  <LotM_WorldThreadsBuff.label>нити мира</LotM_WorldThreadsBuff.label>
+  <LotM_WorldThreadsBuff.description>Нити Шута держат их откуда угодно: они бьют сильнее и двигаются быстрее.</LotM_WorldThreadsBuff.description>
+  <LotM_LentAuthority.label>заимствованная власть</LotM_LentAuthority.label>
+  <LotM_LentAuthority.description>Шут прикрепил к ним одну из своих властей: у них есть её силы, и они платят за них духовностью Шута. Она исчезает к концу дня или если Шут умирает.</LotM_LentAuthority.description>
+</LanguageData>

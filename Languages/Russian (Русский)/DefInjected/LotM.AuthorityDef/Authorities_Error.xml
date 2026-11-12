@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Authority_ErrorTheft.label>Кража</LotM_Authority_ErrorTheft.label>
+  <LotM_Authority_ErrorTheft.description>Частичная власть над Кражей: они крадут судьбы, личности, связи, нити и характеристики.</LotM_Authority_ErrorTheft.description>
+  <LotM_Authority_ErrorTheft.passive>Они крадут до шести сил одновременно, личность и судьбу кого-то, их характеристики, связь с их источником и нити их марионеток. От «Червя Времени» они крадут годы, якоря, целые власти и Уникальность.</LotM_Authority_ErrorTheft.passive>
+  <LotM_Authority_ErrorTheft.godLabel>Кража</LotM_Authority_ErrorTheft.godLabel>
+  <LotM_Authority_ErrorTheft.godPassive>Кража, достигшая уровня власти: против истинного бога они берут всю власть, со всем, что от неё висит.</LotM_Authority_ErrorTheft.godPassive>
+  <LotM_Authority_ErrorFate.label>Судьба</LotM_Authority_ErrorFate.label>
+  <LotM_Authority_ErrorFate.description>Частичная власть над Судьбой, выведенная из символизма Маяка Судьбы.</LotM_Authority_ErrorFate.description>
+  <LotM_Authority_ErrorFate.passive>Они чувствуют рябь своей судьбы, вносят ошибки в судьбу других и отклоняют пророчества.</LotM_Authority_ErrorFate.passive>
+  <LotM_Authority_ErrorDeceit.label>Обман</LotM_Authority_ErrorDeceit.label>
+  <LotM_Authority_ErrorDeceit.description>Власть Обмана: они обманывают людей и правила мира.</LotM_Authority_ErrorDeceit.description>
+  <LotM_Authority_ErrorDeceit.passive>Они заставляют других совершать ошибки суждения, обманывают правила вещей и эффекты других, и видят слабость своей цели.</LotM_Authority_ErrorDeceit.passive>
+  <LotM_Authority_ErrorDeceit.godLabel>Обман</LotM_Authority_ErrorDeceit.godLabel>
+  <LotM_Authority_ErrorDeceit.godPassive>Они обманывают без броска, людей и правил; они могут обманывать самих себя, чтобы не попасться на то, что с ними происходит.</LotM_Authority_ErrorDeceit.godPassive>
+  <LotM_Authority_ErrorTime.label>Время</LotM_Authority_ErrorTime.label>
+  <LotM_Authority_ErrorTime.description>Ослабленная власть над Временем, выведенная из символизма Короля Пространства-Времени.</LotM_Authority_ErrorTime.description>
+  <LotM_Authority_ErrorTime.passive>С помощью фантомных каменных часов они замедляют, останавливают, ускоряют или меняют время; они крадут день или ночь и возвращают украденное время; они видят недавнюю историю в тумане.</LotM_Authority_ErrorTime.passive>
+  <LotM_Authority_ErrorTime.godLabel>Время</LotM_Authority_ErrorTime.godLabel>
+  <LotM_Authority_ErrorTime.godPassive>Власть над Временем (и немного над пространством, так как их нельзя разделить): они останавливают время в большой области и совершают шаги сквозь пространство.</LotM_Authority_ErrorTime.godPassive>
+  <LotM_Authority_Error.label>Ошибка</LotM_Authority_Error.label>
+  <LotM_Authority_Error.description>Власть Ошибки: лазейки в правилах, проявление каждой ошибки.</LotM_Authority_Error.description>
+  <LotM_Authority_Error.passive>Они создают ошибки и исправляют их, отделяются от мира, позволяют их тени принимать удары, сбивать с толку атаки тех, кто на них нападает вместе, делятся уроном со своими аватарами, меняются местами с ними, привязывают заменителя к оригиналу и путешествуют во снах. Их божественное царство — это ошибочная среда.</LotM_Authority_Error.passive>
+</LanguageData>

@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_DemonessShadowHidden.label>скрыт в тенях</LotM_DemonessShadowHidden.label>
+  <LotM_DemonessShadowHidden.description>Прячется во тьме: враги её не видят. Стоя, она обнаруживается в пределах 2 клеток; двигаясь — в пределах 6. В свете или при атаке её можно увидеть.</LotM_DemonessShadowHidden.description>
+  <LotM_DemonessMightyBlowReady.label>мощный удар готов</LotM_DemonessMightyBlowReady.label>
+  <LotM_DemonessMightyBlowReady.description>Собрал всю свою силу: следующий ближний бой ударит намного сильнее и оглушит.</LotM_DemonessMightyBlowReady.description>
+  <LotM_DemonessTrustworthyOn.label>кажется надежным</LotM_DemonessTrustworthyOn.label>
+  <LotM_DemonessTrustworthyOn.description>Не говоря ни слова, она кажется заслуживающей доверия и доступной: другие думают о ней лучше, и она договаривается, убеждает и вербует лучше.</LotM_DemonessTrustworthyOn.description>
+  <LotM_DemonessInstigated.label>побужден</LotM_DemonessInstigated.label>
+  <LotM_DemonessInstigated.description>Кто-то пробудил в них злое желание: они нападают на любого, кто рядом, даже на самого себя.</LotM_DemonessInstigated.description>
+  <LotM_DemonessDeceived.label>поверил лжи</LotM_DemonessDeceived.label>
+  <LotM_DemonessDeceived.description>Поверили лжи инициатора: какое-то время они не считают её угрозой.</LotM_DemonessDeceived.description>
+  <LotM_DemonessBlackFlameWeaponOn.label>оружие чёрного пламени</LotM_DemonessBlackFlameWeaponOn.label>
+  <LotM_DemonessBlackFlameWeaponOn.description>Её оружие обмотано чёрными пламенными: каждый удар оставляет чёрный пламень внутри раненого, который она может заставить взорваться издалека.</LotM_DemonessBlackFlameWeaponOn.description>
+  <LotM_BlackFlameInside.label>черное пламя внутри</LotM_BlackFlameInside.label>
+  <LotM_BlackFlameInside.description>Черное пламя осталось внутри них ударом. Тот, кто его туда поместил, может заставить его взорваться издалека: чем больше у них, тем хуже.</LotM_BlackFlameInside.description>
+  <LotM_DemonessTracesErased.label>следы стёрты</LotM_DemonessTracesErased.label>
+  <LotM_DemonessTracesErased.description>Сжигали её кровь и её следы: никто не хранит её кровь, чтобы проклясть или отследить её.</LotM_DemonessTracesErased.description>
+  <LotM_DemonessSlipping.label>скольжение</LotM_DemonessSlipping.label>
+  <LotM_DemonessSlipping.description>На скользком льду: двигаются намного медленнее и могут упасть.</LotM_DemonessSlipping.description>
+  <LotM_DemonessOnIce.label>на её льду</LotM_DemonessOnIce.label>
+  <LotM_DemonessOnIce.description>Бежит на собственном льду: почти без трения, она движется быстрее.</LotM_DemonessOnIce.description>
+  <LotM_DemonessIceSealed.label>запечатан в льду</LotM_DemonessIceSealed.label>
+  <LotM_DemonessIceSealed.description>Окутанные слоями инея: они не могут двигаться или делать ничего, и лёд поглощает половину каждого удара.</LotM_DemonessIceSealed.description>
+  <LotM_DemonessChilled.label>охлаждённая</LotM_DemonessChilled.label>
+  <LotM_DemonessChilled.description>Морозный ветер пробирает до костей: они двигаются и работают медленнее.</LotM_DemonessChilled.description>
+  <LotM_DemonessFrozenStatueOn.label>замороженная статуя</LotM_DemonessFrozenStatueOn.label>
+  <LotM_DemonessFrozenStatueOn.description>Обернутые слоями инея с вакуумом между ними: намного больше брони и сопротивления жару, но медленнее.</LotM_DemonessFrozenStatueOn.description>
+  <LotM_DemonessFrostWindOn.label>морозный ветер</LotM_DemonessFrostWindOn.label>
+  <LotM_DemonessFrostWindOn.description>Морозный ветер дует вокруг нее: он замедляет близких врагов и гасит обычные огни.</LotM_DemonessFrostWindOn.description>
+  <LotM_DemonessMirrorSubstitute.label>бумажный двойник</LotM_DemonessMirrorSubstitute.label>
+  <LotM_DemonessMirrorSubstitute.description>Ведьма сделала для них заменитель зеркала: их отражение умирает вместо них при серьезном ударе, один раз.</LotM_DemonessMirrorSubstitute.description>
+  <LotM_DemonessMirrorHidden.label>внутри зеркала</LotM_DemonessMirrorHidden.label>
+  <LotM_DemonessMirrorHidden.description>Она спрятана внутри зеркала: никто ее не касается. Это длится несколько секунд.</LotM_DemonessMirrorHidden.description>
+  <LotM_DemonessMedia.label>кровь другого</LotM_DemonessMedia.label>
+  <LotM_DemonessMedia.description>Кровь тех, кого она недавно ранила: она служит средством для сжигания их изнутри или проклятия их (на несколько дней).</LotM_DemonessMedia.description>
+  <LotM_DemonessCatastrophe.label>проклятие катастрофы</LotM_DemonessCatastrophe.label>
+  <LotM_DemonessCatastrophe.description>Ведьма прокляла их: каждые несколько часов с ними случается несчастье. Когда оно заканчивается, может настигнуть их окончательная беда.</LotM_DemonessCatastrophe.description>
+  <LotM_DemonessInvisible.label>невидимый</LotM_DemonessInvisible.label>
+  <LotM_DemonessInvisible.description>Мерцающая пудра и заклинание: никто не видит её невооруженным глазом, пока она не атакует.</LotM_DemonessInvisible.description>
+  <LotM_DemonessGhostly.label>призрачные фигуры</LotM_DemonessGhostly.label>
+  <LotM_DemonessGhostly.description>Призрачные фигуры давят на их тело: медленно, неуклюже и с болью.</LotM_DemonessGhostly.description>
+  <LotM_DemonessTangled.label>запутан в нитях</LotM_DemonessTangled.label>
+  <LotM_DemonessTangled.description>Запутались в почти невидимых шелковых нитях: двигаются намного медленнее.</LotM_DemonessTangled.description>
+  <LotM_DemonessThreadBound.label>связанная нитями</LotM_DemonessThreadBound.label>
+  <LotM_DemonessThreadBound.description>Шёлковые нити ограничивают их движение: они едва могут ходить, а использование рук становится намного хуже.</LotM_DemonessThreadBound.description>
+  <LotM_DemonessPleasureSpasm.label>спазмы наслаждения</LotM_DemonessPleasureSpasm.label>
+  <LotM_DemonessPleasureSpasm.description>Нити окутали их истинным наслаждением: они спазмируют и потеряли контроль над телом.</LotM_DemonessPleasureSpasm.description>
+  <LotM_DemonessStimulated.label>стимулированный нитями</LotM_DemonessStimulated.label>
+  <LotM_DemonessStimulated.description>Мягкие нити ласкают их тело: они отвлекаются, неуклюжи и медлительны, и не могут контролировать то, что чувствуют.</LotM_DemonessStimulated.description>
+  <LotM_DemonessCocoonOn.label>шелковый кокон</LotM_DemonessCocoonOn.label>
+  <LotM_DemonessCocoonOn.description>Обернутые коконом нитей: она не может двигаться, но получает намного меньше урона, и её раны быстро затягиваются.</LotM_DemonessCocoonOn.description>
+  <LotM_DemonessTripleDefenseOn.label>трехслойная защита</LotM_DemonessTripleDefenseOn.label>
+  <LotM_DemonessTripleDefenseOn.description>Черный огонь внутри, иней и шелковый кокон сверху: получает половину урона и имеет гораздо большую броню.</LotM_DemonessTripleDefenseOn.description>
+  <LotM_DemonessFrozenStiff.label>затвердевший</LotM_DemonessFrozenStiff.label>
+  <LotM_DemonessFrozenStiff.description>Холод или волосы Демонессы затвердели их тело: они двигаются и используют руки намного хуже.</LotM_DemonessFrozenStiff.description>
+  <LotM_DemonessDevotion.label>зависимость</LotM_DemonessDevotion.label>
+  <LotM_DemonessDevotion.description>Стали зависимыми от Демонессы Удовольствия, как от мягкого наркотика: рядом с ней они чувствуют себя намного лучше; вдали от неё на день или дольше они страдают от абстиненции. Это медленно исчезает, если они её не видят.</LotM_DemonessDevotion.description>
+  <LotM_DemonessDevotion.stages.0.label>мягкий</LotM_DemonessDevotion.stages.0.label>
+  <LotM_DemonessDevotion.stages.1.label>сильный</LotM_DemonessDevotion.stages.1.label>
+  <LotM_DemonessDevotion.stages.2.label>полный</LotM_DemonessDevotion.stages.2.label>
+  <LotM_DemonessPathogen.label>патогены-заболевания</LotM_DemonessPathogen.label>
+  <LotM_DemonessPathogen.description>Мистические патогены Демонессы Страдания, которые заставляют людей болеть за секунды: лихорадка и кашель, затем пневмония или бронхит, а через две или три минуты — остановка сердца или аневризма. Лечение замедляет это; огонь поблизости убивает патогены.</LotM_DemonessPathogen.description>
+  <LotM_DemonessPathogen.stages.0.label>инкубирование</LotM_DemonessPathogen.stages.0.label>
+  <LotM_DemonessPathogen.stages.1.label>лихорадка и кашель</LotM_DemonessPathogen.stages.1.label>
+  <LotM_DemonessPathogen.stages.2.label>пневмония</LotM_DemonessPathogen.stages.2.label>
+  <LotM_DemonessFrostPreserveOn.label>сохранение со льдом</LotM_DemonessFrostPreserveOn.label>
+  <LotM_DemonessFrostPreserveOn.description>Она постоянно выпускает иней для сохранения своих патогенов: тепло не ослабляет их.</LotM_DemonessFrostPreserveOn.description>
+  <LotM_DemonessHairWeapon.label>живые волосы</LotM_DemonessHairWeapon.label>
+  <LotM_DemonessHairWeapon.description>Она управляет своими волосами по желанию: это ближний бой, который пронзает кожу, впрыскивает чёрный огонь и затвердевает область, а также отражает входящие пули.</LotM_DemonessHairWeapon.description>
+  <LotM_DemonessHairWeapon.comps.0.tools.0.label>волосы</LotM_DemonessHairWeapon.comps.0.tools.0.label>
+  <LotM_DemonessCharmed.label>очарованная</LotM_DemonessCharmed.label>
+  <LotM_DemonessCharmed.description>Демонесса очаровала их взглядом: они не хотят ей причинять вреда, и если они её заденут, это очень слабо.</LotM_DemonessCharmed.description>
+  <LotM_DemonessSurrendered.label>сдалась своему очарованию</LotM_DemonessSurrendered.label>
+  <LotM_DemonessSurrendered.description>Сдавшись очарованию Демонессы, чтобы завоевать её расположение: бросают оружие и не сопротивляются.</LotM_DemonessSurrendered.description>
+  <LotM_DemonessInLove.label>влюблённость</LotM_DemonessInLove.label>
+  <LotM_DemonessInLove.description>Демонесса очаровывает их каждый день: в третий раз они по-настоящему влюбляются.</LotM_DemonessInLove.description>
+  <LotM_DemonessMazeLost.label>потерянная в лабиринте зеркал</LotM_DemonessMazeLost.label>
+  <LotM_DemonessMazeLost.description>Они среди зеркал Демонессы: каждый выход, который они видят, — это отражение.</LotM_DemonessMazeLost.description>
+  <LotM_DemonessPlagueOn.label>чума</LotM_DemonessPlagueOn.label>
+  <LotM_DemonessPlagueOn.description>Поддерживает чуму, которая самостоятельно распространяется по всему месту, к их врагам. Потребляет духовность в час.</LotM_DemonessPlagueOn.description>
+  <LotM_DemonessPlagueSapping.label>чума высасывания</LotM_DemonessPlagueSapping.label>
+  <LotM_DemonessPlagueSapping.description>Мистическая чума Демонессы Отчаяния: она постепенно истощает силу и духовность, пока сердце едва бьется. Она атакует даже нежить. Лечение замедляет её; обычный огонь её не убивает.</LotM_DemonessPlagueSapping.description>
+  <LotM_DemonessPlagueSapping.stages.0.label>мягкий</LotM_DemonessPlagueSapping.stages.0.label>
+  <LotM_DemonessPlagueSapping.stages.1.label>слабый</LotM_DemonessPlagueSapping.stages.1.label>
+  <LotM_DemonessPlagueSapping.stages.2.label>сердце едва бьётся</LotM_DemonessPlagueSapping.stages.2.label>
+  <LotM_DemonessPlagueRigidity.label>чума ригидности</LotM_DemonessPlagueRigidity.label>
+  <LotM_DemonessPlagueRigidity.description>Мистическая чума Демонессы Отчаяния: тело затвердевает и теряет всю гибкость, пока не становится неспособным двигаться. Она атакует даже нежить. Лечение замедляет её; обычный огонь её не убивает.</LotM_DemonessPlagueRigidity.description>
+  <LotM_DemonessPlagueRigidity.stages.0.label>мягкий</LotM_DemonessPlagueRigidity.stages.0.label>
+  <LotM_DemonessPlagueRigidity.stages.1.label>жесткий</LotM_DemonessPlagueRigidity.stages.1.label>
+  <LotM_DemonessPlagueRigidity.stages.2.label>деревянный</LotM_DemonessPlagueRigidity.stages.2.label>
+  <LotM_DemonessPlagueRot.label>чума гниющей плоти</LotM_DemonessPlagueRot.label>
+  <LotM_DemonessPlagueRot.description>Мистическая чума Демонессы Отчаяния: через десять секунд она начинает гнить плоть изнутри, в лёгких, сердце или мозге. Лечение замедляет её; обычный огонь её не убивает.</LotM_DemonessPlagueRot.description>
+  <LotM_DemonessPlagueRot.stages.0.label>инкубирование</LotM_DemonessPlagueRot.stages.0.label>
+  <LotM_DemonessPlagueRot.stages.1.label>плоть гниёт</LotM_DemonessPlagueRot.stages.1.label>
+  <LotM_DemonessPlagueRot.stages.2.label>тяжёлый</LotM_DemonessPlagueRot.stages.2.label>
+  <LotM_DemonessPetrifying.label>окаменение</LotM_DemonessPetrifying.label>
+  <LotM_DemonessPetrifying.description>Эта часть превращается в камень: работает всё меньше и меньше, и полностью окаменевшая, она совсем не работает. Она восстанавливается сама по себе за несколько дней; чёрное пламя Демонессы удаляет её мгновенно.</LotM_DemonessPetrifying.description>
+  <LotM_DemonessPetrifying.stages.0.label>затвердевание</LotM_DemonessPetrifying.stages.0.label>
+  <LotM_DemonessPetrifying.stages.1.label>серый</LotM_DemonessPetrifying.stages.1.label>
+  <LotM_DemonessPetrifying.stages.2.label>почти камень</LotM_DemonessPetrifying.stages.2.label>
+  <LotM_DemonessPetrifying.stages.3.label>камень</LotM_DemonessPetrifying.stages.3.label>
+  <LotM_DemonessGorgonGaze.label>удовольствие и боль</LotM_DemonessGorgonGaze.label>
+  <LotM_DemonessGorgonGaze.description>Видели Горгул: чувствуют удовольствие и боль одновременно и находят борьбу с ней ужасно трудной.</LotM_DemonessGorgonGaze.description>
+  <LotM_DemonessMirrorCopy.label>зеркальное отражение</LotM_DemonessMirrorCopy.label>
+  <LotM_DemonessMirrorCopy.description>Копия Демонессы, сделанная из зеркала, с долей её силы. Она не может уйти от отражения своего зеркала; если она умирает, если зеркало разбивается или если истекает её время, она возвращается к зеркалу, не оставляя ничего позади.</LotM_DemonessMirrorCopy.description>
+  <LotM_DemonessMirrorBarrierOn.label>барьер Мира зеркал</LotM_DemonessMirrorBarrierOn.label>
+  <LotM_DemonessMirrorBarrierOn.description>Держит барьер Мира Зеркал, который запечатывает область: никто не может войти или выйти. Потребляет духовность в час.</LotM_DemonessMirrorBarrierOn.description>
+  <LotM_DemonessIceAmuletOn.label>амулет из льда</LotM_DemonessIceAmuletOn.label>
+  <LotM_DemonessIceAmuletOn.description>Несет ледяной амулет Демонессы: может переходить из одного ее зеркала в другое.</LotM_DemonessIceAmuletOn.description>
+  <LotM_MythicalForm_Demoness.label>Горгона</LotM_MythicalForm_Demoness.label>
+  <LotM_MythicalForm_Demoness.description>Её мифическая форма: Горгона, с волосами из ядовитых змей. Тот, кто её видит, испытывает удовольствие и боль одновременно; то, к чему прикасаются её волосы, превращается в камень вдвойне быстрее. Всё, что смотрят её змеи, мгновенно превращается в камень.</LotM_MythicalForm_Demoness.description>
+  <LotM_DemonessMirrorSelf.label>зеркальное само</LotM_DemonessMirrorSelf.label>
+  <LotM_DemonessMirrorSelf.description>Её зеркальное "я", с которым она была связана, когда продвигалась вперёд. Она зафиксировала своё состояние в нём: она не стареет, и не страдает от болезней старости. Если она примирилась с ним, он сражается рядом с ней в Мире зеркал.</LotM_DemonessMirrorSelf.description>
+  <LotM_DemonessUnagingUnstable.label>недавно продвинутый</LotM_DemonessUnagingUnstable.label>
+  <LotM_DemonessUnagingUnstable.description>Она только что стала Демонессой Бессмертия и всё ещё не овладела своими эмоциями или желаниями: она нестабильна и едва может сопротивляться очарованию другой Демонессы её уровня.</LotM_DemonessUnagingUnstable.description>
+  <LotM_DemonessYouthRestored.label>зеркальный след</LotM_DemonessYouthRestored.label>
+  <LotM_DemonessYouthRestored.description>Связан к следу самих себя в зеркале, с того времени, как они были молоды: какое-то время не беспокоят их недуги старости. После этого они возвращаются такими, какими были.</LotM_DemonessYouthRestored.description>
+  <LotM_DemonessAilmentsEased.label>умиротворенные недуги</LotM_DemonessAilmentsEased.label>
+  <LotM_DemonessAilmentsEased.description>Демонесса успокоила недуги, которые они несут, своим контролем над болезнями. В течение дня они не тянут на них, а затем возвращаются в прежнее состояние.</LotM_DemonessAilmentsEased.description>
+  <LotM_DemonessWinterChannel.label>зеркальный зимний</LotM_DemonessWinterChannel.label>
+  <LotM_DemonessWinterChannel.description>Она концентрируется на распространении своего инея по всему месту. Если она ранена или двигается, это прерывается.</LotM_DemonessWinterChannel.description>
+  <LotM_DemonessDread.label>ужас</LotM_DemonessDread.label>
+  <LotM_DemonessDread.description>Видели Демонессу Катастрофы: чувствуют страх из глубин своего сердца. Целятся и бьют хуже, и если их собственное падение близко к ней, они могут убежать.</LotM_DemonessDread.description>
+  <LotM_DemonessJinxed.label>проклятая</LotM_DemonessJinxed.label>
+  <LotM_DemonessJinxed.description>Катастрофа порядка: их оружие заклинивает или выстрел уходит в их самих.</LotM_DemonessJinxed.description>
+  <LotM_DemonessFragmenting.label>коллапс Мира зеркал</LotM_DemonessFragmenting.label>
+  <LotM_DemonessFragmenting.description>Заперты в Зеркальном Мире, который фрагментируется: они не могут выбраться, двигаются на половине скорости, и их силы дают сбой. Если они умрут здесь, ничего из них не останется.</LotM_DemonessFragmenting.description>
+  <LotM_DemonessFateCursed.label>проклятие судьбы</LotM_DemonessFateCursed.label>
+  <LotM_DemonessFateCursed.description>Прикоснулись к драгоценному камню катастрофы: после другой катастрофы происходит с ними одно (спотыкание, упавшее оружие, выстрелы, молнии, обрушение крыш, плохие моменты) и, в конце концов, иногда, настоящая катастрофа.</LotM_DemonessFateCursed.description>
+  <LotM_DemonessBeastServant.label>служение катастрофе</LotM_DemonessBeastServant.label>
+  <LotM_DemonessBeastServant.description>Идет за врагами Демонессы Катастрофы. Через некоторое время она уходит.</LotM_DemonessBeastServant.description>
+  <LotM_DemonessEcstasy.label>высшее наслаждение</LotM_DemonessEcstasy.label>
+  <LotM_DemonessEcstasy.description>Плач с удовольствием, лежа на земле, не в силах ничего сделать. Когда это пройдёт, придёт пустота.</LotM_DemonessEcstasy.description>
+</LanguageData>

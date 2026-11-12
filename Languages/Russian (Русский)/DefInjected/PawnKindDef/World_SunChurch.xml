@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_SunChurch_Believer.label>верные Солнцу</LotM_SunChurch_Believer.label>
+  <LotM_SunChurch_Suppliant.label>светский проситель</LotM_SunChurch_Suppliant.label>
+  <LotM_SunChurch_HighPriest.label>Солнечный высший жрец</LotM_SunChurch_HighPriest.label>
+  <LotM_SunChurch_Notary.label>Нотариус церкви</LotM_SunChurch_Notary.label>
+  <LotM_SunChurch_LightPriest.label>священник света</LotM_SunChurch_LightPriest.label>
+  <LotM_SunChurch_Archbishop.label>Архиепископ Солнца</LotM_SunChurch_Archbishop.label>
+  <LotM_Purifier.label>Очиститель</LotM_Purifier.label>
+  <LotM_Purifier_Veteran.label>Ветерана очистителя</LotM_Purifier_Veteran.label>
+  <LotM_Purifier_Captain.label>Капитан очистителя</LotM_Purifier_Captain.label>
+  <LotM_Purifier_Deacon.label>Диакон очистителя</LotM_Purifier_Deacon.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_FateFavored.label>благосклонная судьба</LotM_FateFavored.label>
+  <LotM_FateFavored.description>Кто-то решил судьбу этого места: угрозы прибывают медленно, а растения растут лучше.</LotM_FateFavored.description>
+  <LotM_FateFavored.endMessage>Судьба этого места возвращается к своему курсу.</LotM_FateFavored.endMessage>
+  <LotM_DarkNight.label>темная ночь</LotM_DarkNight.label>
+  <LotM_DarkNight.description>Приносит кромешную тьму на место. В ней они почти невозможно убить по-настоящему.</LotM_DarkNight.description>
+  <LotM_DarkNight.endMessage>Тёмная ночь отступает.</LotM_DarkNight.endMessage>
+</LanguageData>

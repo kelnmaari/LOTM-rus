@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_TrappedSpiritMirror.comps.2.useLabel>освободить духа</LotM_TrappedSpiritMirror.comps.2.useLabel>
+  <LotM_WitchPowder.label>колдовская пудра</LotM_WitchPowder.label>
+  <LotM_WitchPowder.description>Порошок из трав и серебра, который слегка мерцает. Менеее темная магия Ведьмы (делает невидимым, окружает кого-то призрачными фигурами, призывает духа) использует одну мерку; она берется из того, что она носит, или, если она ничего не носит, из того, что на карте.</LotM_WitchPowder.description>
+  <LotM_IceMirrorShard.label>осколок ледяного зеркала</LotM_IceMirrorShard.label>
+  <LotM_IceMirrorShard.description>Кусок льда, отполированный до зеркального блеска, который не тает. Ведьма использует его, чтобы сделать бумажный двойник для кого-то другого, и ношение одного достаточно для того, чтобы спрятаться в зеркале.</LotM_IceMirrorShard.description>
+  <LotM_CurseDoll.label>колдовская кукла</LotM_CurseDoll.label>
+  <LotM_CurseDoll.description>Кукла, сделанная из волос и части плоти человека. Пока она существует, Ведьма может использовать ее в качестве посредника, чтобы сжечь этого человека изнутри или проклясть его издалека (и, если это союзник, сделать его заменой в качестве зеркала). Она расходуется при использовании.</LotM_CurseDoll.description>
+  <LotM_BlackFire.label>черный пламень</LotM_BlackFire.label>
+  <LotM_BlackFire.description>Черное пламя, сжигающее духовность, а не материю: оно горит, не зажигая ничего, не гаснет в воде и достигает духов.</LotM_BlackFire.description>
+  <LotM_IceFloor.label>замороженная земля</LotM_IceFloor.label>
+  <LotM_IceFloor.description>Слой скользкого льда. Враги Ведьмы, наступающие на него, замедляются и иногда падают; она бежит быстрее по нему.</LotM_IceFloor.description>
+  <LotM_Projectile_BlackFireball.label>шар чёрного пламени</LotM_Projectile_BlackFireball.label>
+  <LotM_SilkThread.label>шелковая нить</LotM_SilkThread.label>
+  <LotM_SilkThread.description>Очень тонкая, почти невидимая шелковая нить, натянутая Демонессой Удовольствия. Враг, который пересекает ее, запутывается и рвет ее, и она чувствует, кто прошел.</LotM_SilkThread.description>
+  <LotM_TrappedSpiritMirror.label>зеркало с духом</LotM_TrappedSpiritMirror.label>
+  <LotM_TrappedSpiritMirror.description>Ледяное зеркало, окруженное черными пламенными, с духом, запертым внутри: можно видеть, как он движется за отражением. При использовании дух выходит и сражается за того, кто его выпустил на день; затем он исчезает.</LotM_TrappedSpiritMirror.description>
+  <LotM_Projectile_BlackFlameBullet.label>черный пламень</LotM_Projectile_BlackFlameBullet.label>
+  <LotM_Projectile_IceSpear.label>ледяная копьё</LotM_Projectile_IceSpear.label>
+  <LotM_MazeMirror.label>ледяное зеркало</LotM_MazeMirror.label>
+  <LotM_MazeMirror.description>Стоящее ледяное зеркало, установленное Демонессой Озлобления. С ее другими зеркалами они отражают друг друга через Мир Зеркал и образуют лабиринт. Если оно разбивается, лабиринт заканчивается.</LotM_MazeMirror.description>
+  <LotM_MirrorDecoy.label>фигура в зеркале</LotM_MirrorDecoy.label>
+  <LotM_MirrorDecoy.description>Отражение Демонессы, неподвижное, которое выглядит как она. Оно стреляет, пока длится лабиринт, и ломается после пары попаданий.</LotM_MirrorDecoy.description>
+</LanguageData>

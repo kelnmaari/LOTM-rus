@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_YoungHead.label>молодая голова</LotM_YoungHead.label>
+  <LotM_YoungHead.description>Молодая голова на плече дарует свою молодость другому: она отнимает годы и некоторую болезнь старости.</LotM_YoungHead.description>
+  <LotM_OldHead.label>старая голова</LotM_OldHead.label>
+  <LotM_OldHead.description>Старая голова смотрит на цель и бросает годы, которые она несет, на них. Они стареют одновременно, и что-то в них ломается.</LotM_OldHead.description>
+  <LotM_FleshHarvest.label>сбор плоти</LotM_FleshHarvest.label>
+  <LotM_FleshHarvest.description>Они раскрываются, как цветок плоти, и поглощают каждое труп вокруг них. Их плоть наполняется, и их раны затягиваются.</LotM_FleshHarvest.description>
+  <LotM_FleshSurgery.label>хирургия плоти</LotM_FleshSurgery.label>
+  <LotM_FleshSurgery.description>С помощью магии плоти и крови они воссоздают то, чего не хватает кому-то: конечность, орган, шрам. Это стоит плоти.</LotM_FleshSurgery.description>
+  <LotM_FleshMutation.label>мутация</LotM_FleshMutation.label>
+  <LotM_FleshMutation.description>Плоть цели мутирует: кожа становится такой же прочной, как звериная шкура, с большей силой и костяными когтями. Это длится один день.</LotM_FleshMutation.description>
+  <LotM_Hemorrhage.label>кровотечение</LotM_Hemorrhage.label>
+  <LotM_Hemorrhage.description>Кровь врагов в этом районе взрывается внутри них и вырывается отовсюду.</LotM_Hemorrhage.description>
+  <LotM_FleshFlock.label>стадо плоти</LotM_FleshFlock.label>
+  <LotM_FleshFlock.description>Тела вокруг них поднимаются в зверей плоти, которые подчиняются им в течение нескольких часов.</LotM_FleshFlock.description>
+  <LotM_TwistOrders.label>искажённые приказы</LotM_TwistOrders.label>
+  <LotM_TwistOrders.description>Они искажают то, что враги говорят друг другу: приказы неправильно понимают, некоторые нападают друг на друга, а другие убегают.</LotM_TwistOrders.description>
+  <LotM_ProfaneConversion.label>профанное превращение</LotM_ProfaneConversion.label>
+  <LotM_ProfaneConversion.description>Они берут ответы заключенного или поверженного и искажают их, пока этот человек не присоединится к ним. Они прибывают извращенными.</LotM_ProfaneConversion.description>
+  <LotM_ProfaneBargain.label>нечестное соглашение</LotM_ProfaneBargain.label>
+  <LotM_ProfaneBargain.description>Искажает слова кого-то из другой фракции. В течение дня каждая сделка идет намного лучше... пока другая сторона не заметит.</LotM_ProfaneBargain.description>
+  <LotM_ProfaneCurse.label>профанное проклятие</LotM_ProfaneCurse.label>
+  <LotM_ProfaneCurse.description>Они проклинают, издалека и невидимо, того, чьи слова они забрали. Дегенерация начинается и не останавливается.</LotM_ProfaneCurse.description>
+  <LotM_FilthTongue.label>язык грязи</LotM_FilthTongue.label>
+  <LotM_FilthTongue.description>Их слова гниют в области: земля заполняется грязью, враги болеют, а их раны гноятся.</LotM_FilthTongue.description>
+  <LotM_ShadowStep.label>теневой шаг</LotM_ShadowStep.label>
+  <LotM_ShadowStep.description>Они шагают в тень и выходят из любой другой тени в области.</LotM_ShadowStep.description>
+  <LotM_ShadowWorldTravel.label>путешествие в Мир теней</LotM_ShadowWorldTravel.label>
+  <LotM_ShadowWorldTravel.description>Ночью они погружаются в собственную тень и выходят где угодно в мире.</LotM_ShadowWorldTravel.description>
+  <LotM_StealShadow.label>украсть тень</LotM_StealShadow.label>
+  <LotM_StealShadow.description>Они вырывают тень цели. Без нее цель исчезает, а тень борется за нее.</LotM_StealShadow.description>
+  <LotM_Eclipse.label>затмение</LotM_Eclipse.label>
+  <LotM_Eclipse.description>Они приносят ночь в яркий день. Тени становятся сильнее.</LotM_Eclipse.description>
+  <LotM_ShadowLegion.label>теневая легион</LotM_ShadowLegion.label>
+  <LotM_ShadowLegion.description>Они открывают Мир теней, и многие существа выходят, чтобы подчиниться им.</LotM_ShadowLegion.description>
+  <LotM_ShadowVeil.label>теневая завеса</LotM_ShadowVeil.label>
+  <LotM_ShadowVeil.description>Они притягивают своих ближайших союзников в тени. Свет или атака их обнаруживают.</LotM_ShadowVeil.description>
+  <LotM_TurretBetrayal.label>предательство турели</LotM_TurretBetrayal.label>
+  <LotM_TurretBetrayal.description>Башня деградирует и некоторое время стреляет по своему владельцу.</LotM_TurretBetrayal.description>
+  <LotM_WeaponBetrayal.label>предательство оружием</LotM_WeaponBetrayal.label>
+  <LotM_WeaponBetrayal.description>Оружие цели предаёт их: в их руках выстреливает огнестрельное оружие, ближний бой становится против них.</LotM_WeaponBetrayal.description>
+  <LotM_Deprave.label>осквернять</LotM_Deprave.label>
+  <LotM_Deprave.description>Они погружают цель в порочность. Если цель всё ещё жива через день, она принадлежит им.</LotM_Deprave.description>
+  <LotM_DegenerationPlague.label>чума дегенерации</LotM_DegenerationPlague.label>
+  <LotM_DegenerationPlague.description>В течение половины дня дегенерация распространяется по месту: враги гниют изнутри и обращаются против самих себя.</LotM_DegenerationPlague.description>
+  <LotM_BlackShroud.label>черный саван</LotM_BlackShroud.label>
+  <LotM_BlackShroud.description>Они покрывают ближайших союзников жидкостью черного океана. Каждый саван поглощает несколько выстрелов.</LotM_BlackShroud.description>
+  <LotM_DevourLight.label>поглощать свет</LotM_DevourLight.label>
+  <LotM_DevourLight.description>Тьма пожирает огни и свет области. Их союзники в безопасности от огня некоторое время.</LotM_DevourLight.description>
+  <LotM_BlackTide.label>черный прилив</LotM_BlackTide.label>
+  <LotM_BlackTide.description>Черная, вязкая волна движется по линии: она бьет, толкает и оставляет врагов в заложниках.</LotM_BlackTide.description>
+</LanguageData>

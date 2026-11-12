@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_DivinationInterference.description>Пока способность включена, она затуманивает чужое гадание и интуицию. Половина попыток издалека обнаружить Потустороннего или его союзников поблизости проваливается, а угрозам становится сложнее найти колонию. Каждый час расходуется духовность.</LotM_DivinationInterference.description>
+  <LotM_DoorPhase.label>открытие двери</LotM_DoorPhase.label>
+  <LotM_DoorPhase.description>Открывает символическую, нематериальную Дверь в стене, используя черты Мира духов, и проходит на другую сторону с тем, что находится на его теле. Она проходит только через то, что еще можно назвать стеной: толщиной в одну клетку (две от Астролога, три от Путешественника). Она не срабатывает, если силы Потустороннего препятствуют этому. От Астролога они могут принести тех, кто стоит рядом с ними. Это работает, даже если их связь с Миром духов прервана.</LotM_DoorPhase.description>
+  <LotM_DoorUnlock.label>открывать замки</LotM_DoorUnlock.label>
+  <LotM_DoorUnlock.description>Открывает любой замок, не имеющий мистической силы: двери любого, что нужно взломать, а также запечатанные крипты и ящики древних комплексов. Замки, усиленные силами Потусторонних, открываются только иногда. Обычные двери больше их не останавливают: они открываются при прохождении.</LotM_DoorUnlock.description>
+  <LotM_DoorOpenBody.label>открыть в теле</LotM_DoorOpenBody.label>
+  <LotM_DoorOpenBody.description>Открывает «дверь» в части тела соседа: глубокая рана, которая сильно кровоточит и которую не останавливает никакая броня. Использовать на собственном теле на этой Последовательности это было бы почти самоубийством, поэтому они этого не пытаются.</LotM_DoorOpenBody.description>
+  <LotM_DoorTricks.label>трюки</LotM_DoorTricks.label>
+  <LotM_DoorTricks.description>Открывает список своих трюков: странные, слабые заклинания, больше мага, чем воина. Вспышка, чёрная завеса, передача газа, громкий шум, заморозка, электрический разряд, туман, ветер, воспламенение, падение, манипуляция объектами и трюк с побегом. Выполняется перед другими, они развлекают публику.</LotM_DoorTricks.description>
+  <LotM_TrickFlash.label>вспышка</LotM_TrickFlash.label>
+  <LotM_TrickFlash.description>Вспышка, несколько ярче, чем у старой фотоаппаратуры: она не освещает, она ослепляет. Она ослепляет тех, кто находится рядом с точкой на некоторое время. Она служит отвлекающим маневром.</LotM_TrickFlash.description>
+  <LotM_TrickCurtain.label>чёрная завеса</LotM_TrickCurtain.label>
+  <LotM_TrickCurtain.description>Подобно волшебнику, созывает темную завесу из воздуха, которая блокирует зрение: то, что находится за ней, не может быть увидено или нацелено. Это служит отвлекающим маневром.</LotM_TrickCurtain.description>
+  <LotM_TrickGas.label>передача газа</LotM_TrickGas.label>
+  <LotM_TrickGas.description>Переносит токсичные или вредные газы вокруг себя туда, где они нужны, не более чем в 15 метрах: прочь от их людей или на врага.</LotM_TrickGas.description>
+  <LotM_TrickNoise.label>громкий шум</LotM_TrickNoise.label>
+  <LotM_TrickNoise.description>Гулкий шум из ниоткуда, как фальшивый взрыв: враги оборачиваются, теряют то, что делали, а те, кто рядом, остаются наполовину глухими. Это работает как отвлекающий манёвр.</LotM_TrickNoise.description>
+  <LotM_TrickFreeze.label>замерзание</LotM_TrickFreeze.label>
+  <LotM_TrickFreeze.description>Мгновенно снижает температуру: ледяной луч, быстрый, как стрела, с дальностью 10 метров, который немного замораживает и замедляет; на земле оставляет слой льда и снега.</LotM_TrickFreeze.description>
+  <LotM_TrickShock.label>электрический разряд</LotM_TrickShock.label>
+  <LotM_TrickShock.description>Удар, как от обычного устройства, которое требует прикосновения: он оглушает на мгновение и сильнее нарушает работу механоидов.</LotM_TrickShock.description>
+  <LotM_TrickFog.label>туман</LotM_TrickFog.label>
+  <LotM_TrickFog.description>Заполняет место густым туманом: внутри никто не может хорошо видеть или целиться. Это служит отвлечением.</LotM_TrickFog.description>
+  <LotM_TrickWind.label>ветер</LotM_TrickWind.label>
+  <LotM_TrickWind.description>Ураганный ветер в прямую линию: он толкает тех, кто находится спереди, уносит газ и гасит огонь.</LotM_TrickWind.description>
+  <LotM_TrickIgnite.label>воспламенение</LotM_TrickIgnite.label>
+  <LotM_TrickIgnite.description>Щелчком пальцев поджигает что-то в 3 метрах от него.</LotM_TrickIgnite.description>
+  <LotM_TrickTumble.label>падение</LotM_TrickTumble.label>
+  <LotM_TrickTumble.description>Делает пол места скользким, как будто он смазан: бегущие падают. У одного человека это заставляет его ноги скользить.</LotM_TrickTumble.description>
+  <LotM_TrickMove.label>манипуляция объектами</LotM_TrickMove.label>
+  <LotM_TrickMove.description>Перемещает или отскакивает что-то в пределах 5 метров, без большой точности: подносит свободный предмет к ногам или наносит удар кому-то.</LotM_TrickMove.description>
+  <LotM_TrickEscape.label>трюк побега</LotM_TrickEscape.label>
+  <LotM_TrickEscape.description>После отвлечения врага (вспышка, занавес, громкий шум, туман или сила другого пути, использованная мгновение назад), они мгновенно меняют положение: несколько клеток, более десяти от Астролога. Те, кто наблюдает за ними, теряют цель. Менее форма Блинк.</LotM_TrickEscape.description>
+  <LotM_StarDivination.label>астрология</LotM_StarDivination.label>
+  <LotM_StarDivination.description>Консультируется своей духовностью и звездами: предвидит опасности, окружающие колонию, даже скрытые (с хрустальным шаром они видят и места их укрытия). С хрустальным шаром они также могут вспоминать: как во сне, они возвращаются к тому, что потеряли, и отпускают свое худшее воспоминание.</LotM_StarDivination.description>
+  <LotM_SilhouetteOverlap.label>перекрытие силуэтов</LotM_SilhouetteOverlap.label>
+  <LotM_SilhouetteOverlap.description>Накладывает силуэт кого-то на тот, которым он должен быть: обнаруживает, одет ли он в маскировку или это кто-то другой, снимает маскировку и раскрывает, кто он на самом деле.</LotM_SilhouetteOverlap.description>
+  <LotM_DivinationInterference.label>вмешательство</LotM_DivinationInterference.label>
+  <LotM_DoorPeephole.label>глазок</LotM_DoorPeephole.label>
+  <LotM_DoorPeephole.description>Открывает крошечную Дверь в стене и заглядывает в соседнюю комнату.</LotM_DoorPeephole.description>
+  <LotM_ScribeRecord.label>запись</LotM_ScribeRecord.label>
+  <LotM_ScribeRecord.description>Переключатель: «Я пришел, я видел, я записал». Пока он включен, каждая активная сила Потустороннего, которую они видят поблизости (друзей или врагов), они пытаются записать: их душа — это перо, а их духовное тело — бумага. Последовательности 7 и ниже всегда включаются; более высокие — всё меньше, а ангела почти никогда. У них есть 20 мест для сил Последовательности 9 до 7, 8 для 6 и 5, и 1 для полубога (2 после усвоения зелья). Пассивные способности, переключатели, мифические формы и силы бога не могут быть записаны. Каждая попытка стоит духовности; запись новой силы усваивает зелье.</LotM_ScribeRecord.description>
+  <LotM_ScribePages.label>использовать записи</LotM_ScribePages.label>
+  <LotM_ScribePages.description>Открывает свои страницы: каждая записанная сила может быть использована только один раз, слабее оригинала (почти то же самое для Последовательности 7 и ниже, чуть больше половины для 6 и 5, максимум половина для полубога). Она проявляется на том уровне, на котором была видна: сила Последовательности 7, показанная Последовательностью 5, проявляется как сила Последовательности 6. Они также могут выбрасывать страницы.</LotM_ScribePages.description>
+  <LotM_TravelerDoor.label>Дверь Путешественника</LotM_TravelerDoor.label>
+  <LotM_TravelerDoor.description>Открывает Дверь в Мир духов и, сохраняя ощущение реальности, выходит в любое место на карте, которое она видит. Те, кто прикасается к ней, уходят с ней.</LotM_TravelerDoor.description>
+  <LotM_TravelerJourney.label>путешествие</LotM_TravelerJourney.label>
+  <LotM_TravelerJourney.description>Путешествует через Мир духов в другое место в мире, с теми, кто прикасается к ней. Чем дальше, тем менее мгновенным это становится; досягаемость зависит от их Последовательности и их духовного тела. Чем дальше они уходят, тем больше духовности это стоит.</LotM_TravelerJourney.description>
+  <LotM_TravelerBlink.label>мигание</LotM_TravelerBlink.label>
+  <LotM_TravelerBlink.description>Очень короткое путешествие с послесвечением: они появляются где-то поблизости мгновенно.</LotM_TravelerBlink.description>
+  <LotM_BlinkStance.label>мигающее сражение</LotM_BlinkStance.label>
+  <LotM_BlinkStance.description>Переключатель: сражается миганием вокруг врага, открывая и закрывая расстояние по желанию. Многие ближние удары (и некоторые выстрелы) не находят их: они появляются позади того, кто атаковал. Потребляет духовность в час.</LotM_BlinkStance.description>
+  <LotM_InvisibleHand.label>невидимая рука</LotM_InvisibleHand.label>
+  <LotM_InvisibleHand.description>Хватает что-то издалека невидимой рукой: приносит предмет, тащит поверженного, или забирает оружие у отвлеченного (ослепленного, ошеломленного, оглушенного или смотрящего в другую сторону).</LotM_InvisibleHand.description>
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_A_LostApprentice.label>потерянный ученик</LotM_A_LostApprentice.label>
+  <LotM_A_LostTrickmaster.label>потерянный трюкач</LotM_A_LostTrickmaster.label>
+  <LotM_A_LostAstrologer.label>потерянный астролог</LotM_A_LostAstrologer.label>
+  <LotM_A_LostScribe.label>потерянный писец</LotM_A_LostScribe.label>
+  <LotM_A_LostTraveler.label>потерянный странник</LotM_A_LostTraveler.label>
+  <LotM_A_LostSecretsSorcerer.label>потерянный чародей тайн</LotM_A_LostSecretsSorcerer.label>
+  <LotM_A_LostWanderer.label>потерянный бродяга</LotM_A_LostWanderer.label>
+  <LotM_A_LostPlaneswalker.label>потерянный планарник</LotM_A_LostPlaneswalker.label>
+  <LotM_A_LostKeyOfStars.label>потерянный ключ звёзд</LotM_A_LostKeyOfStars.label>
+</LanguageData>

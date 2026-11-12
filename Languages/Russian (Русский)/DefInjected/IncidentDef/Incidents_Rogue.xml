@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_RogueRaid.label>изгнанные Потусторонние</LotM_RogueRaid.label>
+  <LotM_RogueHunt.label>характеристики охотников</LotM_RogueHunt.label>
+  <LotM_RogueVengeance.label>месть</LotM_RogueVengeance.label>
+  <LotM_LostControlRaid.label>прибывает монстр, потерявший контроль</LotM_LostControlRaid.label>
+  <LotM_RogueInfiltrator.label>путешественник присоединяется</LotM_RogueInfiltrator.label>
+  <LotM_RogueNightmare.label>кошмары извне</LotM_RogueNightmare.label>
+  <LotM_RogueRitual.label>ритуал на краю</LotM_RogueRitual.label>
+  <LotM_ErrorRefugee.label>беженец Ошибки</LotM_ErrorRefugee.label>
+</LanguageData>

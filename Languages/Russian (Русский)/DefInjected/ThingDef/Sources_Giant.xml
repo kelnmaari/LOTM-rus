@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_MineableOnyx.label>жила обсидиана</LotM_MineableOnyx.label>
+  <LotM_MineableOnyx.description>Камень с бугорками гладкого чёрного камня с белыми прожилками.</LotM_MineableOnyx.description>
+  <LotM_MineableAmethyst.label>жила аметиста</LotM_MineableAmethyst.label>
+  <LotM_MineableAmethyst.description>Разломанный камень, показывающий фиолетовые кристаллы.</LotM_MineableAmethyst.description>
+  <LotM_MineableOpal.label>жила опала</LotM_MineableOpal.label>
+  <LotM_MineableOpal.description>Трещина, где молочный камень сияет всеми цветами рассвета.</LotM_MineableOpal.description>
+  <LotM_MineableStoneGiantDust.label>жила каменного гиганта</LotM_MineableStoneGiantDust.label>
+  <LotM_MineableStoneGiantDust.description>Серая порода в форме огромного кулака. Раздавливание ее оставляет пыль, которая собирается сама по себе.</LotM_MineableStoneGiantDust.description>
+  <LotM_MineableInsectAmber.label>жила янтаря</LotM_MineableInsectAmber.label>
+  <LotM_MineableInsectAmber.description>Старая смола, превратившаяся в камень глубоко в скале. Иногда внутри что-то заперто.</LotM_MineableInsectAmber.description>
+</LanguageData>

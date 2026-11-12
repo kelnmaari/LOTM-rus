@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Potion_Warrior.label>зелье: Воин</LotM_Potion_Warrior.label>
+  <LotM_Potion_Warrior.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Warrior.ingestible.ingestReportString>
+  <LotM_Potion_Warrior.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Warrior.ingestible.ingestCommandString>
+  <LotM_Potion_Pugilist.label>зелье: Боец</LotM_Potion_Pugilist.label>
+  <LotM_Potion_Pugilist.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Pugilist.ingestible.ingestReportString>
+  <LotM_Potion_Pugilist.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Pugilist.ingestible.ingestCommandString>
+  <LotM_Potion_WeaponMaster.label>зелье: Мастер оружия</LotM_Potion_WeaponMaster.label>
+  <LotM_Potion_WeaponMaster.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_WeaponMaster.ingestible.ingestReportString>
+  <LotM_Potion_WeaponMaster.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_WeaponMaster.ingestible.ingestCommandString>
+  <LotM_Potion_DawnPaladin.label>зелье: Паладин рассвета</LotM_Potion_DawnPaladin.label>
+  <LotM_Potion_DawnPaladin.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_DawnPaladin.ingestible.ingestReportString>
+  <LotM_Potion_DawnPaladin.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_DawnPaladin.ingestible.ingestCommandString>
+  <LotM_Potion_Guardian.label>зелье: Страж</LotM_Potion_Guardian.label>
+  <LotM_Potion_Guardian.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Guardian.ingestible.ingestReportString>
+  <LotM_Potion_Guardian.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Guardian.ingestible.ingestCommandString>
+  <LotM_Potion_DemonHunter.label>зелье: Охотник на демонов</LotM_Potion_DemonHunter.label>
+  <LotM_Potion_DemonHunter.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_DemonHunter.ingestible.ingestReportString>
+  <LotM_Potion_DemonHunter.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_DemonHunter.ingestible.ingestCommandString>
+  <LotM_Potion_SilverKnight.label>зелье: Серебряный рыцарь</LotM_Potion_SilverKnight.label>
+  <LotM_Potion_SilverKnight.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_SilverKnight.ingestible.ingestReportString>
+  <LotM_Potion_SilverKnight.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_SilverKnight.ingestible.ingestCommandString>
+  <LotM_Potion_Glory.label>зелье: Слава</LotM_Potion_Glory.label>
+  <LotM_Potion_Glory.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Glory.ingestible.ingestReportString>
+  <LotM_Potion_Glory.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Glory.ingestible.ingestCommandString>
+  <LotM_Potion_HandOfGod.label>зелье: Длань Бога</LotM_Potion_HandOfGod.label>
+  <LotM_Potion_HandOfGod.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_HandOfGod.ingestible.ingestReportString>
+  <LotM_Potion_HandOfGod.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_HandOfGod.ingestible.ingestCommandString>
+  <LotM_Potion_Warrior.description>Кроваво-красная жидкость с сильным, рыбным запахом.</LotM_Potion_Warrior.description>
+  <LotM_Potion_Pugilist.description>Чистый белый гной, запятнанный полосами крови.</LotM_Potion_Pugilist.description>
+  <LotM_Potion_WeaponMaster.description>Черная жидкость с ржавчиной сверху. Пить её — как проглотить горсть тонких игл.</LotM_Potion_WeaponMaster.description>
+  <LotM_Potion_DawnPaladin.description>Прозрачное, словно освещённое утренним солнцем.</LotM_Potion_DawnPaladin.description>
+  <LotM_Potion_Guardian.description>Бледная кровь, завернутая в луч рассвета, которого почти можно коснуться.</LotM_Potion_Guardian.description>
+  <LotM_Potion_DemonHunter.description>Темная зелёная жидкость.</LotM_Potion_DemonHunter.description>
+  <LotM_Potion_SilverKnight.description>Бледная белая жидкость с каплями ртути, разбросанными по всему объему.</LotM_Potion_SilverKnight.description>
+  <LotM_Potion_Glory.description>Жидкость, сделанная из чистого, святого и глубокого света.</LotM_Potion_Glory.description>
+  <LotM_Potion_HandOfGod.description>Сине-черная жидкость с оттенком сумеречных цветов. Внутри плавают множество прозрачных лиц.</LotM_Potion_HandOfGod.description>
+</LanguageData>

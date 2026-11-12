@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_StarCharmBlink.label>звёздный талисман мгновенного перемещения</LotM_StarCharmBlink.label>
+  <LotM_ConcealedDoor.label>Дверь скрытого пространства</LotM_ConcealedDoor.label>
+  <LotM_ConcealedDoor.description>Единственный вход в скрытое пространство: место, разделённое на две части, которое не на какой карте. С другой стороны — комната с гладким полом и звездным светом.</LotM_ConcealedDoor.description>
+  <LotM_PocketDoor.label>скрытый карман</LotM_PocketDoor.label>
+  <LotM_PocketDoor.description>Дверь размером с руку с потайным пространством внутри, размером с квартиру. Её можно установить, поднять и перенести. Она нуждается в перезарядке время от времени: если заряд кончается, то, что внутри, теряется в Мире духов.</LotM_PocketDoor.description>
+  <LotM_FixedDoor.label>зафиксированная дверь</LotM_FixedDoor.label>
+  <LotM_FixedDoor.description>С их полной мифической формой они создают деревянную дверь, которая фиксирует вход и выход: открытие ее не показывает окружение, а выбранное заранее место (с одной карты на другую). Ее можно установить где угодно и пересекать как пещеру, унося с собой все, что они приносят.</LotM_FixedDoor.description>
+  <LotM_ConcealedExit.label>выходная дверь</LotM_ConcealedExit.label>
+  <LotM_ConcealedExit.description>Дверь, через которую ты покидаешь скрытое пространство, обратно к месту входа.</LotM_ConcealedExit.description>
+  <LotM_LabyrinthWall.label>лабиринтный коридор</LotM_LabyrinthWall.label>
+  <LotM_LabyrinthWall.description>Стена сложенного пространства. Она не ломается: нужно найти выход.</LotM_LabyrinthWall.description>
+  <LotM_LabyrinthExit.label>выход из лабиринта</LotM_LabyrinthExit.label>
+  <LotM_LabyrinthExit.description>Выход из пространственно-временного лабиринта: кто ступит на него, возвращается туда, где находился.</LotM_LabyrinthExit.description>
+  <LotM_StarLamp.label>свет звёзд</LotM_StarLamp.label>
+  <LotM_StarLamp.description>Маленький звёздный свет, который остался парить.</LotM_StarLamp.description>
+  <LotM_SpatialBarrier.label>пространственный барьер</LotM_SpatialBarrier.label>
+  <LotM_SpatialBarrier.description>Пространство, сложенное в барьер тени. Оно распутывается само.</LotM_SpatialBarrier.description>
+  <LotM_SpaceTear.label>пространственно-временная буря</LotM_SpaceTear.label>
+  <LotM_SpaceTear.description>Разорванное пространство, поглощённое пустотой.</LotM_SpaceTear.description>
+  <LotM_DoorAfterimage.label>отражение</LotM_DoorAfterimage.label>
+  <LotM_DoorAfterimage.description>Образ, оставленный морганием: он действительно сражается.</LotM_DoorAfterimage.description>
+  <LotM_WindupToy.label>игрушка с заводной</LotM_WindupToy.label>
+  <LotM_WindupToy.description>Игрушка с заводным механизмом, которая когда-то была человеком. Её не выпустили вовремя: её больше нельзя повернуть назад, и даже её душа не покоится.</LotM_WindupToy.description>
+  <LotM_StarCharmBlink.description>Талисман, сделанный из трупа Звездоносца. Использование его расходует его и готовит силу "вспышка (талисман)": его можно использовать один раз, когда потребуется, чтобы появиться на видимой клетке на расстоянии до 25 клеток. Любой может его использовать.</LotM_StarCharmBlink.description>
+  <LotM_StarCharmBlink.comps.1.useLabel>подготовить заклинание мерцания</LotM_StarCharmBlink.comps.1.useLabel>
+  <LotM_StarCharmWard.label>амулет звезды</LotM_StarCharmWard.label>
+  <LotM_StarCharmWard.description>Оберег, сделанный из трупа Червя Звезды. Тот, кто его использует, носит червя, охраняющего его разум в течение нескольких дней: следующий ментальный удар не достигает его.</LotM_StarCharmWard.description>
+  <LotM_StarCharmWard.comps.1.useLabel>использовать чары звезды</LotM_StarCharmWard.comps.1.useLabel>
+  <LotM_Uniqueness_Door.label>Уникальность Двери</LotM_Uniqueness_Door.label>
+  <LotM_Uniqueness_Door.description>Суть пути Двери: ключ звездного света, запертый в раме дверей, одна за другой, которая никогда не заканчивается. В мире существует только один. Рядом с ним двери открываются сами по себе.</LotM_Uniqueness_Door.description>
+</LanguageData>

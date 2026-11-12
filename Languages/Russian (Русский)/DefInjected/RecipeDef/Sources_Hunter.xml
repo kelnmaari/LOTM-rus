@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_RedWine.label>приготовление красного вина</LotM_Make_RedWine.label>
+  <LotM_Make_RedWine.description>Дайте ягодам бродить в пиве, пока они не превратятся в тёмное, грубо-красное вино. Зелье Охотника нуждается в этом.</LotM_Make_RedWine.description>
+  <LotM_Make_RedWine.jobString>приготовление красного вина.</LotM_Make_RedWine.jobString>
+  <LotM_Make_HoneysuckleExtract.label>дистиллировать экстракт жимолости</LotM_Make_HoneysuckleExtract.label>
+  <LotM_Make_HoneysuckleExtract.description>Дистиллируй лекарственные травы и ягоды до нескольких капель сладкого экстракта жонголицы. Зелье Провокатора нуждается в этом.</LotM_Make_HoneysuckleExtract.description>
+  <LotM_Make_HoneysuckleExtract.jobString>Дистилляция экстракта жимолоста.</LotM_Make_HoneysuckleExtract.jobString>
+  <LotM_Make_DistilledLiquor.label>дистилляция спиртного</LotM_Make_DistilledLiquor.label>
+  <LotM_Make_DistilledLiquor.description>Дистиллируй пиво до получения прозракого напитка, который обжигает горло. Зелье Провокатора нуждается в этом.</LotM_Make_DistilledLiquor.description>
+  <LotM_Make_DistilledLiquor.jobString>дистилляция спиртного.</LotM_Make_DistilledLiquor.jobString>
+  <LotM_Make_MagmaPyroxenePowder.label>измельчение порошка пироксена магмы</LotM_Make_MagmaPyroxenePowder.label>
+  <LotM_Make_MagmaPyroxenePowder.description>Измельчает стальную шлак, нагретый химическим топливом, в красно-черный порошок, как вулканического камня. Для этого нужно зелье Пироманиака.</LotM_Make_MagmaPyroxenePowder.description>
+  <LotM_Make_MagmaPyroxenePowder.jobString>Перетирание порошка магматического пироксена.</LotM_Make_MagmaPyroxenePowder.jobString>
+  <LotM_Make_AmberPowder.label>измельчить янтарный порошок</LotM_Make_AmberPowder.label>
+  <LotM_Make_AmberPowder.description>Извлекает старую смолу из дерева, затвердевает ее небольшим количеством золота и перетирает в золотой порошок. Для этого нужно зелье Заговорщика.</LotM_Make_AmberPowder.description>
+  <LotM_Make_AmberPowder.jobString>Измельчение янтарного порошка.</LotM_Make_AmberPowder.jobString>
+  <LotM_Make_BoilingMagma.label>кипятить магму</LotM_Make_BoilingMagma.label>
+  <LotM_Make_BoilingMagma.description>Снова плавит затвердевшую магму с помощью химического топлива в черной глиняной колбе, пока она не перестанет кипеть. Для этого нужно зелье Железнокровного Рыцаря.</LotM_Make_BoilingMagma.description>
+  <LotM_Make_BoilingMagma.jobString>Кипячение магмы.</LotM_Make_BoilingMagma.jobString>
+</LanguageData>

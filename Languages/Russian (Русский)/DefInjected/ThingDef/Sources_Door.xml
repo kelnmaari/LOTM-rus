@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_MineableMeteoriteCrystal.label>жила метеоритного кристалла</LotM_MineableMeteoriteCrystal.label>
+  <LotM_MineableMeteoriteCrystal.description>Камень, где давно что-то, упавшее с неба, ударило. Синие кристаллы сияют между трещинами.</LotM_MineableMeteoriteCrystal.description>
+  <LotM_MineableAsteroidCore.label>астероидный камень</LotM_MineableAsteroidCore.label>
+  <LotM_MineableAsteroidCore.description>Камень, упавший с космоса очень давно. В центре что-то медленно поворачивается.</LotM_MineableAsteroidCore.description>
+</LanguageData>

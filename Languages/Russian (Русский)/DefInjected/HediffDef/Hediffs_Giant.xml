@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_GiantGrowth.label>вырастить гиганта</LotM_GiantGrowth.label>
+  <LotM_GiantGrowth.description>Растёт до высоты гиганта в течение нескольких часов: они бьют намного сильнее, их тело выдерживает больше, и они делают огромные шаги. Они гораздо быстрее устают, пока это длится.</LotM_GiantGrowth.description>
+  <LotM_LightOfDawnHediff.label>Свет Рассвета</LotM_LightOfDawnHediff.label>
+  <LotM_LightOfDawnHediff.description>Наполняет область священным светом рассвета: иллюзии и сокрытие врага рушатся, тени и призраки изгоняются, а злые духи ослабевают. Болезни и радиация собственного народа медленно снижаются, а электромагнитные устройства врага сбоят. Потребляет духовность в час.</LotM_LightOfDawnHediff.description>
+  <LotM_DawnArmorHediff.label>Броня Рассвета</LotM_DawnArmorHediff.label>
+  <LotM_DawnArmorHediff.description>Носит серебряную Броню Рассвета, которая ничего не весит и не мешает. Она чинит себя сама, но чинить её истощает. Потребляет немного духовности в час.</LotM_DawnArmorHediff.description>
+  <LotM_DawnWeaponHediff.label>оружие рассвета</LotM_DawnWeaponHediff.label>
+  <LotM_DawnWeaponHediff.description>Вооружены оружием, сгущенным из света рассвета. Каждый удар очищает. Оно распадается через несколько часов или как только они отпускают его.</LotM_DawnWeaponHediff.description>
+  <LotM_DawnSwordShattered.label>сломанный меч</LotM_DawnSwordShattered.label>
+  <LotM_DawnSwordShattered.description>Они разбили свой Меч Рассвета на Ураган Света: им нужно восстановиться, прежде чем снова его сгустить.</LotM_DawnSwordShattered.description>
+  <LotM_DawnWeakened.label>ослабленный рассветом</LotM_DawnWeakened.label>
+  <LotM_DawnWeakened.description>Свет рассвета ослабляет их: они бьют мягче и хуже двигаются.</LotM_DawnWeakened.description>
+  <LotM_GuardianStance.label>Защита</LotM_GuardianStance.label>
+  <LotM_GuardianStance.description>Стоя на коленях с оружием вкопанным в землю: что бы ни достигало союзников рядом с ними, они берут вместо этого, сильно уменьшенное. Они ни атакуют, ни двигаются; если они двигаются, защита нарушается. От Охотника за Демонами на нем купол: внутри никто не сбегает через короткие пути, и их люди лучше сопротивляются силам. Потребляет духовность в час.</LotM_GuardianStance.description>
+  <LotM_HuntMarked.label>отмеченная добыча</LotM_HuntMarked.label>
+  <LotM_HuntMarked.description>Охотник на демонов отметил их зелёным взглядом: они знают, что это, и каждый удар причиняет ему боль сильнее.</LotM_HuntMarked.description>
+  <LotM_HuntingSight.label>Глаз охотника на демонов</LotM_HuntingSight.label>
+  <LotM_HuntingSight.description>Зеленые символы сияют в их глазах: они видят слабые места своей добычи.</LotM_HuntingSight.description>
+  <LotM_Ointment_Lightning.label>мазь от молнии</LotM_Ointment_Lightning.label>
+  <LotM_Ointment_Lightning.description>Их оружие освящено ласкою молнии: удары горят, иногда оглушают и выводят из строя механоидов.</LotM_Ointment_Lightning.description>
+  <LotM_Ointment_Frost.label>мазь от инея</LotM_Ointment_Frost.label>
+  <LotM_Ointment_Frost.description>Их оружие пропитано инеем: удары замораживают и сбивают с толку.</LotM_Ointment_Frost.description>
+  <LotM_Ointment_Purifying.label>мазь очищения</LotM_Ointment_Purifying.label>
+  <LotM_Ointment_Purifying.description>Их оружие пропитано очищающим бальзамом: удары сжигают зло светом рассвета.</LotM_Ointment_Purifying.description>
+  <LotM_Ointment_Fire.label>мазь огня</LotM_Ointment_Fire.label>
+  <LotM_Ointment_Fire.description>Их оружие освящено ласкою огня: удары горят и иногда поджигают вещи.</LotM_Ointment_Fire.description>
+  <LotM_Ointment_Decay.label>мазь разложения</LotM_Ointment_Decay.label>
+  <LotM_Ointment_Decay.description>Их оружие пропитано осыпанием: удары отравляют плоть и гниют одежду.</LotM_Ointment_Decay.description>
+  <LotM_Ointment_Exorcism.label>обережное бальзам</LotM_Ointment_Exorcism.label>
+  <LotM_Ointment_Exorcism.description>Их оружие пропитано бальзамом изгнания: удары разрывают духов, тени и зло.</LotM_Ointment_Exorcism.description>
+  <LotM_MythicalForm_Cyclops.label>Циклоп</LotM_MythicalForm_Cyclops.label>
+  <LotM_MythicalForm_Cyclops.description>Их мифическая форма: голубо-черный Циклоп, каждая часть плоти соткана так, что бросает вызов чувствам. Он регенерирует за секунды, почти ничего не причиняет ему вреда, и умов более слабых ломает зрелище его.</LotM_MythicalForm_Cyclops.description>
+  <LotM_MythicalForm_Cyclops.comps.0.tools.0.label>кулак гиганта</LotM_MythicalForm_Cyclops.comps.0.tools.0.label>
+  <LotM_MythicalForm_Cyclops.comps.0.tools.1.label>топот</LotM_MythicalForm_Cyclops.comps.0.tools.1.label>
+  <LotM_MythicalForm_Cyclops.stages.0.label>неполный</LotM_MythicalForm_Cyclops.stages.0.label>
+  <LotM_MythicalForm_Cyclops.stages.1.label>почти готово</LotM_MythicalForm_Cyclops.stages.1.label>
+  <LotM_MythicalForm_Cyclops.stages.2.label>полный</LotM_MythicalForm_Cyclops.stages.2.label>
+  <LotM_MercuryForm.label>жидкий ртуть</LotM_MercuryForm.label>
+  <LotM_MercuryForm.description>Их тело — жидкий металл: удары проходят сквозь них, и они быстро проскальзывают между врагами.</LotM_MercuryForm.description>
+  <LotM_MercuryBound.label>обмотанный ртутью</LotM_MercuryBound.label>
+  <LotM_MercuryBound.description>Жиркий ртуть обвивает их и сжимает: они едва могут двигаться и с трудом дышат.</LotM_MercuryBound.description>
+  <LotM_MercuryShell.label>броня из ртути</LotM_MercuryShell.label>
+  <LotM_MercuryShell.description>Серебряный рыцарь покрыл их слоем ртути, которая затвердевает с каждым ударом.</LotM_MercuryShell.description>
+  <LotM_LightConcealmentHediff.label>скрыт в свете</LotM_LightConcealmentHediff.label>
+  <LotM_LightConcealmentHediff.description>Где есть свет, враги их не видят; в темноте они видят. Атака на мгновение выдает их. Потребляет духовность в час.</LotM_LightConcealmentHediff.description>
+  <LotM_TwilightEnd.label>конец Сумерек</LotM_TwilightEnd.label>
+  <LotM_TwilightEnd.description>Сумерки забрали всю оставшуюся у них жизнь. Почти ни одно воскрешение не отменяет такой конец.</LotM_TwilightEnd.description>
+  <LotM_CageProtected.label>защищенный клеткой</LotM_CageProtected.label>
+  <LotM_CageProtected.description>Они внутри сумеречной клетки со своей стороны: что бы ни достигло их, то причиняет меньше боли.</LotM_CageProtected.description>
+  <LotM_ProxyPower.label>прокси</LotM_ProxyPower.label>
+  <LotM_ProxyPower.description>Заимствует силу Бога Боя на время: они стоят далеко над своей Последовательностью, и всё, что они делают, намного сильнее. Нанося себе вред, они становятся почти Старым, и всё сильнее, рискуя потерять рассудок. Если их бог пал, заимствованная сила становится меньше.</LotM_ProxyPower.description>
+  <LotM_ProxyPower.stages.1.label>почти Старый</LotM_ProxyPower.stages.1.label>
+  <LotM_ProxySanityStrain.label>напряжённое здравомыслие</LotM_ProxySanityStrain.label>
+  <LotM_ProxySanityStrain.description>На мгновение они были почти Старым, и их разум не выходит из этого целым. После определенной точки он трескается. Он восстанавливается в течение дней.</LotM_ProxySanityStrain.description>
+  <LotM_ProxySanityStrain.stages.0.label>мягкий</LotM_ProxySanityStrain.stages.0.label>
+  <LotM_ProxySanityStrain.stages.1.label>серьёзный</LotM_ProxySanityStrain.stages.1.label>
+  <LotM_ProxySanityStrain.stages.2.label>трещины</LotM_ProxySanityStrain.stages.2.label>
+  <LotM_PowerMark.label>метка силы</LotM_PowerMark.label>
+  <LotM_PowerMark.description>Помечает союзника своей силой на день: дарует ему силу, выносливость и преимущество Сумерек в ударах. Максимум три метки одновременно; старейшая исчезает.</LotM_PowerMark.description>
+  <LotM_WarCryRallied.label>собрались</LotM_WarCryRallied.label>
+  <LotM_WarCryRallied.description>Военный клич наполнил их грудь: они бьют и нацеливаются лучше, чувствуют меньше боли и не так легко ломаются.</LotM_WarCryRallied.description>
+  <LotM_FeatGuardHediff.label>защита</LotM_FeatGuardHediff.label>
+  <LotM_FeatGuardHediff.description>Их защита поднята: они двигаются медленнее, но иногда парируют ближний бой и наносят ответный удар одновременно. Потребляет очень мало духовности в час.</LotM_FeatGuardHediff.description>
+</LanguageData>

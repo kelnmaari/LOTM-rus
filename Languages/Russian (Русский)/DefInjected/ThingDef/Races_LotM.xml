@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_WormVortexSmall.tools.0.label>Невидимые щупальца</LotM_WormVortexSmall.tools.0.label>
+  <LotM_WormVortexSmall.tools.1.label>Рой червей</LotM_WormVortexSmall.tools.1.label>
+  <LotM_WormVortexSmall.label>червоточина червя</LotM_WormVortexSmall.label>
+  <LotM_WormVortexSmall.description>То, что осталось от полубога, потерявшего контроль: вихрь Червей Духа с невидимыми щупальцами. Внутри никого не осталось.</LotM_WormVortexSmall.description>
+  <LotM_WormVortex.tools.0.label>Невидимые щупальца</LotM_WormVortex.tools.0.label>
+  <LotM_WormVortex.tools.1.label>Рой червей</LotM_WormVortex.tools.1.label>
+  <LotM_WormVortex.label>беглый вихрь</LotM_WormVortex.label>
+  <LotM_WormVortex.description>Мифическая форма Знатока былого без того, кто мог бы ее поддерживать: вихрь Духовных Червей, который растет, регенерирует за секунды и утягивает тех, кто умер поблизости, в Историческую пустоту.</LotM_WormVortex.description>
+  <LotM_WormVortexGreater.label>великий вихрь</LotM_WormVortexGreater.label>
+  <LotM_WormVortexGreater.description>Ангел, потерявший контроль. Вихрь настолько велик, что он затемняет небо; его желания сбываются искажённо, и даже смерть не останавливает его с первого раза.</LotM_WormVortexGreater.description>
+  <LotM_WormVortexGreater.tools.0.label>невидимые щупальца</LotM_WormVortexGreater.tools.0.label>
+  <LotM_WormVortexGreater.tools.1.label>червеобразное рой</LotM_WormVortexGreater.tools.1.label>
+  <LotM_VoidPuppeteer.label>путешественник пустоты</LotM_VoidPuppeteer.label>
+  <LotM_VoidPuppeteer.description>Высокий ангел, потерявший контроль: колоссальная фигура из нитей духовного тела и червей. Он захватывает нити всего живого поблизости и двигает ими по своему желанию. Никто не покидает его царства.</LotM_VoidPuppeteer.description>
+  <LotM_VoidPuppeteer.tools.0.label>Режущие нити</LotM_VoidPuppeteer.tools.0.label>
+  <LotM_VoidPuppeteer.tools.1.label>невидимые щупальца</LotM_VoidPuppeteer.tools.1.label>
+  <LotM_SpiritWormSwarm.label>рое Червей Духа</LotM_SpiritWormSwarm.label>
+  <LotM_SpiritWormSwarm.description>Горсть полупрозрачных червей, оторвавшихся от вихря. Они кусают и растворяются за несколько часов.</LotM_SpiritWormSwarm.description>
+  <LotM_SpiritWormSwarm.tools.0.label>укусы</LotM_SpiritWormSwarm.tools.0.label>
+  <LotM_ThreadedObject.label>регенерированные нити</LotM_ThreadedObject.label>
+  <LotM_ThreadedObject.description>Это предмет, но его материалы когда-то были живы, и кто-то вернул им их нити.</LotM_ThreadedObject.description>
+  <LotM_ThreadedObject.tools.0.label>Удар</LotM_ThreadedObject.tools.0.label>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Potion_Marauder.label>зелье: Мародёр</LotM_Potion_Marauder.label>
+  <LotM_Potion_Marauder.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Marauder.ingestible.ingestReportString>
+  <LotM_Potion_Marauder.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Marauder.ingestible.ingestCommandString>
+  <LotM_Potion_Swindler.label>зелье: Мошенник</LotM_Potion_Swindler.label>
+  <LotM_Potion_Swindler.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Swindler.ingestible.ingestReportString>
+  <LotM_Potion_Swindler.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Swindler.ingestible.ingestCommandString>
+  <LotM_Potion_Cryptologist.label>зелье: Криптолог</LotM_Potion_Cryptologist.label>
+  <LotM_Potion_Cryptologist.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Cryptologist.ingestible.ingestReportString>
+  <LotM_Potion_Cryptologist.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Cryptologist.ingestible.ingestCommandString>
+  <LotM_Potion_Prometheus.label>зелье: Прометей</LotM_Potion_Prometheus.label>
+  <LotM_Potion_Prometheus.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Prometheus.ingestible.ingestReportString>
+  <LotM_Potion_Prometheus.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Prometheus.ingestible.ingestCommandString>
+  <LotM_Potion_DreamStealer.label>зелье: Похититель снов</LotM_Potion_DreamStealer.label>
+  <LotM_Potion_DreamStealer.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_DreamStealer.ingestible.ingestReportString>
+  <LotM_Potion_DreamStealer.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_DreamStealer.ingestible.ingestCommandString>
+  <LotM_Potion_Parasite.label>зелье: Паразит</LotM_Potion_Parasite.label>
+  <LotM_Potion_Parasite.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Parasite.ingestible.ingestReportString>
+  <LotM_Potion_Parasite.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Parasite.ingestible.ingestCommandString>
+  <LotM_Potion_MentorOfDeceit.label>зелье: Наставник обмана</LotM_Potion_MentorOfDeceit.label>
+  <LotM_Potion_MentorOfDeceit.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_MentorOfDeceit.ingestible.ingestReportString>
+  <LotM_Potion_MentorOfDeceit.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_MentorOfDeceit.ingestible.ingestCommandString>
+  <LotM_Potion_TrojanHorse.label>зелье: Троянский конь судьбы</LotM_Potion_TrojanHorse.label>
+  <LotM_Potion_TrojanHorse.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_TrojanHorse.ingestible.ingestReportString>
+  <LotM_Potion_TrojanHorse.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_TrojanHorse.ingestible.ingestCommandString>
+  <LotM_Potion_WormOfTimeAngel.label>зелье: Червь времени</LotM_Potion_WormOfTimeAngel.label>
+  <LotM_Potion_WormOfTimeAngel.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_WormOfTimeAngel.ingestible.ingestReportString>
+  <LotM_Potion_WormOfTimeAngel.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_WormOfTimeAngel.ingestible.ingestCommandString>
+  <LotM_Potion_Marauder.description>Синяя жидкость настолько темная, что выглядит черной. Она горькая и онемевает язык.</LotM_Potion_Marauder.description>
+  <LotM_Potion_Swindler.description>Сновидческая жидкость с медленно поднимающимися красными пузырями. Она свежая и сладкая... а затем причиняет ужасную боль.</LotM_Potion_Swindler.description>
+  <LotM_Potion_Cryptologist.description>Выглядит как стакан тумана с кристальным светом внутри. Выпивая его, голова пульсирует, как будто ее кожу срывают.</LotM_Potion_Cryptologist.description>
+  <LotM_Potion_Prometheus.description>Красный и желтый, с завихрениями иллюзорного пламени внутри: это как пить настоящее пламя. Заманчиво.</LotM_Potion_Prometheus.description>
+  <LotM_Potion_DreamStealer.description>Глубокая и темная, как будто она может связать каждую мысль. Пить ее почти удушает.</LotM_Potion_DreamStealer.description>
+  <LotM_Potion_Parasite.description>Как желто-зеленый сок, выжатый из множества насекомых, с кусочками их тел, поднимающимися и опускающимися. Пить это ощущается как будто что-то захватывает душу, в то время как кожа и плоть сдираются слой за слоем.</LotM_Potion_Parasite.description>
+  <LotM_Potion_MentorOfDeceit.description>Изумрудно-зеленый и кристаллический, обманчиво обычный. Пить его ощущается как распад тела и духа на части.</LotM_Potion_MentorOfDeceit.description>
+  <LotM_Potion_TrojanHorse.description>Медь-цветный, с множеством повторяющихся символов, образующих змееподобные тени. Он вкушает всё сразу, и пить его ощущается как утопление, погружение в Реку Судьбы.</LotM_Potion_TrojanHorse.description>
+  <LotM_Potion_WormOfTimeAngel.description>Эфирный, мерцающий, зеленовато-черный и безвкусный. Пить его ощущается как то, как время разъедает и отрывает их изнутри.</LotM_Potion_WormOfTimeAngel.description>
+</LanguageData>

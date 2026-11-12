@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_AuroraOrder.description>Фанатики Истинного Творца. Они хотят пробудить своего бога любой ценой. Похищают людей для жертвоприношений, проводят ритуалы прямо во время нападений, а их оракулы нашёптывают слова Творца, пока слушатели не примут его веру.\n\nОни носят красные одеяния и капюшоны. Почти все идут путём Повешенного: от верующих и оракулов до теневых аскетов, епископов розы и пастырей. Во главе стоят Чёрные рыцари, полубоги.</LotM_AuroraOrder.description>
+  <LotM_AuroraOrder.label>Орден Авроры</LotM_AuroraOrder.label>
+  <LotM_AuroraOrder.fixedName>Орден Авроры</LotM_AuroraOrder.fixedName>
+  <LotM_AuroraOrder.pawnSingular>верные Авроре</LotM_AuroraOrder.pawnSingular>
+  <LotM_AuroraOrder.pawnsPlural>верные Авроре</LotM_AuroraOrder.pawnsPlural>
+  <LotM_AuroraOrder.leaderTitle>высокий жрец</LotM_AuroraOrder.leaderTitle>
+</LanguageData>

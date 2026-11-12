@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Characteristic_Assassin.label>Характеристика Потустороннего Убийцы</LotM_Characteristic_Assassin.label>
+  <LotM_Characteristic_Assassin.description>Что осталось от Убийцы при смерти. Это масса тени, которая, кажется, покрыта острыми шипами.</LotM_Characteristic_Assassin.description>
+  <LotM_Characteristic_Instigator.label>Характеристика Потустороннего Инициатора</LotM_Characteristic_Instigator.label>
+  <LotM_Characteristic_Instigator.description>То, что осталось от Инициатора при смерти. Это нежная скульптура влажных розовых губ, разделенных на две идеальные половины.</LotM_Characteristic_Instigator.description>
+  <LotM_Characteristic_Witch.label>характеристика Потустороннего Ведьмы</LotM_Characteristic_Witch.label>
+  <LotM_Characteristic_Witch.description>То, что осталось от Ведьмы после смерти. Это призрачный синий камень, как вертикальный глаз, с нитевидными прожилками. Всё рядом с ним выглядит мягче и красивее.</LotM_Characteristic_Witch.description>
+  <LotM_Characteristic_Pleasure.label>Характеристика Потустороннего Удовольствия</LotM_Characteristic_Pleasure.label>
+  <LotM_Characteristic_Pleasure.description>То, что оставила Демонесса Удовольствия после смерти. Это розовый самоцвет с бесчисленными запутанными нитями внутри.</LotM_Characteristic_Pleasure.description>
+  <LotM_Characteristic_Affliction.label>Характеристика Потустороннего Проклятия</LotM_Characteristic_Affliction.label>
+  <LotM_Characteristic_Affliction.description>То, что оставила после себя Демоница Страданий после её смерти. Это красивый глаз.</LotM_Characteristic_Affliction.description>
+  <LotM_Characteristic_Despair.label>Характеристика Потустороннего Отчаяния</LotM_Characteristic_Despair.label>
+  <LotM_Characteristic_Despair.description>Что осталось от Демонессы Отчаяния после смерти. Это сжатое, увядшее, почерневшее сердце, почти прозрачное.</LotM_Characteristic_Despair.description>
+  <LotM_Characteristic_Unaging.label>Характеристика Потустороннего Бессмертного</LotM_Characteristic_Unaging.label>
+  <LotM_Characteristic_Unaging.description>То, что осталось от Демонессы Бессмертия после смерти. Это изысканная, прекрасная человеческая кожа.</LotM_Characteristic_Unaging.description>
+  <LotM_Characteristic_Catastrophe.label>Характеристика Потустороннего Катастрофы</LotM_Characteristic_Catastrophe.label>
+  <LotM_Characteristic_Catastrophe.description>То, что осталось от Демонессы Катастрофы после её смерти. Это глаз льда, в который, если заглянуть, можно увидеть рушащиеся города.</LotM_Characteristic_Catastrophe.description>
+  <LotM_Characteristic_Apocalypse.label>Характеристика Потустороннего Апокалипсиса</LotM_Characteristic_Apocalypse.label>
+  <LotM_Characteristic_Apocalypse.description>То, что осталось от Демонессы Апокалипсиса после её смерти. Это черное зеркало размером с ладонь; всё, что оно отражает, всегда в руинах.</LotM_Characteristic_Apocalypse.description>
+</LanguageData>

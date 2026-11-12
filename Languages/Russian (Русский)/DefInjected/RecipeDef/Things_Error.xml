@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_ErrorTheftCharm.label>изготовление чар кражи</LotM_Make_ErrorTheftCharm.label>
+  <LotM_Make_ErrorTheftCharm.description>Запечатывает труп Червя Времени в два серебряных амулета.</LotM_Make_ErrorTheftCharm.description>
+  <LotM_Make_ErrorTheftCharm.jobString>изготовление чар кражи.</LotM_Make_ErrorTheftCharm.jobString>
+  <LotM_Make_ErrorTimeBullet.label>изготовление снарядов времени</LotM_Make_ErrorTimeBullet.label>
+  <LotM_Make_ErrorTimeBullet.description>Растапливает труп Червя Времени сталью в четыре пули.</LotM_Make_ErrorTimeBullet.description>
+  <LotM_Make_ErrorTimeBullet.jobString>изготовление снарядов времени.</LotM_Make_ErrorTimeBullet.jobString>
+</LanguageData>

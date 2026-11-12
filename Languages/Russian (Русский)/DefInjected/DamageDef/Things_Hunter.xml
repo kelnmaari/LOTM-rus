@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_CrimsonFlame.label>багровый огонь</LotM_CrimsonFlame.label>
+  <LotM_CrimsonFlame.deathMessage>{0} был поглощен багровым огнем.</LotM_CrimsonFlame.deathMessage>
+  <LotM_CrimsonBurn.label>багровое ожог</LotM_CrimsonBurn.label>
+  <LotM_CrimsonBurn.deathMessage>{0} сгорел до смерти изнутри.</LotM_CrimsonBurn.deathMessage>
+  <LotM_CrimsonBlast.label>вспышка багрового огня</LotM_CrimsonBlast.label>
+  <LotM_CrimsonBlast.deathMessage>{0} погиб в взрыве багрового огня.</LotM_CrimsonBlast.deathMessage>
+  <LotM_Cull.label>Сбор</LotM_Cull.label>
+  <LotM_Cull.deathMessage>{0} был изъят.</LotM_Cull.deathMessage>
+  <LotM_CrimsonSiege.label>бомбардировка огнем</LotM_CrimsonSiege.label>
+  <LotM_CrimsonSiege.deathMessage>{0} погиб под бомбардировкой огнем.</LotM_CrimsonSiege.deathMessage>
+</LanguageData>

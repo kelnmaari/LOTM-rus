@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_PaperCane.label>бумажная трость</LotM_PaperCane.label>
+  <LotM_PaperCane.description>Бумага, сложенная и затвердевшая до состояния стали. Она рассыплется через несколько часов или как только ее уронят.</LotM_PaperCane.description>
+  <LotM_PaperCane.tools.0.label>рукоятка</LotM_PaperCane.tools.0.label>
+  <LotM_PaperCane.tools.1.label>Голова</LotM_PaperCane.tools.1.label>
+  <LotM_DarknessSword.label>меч тьмы</LotM_DarknessSword.label>
+  <LotM_DarknessSword.description>Костяной меч, покрытый странными узорами, выкованный из самой глубокой тьмы. Он объединяет силу Покоя и Ужаса. Он вернется во тьму через несколько часов или как только его уронят.</LotM_DarknessSword.description>
+  <LotM_DarknessSword.tools.0.label>костящее лезвие</LotM_DarknessSword.tools.0.label>
+  <LotM_DarknessSword.tools.1.label>Кончик</LotM_DarknessSword.tools.1.label>
+  <LotM_LightMace.label>молот света</LotM_LightMace.label>
+  <LotM_LightMace.description>Огромный булава, спрессованная из чистого света. Каждый удар очищает. Она растворится через несколько часов или как только уронят её.</LotM_LightMace.description>
+  <LotM_LightMace.tools.0.label>голова света</LotM_LightMace.tools.0.label>
+  <LotM_LightMace.tools.1.label>рукоятка</LotM_LightMace.tools.1.label>
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_A_LostCriminal.label>потерянный преступник</LotM_A_LostCriminal.label>
+  <LotM_A_LostCriminal.description>Преступник, потерявший контроль. Масса тёмной плоти, которая больше не заботится о том, кого она бьёт: она хочет только причинить боль кому-то.</LotM_A_LostCriminal.description>
+  <LotM_A_LostCriminal.tools.0.label>Когти</LotM_A_LostCriminal.tools.0.label>
+  <LotM_A_LostCriminal.tools.1.label>укус</LotM_A_LostCriminal.tools.1.label>
+  <LotM_A_LostUnwingedAngel.label>потерянный бескрылый ангел</LotM_A_LostUnwingedAngel.label>
+  <LotM_A_LostUnwingedAngel.description>Некрылатый Ангел, потерявший контроль. Его кожа стала серой и голубой, и из его спины торчат остатки. Он топит тех, кто рядом, и отравляет их зелёным пламенем.</LotM_A_LostUnwingedAngel.description>
+  <LotM_A_LostUnwingedAngel.tools.0.label>кулаки</LotM_A_LostUnwingedAngel.tools.0.label>
+  <LotM_A_LostUnwingedAngel.tools.1.label>шипы</LotM_A_LostUnwingedAngel.tools.1.label>
+  <LotM_A_LostSerialKiller.label>потерянный серийный убийца</LotM_A_LostSerialKiller.label>
+  <LotM_A_LostSerialKiller.description>Убийца серий, который потерял контроль. Он двигается, завернутый в черный дым, из которого видны только глаза, и выбирает своих жертв по одному.</LotM_A_LostSerialKiller.description>
+  <LotM_A_LostSerialKiller.tools.0.label>Когти</LotM_A_LostSerialKiller.tools.0.label>
+  <LotM_A_LostSerialKiller.tools.1.label>укус</LotM_A_LostSerialKiller.tools.1.label>
+  <LotM_A_LostDevil.label>потерянный дьявол</LotM_A_LostDevil.label>
+  <LotM_A_LostDevil.description>Дьявол, потерявший контроль. Чёрная, неровная масса, пахнущая сернистым газом, завернутая в светло-голубые пламена; она больше не ищет жертв, только кровь.</LotM_A_LostDevil.description>
+  <LotM_A_LostDevil.tools.0.label>Когти</LotM_A_LostDevil.tools.0.label>
+  <LotM_A_LostDevil.tools.1.label>Рога</LotM_A_LostDevil.tools.1.label>
+  <LotM_A_LostApostle.label>потерянный апостол</LotM_A_LostApostle.label>
+  <LotM_A_LostApostle.description>Кошмарный апостол, потерявший контроль. Ползучая масса черной жидкости и теней; на ней всплывают и тонут лица злобы, боли и безумия. Куда бы она ни шла, желания вспыхивают.</LotM_A_LostApostle.description>
+  <LotM_A_LostApostle.tools.0.label>Когти</LotM_A_LostApostle.tools.0.label>
+  <LotM_A_LostApostle.tools.1.label>Рога</LotM_A_LostApostle.tools.1.label>
+  <LotM_A_LostDemon.label>потерянный демон</LotM_A_LostDemon.label>
+  <LotM_A_LostDemon.description>Демон, который потерял контроль. Огромная черная рогатая масса, пахнущая серой; куда бы он ни посмотрел, умы и желания становятся беспечными и вспыхивают.</LotM_A_LostDemon.description>
+  <LotM_A_LostDemon.tools.0.label>Когти</LotM_A_LostDemon.tools.0.label>
+  <LotM_A_LostDemon.tools.1.label>Рога</LotM_A_LostDemon.tools.1.label>
+  <LotM_A_LostBlatherer.label>потерянный болтун</LotM_A_LostBlatherer.label>
+  <LotM_A_LostBlatherer.description>Блаблащий, потерявший контроль. Огромная масса морщинистой черной мглы, которая никогда не перестает бормотать: каждое слово, вырывающееся из нее, сводит с ума, ранит или проклинает того, кто его слышит.</LotM_A_LostBlatherer.description>
+  <LotM_A_LostBlatherer.tools.0.label>Когти</LotM_A_LostBlatherer.tools.0.label>
+  <LotM_A_LostBlatherer.tools.1.label>Пасть</LotM_A_LostBlatherer.tools.1.label>
+</LanguageData>

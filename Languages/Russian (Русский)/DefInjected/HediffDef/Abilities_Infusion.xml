@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_InfusedChill.label>мороз</LotM_InfusedChill.label>
+  <LotM_InfusedChill.description>Замораживание пуль: холод проникает в их тело и замедляет их. Если он накапливается, они остаются застывшими на мгновение.</LotM_InfusedChill.description>
+  <LotM_InfusedChill.stages.0.label>мягкий</LotM_InfusedChill.stages.0.label>
+  <LotM_InfusedChill.stages.1.label>сильный</LotM_InfusedChill.stages.1.label>
+  <LotM_InfusedChill.stages.2.label>почти замерзший</LotM_InfusedChill.stages.2.label>
+</LanguageData>

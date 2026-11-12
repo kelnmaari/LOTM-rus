@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Apotheosis_Darkness.label>апофеоз</LotM_Apotheosis_Darkness.label>
+  <LotM_Apotheosis_Darkness.description>С тремя характеристиками Рыцаря Несчастья и Уникальностью Тьмы внутри них, они начинают, на алтаре своего Святилища, ритуал превращения в Богиню Вечной Ночи. Это длится три дня, и весь мир придёт, чтобы остановить его, прямо в Святилище. Если они умрут, потеряют контроль, алтарь сломается или Святилище перестанет соответствовать требованиям, Тьма поглотит всё вокруг них.</LotM_Apotheosis_Darkness.description>
+  <LotM_EvernightConcealedWorld.label>увлечь в Сокрытый Мир</LotM_EvernightConcealedWorld.label>
+  <LotM_EvernightConcealedWorld.description>По всему месту в мире: стирает кого-то (или всю его группу) из реальности, как стертый набросок, и утягивает их в Скрытый Мир. Судьба реальности не достигает их там. Они могут попытаться сбежать, но это занимает дни. Богов нельзя утянуть.</LotM_EvernightConcealedWorld.description>
+  <LotM_EvernightConcealedPrisoners.label>Сокрытый Мир</LotM_EvernightConcealedPrisoners.label>
+  <LotM_EvernightConcealedPrisoners.description>Тех, кого она увлекла в Скрытый Мир: запечатать навсегда (они больше не могут сбежать) или выпустить их обратно в реальность, где она их стёрла.</LotM_EvernightConcealedPrisoners.description>
+  <LotM_EvernightDeepSleep.label>глубокий сон</LotM_EvernightDeepSleep.label>
+  <LotM_EvernightDeepSleep.description>На любом месте в мире: каждый враг погружается в глубокий сон. Для ангелов это длится недолго, а для богов — едва мгновение, но они тоже падают.</LotM_EvernightDeepSleep.description>
+  <LotM_EvernightEternalRest.label>вечный покой</LotM_EvernightEternalRest.label>
+  <LotM_EvernightEternalRest.description>На том, кто спит или упал, где бы ни было в мире: он растворяется во Тьме и становится ее частью. Тела не остается. Это не достигает богов.</LotM_EvernightEternalRest.description>
+  <LotM_EvernightReleaseDarkness.label>Тьма, Пункт назначения Всего</LotM_EvernightReleaseDarkness.label>
+  <LotM_EvernightReleaseDarkness.description>Высвобождает Тьму, в которой всё заканчивается: плотная, безмолвная тьма, которая стирает существ, которые она достигает, и отменяет слабых. Это чрезвычайно опасно: даже если она пытается её контролировать, она может убить её союзников.</LotM_EvernightReleaseDarkness.description>
+  <LotM_EvernightCallSpirits.label>призывать природные духи</LotM_EvernightCallSpirits.label>
+  <LotM_EvernightCallSpirits.description>Над любым местом в мире: она является пунктом назначения духов и их господина. Она вызывает существ Мира духов, которые материализуются (любой может их видеть и трогать) и сражаются за нее, пока они не погружаются обратно.</LotM_EvernightCallSpirits.description>
+  <LotM_EvernightSootheSpirit.label>успокоить дух</LotM_EvernightSootheSpirit.label>
+  <LotM_EvernightSootheSpirit.description>На Потустороннем, где угодно в мире: усыпляет их духовное тело. Они теряют почти всю свою духовность, и их силы некоторое время не отвечают (власти и символизма всё ещё отвечают).</LotM_EvernightSootheSpirit.description>
+  <LotM_EvernightCatastrophe.label>катастрофа</LotM_EvernightCatastrophe.label>
+  <LotM_EvernightCatastrophe.description>На любом месте в мире: несчастье становится катастрофой. Выберите, что: грозовая буря, чума, пожары, метеориты или волна жары.</LotM_EvernightCatastrophe.description>
+  <LotM_EvernightGaze.label>взгляд Вечной Ночи</LotM_EvernightGaze.label>
+  <LotM_EvernightGaze.description>На любом месте в мире: его глаза сжимают звёздное небо. Каждый враг чувствует покой и страх, который он не может контролировать: они застывают, а слабые бегут.</LotM_EvernightGaze.description>
+  <LotM_EvernightCrimsonMoon.label>Багровый Луна</LotM_EvernightCrimsonMoon.label>
+  <LotM_EvernightCrimsonMoon.description>На любом месте в мире: красная ночь под багровой луной. Потусторонние Тьмы на её стороне обладают большей силой, а её враги полны страха и кошмаров.</LotM_EvernightCrimsonMoon.description>
+  <LotM_EvernightSilenceSeal.label>печать тишины</LotM_EvernightSilenceSeal.label>
+  <LotM_EvernightSilenceSeal.description>На ком-либо, где угодно в мире: они замолкают на дни. Они не могут говорить, петь или произносить какую-либо силу (песни, стихи, молитвы, провозглашения) и никогда не раскроют то, что она скрывает.</LotM_EvernightSilenceSeal.description>
+  <LotM_EvernightEndlessNight.label>Бесконечная Ночь</LotM_EvernightEndlessNight.label>
+  <LotM_EvernightEndlessNight.description>Переключатель: она окутывает себя Тьмой. Пока это активно, она и её союзники поблизости всегда в темноте (а в темноте она не может умереть), и она обладает большей силой. Потребляет духовность в час.</LotM_EvernightEndlessNight.description>
+  <LotM_EvernightSilenceAura.label>Тишина</LotM_EvernightSilenceAura.label>
+  <LotM_EvernightSilenceAura.description>Переключатель: вокруг неё царит тишина. Никто из близких врагов не может говорить, петь или произносить силы. Потребляет духовность в час.</LotM_EvernightSilenceAura.description>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_CombatChurch.label>Церковь Бога Боя</LotM_CombatChurch.label>
+  <LotM_CombatChurch.fixedName>Церковь Бога Боя</LotM_CombatChurch.fixedName>
+  <LotM_CombatChurch.description>Церковь Бога Боя: вся церковь — армия. Её верующие тренируются с детства, её священники — ветераны, а её епископы — воины, пережившие тысячу битв. Они более ортодоксальны, чем кто-либо другой, но они ладят с другими церквями и уважают того, кто проявляет силу.
+
+Их ряды: солдаты, ветераны, мастера оружия, паладины рассвета, стражи и, на самом верху, полубожественные кардиналы. Над ними, в их Святилище, находятся ангелы и их бог.</LotM_CombatChurch.description>
+  <LotM_CombatChurch.pawnSingular>Солдат Боя</LotM_CombatChurch.pawnSingular>
+  <LotM_CombatChurch.pawnsPlural>солдаты Боя</LotM_CombatChurch.pawnsPlural>
+  <LotM_CombatChurch.leaderTitle>Кардинал</LotM_CombatChurch.leaderTitle>
+</LanguageData>

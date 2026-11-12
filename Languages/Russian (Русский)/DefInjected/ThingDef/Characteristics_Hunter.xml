@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Characteristic_Hunter.label>Характеристика Потустороннего Охотника</LotM_Characteristic_Hunter.label>
+  <LotM_Characteristic_Hunter.description>То, что осталось от Охотника после смерти. Это багровое, желеобразное нечто: очень скользкое, легкое и эластичное, гладкое, как стекло. Держать его вызывает раздражение и порыв сражаться.</LotM_Characteristic_Hunter.description>
+  <LotM_Characteristic_Provoker.label>Характеристика Потустороннего Провокатора</LotM_Characteristic_Provoker.label>
+  <LotM_Characteristic_Provoker.description>То, что осталось от Провокатора после смерти. Это черный камень размером с кулак с поверхностью, похожей на текучую жидкость, от которого исходит сильный запах. Он отвратителен.</LotM_Characteristic_Provoker.description>
+  <LotM_Characteristic_Pyromaniac.label>Характеристика Потустороннего Пиромана</LotM_Characteristic_Pyromaniac.label>
+  <LotM_Characteristic_Pyromaniac.description>То, что осталось от Пироманатика после смерти. Это багровое нечто, похожее на бьющееся сердце, его поверхность полна крошечных отверстий, из которых просачиваются неразличимые пламя.</LotM_Characteristic_Pyromaniac.description>
+  <LotM_Characteristic_Conspirer.label>Характеристика Потустороннего Заговорщика</LotM_Characteristic_Conspirer.label>
+  <LotM_Characteristic_Conspirer.description>То, что осталось от Заговорщика после смерти. Это грязная, похожая на мозг вещь, покрытая ржавчиной и глазами.</LotM_Characteristic_Conspirer.description>
+  <LotM_Characteristic_Reaper.label>Характеристика Потустороннего Жнеца</LotM_Characteristic_Reaper.label>
+  <LotM_Characteristic_Reaper.description>То, что осталось от Жнеца после смерти. Это палец, образующий необычайно острый костный лезвие с ледяным блеском. Его следует держать осторожно, чтобы не порезаться.</LotM_Characteristic_Reaper.description>
+  <LotM_Characteristic_IronbloodedKnight.label>Характеристика Потустороннего Рыцаря Железной Крови</LotM_Characteristic_IronbloodedKnight.label>
+  <LotM_Characteristic_IronbloodedKnight.description>Что осталось от рыцаря с железной кровью, когда он умирает. Обычно он сливается с костью руки, образуя железную черную вещь в форме меча, тяжелую, твердую и горящую собственным пламенем.</LotM_Characteristic_IronbloodedKnight.description>
+  <LotM_Characteristic_WarBishop.label>Характеристика Потустороннего Военного Епископа</LotM_Characteristic_WarBishop.label>
+  <LotM_Characteristic_WarBishop.description>Что осталось от Военного Епископа после смерти. Это фантомное ядро, где красные пламя и чёрный металл переплетаются.</LotM_Characteristic_WarBishop.description>
+  <LotM_Characteristic_WeatherWarlock.label>Характеристика Потустороннего Колдуна Погоды</LotM_Characteristic_WeatherWarlock.label>
+  <LotM_Characteristic_WeatherWarlock.description>Что осталось от Мага Погоды, когда они умерли. Это пальцевой, кристаллический и пористый столб. Его отверстия содержат туман, град, дождь, молнию и другие погодные явления, которые иногда вытекают, а иногда втягиваются обратно.</LotM_Characteristic_WeatherWarlock.description>
+  <LotM_Characteristic_Conqueror.label>Характеристика Потустороннего Завоевателя</LotM_Characteristic_Conqueror.label>
+  <LotM_Characteristic_Conqueror.description>То, что осталось от Завоевателя после смерти. Это странная железная корона, покрытая ржавчиной и кровью, сформированная из разбитого черепа, который он держал в руке.</LotM_Characteristic_Conqueror.description>
+</LanguageData>

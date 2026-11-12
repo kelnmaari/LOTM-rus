@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_SacrificeWound.label>ритуальная рана</LotM_SacrificeWound.label>
+  <LotM_SacrificeWound.labelNoun>ритуальная рана</LotM_SacrificeWound.labelNoun>
+  <LotM_SacrificeWound.description>Ритуальный разрез, сделанный, чтобы предложить жизнь тому, что не должно её принимать.</LotM_SacrificeWound.description>
+  <LotM_SacrificeWound.injuryProps.destroyedLabel>Предношение в жертву</LotM_SacrificeWound.injuryProps.destroyedLabel>
+  <LotM_ShadowColdInjury.label>тень огня</LotM_ShadowColdInjury.label>
+  <LotM_ShadowColdInjury.labelNoun>тень ожог</LotM_ShadowColdInjury.labelNoun>
+  <LotM_ShadowColdInjury.description>Тени коснулись плоти и оставили её холодной, чёрной и дегенеративной.</LotM_ShadowColdInjury.description>
+  <LotM_ShadowColdInjury.comps.0.labelTendedWell>перевязанный</LotM_ShadowColdInjury.comps.0.labelTendedWell>
+  <LotM_ShadowColdInjury.comps.0.labelTendedWellInner>леченный</LotM_ShadowColdInjury.comps.0.labelTendedWellInner>
+  <LotM_ShadowColdInjury.comps.0.labelSolidTendedWell>установить</LotM_ShadowColdInjury.comps.0.labelSolidTendedWell>
+  <LotM_ShadowColdInjury.comps.1.permanentLabel>шрам тени</LotM_ShadowColdInjury.comps.1.permanentLabel>
+  <LotM_ShadowColdInjury.injuryProps.destroyedLabel>поглощённый тенями</LotM_ShadowColdInjury.injuryProps.destroyedLabel>
+  <LotM_CorrosiveBurn.label>ожог разъедающей кровью</LotM_CorrosiveBurn.label>
+  <LotM_CorrosiveBurn.labelNoun>ожог разъедающей кровью</LotM_CorrosiveBurn.labelNoun>
+  <LotM_CorrosiveBurn.description>Кровь Розового Епископа, которая проникает сквозь плоть как кислота.</LotM_CorrosiveBurn.description>
+  <LotM_CorrosiveBurn.comps.0.labelTendedWell>перевязанный</LotM_CorrosiveBurn.comps.0.labelTendedWell>
+  <LotM_CorrosiveBurn.comps.0.labelTendedWellInner>леченный</LotM_CorrosiveBurn.comps.0.labelTendedWellInner>
+  <LotM_CorrosiveBurn.comps.0.labelSolidTendedWell>установить</LotM_CorrosiveBurn.comps.0.labelSolidTendedWell>
+  <LotM_CorrosiveBurn.comps.2.permanentLabel>разъедающий шрам</LotM_CorrosiveBurn.comps.2.permanentLabel>
+  <LotM_CorrosiveBurn.injuryProps.destroyedLabel>Растворился</LotM_CorrosiveBurn.injuryProps.destroyedLabel>
+  <LotM_SoulWitherInjury.label>увядшая плоть</LotM_SoulWitherInjury.label>
+  <LotM_SoulWitherInjury.labelNoun>увядшая плоть</LotM_SoulWitherInjury.labelNoun>
+  <LotM_SoulWitherInjury.description>Плоть высохла и разложилась сама по себе, как будто она была мертва годами.</LotM_SoulWitherInjury.description>
+  <LotM_SoulWitherInjury.comps.0.labelTendedWell>перевязанный</LotM_SoulWitherInjury.comps.0.labelTendedWell>
+  <LotM_SoulWitherInjury.comps.0.labelTendedWellInner>леченный</LotM_SoulWitherInjury.comps.0.labelTendedWellInner>
+  <LotM_SoulWitherInjury.comps.0.labelSolidTendedWell>установить</LotM_SoulWitherInjury.comps.0.labelSolidTendedWell>
+  <LotM_SoulWitherInjury.comps.1.permanentLabel>увядающий шрам</LotM_SoulWitherInjury.comps.1.permanentLabel>
+  <LotM_SoulWitherInjury.injuryProps.destroyedLabel>Увял</LotM_SoulWitherInjury.injuryProps.destroyedLabel>
+</LanguageData>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_A_LostSleepless.label>потерянный бессонный</LotM_A_LostSleepless.label>
+  <LotM_A_LostSleepless.description>То, что осталось от Неспящего, потерявшего контроль. Он никогда не спит и видит во тьме; ночью он опаснее.</LotM_A_LostSleepless.description>
+  <LotM_A_LostSleepless.tools.0.label>щупальца</LotM_A_LostSleepless.tools.0.label>
+  <LotM_A_LostSleepless.tools.1.label>укус</LotM_A_LostSleepless.tools.1.label>
+  <LotM_A_LostMidnightPoet.label>потерянный ночной поэт</LotM_A_LostMidnightPoet.label>
+  <LotM_A_LostMidnightPoet.description>Полуночный поэт, потерявший контроль. Он всё ещё воет свои колыбельные: кто услышит их вблизи, засыпает.</LotM_A_LostMidnightPoet.description>
+  <LotM_A_LostMidnightPoet.tools.0.label>Когти</LotM_A_LostMidnightPoet.tools.0.label>
+  <LotM_A_LostMidnightPoet.tools.1.label>Удар</LotM_A_LostMidnightPoet.tools.1.label>
+  <LotM_A_LostNightmare.label>потерянный кошмар</LotM_A_LostNightmare.label>
+  <LotM_A_LostNightmare.description>Кошмар, потерявший контроль. Он усыпляет любого, кто приближается, и сеет ужас в умы других.</LotM_A_LostNightmare.description>
+  <LotM_A_LostNightmare.tools.0.label>Шип</LotM_A_LostNightmare.tools.0.label>
+  <LotM_A_LostNightmare.tools.1.label>Удар</LotM_A_LostNightmare.tools.1.label>
+  <LotM_A_LostSoulAssurer.label>потерянный гарант души</LotM_A_LostSoulAssurer.label>
+  <LotM_A_LostSoulAssurer.description>Гарант Души, который потерял контроль. Помимо усыпления людей и их ужаса, его реквием замедляет и умолкает тех, кто рядом.</LotM_A_LostSoulAssurer.description>
+  <LotM_A_LostSoulAssurer.tools.0.label>Когти</LotM_A_LostSoulAssurer.tools.0.label>
+  <LotM_A_LostSoulAssurer.tools.1.label>укус</LotM_A_LostSoulAssurer.tools.1.label>
+  <LotM_A_LostSpiritWarlock.label>потерянный жрец духов</LotM_A_LostSpiritWarlock.label>
+  <LotM_A_LostSpiritWarlock.description>Духовный колдун, потерявший контроль. Духи, которые он запечатал, ускользают из его зубов, как голодные тени.</LotM_A_LostSpiritWarlock.description>
+  <LotM_A_LostSpiritWarlock.tools.0.label>щупальца</LotM_A_LostSpiritWarlock.tools.0.label>
+  <LotM_A_LostSpiritWarlock.tools.1.label>укус</LotM_A_LostSpiritWarlock.tools.1.label>
+  <LotM_A_LostNightwatcher.label>потерянный Ночной ястреб</LotM_A_LostNightwatcher.label>
+  <LotM_A_LostNightwatcher.description>Ночной сторож, потерявший контроль. Из его тела выливается тьма, как прилив, разъедает тех, кто рядом, и из нее появляются тени. Он регенерирует, когда никто не нападает на него, а когда он умирает, распадается на фрагменты.</LotM_A_LostNightwatcher.description>
+  <LotM_A_LostNightwatcher.tools.0.label>щупальца</LotM_A_LostNightwatcher.tools.0.label>
+  <LotM_A_LostNightwatcher.tools.1.label>укус</LotM_A_LostNightwatcher.tools.1.label>
+  <LotM_A_LostHorrorBishop.label>потерянный епископ ужаса</LotM_A_LostHorrorBishop.label>
+  <LotM_A_LostHorrorBishop.description>Ужасающий епископ, потерявший контроль. Тот, кто смотрит на него, неконтролируемо дрожит; слабые Потусторонние теряют контроль рядом с ним. Он поднимает приливы тьмы, которые тают всё, что они погружают.</LotM_A_LostHorrorBishop.description>
+  <LotM_A_LostHorrorBishop.tools.0.label>Пасть</LotM_A_LostHorrorBishop.tools.0.label>
+  <LotM_A_LostHorrorBishop.tools.1.label>Удар</LotM_A_LostHorrorBishop.tools.1.label>
+  <LotM_A_LostConcealment.label>потерянный слуга сокрытия</LotM_A_LostConcealment.label>
+  <LotM_A_LostConcealment.description>Ангел сокрытия, потерявший контроль. Он затемняет небо, стирает людей из мира (они возвращаются на следующий день, раненые) и поднимает волны тьмы. При первой смерти он возвращается.</LotM_A_LostConcealment.description>
+  <LotM_A_LostConcealment.tools.0.label>Когти</LotM_A_LostConcealment.tools.0.label>
+  <LotM_A_LostConcealment.tools.1.label>укус</LotM_A_LostConcealment.tools.1.label>
+  <LotM_A_LostKnight.label>потерянный рыцарь несчастья</LotM_A_LostKnight.label>
+  <LotM_A_LostKnight.description>Король ангелов Пути Тьмы, потерявший контроль. Где он ступает, падает несчастье: молнии, несчастные случаи, неработающее оружие. Он скрывает людей, поднимает приливы, оставляющие отчаяние, и в первый раз, когда он умирает, возвращается из тьмы.</LotM_A_LostKnight.description>
+  <LotM_A_LostKnight.tools.0.label>лезвия</LotM_A_LostKnight.tools.0.label>
+  <LotM_A_LostKnight.tools.1.label>Удар</LotM_A_LostKnight.tools.1.label>
+  <LotM_FragmentDark_Bulbfreak.label>фрагмент ночного наблюдателя</LotM_FragmentDark_Bulbfreak.label>
+  <LotM_FragmentDark_Bulbfreak.description>Кусок бушующего Ночного Ястреба, который отказывается умирать. Он пугает любого, кто приближается, и когда падает, снова распадается.</LotM_FragmentDark_Bulbfreak.description>
+  <LotM_FragmentDark_Bulbfreak.tools.0.label>щупальца</LotM_FragmentDark_Bulbfreak.tools.0.label>
+  <LotM_FragmentDark_Toughspike.label>меньший фрагмент ночного наблюдателя</LotM_FragmentDark_Toughspike.label>
+  <LotM_FragmentDark_Toughspike.description>Кусок бушующего Ночного Ястреба, который отказывается умирать. Он пугает любого, кто приближается, и когда падает, снова распадается.</LotM_FragmentDark_Toughspike.description>
+  <LotM_FragmentDark_Toughspike.tools.0.label>Шип</LotM_FragmentDark_Toughspike.tools.0.label>
+  <LotM_FragmentDark_Trispike.label>крошечный фрагмент ночного наблюдателя</LotM_FragmentDark_Trispike.label>
+  <LotM_FragmentDark_Trispike.description>Кусок бушующего Ночного Ястреба, который отказывается умирать. Он пугает любого, кто приближается, и когда падает, снова распадается.</LotM_FragmentDark_Trispike.description>
+  <LotM_FragmentDark_Trispike.tools.0.label>укус</LotM_FragmentDark_Trispike.tools.0.label>
+</LanguageData>

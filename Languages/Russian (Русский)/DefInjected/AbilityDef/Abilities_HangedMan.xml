@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_SenseAuras.label>чувствовать ауры</LotM_SenseAuras.label>
+  <LotM_SenseAuras.description>Они чувствуют ауру Потусторонних и монстров в этом районе. Иногда они также чувствуют, что за завесой эмоции бездушных глаз наблюдают за ними.</LotM_SenseAuras.description>
+  <LotM_SacrificeRitual.label>ритуал жертвоприношения</LotM_SacrificeRitual.label>
+  <LotM_SacrificeRitual.description>Предлагают заключенного, поверженного человека или свежеумершего тела тайным сущностям. Взамен они восстанавливают свою духовность.</LotM_SacrificeRitual.description>
+  <LotM_ListenClosely.label>слушать внимательно</LotM_ListenClosely.label>
+  <LotM_ListenClosely.description>Прекращает игнорировать шёпот. Что-то достигнет их прямо сейчас: полезный секрет... или то, что они никогда не должны были слышать.</LotM_ListenClosely.description>
+  <LotM_SummonShadow.label>призывать тени</LotM_SummonShadow.label>
+  <LotM_SummonShadow.description>Призывает теневых существ. Иногда они сражаются рядом с ними; иногда они теряют контроль; иногда то, что выходит, голодно к ним.</LotM_SummonShadow.description>
+  <LotM_ShadowCurseAbility.label>проклятие тени</LotM_ShadowCurseAbility.label>
+  <LotM_ShadowCurseAbility.description>Используют кровь цели (они должны быть ранены, повержены или заключены), чтобы проклясть их: холод, проникающий в кости на день.</LotM_ShadowCurseAbility.description>
+  <LotM_ShadowChrysalis.label>гусеница тени</LotM_ShadowChrysalis.label>
+  <LotM_ShadowChrysalis.description>Закрывает цель в черной куколке теней. Они не могут двигаться, пока она не растворится.</LotM_ShadowChrysalis.description>
+  <LotM_ShadowLurkAbility.label>скрываться в тенях</LotM_ShadowLurkAbility.label>
+  <LotM_ShadowLurkAbility.description>Проникает в тени. Всё становится серым и прозрачным, и звуки доносятся так, будто из пустого звездного неба. Свет или атака вытаскивают их.</LotM_ShadowLurkAbility.description>
+  <LotM_ShadowShaping.label>формировать тени</LotM_ShadowShaping.label>
+  <LotM_ShadowShaping.description>Формирует тени в оружие. Его удары оставляют холод и разложение.</LotM_ShadowShaping.description>
+  <LotM_ListenToggle.label>слушать</LotM_ListenToggle.label>
+  <LotM_ListenToggle.description>Слушай шёпот, или перестань его слышать.</LotM_ListenToggle.description>
+  <LotM_Devour.label>поглощать</LotM_Devour.label>
+  <LotM_Devour.description>Оборачивает цель своей плотью и разъедает её изнутри. Тело трупа поглощается целиком, давая много плоти.</LotM_Devour.description>
+  <LotM_FleshCloak.label>плотная накидка</LotM_FleshCloak.label>
+  <LotM_FleshCloak.description>Окутывает себя накидкой липкой плоти, которая сопротивляется магии и ударам.</LotM_FleshCloak.description>
+  <LotM_FleshMeltAbility.label>раствориться в плоти</LotM_FleshMeltAbility.label>
+  <LotM_FleshMeltAbility.description>Плавятся, как свеча, в плоть и кровь, проваливаются в землю и появляются где-то ещё. Не нужно видеть, где.</LotM_FleshMeltAbility.description>
+  <LotM_FleshBomb.label>бомба плоти</LotM_FleshBomb.label>
+  <LotM_FleshBomb.description>Оторвывает кусок плоти и бросает его. Он взрывается дождем разъедающей крови.</LotM_FleshBomb.description>
+  <LotM_FleshServantsAbility.label>плотские слуги</LotM_FleshServantsAbility.label>
+  <LotM_FleshServantsAbility.description>Формирует двух марионеток из плоти и крови, огромных и без души, чтобы ранить. Они сражаются рядом с ними и взрываются при смерти.</LotM_FleshServantsAbility.description>
+  <LotM_FleshArmsAbility.label>плотские руки</LotM_FleshArmsAbility.label>
+  <LotM_FleshArmsAbility.description>Выращивает дополнительные руки и костяные оружие. Они поглощают плоть, пока находятся в активном состоянии.</LotM_FleshArmsAbility.description>
+  <LotM_Graze.label>пастушеская душа</LotM_Graze.label>
+  <LotM_Graze.description>Поглощает душу недавно умершего Потустороннего или монстра и выбирает, какую из его способностей использовать. Поглощение души равной или более сильной, чем их самих, очень опасно.</LotM_Graze.description>
+  <LotM_ControlShadows.label>контроль теней</LotM_ControlShadows.label>
+  <LotM_ControlShadows.description>Дает форму теням в области: они связывают врагов, сокрушают их и разъедают их.</LotM_ControlShadows.description>
+  <LotM_BlackGreatswordAbility.label>обрезание духовной плоти</LotM_BlackGreatswordAbility.label>
+  <LotM_BlackGreatswordAbility.description>Черный боевой меч Дегенерации: он разъедает плоть, уничтожает душу и пронзает броню. Против тех, у кого дегенеративные мысли, защиты нет.</LotM_BlackGreatswordAbility.description>
+  <LotM_BlackArmorAbility.label>черная броня</LotM_BlackArmorAbility.label>
+  <LotM_BlackArmorAbility.description>Превращается в гиганта в холодной чёрной броне с двумя красными огнями для глаз. Броня трескается при каждом ударе, пока не ломается.</LotM_BlackArmorAbility.description>
+  <LotM_ShadowOfDepravity.label>тень порока</LotM_ShadowOfDepravity.label>
+  <LotM_ShadowOfDepravity.description>Вырывает их порочные мысли и выпускает их в виде тени, которая сражается за них. Страх и безумие уходят с ними.</LotM_ShadowOfDepravity.description>
+  <LotM_CommandShadows.label>командовать тенями</LotM_CommandShadows.label>
+  <LotM_CommandShadows.description>Сама тень цели поднимается, как вода, и связывает её. Поскольку это часть их, их дух тоже страдает.</LotM_CommandShadows.description>
+  <LotM_ShadowCage.label>клетка теней</LotM_ShadowCage.label>
+  <LotM_ShadowCage.description>Черкая жидкость заливает землю и затвердевает в клетку вокруг области.</LotM_ShadowCage.description>
+  <LotM_FleshRugAbility.label>ковёр из плоти</LotM_FleshRugAbility.label>
+  <LotM_FleshRugAbility.description>Распространяется, как ковёр из кровоточащей плоти, который раскалывает поле боя. Кто на него наступит, то провалится и будет разъеден.</LotM_FleshRugAbility.description>
+  <LotM_ReleaseSoul.label>высвободить душу</LotM_ReleaseSoul.label>
+  <LotM_ReleaseSoul.description>Выпускают свои активные души: они сражаются с ними в течение пары часов со всеми своими силами. Пока они вдали, их нельзя использовать.</LotM_ReleaseSoul.description>
+  <LotM_MythicalFormFlesh.label>форма мифического существа</LotM_MythicalFormFlesh.label>
+  <LotM_MythicalFormFlesh.description>Пусть его мифическая форма выйдет: чёрная тень и масса плоти, которая извивается. В ней он пересоздаётся за секунды, и почти ничего не ранит.\n\nM пока форма не завершена, возвращение болезненно.</LotM_MythicalFormFlesh.description>
+  <LotM_TrinityRenewal.label>пересоздать себя</LotM_TrinityRenewal.label>
+  <LotM_TrinityRenewal.description>Одна из их теневых голов отнимает раненую треть тела, и плоть мгновенно восстанавливается. Голове требуется время, чтобы восстановиться.</LotM_TrinityRenewal.description>
+  <LotM_ProfaneWordPrison.label>нечестный язык: тюрьма</LotM_ProfaneWordPrison.label>
+  <LotM_ProfaneWordPrison.description>«Я не знаю, куда я пошел». Берет то, что сказал цель, и превращает это в тюрьму: они отрезаны от мира, не в силах действовать и недоступны чему-либо. Если говорили недавно, едва ли могут сопротивляться.</LotM_ProfaneWordPrison.description>
+  <LotM_ProfaneWordCorruption.label>нечестный язык: разложение</LotM_ProfaneWordCorruption.label>
+  <LotM_ProfaneWordCorruption.description>Проклятие, сделанное из их собственных слов. Дегенерация началась и не остановится сама по себе.</LotM_ProfaneWordCorruption.description>
+  <LotM_ProfaneWordSeparation.label>профанный язык: отделение</LotM_ProfaneWordSeparation.label>
+  <LotM_ProfaneWordSeparation.description>Разделяет цель от того, что принадлежит ей: то, что она призвала или контролирует, распадается, её активные эффекты исчезают, и её духовность на некоторое время не реагирует.</LotM_ProfaneWordSeparation.description>
+  <LotM_ProfaneProclamation.label>провозглашение</LotM_ProfaneProclamation.label>
+  <LotM_ProfaneProclamation.description>Провозглашает, кто они такие. Каждое слово, называющее их, делает их немного могущественнее.</LotM_ProfaneProclamation.description>
+  <LotM_SpiritualCull.label>духовная обрезка</LotM_SpiritualCull.label>
+  <LotM_SpiritualCull.description>Невидимая сила тянет сознание цели вниз, как закат, который никогда не возвращается. Их душа погружается в самую вязкую часть собственного разума. Те, у кого уже есть дегенеративные мысли, не могут сопротивляться.</LotM_SpiritualCull.description>
+  <LotM_BetrayalAuthority.label>власть предательства</LotM_BetrayalAuthority.label>
+  <LotM_BetrayalAuthority.description>Дегенерация заставляет что-то предавать своего владельца. Призванные и контролируемые меняют сторону; машина бунтует какое-то время; человек страдает предательством собственного тела.</LotM_BetrayalAuthority.description>
+  <LotM_BlasphemerDie.label>"безбожник, умри!"</LotM_BlasphemerDie.label>
+  <LotM_BlasphemerDie.description>Его голос, злой и зловещий, падает на ближайших врагов: их сознание затуманивается, их энергия испаряется, а плоть медленно увядает. Неполная мифическая форма не выдерживает этого.</LotM_BlasphemerDie.description>
+  <LotM_DepravedDependents.label>порочные последователи</LotM_DepravedDependents.label>
+  <LotM_DepravedDependents.description>Одновременно выпускают все свои пастушеские души, до двадцати двух. Попав под воздействие Дегенерации, они сражаются со всеми своими силами и подчиняются без колебаний.</LotM_DepravedDependents.description>
+  <LotM_DarkOceanAbility.label>океан тьмы</LotM_DarkOceanAbility.label>
+  <LotM_DarkOceanAbility.description>Вязкий черный океан покрывает область. Он поглощает всё, что враги стреляют в него, и покрывает их жидкостью, которая сбивает с толку и прилипает.</LotM_DarkOceanAbility.description>
+</LanguageData>

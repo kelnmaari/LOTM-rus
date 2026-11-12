@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_SpiritVisionAngelHediff.label>духовное зрение</LotM_SpiritVisionAngelHediff.label>
+  <LotM_SpiritVisionAngelHediff.description>Видит Мир духов, который перекрывает реальность, и его существ. То, что они видят, также видит их.</LotM_SpiritVisionAngelHediff.description>
+  <LotM_SpiritHaunted.label>с последующим духом</LotM_SpiritHaunted.label>
+  <LotM_SpiritHaunted.description>Существо Мира духов следует за ними повсюду. Оно приносит неудачу и странные сны.</LotM_SpiritHaunted.description>
+  <LotM_SpiritOverwhelmed.label>увидел нечто древнее</LotM_SpiritOverwhelmed.label>
+  <LotM_SpiritOverwhelmed.description>Увидел древнее существо из Мира духов. Разум не может это постичь: они думают хуже и борются, чтобы сохранить рассудок.</LotM_SpiritOverwhelmed.description>
+  <LotM_SpiritOverwhelmed.stages.0.label>мягкий</LotM_SpiritOverwhelmed.stages.0.label>
+  <LotM_SpiritOverwhelmed.stages.1.label>сильный</LotM_SpiritOverwhelmed.stages.1.label>
+  <LotM_SpiritOverwhelmed.stages.2.label>тяжёлый</LotM_SpiritOverwhelmed.stages.2.label>
+  <LotM_SpiritCreatureNature.label>существо Мира духов</LotM_SpiritCreatureNature.label>
+  <LotM_SpiritCreatureNature.description>Она живёт в Мире духов, который перекрывает реальность. Только те, кто обладает Духовным зрением, могут видеть её, касаться её или страдать от неё.</LotM_SpiritCreatureNature.description>
+</LanguageData>

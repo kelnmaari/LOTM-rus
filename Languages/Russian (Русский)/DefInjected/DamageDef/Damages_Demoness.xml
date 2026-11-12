@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_BlackFlame.label>черный пламень</LotM_BlackFlame.label>
+  <LotM_BlackFlame.deathMessage>{0} умер, поглощённый чёрным пламенем.</LotM_BlackFlame.deathMessage>
+  <LotM_BlackFlameBlast.label>взрыв чёрного пламени</LotM_BlackFlameBlast.label>
+  <LotM_BlackFlameBlast.deathMessage>{0} погиб, разлетевшись на части черным огненным шаром.</LotM_BlackFlameBlast.deathMessage>
+</LanguageData>

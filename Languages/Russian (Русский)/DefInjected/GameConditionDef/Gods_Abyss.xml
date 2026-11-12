@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_AbyssFilthyMoon.label>грязная луна</LotM_AbyssFilthyMoon.label>
+  <LotM_AbyssFilthyMoon.description>Бездна осквернила луну. Под её грязным светом животные и существа становятся демонизированными.</LotM_AbyssFilthyMoon.description>
+  <LotM_AbyssFilthyMoon.endMessage>Наступил рассвет: грязная луна погасла.</LotM_AbyssFilthyMoon.endMessage>
+  <LotM_AbyssKingdom.label>Божественное царство Бездны</LotM_AbyssKingdom.label>
+  <LotM_AbyssKingdom.description>Бездна открылась здесь: Бездонное море Сердца. Слабые падают в него или становятся их Дьяволами, и все тонут.</LotM_AbyssKingdom.description>
+  <LotM_AbyssKingdom.endMessage>Бездонное море Сердца закрылось.</LotM_AbyssKingdom.endMessage>
+</LanguageData>

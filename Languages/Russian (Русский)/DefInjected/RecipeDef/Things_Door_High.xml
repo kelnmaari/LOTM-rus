@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_StarCharmBlink.label>изготовление чар моргания</LotM_Make_StarCharmBlink.label>
+  <LotM_Make_StarCharmBlink.description>Запечатывание трупа Червя Звезды в серебряном амулете.</LotM_Make_StarCharmBlink.description>
+  <LotM_Make_StarCharmBlink.jobString>изготовление чары моргания</LotM_Make_StarCharmBlink.jobString>
+  <LotM_Make_StarCharmWard.label>изготовление чары звезды</LotM_Make_StarCharmWard.label>
+  <LotM_Make_StarCharmWard.description>Запечатывает труп Червя Звезды серебряным и золотым амулетом.</LotM_Make_StarCharmWard.description>
+  <LotM_Make_StarCharmWard.jobString>Изготовление чары звезды.</LotM_Make_StarCharmWard.jobString>
+  <LotM_Make_CosmosLakeWater.label>Сбор воды, отражающей космос.</LotM_Make_CosmosLakeWater.label>
+  <LotM_Make_CosmosLakeWater.description>Оставляет воду из древнего колодца под звёздами, с кристаллом метеорита внутри, пока она не отразит космос.</LotM_Make_CosmosLakeWater.description>
+  <LotM_Make_CosmosLakeWater.jobString>Сбор воды, отражающей космос.</LotM_Make_CosmosLakeWater.jobString>
+  <LotM_Make_StarWater.label>собрать Звездную Воду</LotM_Make_StarWater.label>
+  <LotM_Make_StarWater.description>Собирает свет звезд на всю ночь в воде, которая уже отразила космос.</LotM_Make_StarWater.description>
+  <LotM_Make_StarWater.jobString>сбор воды звезд.</LotM_Make_StarWater.jobString>
+  <LotM_Make_AstralCompass.label>сборка астрального компаса</LotM_Make_AstralCompass.label>
+  <LotM_Make_AstralCompass.description>Собирает латунный компас, стрелка которого, сделанная из Червя Звезды, указывает в Астральный Мир.</LotM_Make_AstralCompass.description>
+  <LotM_Make_AstralCompass.jobString>сборка астрального компаса.</LotM_Make_AstralCompass.jobString>
+</LanguageData>

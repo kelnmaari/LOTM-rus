@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_A_LostSeer.label>потерянный Провидец</LotM_A_LostSeer.label>
+  <LotM_A_LostSeer.description>То, что осталось от Провидца, потерявшего контроль. Он всё ещё чувствует опасность: он уклоняется от выстрелов до их прихода.</LotM_A_LostSeer.description>
+  <LotM_A_LostSeer.tools.0.label>щупальца</LotM_A_LostSeer.tools.0.label>
+  <LotM_A_LostSeer.tools.1.label>укус</LotM_A_LostSeer.tools.1.label>
+  <LotM_A_LostClown.label>потерянный клоун</LotM_A_LostClown.label>
+  <LotM_A_LostClown.description>Клоун, потерявший контроль. Он всё ещё проворный и бросает кинжалы из закалённой бумаги.</LotM_A_LostClown.description>
+  <LotM_A_LostClown.tools.0.label>Когти</LotM_A_LostClown.tools.0.label>
+  <LotM_A_LostClown.tools.1.label>Удар</LotM_A_LostClown.tools.1.label>
+  <LotM_A_LostMagician.label>потерянный маг</LotM_A_LostMagician.label>
+  <LotM_A_LostMagician.description>Маг, потерявший контроль. Огонь подчиняется ему: он разжигает пожары вокруг себя, перепрыгивает между пламенем и не сгорает.</LotM_A_LostMagician.description>
+  <LotM_A_LostMagician.tools.0.label>Шип</LotM_A_LostMagician.tools.0.label>
+  <LotM_A_LostMagician.tools.1.label>Удар</LotM_A_LostMagician.tools.1.label>
+  <LotM_A_LostFaceless.label>потерянный безликий</LotM_A_LostFaceless.label>
+  <LotM_A_LostFaceless.description>Безликий, потерявший контроль. Он меняет форму так, чтобы никто не видел в нем угрозы... пока не атакует.</LotM_A_LostFaceless.description>
+  <LotM_A_LostFaceless.tools.0.label>Когти</LotM_A_LostFaceless.tools.0.label>
+  <LotM_A_LostFaceless.tools.1.label>укус</LotM_A_LostFaceless.tools.1.label>
+  <LotM_A_LostMarionettist.label>потерянный Марионеточник</LotM_A_LostMarionettist.label>
+  <LotM_A_LostMarionettist.description>Марионеточник, потерявший контроль. Его нити всё ещё тянут за духовные тела любого, кто подходит поблизости.</LotM_A_LostMarionettist.description>
+  <LotM_A_LostMarionettist.tools.0.label>щупальца</LotM_A_LostMarionettist.tools.0.label>
+  <LotM_A_LostMarionettist.tools.1.label>укус</LotM_A_LostMarionettist.tools.1.label>
+  <LotM_A_LostSorcerer.label>переполненный чародей</LotM_A_LostSorcerer.label>
+  <LotM_A_LostSorcerer.description>Бизарный Колдун, потерявший контроль: масса плоти и Черви Духа. Он регенерирует, сводит с ума любого, кто подходит, и когда он умирает, распадается на части, которые все еще живы.</LotM_A_LostSorcerer.description>
+  <LotM_A_LostSorcerer.tools.0.label>щупальца</LotM_A_LostSorcerer.tools.0.label>
+  <LotM_A_LostSorcerer.tools.1.label>укус</LotM_A_LostSorcerer.tools.1.label>
+  <LotM_A_LostScholar.label>пожиратель истории</LotM_A_LostScholar.label>
+  <LotM_A_LostScholar.description>Знаток былого, потерявший контроль. Он поглощает людей в Историческую пустоту и тащит обратно тех, кто умер поблизости.</LotM_A_LostScholar.description>
+  <LotM_A_LostScholar.tools.0.label>Пасть</LotM_A_LostScholar.tools.0.label>
+  <LotM_A_LostScholar.tools.1.label>Удар</LotM_A_LostScholar.tools.1.label>
+  <LotM_A_LostInvoker.label>ночь чудес</LotM_A_LostInvoker.label>
+  <LotM_A_LostInvoker.description>Чудотворец, потерявший контроль. Он гасит свет мира, и его желания сбываются искажённо. Даже смерть не останавливает его в первый раз.</LotM_A_LostInvoker.description>
+  <LotM_A_LostInvoker.tools.0.label>Когти</LotM_A_LostInvoker.tools.0.label>
+  <LotM_A_LostInvoker.tools.1.label>укус</LotM_A_LostInvoker.tools.1.label>
+  <LotM_A_LostAttendant.label>путешественник пустоты</LotM_A_LostAttendant.label>
+  <LotM_A_LostAttendant.description>Служитель тайн, потерявший контроль: ужас из металла и нитей. Он захватывает нити всего, что живет поблизости, и никто не покидает его царство.</LotM_A_LostAttendant.description>
+  <LotM_A_LostAttendant.tools.0.label>лезвия</LotM_A_LostAttendant.tools.0.label>
+  <LotM_A_LostAttendant.tools.1.label>Удар</LotM_A_LostAttendant.tools.1.label>
+  <LotM_Fragment_Bulbfreak.label>фрагмент чародейства</LotM_Fragment_Bulbfreak.label>
+  <LotM_Fragment_Bulbfreak.description>Кусок бушующего Бизарского Мага, который отказывается умирать. Он сводит с ума любого, кто подходит, и когда падает, снова распадается.</LotM_Fragment_Bulbfreak.description>
+  <LotM_Fragment_Bulbfreak.tools.0.label>щупальца</LotM_Fragment_Bulbfreak.tools.0.label>
+  <LotM_Fragment_Toughspike.label>меньший фрагмент</LotM_Fragment_Toughspike.label>
+  <LotM_Fragment_Toughspike.description>Кусок бушующего Бизарского Мага, который отказывается умирать. Он сводит с ума любого, кто подходит, и когда падает, снова распадается.</LotM_Fragment_Toughspike.description>
+  <LotM_Fragment_Toughspike.tools.0.label>Шип</LotM_Fragment_Toughspike.tools.0.label>
+  <LotM_Fragment_Trispike.label>крошечный фрагмент</LotM_Fragment_Trispike.label>
+  <LotM_Fragment_Trispike.description>Кусок бушующего Бизарского Мага, который отказывается умирать. Он сводит с ума любого, кто подходит, и когда падает, снова распадается.</LotM_Fragment_Trispike.description>
+  <LotM_Fragment_Trispike.tools.0.label>укус</LotM_Fragment_Trispike.tools.0.label>
+</LanguageData>

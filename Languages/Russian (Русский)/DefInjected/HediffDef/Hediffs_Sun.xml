@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_BardSinging.label>пение</LotM_BardSinging.label>
+  <LotM_BardSinging.description>Пение; те, кто слышит его поблизости, получают его эффект. Если они атакуют, песня прерывается. Стоит духовности во время пения.</LotM_BardSinging.description>
+  <LotM_SongValor.label>песня доблести</LotM_SongValor.label>
+  <LotM_SongValor.description>Песня наполняет их грудь мужеством: страх не достигает их, и они не так легко ломаются.</LotM_SongValor.description>
+  <LotM_SongStrength.label>песня силы</LotM_SongStrength.label>
+  <LotM_SongStrength.description>Песня даёт силу их рукам.</LotM_SongStrength.description>
+  <LotM_SongLightness.label>песня лёгкости</LotM_SongLightness.label>
+  <LotM_SongLightness.description>Песня облегчает их тело и дух: они бегут быстрее, лучше уклоняются, и их духовность немного восстанавливается.</LotM_SongLightness.description>
+  <LotM_Dazzled.label>ослепленный</LotM_Dazzled.label>
+  <LotM_Dazzled.description>Свет, подобный полуденному солнцу, обжигает их глаза. Они едва видят.</LotM_Dazzled.description>
+  <LotM_SunBlessingHediff.label>солнечное благословение</LotM_SunBlessingHediff.label>
+  <LotM_SunBlessingHediff.description>Благословенные солнцем: страх, холод, тьма и смерть действуют на них слабее, и они сильнее бьют по нежити.</LotM_SunBlessingHediff.description>
+  <LotM_SunEyesHediff.label>солнца в глазах</LotM_SunEyesHediff.label>
+  <LotM_SunEyesHediff.description>Два маленьких солнца горят в их глазах: они видят во тьме так, будто это день. Стоит немного духовности.</LotM_SunEyesHediff.description>
+  <LotM_StoredSunBeam.label>подготовленный горящий свет</LotM_StoredSunBeam.label>
+  <LotM_StoredSunBeam.description>Ритуал завершен: у них есть луч горящего света, готовый к выпуску. Подготовка исчезает с течением времени.</LotM_StoredSunBeam.description>
+  <LotM_SunHalo.label>солнечный ореол</LotM_SunHalo.label>
+  <LotM_SunHalo.description>Золотое сияние окружает их голову. Близкие компаньоны обретают мужество, а зло, которое они несут, очищается. Стоит духовности, пока длится.</LotM_SunHalo.description>
+  <LotM_HaloCourage.label>под солнечным ореолом</LotM_HaloCourage.label>
+  <LotM_HaloCourage.description>Близко к солнечному ореолу: у них есть мужество, и зло не цепляется за них.</LotM_HaloCourage.description>
+  <LotM_HolyOathHediff.label>святая клятва</LotM_HolyOathHediff.label>
+  <LotM_HolyOathHediff.description>Безмолвно процитировали древние слова: больше силы и ловкости, и их огонь и святой свет горят жарче.</LotM_HolyOathHediff.description>
+  <LotM_PurifyingCleave.label>разрез очищения</LotM_PurifyingCleave.label>
+  <LotM_PurifyingCleave.description>Их удары, оружие и пули несут очищение: они сильнее бьют по злу. Стоит духовности, пока длится.</LotM_PurifyingCleave.description>
+  <LotM_FearImmune.label>невосприимчив к ужасу</LotM_FearImmune.label>
+  <LotM_FearImmune.description>Тепловая сила наполняет тело: они не чувствуют страха, и ментальные атаки зла не заставляют их колебаться.</LotM_FearImmune.description>
+  <LotM_HolyAnointed.label>освященное оружие</LotM_HolyAnointed.label>
+  <LotM_HolyAnointed.description>Их оружие мокрое от святой воды: оно бьёт по злу намного сильнее.</LotM_HolyAnointed.description>
+  <LotM_SolarWarmth.label>тепло солнца</LotM_SolarWarmth.label>
+  <LotM_SolarWarmth.description>Выпили солнечную святую воду: мягкое тепло разливается по их телу, и холод не может их достичь.</LotM_SolarWarmth.description>
+  <LotM_Amplified.label>нотариально: эффективно</LotM_Amplified.label>
+  <LotM_Amplified.description>"Бог говорит, что это эффективно!" Их силы намного сильнее на время.</LotM_Amplified.description>
+  <LotM_PowerSealed.label>нотариально: неэффективно</LotM_PowerSealed.label>
+  <LotM_PowerSealed.description>"Бог говорит, что это неэффективно!" Одна из их сил не отвечает им.</LotM_PowerSealed.description>
+  <LotM_Contract.label>контракт</LotM_Contract.label>
+  <LotM_Contract.description>Подписали контракт, свидетелями которого стали боги. Нарушение его приносит золотые пламя.</LotM_Contract.description>
+  <LotM_DiscordantSong.label>диссонирующее пение</LotM_DiscordantSong.label>
+  <LotM_DiscordantSong.description>Ужасное пение, а не музыка, пронзает их уши и разум.</LotM_DiscordantSong.description>
+  <LotM_PurificationHalo.label>ореол очищения</LotM_PurificationHalo.label>
+  <LotM_PurificationHalo.description>Ореол окрашивает всё вокруг в золотой цвет: близкие компаньоны чувствуют тепло и храбрость, а зло, которое они несут, очищается. Оно сжигает мёртвых и нечистых. Стоит духовности, пока длится.</LotM_PurificationHalo.description>
+  <LotM_SunEyesBlaze.label>солнца в глазах</LotM_SunEyesBlaze.label>
+  <LotM_SunEyesBlaze.description>Два маленьких солнца зажглись в их глазах, когда они призвали свет святости: на некоторое время они видят в темноте, как в день.</LotM_SunEyesBlaze.description>
+  <LotM_UnderPurification.label>под очищением</LotM_UnderPurification.label>
+  <LotM_UnderPurification.description>Чистый свет удерживает их и, понемногу, отделяет от них то, что не принадлежит им. Они едва могут двигаться.</LotM_UnderPurification.description>
+  <LotM_PurifiedZeal.label>очищенный пыл</LotM_PurifiedZeal.label>
+  <LotM_PurifiedZeal.description>Безумие исчезло, но что-то осталось: теперь всё выглядит для них черным или белым. Они более напряжены, гнев быстрее.</LotM_PurifiedZeal.description>
+  <LotM_UnshadowedWeakened.label>без тени</LotM_UnshadowedWeakened.label>
+  <LotM_UnshadowedWeakened.description>Они окружены бесплотным светом: тьма, разложение и зло внутри них едва реагируют.</LotM_UnshadowedWeakened.description>
+  <LotM_HolyEyeHediff.label>святой глаз</LotM_HolyEyeHediff.label>
+  <LotM_HolyEyeHediff.description>Их глаза горят священным светом: они видят во тьме и находят зло сквозь стены. Днем они видят то, что касается их солнечный свет. Стоит немного духовности.</LotM_HolyEyeHediff.description>
+  <LotM_HolyEquipmentHediff.label>связанное снаряжение</LotM_HolyEquipmentHediff.label>
+  <LotM_HolyEquipmentHediff.description>Носит полный доспех, сделанный из чистого света, и держит огромный булаву света. Доспех выдерживает многое, но каждый удар изнашивает его до распада; пока они носят его, злонамеренные мысли не могут взять над ними верх.</LotM_HolyEquipmentHediff.description>
+  <LotM_SolarOathHediff.label>солнечная клятва</LotM_SolarOathHediff.label>
+  <LotM_SolarOathHediff.description>Услышали древние слова солнечного клятва: больше силы, ловкости и храбрости, и их огонь и святой свет горят жарче.</LotM_SolarOathHediff.description>
+  <LotM_AmplifiedGreater.label>нотариально: эффективно</LotM_AmplifiedGreater.label>
+  <LotM_AmplifiedGreater.description>"Бог говорит, это эффективно!", говорит полубог точными словами. Их силы на некоторое время намного сильнее.</LotM_AmplifiedGreater.description>
+  <LotM_MythicalForm_Sunbird.label>пылающее солнце</LotM_MythicalForm_Sunbird.label>
+  <LotM_MythicalForm_Sunbird.description>Его мифическая форма, еще неполная: круг, пылающее солнце, окутанное золотыми пламенями. Оно регенерирует за секунды, почти ничего ему не вредит, и зло сгорает вокруг него.</LotM_MythicalForm_Sunbird.description>
+  <LotM_MythicalForm_Sunbird.comps.0.tools.0.label>солнечная вспышка</LotM_MythicalForm_Sunbird.comps.0.tools.0.label>
+  <LotM_MythicalForm_Sunbird.comps.0.tools.1.label>копье света</LotM_MythicalForm_Sunbird.comps.0.tools.1.label>
+  <LotM_MythicalForm_Sunbird.stages.0.label>неполный</LotM_MythicalForm_Sunbird.stages.0.label>
+  <LotM_MythicalForm_Sunbird.stages.1.label>почти готово</LotM_MythicalForm_Sunbird.stages.1.label>
+  <LotM_MythicalForm_Sunbird.stages.2.label>полный</LotM_MythicalForm_Sunbird.stages.2.label>
+  <LotM_JusticeHaloHediff.label>ореол Справедливости</LotM_JusticeHaloHediff.label>
+  <LotM_JusticeHaloHediff.description>Их правосудие покрывает всё место: всё, что с ним связано, становится сильнее, а всё, что его нарушает, ослабевает или полностью исчезает. Зло не может находиться рядом, даже собственное. Стоит духовности, пока длится.</LotM_JusticeHaloHediff.description>
+  <LotM_JusticeFavor.label>благосклонный Правосудием</LotM_JusticeFavor.label>
+  <LotM_JusticeFavor.description>То, что они делают, соответствует Справедливости вокруг них: они сражаются лучше, меньше ломаются и их силы работают эффективнее.</LotM_JusticeFavor.description>
+  <LotM_JusticeSuppressed.label>осужденный Правосудием</LotM_JusticeSuppressed.label>
+  <LotM_JusticeSuppressed.description>То, что они делают, нарушает Справедливость вокруг них: всё давит на них, они бьют более слабых, а их силы едва отвечают.</LotM_JusticeSuppressed.description>
+  <LotM_JusticeJudged.label>осужденный</LotM_JusticeJudged.label>
+  <LotM_JusticeJudged.description>Наставник Справедливости судил их. Пока действует приговор, почти ничто, что они делают, не работает, и их силы едва ли тень того, чем они были.</LotM_JusticeJudged.description>
+  <LotM_JusticeNullified.label>нейтрализован Справедливостью</LotM_JusticeNullified.label>
+  <LotM_JusticeNullified.description>Ни одна из их сил не отвечает им: Справедливость, осуждающая их, этого не позволяет.</LotM_JusticeNullified.description>
+  <LotM_JusticeContradiction.label>противоречие</LotM_JusticeContradiction.label>
+  <LotM_JusticeContradiction.description>Они предали собственную Справедливость, и их свет это знает. Он успокаивается со временем; если они продолжают предавать его, их сила обращается против них.</LotM_JusticeContradiction.description>
+  <LotM_JusticeContradiction.stages.0.label>сомнение</LotM_JusticeContradiction.stages.0.label>
+  <LotM_JusticeContradiction.stages.1.label>самоочищение</LotM_JusticeContradiction.stages.1.label>
+  <LotM_JusticeContradiction.stages.2.label>на грани потери контроля</LotM_JusticeContradiction.stages.2.label>
+  <LotM_SolarEnvoyHediff.label>солнечный посланник</LotM_SolarEnvoyHediff.label>
+  <LotM_SolarEnvoyHediff.description>Они маленькое солнце: они излучают ужасный жар и свет, и сжигают и очищают всех, кто не принадлежит им. Это стоит большого количества духовности, пока длится.</LotM_SolarEnvoyHediff.description>
+  <LotM_PraiseTheSunHediff.label>прославлять Солнце</LotM_PraiseTheSunHediff.label>
+  <LotM_PraiseTheSunHediff.description>Абсолютно очищены: на время они лучше во всех отношениях, тело, разум и силы.</LotM_PraiseTheSunHediff.description>
+  <LotM_SpaceLocked.label>запечатанное пространство</LotM_SpaceLocked.label>
+  <LotM_SpaceLocked.description>Перо света запечатывает пространство вокруг них: они не могут прыгать, исчезать или уходить каким-либо обходным путем.</LotM_SpaceLocked.description>
+  <LotM_LightBody.label>тело света</LotM_LightBody.label>
+  <LotM_LightBody.description>Когда на них наносится ужасный удар, они становятся светом, пропускают его и собираются снова немного дальше. Они могут сделать это несколько раз; это восстанавливается со временем.</LotM_LightBody.description>
+  <LotM_HolyKingdomHediff.label>святое царство</LotM_HolyKingdomHediff.label>
+  <LotM_HolyKingdomHediff.description>Всё место — их Священное Царство: солнце не заходит, и ни Тьма, ни мёртвые не могут существовать. Стоит много духовности, пока это длится.</LotM_HolyKingdomHediff.description>
+  <LotM_ReligiousFervor.label>религиозный пыл</LotM_ReligiousFervor.label>
+  <LotM_ReligiousFervor.description>Они и их люди вокруг них входят в религиозный пыл: на время тьма, грязь, разложение и смерть ничего для них не значат, и ни страх не может их сломить.</LotM_ReligiousFervor.description>
+  <LotM_SunFaith.label>святость</LotM_SunFaith.label>
+  <LotM_SunFaith.description>Они чувствуют Святость, которую не могут объяснить. Они всё больше восхваляют Солнце; когда их вера будет полной, они станут верующими.</LotM_SunFaith.description>
+  <LotM_PureWhiteLightHediff.label>чистый белый свет</LotM_PureWhiteLightHediff.label>
+  <LotM_PureWhiteLightHediff.description>Их окружает чистое белое свечение: всё рядом с ними, что не Солнце, распадается. Стоит огромного количества духовности.</LotM_PureWhiteLightHediff.description>
+  <LotM_OrderIncarnation.label>воплощение порядка</LotM_OrderIncarnation.label>
+  <LotM_OrderIncarnation.description>Пока порядок их народа сохраняется, они черпают силу из него, чтобы исцеляться и поддерживать себя.</LotM_OrderIncarnation.description>
+  <LotM_SunWorship.label>поклонение</LotM_SunWorship.label>
+  <LotM_SunWorship.description>Они видели, как солнце спускается в реальность. Ошеломленные, они склоняют головы в поклонении и не могут сражаться.</LotM_SunWorship.description>
+  <LotM_ApotheosisHediff.label>апофеоз</LotM_ApotheosisHediff.label>
+  <LotM_ApotheosisHediff.description>Они становятся богом. Весь мир это чувствует и пытается это остановить. Если они умрут сейчас, они взорвутся.</LotM_ApotheosisHediff.description>
+  <LotM_SunBoon.label>благодать Солнца</LotM_SunBoon.label>
+  <LotM_SunBoon.description>Их бог даровал им силы Солнца без зелья. Пока это длится, они становятся всё более похожими на бога в уме, теле и духе.</LotM_SunBoon.description>
+  <LotM_SunBlinded.label>ослеплённый Солнцем</LotM_SunBlinded.label>
+  <LotM_SunBlinded.description>Ослепляющий свет окружает их: они едва могут формировать мысли.</LotM_SunBlinded.description>
+  <LotM_Rekindling.label>возрождение</LotM_Rekindling.label>
+  <LotM_Rekindling.description>Они были уничтожены, но Неугасимый Свет вновь загорается. На некоторое время они ничего не могут делать.</LotM_Rekindling.description>
+</LanguageData>

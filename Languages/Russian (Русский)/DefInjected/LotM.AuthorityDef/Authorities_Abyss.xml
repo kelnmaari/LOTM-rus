@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Authority_AbyssCorruption.label>Порча</LotM_Authority_AbyssCorruption.label>
+  <LotM_Authority_AbyssCorruption.description>Часть власти Порчи, в основном в уме и духе: порочность выливается наружу и взрыв желания.</LotM_Authority_AbyssCorruption.description>
+  <LotM_Authority_AbyssCorruption.passive>Каждое их слово имеет эффект (Потеря контроля, Разрушение, Бред, Проклятие) и звучит снова через несколько часов; они связываются с тем, кто это слышит, и шепчут ему в ухо откуда угодно.</LotM_Authority_AbyssCorruption.passive>
+  <LotM_Authority_AbyssCorruption.godLabel>Порча</LotM_Authority_AbyssCorruption.godLabel>
+  <LotM_Authority_AbyssCorruption.godPassive>Полностью развращает: порочность на максимуме на месте. Только бог сопротивляется этому.</LotM_Authority_AbyssCorruption.godPassive>
+  <LotM_Authority_AbyssMalice.label>Злонамеренность</LotM_Authority_AbyssMalice.label>
+  <LotM_Authority_AbyssMalice.description>Воплощение Злости, рождённое из Дегенерации и Желания: Злость никогда не умирает, и демоны тоже.</LotM_Authority_AbyssMalice.description>
+  <LotM_Authority_AbyssMalice.passive>Растения сеют семена злобы в уме, порождают чистый страх и воскресают внутри того, кто несёт их семя.</LotM_Authority_AbyssMalice.passive>
+  <LotM_Authority_AbyssMalice.godPassive>Становится чёрной жидкостью злобы и путешествует по сердцам: прыгает рядом с любым, кого они видят или кто носит их семя, на любой карте; их семена не имеют предела.</LotM_Authority_AbyssMalice.godPassive>
+  <LotM_Authority_AbyssBody.label>Тело</LotM_Authority_AbyssBody.label>
+  <LotM_Authority_AbyssBody.description>Часть власти Тела: их собственная кровь и жидкости и чужие, и трансформация тела.</LotM_Authority_AbyssBody.description>
+  <LotM_Authority_AbyssBody.passive>Властелин Крови: кровотечения, разъедающая кровь, одна капля достаточна, чтобы восстановить себя; мифическая форма крови, которая становится жидкой.</LotM_Authority_AbyssBody.passive>
+  <LotM_Authority_AbyssBody.godPassive>Мутирует тела других: демонические части для их союзников, деформация для их врагов.</LotM_Authority_AbyssBody.godPassive>
+  <LotM_Authority_AbyssFilth.label>Грязь</LotM_Authority_AbyssFilth.label>
+  <LotM_Authority_AbyssFilth.description>Часть власти Грязи, с её меньшей властью, Токсинов: всё грязное, греховное и нечистое, что касается тела, разума и души.</LotM_Authority_AbyssFilth.description>
+  <LotM_Authority_AbyssFilth.passive>Король Грязи: призывает нечистое, достигает грешников без сопротивления и заражает всех, кто их видит или приближается (кроме Солнца и очистителей).</LotM_Authority_AbyssFilth.passive>
+  <LotM_Authority_AbyssFilth.godPassive>Устойчив ко всем токсинам. Портит луну: под её грязным светом рождаются демонизированные монстры.</LotM_Authority_AbyssFilth.godPassive>
+  <LotM_Authority_AbyssCorrosion.label>Коррозия</LotM_Authority_AbyssCorrosion.label>
+  <LotM_Authority_AbyssCorrosion.description>Менеее власть, рождённая из Грязи и Порчи: всё может быть разъедено.</LotM_Authority_AbyssCorrosion.description>
+  <LotM_Authority_AbyssCorrosion.passive>Коррозия: всё их поедает броню, щиты и стены; против структур она бьёт в три раза сильнее (в пять раз глубже Бездны).</LotM_Authority_AbyssCorrosion.passive>
+  <LotM_Authority_AbyssFlames.label>Пламя</LotM_Authority_AbyssFlames.label>
+  <LotM_Authority_AbyssFlames.description>Менее могущественная власть под Девиантами и Проклятиями: Пламя Дегенерации, Порчи, Токсинов и Коррозии.</LotM_Authority_AbyssFlames.description>
+  <LotM_Authority_AbyssFlames.passive>Пламя Бездны горит, разъедает, отравляет и портит; сопротивление огню останавливает только горящую часть.</LotM_Authority_AbyssFlames.passive>
+  <LotM_Authority_AbyssFlames.godPassive>Пламя Дегенерации: вдвое сильнее и больше.</LotM_Authority_AbyssFlames.godPassive>
+  <LotM_Authority_AbyssHeart.label>Бездна Сердца</LotM_Authority_AbyssHeart.label>
+  <LotM_Authority_AbyssHeart.description>Символизм: Дегенерация, Грязь, Порча, Желание и Проклятия становятся полными только при соединении с разумом. Внизу каждого сердца — бездна.</LotM_Authority_AbyssHeart.description>
+  <LotM_Authority_AbyssHeart.passive>Их власть, объединённая разумом, не может быть сопротивлена: даже Мир Кошмаров не защищает от них. Их мифическая форма не имеет фиксированной формы: каждый видит в ней то, чего боится больше всего, или чего жаждет больше всего.</LotM_Authority_AbyssHeart.passive>
+  <LotM_Authority_AbyssDegeneration.label>Дегенерация</LotM_Authority_AbyssDegeneration.label>
+  <LotM_Authority_AbyssDegeneration.description>Если Жнец воплощает дегенеративную природу живых существ, то Бездна — это среда, которая неизбежно ведёт всех в ней к дегенерации: она не только вызывает это, она создаёт это.</LotM_Authority_AbyssDegeneration.description>
+  <LotM_Authority_AbyssDegeneration.passive>На их карте всё, что не принадлежит им, медленно погружается в порочность; тот, кто совершает злонамеренный акт, погружается мгновенно. Пока они живут, порочность весит вдвое меньше на других проклятых путях.</LotM_Authority_AbyssDegeneration.passive>
+  <LotM_Authority_AbyssDesire.label>Желание</LotM_Authority_AbyssDesire.label>
+  <LotM_Authority_AbyssDesire.description>Часть власти Желания: вместо того чтобы воплощать его, вызывать, катализировать и разжигать его.</LotM_Authority_AbyssDesire.description>
+  <LotM_Authority_AbyssDesire.passive>Разжигает желания всех их врагов на карте; покупает души контрактом.</LotM_Authority_AbyssDesire.passive>
+  <LotM_Authority_AbyssCurses.label>Проклятия</LotM_Authority_AbyssCurses.label>
+  <LotM_Authority_AbyssCurses.description>Часть власти Проклятий; в отличие от Цепей, в основном в духе и разуме.</LotM_Authority_AbyssCurses.description>
+  <LotM_Authority_AbyssCurses.passive>Проклинает дух и разум любого на карте, без видения, в течение недели.</LotM_Authority_AbyssCurses.passive>
+  <LotM_Authority_AbyssDeviants.label>Отступники</LotM_Authority_AbyssDeviants.label>
+  <LotM_Authority_AbyssDeviants.description>Часть власти Девиантов: внизу, Демоны мутируют в зависимости от того, кто они и где они находятся; вверху, Бездна удерживает и охватывает каждую мутацию.</LotM_Authority_AbyssDeviants.description>
+  <LotM_Authority_AbyssDeviants.passive>У них есть все демонические мутации одновременно: рога, крылья, кожа и глаза.</LotM_Authority_AbyssDeviants.passive>
+  <LotM_Authority_AbyssSea.label>Бездонное море Сердца</LotM_Authority_AbyssSea.label>
+  <LotM_Authority_AbyssSea.description>Божественное царство этого пути — сама Бездна; в зависимости от склонности её бога, оно меняет форму и имя.</LotM_Authority_AbyssSea.description>
+  <LotM_Authority_AbyssSea.passive>Открывает Бездну на карте на один день: слабые падают в неё или становятся их Дьяволами, а все остальные тонут.</LotM_Authority_AbyssSea.passive>
+</LanguageData>

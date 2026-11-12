@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_FoolConcealed.label>скрыто в тайне</LotM_FoolConcealed.label>
+  <LotM_FoolConcealed.description>Шут спрятал это место в Мире тайн: угроза его не находит.</LotM_FoolConcealed.description>
+  <LotM_FoolConcealed.endMessage>Место снова видимо для мира.</LotM_FoolConcealed.endMessage>
+  <LotM_ThreatsDelayed.label>обманутое время</LotM_ThreatsDelayed.label>
+  <LotM_ThreatsDelayed.description>Шут спутал порядок событий: угрозы, идущие в это место, отложены.</LotM_ThreatsDelayed.description>
+  <LotM_ThreatsDelayed.endMessage>Время этого места возвращается к своему порядку.</LotM_ThreatsDelayed.endMessage>
+</LanguageData>

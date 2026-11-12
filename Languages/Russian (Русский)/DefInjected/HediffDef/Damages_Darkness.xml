@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_SpectralInjury.label>призрачная рана</LotM_SpectralInjury.label>
+  <LotM_SpectralInjury.labelNoun>призрачная рана</LotM_SpectralInjury.labelNoun>
+  <LotM_SpectralInjury.description>Замороженная, безкровиевая рана, вызванная призраком. Кожа вокруг нее выглядит серой.</LotM_SpectralInjury.description>
+  <LotM_SpectralInjury.comps.0.labelTendedWell>перевязанный</LotM_SpectralInjury.comps.0.labelTendedWell>
+  <LotM_SpectralInjury.comps.0.labelTendedWellInner>леченный</LotM_SpectralInjury.comps.0.labelTendedWellInner>
+  <LotM_SpectralInjury.comps.0.labelSolidTendedWell>установить</LotM_SpectralInjury.comps.0.labelSolidTendedWell>
+  <LotM_SpectralInjury.comps.1.permanentLabel>призрачный шрам</LotM_SpectralInjury.comps.1.permanentLabel>
+  <LotM_SpectralInjury.injuryProps.destroyedLabel>Замороженный призраком</LotM_SpectralInjury.injuryProps.destroyedLabel>
+  <LotM_NightCorrosionInjury.label>ночная коррозия</LotM_NightCorrosionInjury.label>
+  <LotM_NightCorrosionInjury.labelNoun>ночная коррозия</LotM_NightCorrosionInjury.labelNoun>
+  <LotM_NightCorrosionInjury.description>Тьма поглотила кусок плоти. Рана чёрная и холодная.</LotM_NightCorrosionInjury.description>
+  <LotM_NightCorrosionInjury.comps.0.labelTendedWell>перевязанный</LotM_NightCorrosionInjury.comps.0.labelTendedWell>
+  <LotM_NightCorrosionInjury.comps.0.labelTendedWellInner>леченный</LotM_NightCorrosionInjury.comps.0.labelTendedWellInner>
+  <LotM_NightCorrosionInjury.comps.0.labelSolidTendedWell>установить</LotM_NightCorrosionInjury.comps.0.labelSolidTendedWell>
+  <LotM_NightCorrosionInjury.comps.1.permanentLabel>черный шрам</LotM_NightCorrosionInjury.comps.1.permanentLabel>
+  <LotM_NightCorrosionInjury.injuryProps.destroyedLabel>Поглощен тьмой</LotM_NightCorrosionInjury.injuryProps.destroyedLabel>
+  <LotM_LimbBacklashInjury.label>разрыв кошмаром</LotM_LimbBacklashInjury.label>
+  <LotM_LimbBacklashInjury.labelNoun>кошмарное ранение</LotM_LimbBacklashInjury.labelNoun>
+  <LotM_LimbBacklashInjury.description>Их кошмарные конечности, сделанные из их собственной плоти, сломались. Урон вернулся в тело.</LotM_LimbBacklashInjury.description>
+  <LotM_LimbBacklashInjury.comps.0.labelTendedWell>перевязанный</LotM_LimbBacklashInjury.comps.0.labelTendedWell>
+  <LotM_LimbBacklashInjury.comps.0.labelTendedWellInner>сшитый</LotM_LimbBacklashInjury.comps.0.labelTendedWellInner>
+  <LotM_LimbBacklashInjury.comps.0.labelSolidTendedWell>установить</LotM_LimbBacklashInjury.comps.0.labelSolidTendedWell>
+  <LotM_LimbBacklashInjury.comps.1.permanentLabel>шрам кошмаром</LotM_LimbBacklashInjury.comps.1.permanentLabel>
+  <LotM_LimbBacklashInjury.injuryProps.destroyedLabel>разорванный</LotM_LimbBacklashInjury.injuryProps.destroyedLabel>
+  <LotM_StumbleInjury.label>удар, сбивающий с ног</LotM_StumbleInjury.label>
+  <LotM_StumbleInjury.labelNoun>запутанный удар</LotM_StumbleInjury.labelNoun>
+  <LotM_StumbleInjury.description>Неудача: они споткнулись в самый неподходящий момент.</LotM_StumbleInjury.description>
+  <LotM_StumbleInjury.comps.0.labelTendedWell>перевязанный</LotM_StumbleInjury.comps.0.labelTendedWell>
+  <LotM_StumbleInjury.comps.0.labelTendedWellInner>леченный</LotM_StumbleInjury.comps.0.labelTendedWellInner>
+  <LotM_StumbleInjury.comps.0.labelSolidTendedWell>установить</LotM_StumbleInjury.comps.0.labelSolidTendedWell>
+  <LotM_StumbleInjury.injuryProps.destroyedLabel>разбитый</LotM_StumbleInjury.injuryProps.destroyedLabel>
+</LanguageData>

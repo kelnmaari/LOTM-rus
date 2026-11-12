@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_DoorSecretColony.label>секрет</LotM_DoorSecretColony.label>
+  <LotM_DoorSecretColony.description>Они разбили хрустальный шар, и место стало тайной: угрозы находят его гораздо легче.</LotM_DoorSecretColony.description>
+  <LotM_DoorSecretColony.endMessage>Место больше не секрет.</LotM_DoorSecretColony.endMessage>
+  <LotM_DoorSealedRule.label>запечатанное правило</LotM_DoorSealedRule.label>
+  <LotM_DoorSealedRule.description>Ключ Звёзд запечатал правило этого поля битвы.</LotM_DoorSealedRule.description>
+  <LotM_DoorSealedRule.endMessage>Запечатанное правило действует снова.</LotM_DoorSealedRule.endMessage>
+  <LotM_DoorsOpened.label>все двери открыты</LotM_DoorsOpened.label>
+  <LotM_DoorsOpened.description>Дверь открыла каждую дверь в мире: печати ослабевают.</LotM_DoorsOpened.description>
+  <LotM_DoorsOpened.endMessage>Двери мира снова закрываются.</LotM_DoorsOpened.endMessage>
+  <LotM_DoorsClosed.label>Все двери закрыты</LotM_DoorsClosed.label>
+  <LotM_DoorsClosed.description>Дверь закрыла всё, что связано с дверями: никто, кроме их людей, не открывает одну, и их враги не могут путешествовать.</LotM_DoorsClosed.description>
+  <LotM_DoorsClosed.endMessage>Врата мира снова открываются.</LotM_DoorsClosed.endMessage>
+</LanguageData>

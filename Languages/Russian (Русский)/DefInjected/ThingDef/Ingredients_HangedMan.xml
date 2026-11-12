@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Ing_SingingBlackMushroom.label>поющая чёрная грибница</LotM_Ing_SingingBlackMushroom.label>
+  <LotM_Ing_SingingBlackMushroom.description>Чёрный гриб, который в темноте очень тихо поёт мелодию, которую никто не должен узнавать.</LotM_Ing_SingingBlackMushroom.description>
+  <LotM_Ing_OfferingWine.label>предложение красного вина</LotM_Ing_OfferingWine.label>
+  <LotM_Ing_OfferingWine.description>красное вино, которое кто-то принёс на алтарь. Никто не знает, кому.</LotM_Ing_OfferingWine.description>
+  <LotM_Ing_ChurchCandle.label>церковная свеча</LotM_Ing_ChurchCandle.label>
+  <LotM_Ing_ChurchCandle.description>Кусок свечи, освящённой в церкви. Использовать её для этого — почти богохульство.</LotM_Ing_ChurchCandle.description>
+  <LotM_Ing_BlackCatEar.label>ухо чёрного кота несчастья</LotM_Ing_BlackCatEar.label>
+  <LotM_Ing_BlackCatEar.description>Ухо чёрного кота, которое приносило неудачу всем, кто пересекал его путь. Оно всё ещё подёргивается, когда кто-то шепчет.</LotM_Ing_BlackCatEar.description>
+  <LotM_Ing_BurrowCrawlerHeart.label>сердце ровкоползучего</LotM_Ing_BurrowCrawlerHeart.label>
+  <LotM_Ing_BurrowCrawlerHeart.description>Сердце чешуйчащего, похож на пантеру существа, которое копает так глубоко, что туда не доходит ни звук... кроме шёпота. Оно может заменить чёрное ухо кота в зелье Слушателя.</LotM_Ing_BurrowCrawlerHeart.description>
+  <LotM_Ing_BlackCatHeart.label>сердце чёрного кота несчастья</LotM_Ing_BlackCatHeart.label>
+  <LotM_Ing_BlackCatHeart.description>Сердце чёрного кота. Оно бьётся медленно даже вне тела.</LotM_Ing_BlackCatHeart.description>
+  <LotM_Ing_BegoniaOil.label>эфирное масло бегонии</LotM_Ing_BegoniaOil.label>
+  <LotM_Ing_BegoniaOil.description>Масло дикой бегонии. Её аромат успокаивает... или так они говорят.</LotM_Ing_BegoniaOil.description>
+  <LotM_Ing_BlackGoatHorn.label>рог черной козы с кровавыми глазами</LotM_Ing_BlackGoatHorn.label>
+  <LotM_Ing_BlackGoatHorn.description>Рог чёрного козла с глазами красными, как кровь. Его тень не соответствует его форме.</LotM_Ing_BlackGoatHorn.description>
+  <LotM_Ing_AnothersBlood.label>кровь другого</LotM_Ing_AnothersBlood.label>
+  <LotM_Ing_AnothersBlood.description>кровь того, кто не давал её добровольно.</LotM_Ing_AnothersBlood.description>
+  <LotM_Ing_WildRoseHydrosol.label>гидросол дикой розы</LotM_Ing_WildRoseHydrosol.label>
+  <LotM_Ing_WildRoseHydrosol.description>Эссенция дикой розы с чёрными шипами.</LotM_Ing_WildRoseHydrosol.description>
+  <LotM_Ing_ImmortalFleshFungus.label>грибная плоть бессмертия</LotM_Ing_ImmortalFleshFungus.label>
+  <LotM_Ing_ImmortalFleshFungus.description>Мягкий гриб, растущий во тьме и регенерирующий даже при разрезании.</LotM_Ing_ImmortalFleshFungus.description>
+  <LotM_Ing_SpecterPowder.label>остаточный порошок мстительного призрака</LotM_Ing_SpecterPowder.label>
+  <LotM_Ing_SpecterPowder.description>То, что осталось от мстительного призрака: серая пудра, которая всё ещё ненавидит.</LotM_Ing_SpecterPowder.description>
+  <LotM_Ing_SymbioticVine.label>симбиотическая лоза</LotM_Ing_SymbioticVine.label>
+  <LotM_Ing_SymbioticVine.description>Плющ, растущий на бессмертной плотной грибной плоти, питаясь ею и питая её.</LotM_Ing_SymbioticVine.description>
+  <LotM_Ing_HerdKeeperBrain.label>мозг пастуха</LotM_Ing_HerdKeeperBrain.label>
+  <LotM_Ing_HerdKeeperBrain.description>Мозг обезьяноподобного существа, которое вело других. Он всё ещё, кажется, отдаёт приказы.</LotM_Ing_HerdKeeperBrain.description>
+  <LotM_Ing_ScarecrowStraw.label>солома кровавого чучела</LotM_Ing_ScarecrowStraw.label>
+  <LotM_Ing_ScarecrowStraw.description>Семь соломенных нитей, испачканных засохшей кровью чучела, которое пугало больше, чем просто птиц.</LotM_Ing_ScarecrowStraw.description>
+  <LotM_Ing_FloggingWhip.label>ударная палка с сотней ударов</LotM_Ing_FloggingWhip.label>
+  <LotM_Ing_FloggingWhip.description>Плеть, которой хлестали более сотни людей. Крики всё ещё слышны.</LotM_Ing_FloggingWhip.description>
+  <LotM_Ing_GriegelFlesh.label>конденсат плоти Григеля</LotM_Ing_GriegelFlesh.label>
+  <LotM_Ing_GriegelFlesh.description>Концентрированная плоть и кровь багрового гиганта. Оно пульсирует и меняет форму.</LotM_Ing_GriegelFlesh.description>
+  <LotM_Ing_ShadowKnightLiquid.label>черная жидкость теневого рыцаря</LotM_Ing_ShadowKnightLiquid.label>
+  <LotM_Ing_ShadowKnightLiquid.description>Густая чёрная жидкость, затвердевающая как броня, если оставить в покое.</LotM_Ing_ShadowKnightLiquid.description>
+  <LotM_Ing_GriegelShadow.label>тень Григеля</LotM_Ing_GriegelShadow.label>
+  <LotM_Ing_GriegelShadow.description>тень, оставленная багровым гигантом, хранящаяся в колбе.</LotM_Ing_GriegelShadow.description>
+  <LotM_Ing_HerdSovereignSkull.label>череп повелителя стада</LotM_Ing_HerdSovereignSkull.label>
+  <LotM_Ing_HerdSovereignSkull.description>Череп зверя, который возглавил всех остальных. Животные опускают головы, когда он проходит мимо.</LotM_Ing_HerdSovereignSkull.description>
+  <LotM_Ing_GriegelChieftainHeart.label>сердце вождя Григеля</LotM_Ing_GriegelChieftainHeart.label>
+  <LotM_Ing_GriegelChieftainHeart.description>Сердце вождя багровых гигантов. Оно всё ещё качает кровь, которая не его собственная.</LotM_Ing_GriegelChieftainHeart.description>
+  <LotM_Ing_HerdSovereignBlood.label>кровь повелителя стада</LotM_Ing_HerdSovereignBlood.label>
+  <LotM_Ing_HerdSovereignBlood.description>Сто миллилитров густой крови. Тот, кто её нюхает, чувствует порыв следовать за кем-то.</LotM_Ing_HerdSovereignBlood.description>
+  <LotM_Ing_GriegelChieftainEyes.label>глаза вождей Григеля</LotM_Ing_GriegelChieftainEyes.label>
+  <LotM_Ing_GriegelChieftainEyes.description>Пара огромных красных глаз. Они продолжают смотреть, даже несмотря на то, что за ними больше никого нет.</LotM_Ing_GriegelChieftainEyes.description>
+  <LotM_Ing_SoulSealedStone.label>камень, запечатанный душой</LotM_Ing_SoulSealedStone.label>
+  <LotM_Ing_SoulSealedStone.description>Чёрный камень с сотней душ, запертых внутри. Приложив к уху, можно услышать их всех одновременно.</LotM_Ing_SoulSealedStone.description>
+  <LotM_Ing_FleshMonarchCrystal.label>кристалл Короля плоти</LotM_Ing_FleshMonarchCrystal.label>
+  <LotM_Ing_FleshMonarchCrystal.description>Тёмно-красный кристалл, который пульсирует. Внутри плоть продолжает расти.</LotM_Ing_FleshMonarchCrystal.description>
+  <LotM_Ing_ShadowKingPus.label>гной Короля Теней</LotM_Ing_ShadowKingPus.label>
+  <LotM_Ing_ShadowKingPus.description>Густая черная гнойная масса от чего-то, что владычествовало тенями. Она окрашивает все, к чему прикасается, даже свет.</LotM_Ing_ShadowKingPus.description>
+  <LotM_Ing_ShadowKingPowder.label>остаточная пудра Теневого Короля</LotM_Ing_ShadowKingPowder.label>
+  <LotM_Ing_ShadowKingPowder.description>Что осталось от Теневого Короля: порошок настолько чёрный, что не отбрасывает тени.</LotM_Ing_ShadowKingPowder.description>
+  <LotM_Ing_FleshMonarchBlood.label>кровь монарха плоти</LotM_Ing_FleshMonarchBlood.label>
+  <LotM_Ing_FleshMonarchBlood.description>Сто миллилитров крови, которая движется сама по себе внутри колбы, ища тело.</LotM_Ing_FleshMonarchBlood.description>
+  <LotM_Ing_FleshMonarchFlesh.label>плоть монарха плоти</LotM_Ing_FleshMonarchFlesh.label>
+  <LotM_Ing_FleshMonarchFlesh.description>Пятьдесят граммов плоти, которая никогда не перестаёт расти. Её часто приходится подрезать.</LotM_Ing_FleshMonarchFlesh.description>
+  <LotM_Ing_DegeneracyLegend.label>Легенда о дегенерации, насчитывающая столетия</LotM_Ing_DegeneracyLegend.label>
+  <LotM_Ing_DegeneracyLegend.description>Легенда о падении и дегенерации, написанная более ста лет назад тем, кто ее придумал. Бумага испачкана и пахнет сыростью.</LotM_Ing_DegeneracyLegend.description>
+  <LotM_Ing_AncientScripture.label>древняя священная писание</LotM_Ing_AncientScripture.label>
+  <LotM_Ing_AncientScripture.description>Святая книга Первозданного Всемогущего Бога или Древнего Бога Солнца. Она весит больше, чем должна.</LotM_Ing_AncientScripture.description>
+  <LotM_Ing_AngelFlesh.label>ангельская плоть и кровь</LotM_Ing_AngelFlesh.label>
+  <LotM_Ing_AngelFlesh.description>Пятьдесят граммов плоти и крови ангела. Зелье требует крови ангелов из двух разных путей.</LotM_Ing_AngelFlesh.description>
+</LanguageData>

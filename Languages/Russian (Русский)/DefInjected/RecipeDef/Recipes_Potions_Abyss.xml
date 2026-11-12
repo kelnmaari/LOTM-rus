@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_Potion_Criminal.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Criminal.jobString>
+  <LotM_Make_Potion_Criminal.label>приготовить зелье: Преступник</LotM_Make_Potion_Criminal.label>
+  <LotM_Make_Potion_UnwingedAngel.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_UnwingedAngel.jobString>
+  <LotM_Make_Potion_UnwingedAngel.label>приготовить зелье: Бескрылый ангел</LotM_Make_Potion_UnwingedAngel.label>
+  <LotM_Make_Potion_SerialKiller.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_SerialKiller.jobString>
+  <LotM_Make_Potion_SerialKiller.label>приготовить зелье: Серийный убийца</LotM_Make_Potion_SerialKiller.label>
+  <LotM_Make_Potion_Devil.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Devil.jobString>
+  <LotM_Make_Potion_Devil.label>приготовить зелье: Дьявол</LotM_Make_Potion_Devil.label>
+  <LotM_Make_Potion_DesireApostle.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_DesireApostle.jobString>
+  <LotM_Make_Potion_DesireApostle.label>приготовить зелье: Апостол желаний</LotM_Make_Potion_DesireApostle.label>
+  <LotM_Make_Potion_Demon.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Demon.jobString>
+  <LotM_Make_Potion_Demon.label>приготовить зелье: Демон</LotM_Make_Potion_Demon.label>
+  <LotM_Make_Potion_Blatherer.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Blatherer.jobString>
+  <LotM_Make_Potion_Blatherer.label>приготовить зелье: Болтун</LotM_Make_Potion_Blatherer.label>
+  <LotM_Make_Potion_BloodyArchduke.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_BloodyArchduke.jobString>
+  <LotM_Make_Potion_BloodyArchduke.label>приготовить зелье: Кровавый эрцгерцог</LotM_Make_Potion_BloodyArchduke.label>
+  <LotM_Make_Potion_FilthyMonarch.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_FilthyMonarch.jobString>
+  <LotM_Make_Potion_FilthyMonarch.label>приготовить зелье: Нечистый монарх</LotM_Make_Potion_FilthyMonarch.label>
+  <LotM_Make_Potion_Criminal.description>Смешивает голову дикой собаки или кристаллизованное перо смертоносной чёрной вороны (или характеристику Потустороннего преступника) с незаконно полученной выгодой и слезами другого.</LotM_Make_Potion_Criminal.description>
+  <LotM_Make_Potion_UnwingedAngel.description>Смешивает остатки царя крыс или безкостное сердце кошачьей крови (или характеристику Потустороннего без крыльев) с сердцем жертвы и гидролатом двойного цветка.</LotM_Make_Potion_UnwingedAngel.description>
+  <LotM_Make_Potion_SerialKiller.description>Смешивает клюв падальщика-ястреба или клыки теневого змея (или характеристику Потустороннего серийного убийцы) с целой человеческой кожей и органами жертвы.</LotM_Make_Potion_SerialKiller.description>
+  <LotM_Make_Potion_Devil.description>Смешать язык злого пантеры с красными глазами или рог магма-демона (или характеристика Потустороннего Дьявола) с эссенцией черной лилии и пальцами убитого младенца.</LotM_Make_Potion_Devil.description>
+  <LotM_Make_Potion_DesireApostle.description>Смешать кожу или глаза суккуба Сына Скорби (или характеристику Потустороннего Апостола Желания) с белой попкой и гипофизарной железой.</LotM_Make_Potion_DesireApostle.description>
+  <LotM_Make_Potion_Demon.description>Смешать кристалл крови архдемона или органы демона желания (или характеристику Потустороннего Демона) с священным символом и сердцем Потустороннего.</LotM_Make_Potion_Demon.description>
+  <LotM_Make_Potion_Blatherer.description>Смешивает мозг Слова-Дьявола или душу Камня Демона Душ (или характеристику Потустороннего Блатера) с жидкостями Слова-Дьявола, предметом, проклятым Демоном Душ, существом Моря Сознания и слезами отчаявшегося.</LotM_Make_Potion_Blatherer.description>
+  <LotM_Make_Potion_BloodyArchduke.description>Смешать голову Демон-принца или сердце Лорда Двойного Змея (или характеристику Потустороннего Кровавого Архидука) с кровью Архидука, каплей чужой крови и каплей божественной крови.</LotM_Make_Potion_BloodyArchduke.description>
+  <LotM_Make_Potion_FilthyMonarch.description>Смешай характеристику Потустороннего Фитильного Монарха с отвратительным из проклятой земли, кровью потерянного ангела, искажённым божественным существом и душой, утонувшей в желании.</LotM_Make_Potion_FilthyMonarch.description>
+</LanguageData>

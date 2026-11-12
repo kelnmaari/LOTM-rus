@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Characteristic_SecretsSuppliant.label>Характеристика Потустороннего Просителя Тайн</LotM_Characteristic_SecretsSuppliant.label>
+  <LotM_Characteristic_SecretsSuppliant.description>То, что осталось от Служителя Тайн после смерти. Это выглядит как черная, почти иллюзорная губа, которая никогда не перестает шептать.</LotM_Characteristic_SecretsSuppliant.description>
+  <LotM_Characteristic_Listener.label>Характеристика Потустороннего Слушателя</LotM_Characteristic_Listener.label>
+  <LotM_Characteristic_Listener.description>То, что осталось от Слушателя после его смерти. Приложенное к уху, оно шепчет.</LotM_Characteristic_Listener.description>
+  <LotM_Characteristic_ShadowAscetic.label>Характеристика Потустороннего Тень-Аскета</LotM_Characteristic_ShadowAscetic.label>
+  <LotM_Characteristic_ShadowAscetic.description>Что осталось от Теневого Аскета, когда он умер. Приложенный к уху, он шепчет.</LotM_Characteristic_ShadowAscetic.description>
+  <LotM_Characteristic_RoseBishop.label>Характеристика Потусторонней Розовой Епископа</LotM_Characteristic_RoseBishop.label>
+  <LotM_Characteristic_RoseBishop.description>Что осталось от Розового Епископа, когда он умер. Приложенный к уху, он шепчет.</LotM_Characteristic_RoseBishop.description>
+  <LotM_Characteristic_Shepherd.label>Характеристика Потустороннего Пастуха</LotM_Characteristic_Shepherd.label>
+  <LotM_Characteristic_Shepherd.description>То, что осталось от Пастуха после его смерти. Приложенное к уху, оно шепчет.</LotM_Characteristic_Shepherd.description>
+  <LotM_Characteristic_BlackKnight.label>Характеристика Потустороннего Чёрного Рыцаря</LotM_Characteristic_BlackKnight.label>
+  <LotM_Characteristic_BlackKnight.description>То, что осталось от Чёрного Рыцаря после его смерти. Приложенное к уху, оно шепчет.</LotM_Characteristic_BlackKnight.description>
+  <LotM_Characteristic_TrinityTemplar.label>Характеристика Потустороннего Тринити Темплара</LotM_Characteristic_TrinityTemplar.label>
+  <LotM_Characteristic_TrinityTemplar.description>Что осталось от Тринитарного Тамплиера, когда он умер. Приложенный к уху, он шепчет.</LotM_Characteristic_TrinityTemplar.description>
+  <LotM_Characteristic_ProfanePresbyter.label>Характеристика Потустороннего Нечестивого Священника</LotM_Characteristic_ProfanePresbyter.label>
+  <LotM_Characteristic_ProfanePresbyter.description>То, что осталось от Профанированного Священника после его смерти. Приложенное к уху, оно шепчет.</LotM_Characteristic_ProfanePresbyter.description>
+  <LotM_Characteristic_DarkAngel.label>Характеристика Потустороннего Тёмного Ангела</LotM_Characteristic_DarkAngel.label>
+  <LotM_Characteristic_DarkAngel.description>То, что осталось от Тёмного Ангела после его смерти. Приложенное к уху, оно шепчет.</LotM_Characteristic_DarkAngel.description>
+</LanguageData>

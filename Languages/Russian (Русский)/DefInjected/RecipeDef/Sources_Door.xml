@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_HornbeamOil.label>Дистиллировать эфирное масло хорнбима.</LotM_Make_HornbeamOil.label>
+  <LotM_Make_HornbeamOil.description>Дистиллирует эфирное масло из древесины хорнбима. Зелье Трикстера нуждается в нём.</LotM_Make_HornbeamOil.description>
+  <LotM_Make_HornbeamOil.jobString>Дистилляция масла из хорнбима.</LotM_Make_HornbeamOil.jobString>
+  <LotM_Make_StringGrassPowder.label>Измельчение порошка травы с нитью.</LotM_Make_StringGrassPowder.label>
+  <LotM_Make_StringGrassPowder.description>Измельчает траву, которая скручивается сама в себя, как нить. Зелье Мастера Обмана нуждается в этом.</LotM_Make_StringGrassPowder.description>
+  <LotM_Make_StringGrassPowder.jobString>Измельчение травы с нитью.</LotM_Make_StringGrassPowder.jobString>
+  <LotM_Make_ClematisPowder.label>измельчить порошок клематиса</LotM_Make_ClematisPowder.label>
+  <LotM_Make_ClematisPowder.description>Сушит и измельчает цветы клематиса. Зелье Астролога нуждается в этом.</LotM_Make_ClematisPowder.description>
+  <LotM_Make_ClematisPowder.jobString>Измельчение клематиса.</LotM_Make_ClematisPowder.jobString>
+  <LotM_Make_HoneysuckleOil.label>Дистилляция эфирного масла жимолоста.</LotM_Make_HoneysuckleOil.label>
+  <LotM_Make_HoneysuckleOil.description>Дистиллирует сладкое масло лилии. Зелье Писаря нуждается в этом.</LotM_Make_HoneysuckleOil.description>
+  <LotM_Make_HoneysuckleOil.jobString>Дистилляция масла из жимолости.</LotM_Make_HoneysuckleOil.jobString>
+  <LotM_Make_SpiritBloodStarChart.label>Начертить звездную карту в духовной крови.</LotM_Make_SpiritBloodStarChart.label>
+  <LotM_Make_SpiritBloodStarChart.description>Рисует небо духовной кровью на ткани. Зелье Путешественника нуждается в нём.</LotM_Make_SpiritBloodStarChart.description>
+  <LotM_Make_SpiritBloodStarChart.jobString>Рисование звездной карты.</LotM_Make_SpiritBloodStarChart.jobString>
+</LanguageData>

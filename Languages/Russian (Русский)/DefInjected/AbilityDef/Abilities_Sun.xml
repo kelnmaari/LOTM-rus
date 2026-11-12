@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_MythicalFormSunbird.description>Потусторонний принимает свой истинный облик: ослепительное солнце в золотом пламени. Почти ничто не может ему навредить. Скверна вокруг сгорает, а союзники вновь обретают храбрость.
+
+Поддержание этой формы требует платы.</LotM_MythicalFormSunbird.description>
+  <LotM_BardSong.label>пение</LotM_BardSong.label>
+  <LotM_BardSong.description>Поет песню храбрости, силы или легкости. Те, кто слышит ее поблизости, получают ее эффект. Они могут ходить, пою, но если атакуют, песня прерывается. Использование ее снова останавливает пение.</LotM_BardSong.description>
+  <LotM_Sunshine.label>солнечный свет</LotM_Sunshine.label>
+  <LotM_Sunshine.description>Зовут свет, подобный полуденному солнцу. Он наносит огромный урон нежити, призракам и всему злу; он сжигает глаза всех остальных.</LotM_Sunshine.description>
+  <LotM_SunBlessing.label>благословение</LotM_SunBlessing.label>
+  <LotM_SunBlessing.description>Благословляет союзника или самих себя: страх, холод, тьма и смерть достигают их меньше, и они сильнее бьют нежити. Действует около дня.</LotM_SunBlessing.description>
+  <LotM_Daytime.label>дневное время</LotM_Daytime.label>
+  <LotM_Daytime.description>Приносит свет в место: около четырёх клеток освещаются как полдень в течение нескольких часов, и свет немного распространяется дальше. Растения растут там, как под солнцем.</LotM_Daytime.description>
+  <LotM_SunEyes.label>ночное зрение</LotM_SunEyes.label>
+  <LotM_SunEyes.description>Зажигает два маленьких солнца в своих глазах и видит в темноте, как в день. Использование снова выключает их.</LotM_SunEyes.description>
+  <LotM_PurifyWater.label>очистить воду</LotM_PurifyWater.label>
+  <LotM_PurifyWater.description>Ритуал над местной водой (рекой, озером, болотом): очищает ее и превращает в святую воду. Очень сильна против зла. Любой, кто ее несет, может бросить ее или окропить своим оружием ею.</LotM_PurifyWater.description>
+  <LotM_SunBeamRitual.label>ритуал: горящий свет</LotM_SunBeamRitual.label>
+  <LotM_SunBeamRitual.description>Длинный ритуал домена Солнца. Закончив, он хранит чистый луч горящего света, силы, которой обычно обладают только более высокие Последовательности.</LotM_SunBeamRitual.description>
+  <LotM_FieryBeam.label>луч пылающего света</LotM_FieryBeam.label>
+  <LotM_FieryBeam.description>Выпускает луч, подготовленный в ритуале: линия чистого света и огня, которая пронзает всё на своем пути. Против зла он разрушителен.</LotM_FieryBeam.description>
+  <LotM_SunHaloAbility.label>солнечный ореол</LotM_SunHaloAbility.label>
+  <LotM_SunHaloAbility.description>Вокруг их головы формируется золотой нимб. Близкие компаньоны обретают мужество, а зло, которое они несут, очищается. Использование его снова отключает его.</LotM_SunHaloAbility.description>
+  <LotM_SolarHolyWater.label>солнечная святая вода</LotM_SolarHolyWater.label>
+  <LotM_SolarHolyWater.description>Освящает местную воду заклинанием Солнца. Солнечная святая вода изгнания исцеляет злых духов и очищает призраков; кто выпьет её, перестаёт чувствовать холод. Любой, кто её несёт, может бросить её, окропить оружие или выпить.</LotM_SolarHolyWater.description>
+  <LotM_HolyOath.label>святая клятва</LotM_HolyOath.label>
+  <LotM_HolyOath.description>Безмолвно читает древние слова: на некоторое время они обладают большей силой и ловкостью, а их огонь и святой свет горят жарче.</LotM_HolyOath.description>
+  <LotM_HolyLightSummon.label>призыв святого света</LotM_HolyLightSummon.label>
+  <LotM_HolyLightSummon.description>Луч святого света падает с неба на место. Он очищает нежить и всё зло, и ранит всех остальных тоже.</LotM_HolyLightSummon.description>
+  <LotM_PurifyingCleaveAbility.label>разрез очищения</LotM_PurifyingCleaveAbility.label>
+  <LotM_PurifyingCleaveAbility.description>Освящает свои удары, оружие и пули: они бьют зло гораздо сильнее, особенно призраков. Использование снова отключает это.</LotM_PurifyingCleaveAbility.description>
+  <LotM_HorrorImmunity.label>иммунитет к ужасу</LotM_HorrorImmunity.label>
+  <LotM_HorrorImmunity.description>Тепловая энергия мгновенно наполняет тело: они перестают чувствовать страх, и ментальные атаки зла не заставляют их колебаться. Действует полдня.</LotM_HorrorImmunity.description>
+  <LotM_FireOfLight.label>огонь света</LotM_FireOfLight.label>
+  <LotM_FireOfLight.description>Плотные, священные золотые пламя вспыхивают на месте и расходятся, как океан. Они иллюзорны: они не зажигают ничего, но сжигают любого, кто не является союзником, и зло гораздо сильнее.</LotM_FireOfLight.description>
+  <LotM_Notarization.label>нотариальное заверение</LotM_Notarization.label>
+  <LotM_Notarization.description>Языком, который пробуждает силы природы: подтверждает истину кого-либо или заставляет его подписать контракт, свидетелем которого становятся боги; усиливает силу ("Бог говорит, что это эффективно!") или аннулирует ее ("Бог говорит, что это неэффективно!"). Аннулирование достигает только сил, а не властей или символизма, и длится меньше по мере приближения к статусу.</LotM_Notarization.description>
+  <LotM_HolinessLight.label>свет святости</LotM_HolinessLight.label>
+  <LotM_HolinessLight.description>Они откидываются назад с распростёртыми руками, как будто обнимая солнце, и чистая, пылающая колонна света спускается с неба на врага. Она испаряет гораздо более слабых мёртвых. Тем временем в их глазах загораются два маленьких солнца.</LotM_HolinessLight.description>
+  <LotM_PurificationHaloAbility.label>ореол очищения</LotM_PurificationHaloAbility.label>
+  <LotM_PurificationHaloAbility.description>Гало окрашивает всё вокруг них в золотой: он согревает их товарищей, наполняет их великой храбростью и очищает зло, которое они несут, одновременно сжигая мёртвых и нечистых. Они контролируют его точно: они выбирают, как далеко он распространяется. Использование его снова меняет его досягаемость или отключает его.</LotM_PurificationHaloAbility.description>
+  <LotM_Purification.label>очищение</LotM_Purification.label>
+  <LotM_Purification.description>Очищает напрямую, без ритуалов: вырывает из человека дегенерацию, порчу, тьму, проклятия, недуги и безумие; сжигает зло; оставляет место чистым. От Потустороннего он может отделять их характеристики, по одной в час, пока они не станут обычным человеком. Кто-то, кто вот-вот потеряет контроль, всё ещё может быть спасён.</LotM_Purification.description>
+  <LotM_UnshadowedDomain.label>незатененная область</LotM_UnshadowedDomain.label>
+  <LotM_UnshadowedDomain.description>Яркий, пылающий свет освещает каждый угол региона в течение часов. Там не остается темноты: все скрытое или невидимое становится явным, и силы порчи, дегенерации и тьмы ослабевают. Это не барьер: любой может прийти и уйти.</LotM_UnshadowedDomain.description>
+  <LotM_FlaringSun.label>пылающее солнце</LotM_FlaringSun.label>
+  <LotM_FlaringSun.description>Они разводят руки, словно принимая дар от богов, и мгновенно огромный шар чистого света, сконцентрированного из бесчисленных священных пламен, охватывает место. Он наносит огромный урон развращенным, дегенератам и бессмертным, и плавит зло и тьму. Его досягаемость настолько велика, что легко ранить свою сторону.</LotM_FlaringSun.description>
+  <LotM_HolyEye.label>святой глаз</LotM_HolyEye.label>
+  <LotM_HolyEye.description>Насыщает глаза энергией: они видят в темноте и ищут тени зла через любые препятствия. Днем они видят всё, что освещает их солнечный свет вокруг них. С такими глазами они могут выстрелить светом, который очищает. Использование его снова выключает его.</LotM_HolyEye.description>
+  <LotM_HolyEyeRay.label>свет святого глаза</LotM_HolyEyeRay.label>
+  <LotM_HolyEyeRay.description>Горячий свет вырывается из их глаз и очищает всё, что он проходит. Требуется активное духовное зрение.</LotM_HolyEyeRay.description>
+  <LotM_HolyEquipment.label>связанное снаряжение</LotM_HolyEquipment.label>
+  <LotM_HolyEquipment.description>Из его тела вырывается золотое сияние и конденсируется в полный доспех, сделанный из чистого света, с огромным булавой из света в руке. Держится несколько часов.</LotM_HolyEquipment.description>
+  <LotM_UnshadowedSpear.label>незатененное копье</LotM_UnshadowedSpear.label>
+  <LotM_UnshadowedSpear.description>Сгущает копье чистого солнечного света и бросает его. Когда оно касается чего-либо или прибывает, оно взрывается массой белого света, как маленькое солнце, которое сжигает всё вокруг. Разрушительно против всего, что боится очищения.</LotM_UnshadowedSpear.description>
+  <LotM_SolarOath.label>солнечная клятва</LotM_SolarOath.label>
+  <LotM_SolarOath.description>Вслух произносят древние слова: они и все компаньоны вокруг них обретают силу, ловкость и мужество, а их огонь и святой свет горят жарче.</LotM_SolarOath.description>
+  <LotM_PureWhiteRay.label>чистый белый луч</LotM_PureWhiteRay.label>
+  <LotM_PureWhiteRay.description>Концентрирует свет в паляющий, ослепительный луч, который пронзает всё на своем пути. Больше не требуется никаких ритуалов.</LotM_PureWhiteRay.description>
+  <LotM_MythicalFormSunbird.label>форма мифического существа</LotM_MythicalFormSunbird.label>
+  <LotM_JusticeHalo.label>ореол Справедливости</LotM_JusticeHalo.label>
+  <LotM_JusticeHalo.description>Распространяет свою Справедливость по всему месту. Всё, что с ней связано, становится сильнее, включая его собственные силы; всё, что ей противоречит, ослабевает, а в самом слабом полностью исчезает. Духи и зло не могут подойти близко, даже их собственные. Использование снова отключает его.</LotM_JusticeHalo.description>
+  <LotM_JusticeJudgment.label>суд Справедливости</LotM_JusticeJudgment.label>
+  <LotM_JusticeJudgment.description>Указывает на одного человека и судит его. Всё, что у него нарушает его Справедливость, ослабевает или аннулируется, вдвое сильнее ореола. Это достигает даже ангелов.</LotM_JusticeJudgment.description>
+  <LotM_HolyContract.label>святой контракт</LotM_HolyContract.label>
+  <LotM_HolyContract.description>Устанавливает священный контракт, настолько обязывающий, что даже ангел не осмеливается его нарушить. Они поддерживают его, пока живут; если Уникальность Солнца существует в мире, она поддерживает себя.</LotM_HolyContract.description>
+  <LotM_HolyEquipmentAlly.label>связанное снаряжение</LotM_HolyEquipmentAlly.label>
+  <LotM_HolyEquipmentAlly.description>Одевает себя, или любого спутника на месте, даже вдали, в полный доспех, сделанный из чистого света, с огромным булавом света в руке. Доспех выдерживает многое, прежде чем рассыпаться, и не дает злонаместным мыслям взять верх над тем, кто его носит.</LotM_HolyEquipmentAlly.description>
+  <LotM_SolarEnvoy.label>солнечный посланник</LotM_SolarEnvoy.label>
+  <LotM_SolarEnvoy.description>Превращается в маленькое солнце. Он излучает ужасный жар и свет, сжигает и очищает всех, кто не является его собственным, и, воспламеняясь, оставляет ни тени, ни тумана нигде в месте: всё можно увидеть. Стоит много духовности, пока он активен. Использование снова отключает его.</LotM_SolarEnvoy.description>
+  <LotM_PraiseTheSun.label>прославлять Солнце</LotM_PraiseTheSun.label>
+  <LotM_PraiseTheSun.description>Раскрывает свои руки солнцу и абсолютно очищает себя: всё, что давит на них, исчезает, и в течение нескольких часов они лучше во всех отношениях, в теле, разуме и силах.</LotM_PraiseTheSun.description>
+  <LotM_LightDash.label>скорость света</LotM_LightDash.label>
+  <LotM_LightDash.description>Становится чистым, невесомым светом и мгновенно появляется где угодно в месте.</LotM_LightDash.description>
+  <LotM_LightTravel.label>путь света</LotM_LightTravel.label>
+  <LotM_LightTravel.description>Становится светлым и пересекает мир со скоростью света туда, куда они хотят пойти.</LotM_LightTravel.description>
+  <LotM_SpearOfLight.label>копье света</LotM_SpearOfLight.label>
+  <LotM_SpearOfLight.description>Призывает пылающий копье белого света с иллюзорными ангельскими перьями на концах и бросает его. Оно взрывается как маленькое солнце, и перья запечатывают пространство вокруг: на некоторое время никто не может сбежать оттуда, ни прыжком, ни исчезновением.</LotM_SpearOfLight.description>
+  <LotM_JusticeTrial.label>суд Справедливости</LotM_JusticeTrial.label>
+  <LotM_JusticeTrial.description>Указывает на одного человека и судит его. Всё, что у него нарушает его Справедливость, ослабевает или аннулируется, и свет сжигает его в три-пять раз сильнее, чем гало: ещё сильнее, если он злой, убил одного из их людей или нарушил контракт. Он достигает даже ангелов.</LotM_JusticeTrial.description>
+  <LotM_HolyKingdom.label>святое царство</LotM_HolyKingdom.label>
+  <LotM_HolyKingdom.description>Создаёт иллюзорную область, покрывающую всё место, наполненную сиянием Солнца и силой очищения: солнце не заходит, пока оно длится. Там ни Тьма, ни мёртвые не могут существовать, даже их собственные, и никто не возвращается из смерти сквозь тьму. Использование его снова рассеивает его.</LotM_HolyKingdom.description>
+  <LotM_ReligiousFervor.label>религиозный пыл</LotM_ReligiousFervor.label>
+  <LotM_ReligiousFervor.description>Они и их люди вокруг них входят в религиозный пыл: на время тьма, грязь, разложение и смерть ничего для них не значат, и ни страх не может их сломить.</LotM_ReligiousFervor.description>
+  <LotM_SunConversion.label>превращение</LotM_SunConversion.label>
+  <LotM_SunConversion.description>Заставляет человека и тех, кто рядом с ним, чувствовать Святость. Постепенно они восхваляют Солнце, пока не станут верующими: заключенные и посетители присоединяются к их народу, а враги перестают сражаться и сдаются.</LotM_SunConversion.description>
+  <LotM_PureWhiteLight.label>чистый белый свет</LotM_PureWhiteLight.label>
+  <LotM_PureWhiteLight.description>Разрушение — это форма очищения. Он окутывает себя чистым белым светом, под которым всё, что не Солнце, распадается: он очень быстро сжигает всех рядом с собой, включая союзников, и прорывается сквозь стены, мебель и предметы, пока ничего не останется. Использование снова отключает его.</LotM_PureWhiteLight.description>
+  <LotM_Apotheosis.label>апофеоз</LotM_Apotheosis.label>
+  <LotM_Apotheosis.description>С тремя характеристиками Потустороннего Ангела и Уникальностью Солнца внутри них, они начинают, на алтаре своего Святилища, ритуал стать богом. Он длится три дня, и весь мир придет остановить его, прямо в Святилище. Если они умрут, потеряют контроль, алтарь сломается или Святилище перестанет соответствовать требованиям, они взорвутся взрывом, который сожжет все вокруг.</LotM_Apotheosis.description>
+  <LotM_DivineKingdomVisit.label>святилище их бога</LotM_DivineKingdomVisit.label>
+  <LotM_DivineKingdomVisit.description>Становится светом и появляется в Санктуме своего бога, где бы он ни находился.</LotM_DivineKingdomVisit.description>
+  <LotM_DivineDaytime.label>вечный день</LotM_DivineDaytime.label>
+  <LotM_DivineDaytime.description>Заставляет восход солнца над любым местом в мире: ночь становится днём на некоторое время, скрытое раскрывается, спящие просыпаются, и зло очищается.</LotM_DivineDaytime.description>
+  <LotM_DivineRay.label>свет Солнца</LotM_DivineRay.label>
+  <LotM_DivineRay.description>Везде, где есть свет, они там. Они бросают луч солнечного света в любом месте мира, освещенном, плавя всё, к чему он прикасается, кроме собственного.</LotM_DivineRay.description>
+  <LotM_DivineHoliness.label>святость</LotM_DivineHoliness.label>
+  <LotM_DivineHoliness.description>Всё диссонирующее в месте очищается: загрязнение, заражение, кровавый дождь и мёртвые туманы; недуги их народа; и зло, которое жжёт.</LotM_DivineHoliness.description>
+  <LotM_DivineBlinding.label>ослепляющий свет</LotM_DivineBlinding.label>
+  <LotM_DivineBlinding.description>Они являются воплощением Солнца: их свет ослепляет каждого врага в месте, который едва может думать.</LotM_DivineBlinding.description>
+  <LotM_DivineBoon.label>благодать Солнца</LotM_DivineBoon.label>
+  <LotM_DivineBoon.description>Дает силы Солнца одному из своих, кто не является Потусторонним, без зелья, на несколько дней. Оно давит на бога, пока длится, и благословленный становится больше похожим на них.</LotM_DivineBoon.description>
+  <LotM_DivineContract.label>божественный контракт</LotM_DivineContract.label>
+  <LotM_DivineContract.description>Контракт, который не может разорвать даже сильнейший: вечный мир с фракцией, удаление черты кого-либо или навсегда запечатывание одной из их способностей.</LotM_DivineContract.description>
+  <LotM_DivineGreatSun.label>великое солнце</LotM_DivineGreatSun.label>
+  <LotM_DivineGreatSun.description>Бесчисленные маленькие солнца переплетаются над поселением врага, пока не образуют почти настоящее солнце. Это медленно: за два дня ничто не останется от этого места.</LotM_DivineGreatSun.description>
+  <LotM_AstralSun.label>солнце Астрального Мира</LotM_AstralSun.label>
+  <LotM_AstralSun.description>Превращает детское солнце Астрального Мира в золотой огненный шар, который освещает весь мир: на один день ни ночи нигде нет, а зло по всему миру ослабевает и сгорает.</LotM_AstralSun.description>
+</LanguageData>

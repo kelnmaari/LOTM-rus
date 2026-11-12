@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_DemonessTrustworthy.stages.0.label>кажется надежным</LotM_DemonessTrustworthy.stages.0.label>
+  <LotM_DemonessCharmedThought.stages.0.label>опьяненным её чарами</LotM_DemonessCharmedThought.stages.0.label>
+  <LotM_DemonessCharmedThought.stages.0.description>Я не мог отвести глаз от неё. Моё сердце всё ещё колотится.</LotM_DemonessCharmedThought.stages.0.description>
+  <LotM_DemonessCharmedThought.stages.1.label>очарован её</LotM_DemonessCharmedThought.stages.1.label>
+  <LotM_DemonessCharmedThought.stages.1.description>В ней есть что-то, на что ты не можешь перестать смотреть.</LotM_DemonessCharmedThought.stages.1.description>
+  <LotM_DemonessUnforgettable.stages.0.label>незабытая ночь</LotM_DemonessUnforgettable.stages.0.label>
+  <LotM_DemonessUnforgettable.stages.0.description>Я никогда не испытывал такого удовольствия. Я не могу избавиться от него из головы.</LotM_DemonessUnforgettable.stages.0.description>
+  <LotM_DemonessDevotionNear.stages.0.label>рядом с ней</LotM_DemonessDevotionNear.stages.0.label>
+  <LotM_DemonessDevotionNear.stages.0.description>Когда она рядом, всё в порядке.</LotM_DemonessDevotionNear.stages.0.description>
+  <LotM_DemonessDevotionNear.stages.1.label>рядом с ней</LotM_DemonessDevotionNear.stages.1.label>
+  <LotM_DemonessDevotionNear.stages.1.description>Когда она рядом, мне больше ничего не нужно.</LotM_DemonessDevotionNear.stages.1.description>
+  <LotM_DemonessWithdrawal.stages.0.label>отсутствие её</LotM_DemonessWithdrawal.stages.0.label>
+  <LotM_DemonessWithdrawal.stages.0.description>Я не видел её днями. Что-то отсутствует.</LotM_DemonessWithdrawal.stages.0.description>
+  <LotM_DemonessWithdrawal.stages.1.label>отказ от неё</LotM_DemonessWithdrawal.stages.1.label>
+  <LotM_DemonessWithdrawal.stages.1.description>Я не могу вспомнить ничего другого. Мне нужно её увидеть.</LotM_DemonessWithdrawal.stages.1.description>
+  <LotM_DemonessCharmOpinion.stages.0.label>её чары</LotM_DemonessCharmOpinion.stages.0.label>
+  <LotM_DemonessCharmOpinion.stages.1.label>её чары</LotM_DemonessCharmOpinion.stages.1.label>
+  <LotM_DemonessDreadThought.stages.0.label>ужас</LotM_DemonessDreadThought.stages.0.label>
+  <LotM_DemonessDreadThought.stages.0.description>Я видел ту женщину. Её имя замораживает мою кровь.</LotM_DemonessDreadThought.stages.0.description>
+</LanguageData>

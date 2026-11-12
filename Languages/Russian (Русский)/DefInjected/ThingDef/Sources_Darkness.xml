@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_MineableBellflowerSoil.label>Жила колокольчика</LotM_MineableBellflowerSoil.label>
+  <LotM_MineableBellflowerSoil.description>Камень с прожилками темной, влажной земли. Если приложить к уху, можно услышать далекий звон.</LotM_MineableBellflowerSoil.description>
+  <LotM_MineableNightmareShadow.label>Сгущенная теневая жила</LotM_MineableNightmareShadow.label>
+  <LotM_MineableNightmareShadow.description>Глубокая трещина, где тьма стала почти твёрдой. Присмотревшись, кажется, она движется.</LotM_MineableNightmareShadow.description>
+  <LotM_MineableSpiritNest.label>Жила душевного гнезда</LotM_MineableSpiritNest.label>
+  <LotM_MineableSpiritNest.description>Полость в скале, из которой сочится бледный газ. Там собираются духи.</LotM_MineableSpiritNest.description>
+  <LotM_MineableDarkBrain.label>темная загрязняющая жила</LotM_MineableDarkBrain.label>
+  <LotM_MineableDarkBrain.description>Черный осадок, который сочится из самой глубокой породы. Тот, кто его касается, видит вещи, которых у него нет.</LotM_MineableDarkBrain.description>
+  <LotM_MineableSupplicantPowder.label>пыль подземелья</LotM_MineableSupplicantPowder.label>
+  <LotM_MineableSupplicantPowder.description>Замороженная трещина, из которой падает серая пыль. Иногда можно услышать молитву там внизу.</LotM_MineableSupplicantPowder.description>
+  <LotM_Plant_MidnightBeauty.label>полуночная красавица</LotM_Plant_MidnightBeauty.label>
+  <LotM_Plant_MidnightBeauty.description>Бледный цветок, который открывается только ночью. При сборе он дает цветок полуночной красоты.</LotM_Plant_MidnightBeauty.description>
+  <LotM_Plant_Moonflower.label>лунный цветок</LotM_Plant_Moonflower.label>
+  <LotM_Plant_Moonflower.description>Пустычный цветок, который открывается только под луной. При сборе он даёт гидросол лунного цветка.</LotM_Plant_Moonflower.description>
+  <LotM_Plant_DeepSleepFlower.label>цветок глубокого сна</LotM_Plant_DeepSleepFlower.label>
+  <LotM_Plant_DeepSleepFlower.description>Синий цветок, растущий в холоде. Его пыльца усыпляет любого. При сборе она дает порошок для глубокого сна.</LotM_Plant_DeepSleepFlower.description>
+  <LotM_Plant_CrimsonTree.label>багровое дерево</LotM_Plant_CrimsonTree.label>
+  <LotM_Plant_CrimsonTree.description>Дерево с корой красной, как кровь. Почти никто его не видел. При рубке оно даёт багряную древесную смолу.</LotM_Plant_CrimsonTree.description>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_A_LostBard.label>потерянный бард</LotM_A_LostBard.label>
+  <LotM_A_LostLightSuppliant.label>потерянный проситель света</LotM_A_LostLightSuppliant.label>
+  <LotM_A_LostSolarPriest.label>потерянный солнечный жрец</LotM_A_LostSolarPriest.label>
+  <LotM_A_LostNotary.label>потерянный нотариус</LotM_A_LostNotary.label>
+  <LotM_A_LostPriestOfLight.label>потерянный жрец света</LotM_A_LostPriestOfLight.label>
+  <LotM_A_LostUnshadowed.label>потерянный бестени</LotM_A_LostUnshadowed.label>
+  <LotM_A_LostJusticeMentor.label>потерянный наставник правосудия</LotM_A_LostJusticeMentor.label>
+  <LotM_A_LostLightseeker.label>потерянный ищущий свет</LotM_A_LostLightseeker.label>
+  <LotM_A_LostWhiteAngel.label>потерянный белый ангел</LotM_A_LostWhiteAngel.label>
+  <LotM_FragmentSun_Bulbfreak.label>незатененный фрагмент</LotM_FragmentSun_Bulbfreak.label>
+  <LotM_FragmentSun_Toughspike.label>меньший фрагмент бестени</LotM_FragmentSun_Toughspike.label>
+  <LotM_FragmentSun_Trispike.label>крошечный незатененный фрагмент</LotM_FragmentSun_Trispike.label>
+</LanguageData>

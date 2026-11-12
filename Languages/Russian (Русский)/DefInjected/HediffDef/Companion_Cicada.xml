@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Companion.label>одобрение</LotM_Companion.label>
+  <LotM_Companion.description>То, что они думают о колонии и как с ними обращаются. Это колеблется в зависимости от выборов, сделанных в их разговорах, их квестов и того, что делает колония. Если падает слишком низко, они уходят.</LotM_Companion.description>
+  <LotM_CicadaSunless.label>ангел без солнца</LotM_CicadaSunless.label>
+  <LotM_CicadaSunless.description>Он стал ангелом, победил своего отца и был в одном шаге от того, чтобы стать Солнцем. Он не стал. С тех пор что-то в нем ушло: он всё ещё играет, но больше не сочиняет. С его партнером рядом это весит немного меньше.</LotM_CicadaSunless.description>
+  <LotM_CicadaSunless.stages.0.label>с компанией</LotM_CicadaSunless.stages.0.label>
+  <LotM_CicadaSunless.stages.1.label>один</LotM_CicadaSunless.stages.1.label>
+  <LotM_CicadaNature.label>природа цикад</LotM_CicadaNature.label>
+  <LotM_CicadaNature.description>От шеи донизу, человек. Голова — цикада: огромные многогранные глаза, короткие усики и лицо из пластин. На спине — прозрачные крылья, которые жужжат, когда он возбуждается.</LotM_CicadaNature.description>
+</LanguageData>

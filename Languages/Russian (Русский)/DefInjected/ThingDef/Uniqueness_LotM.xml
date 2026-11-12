@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Uniqueness_Seer.label>уникальность Провидца</LotM_Uniqueness_Seer.label>
+  <LotM_Uniqueness_Seer.description>Суть пути Провидца: серая мгла, которая никогда не рассеивается, и глаз, который видит всё. Существует только один в мире. Что-то в нём зовёт того, кто на него смотрит.</LotM_Uniqueness_Seer.description>
+  <LotM_Uniqueness_Darkness.label>уникальность Тьмы</LotM_Uniqueness_Darkness.label>
+  <LotM_Uniqueness_Darkness.description>Сущность пути Тьмы: целая ночь в кулаке, с её луной и звёздами. Существует только один в мире. Близко к нему всё замолкает.</LotM_Uniqueness_Darkness.description>
+  <LotM_Uniqueness_HangedMan.label>уникальность Повешенного</LotM_Uniqueness_HangedMan.label>
+  <LotM_Uniqueness_HangedMan.description>Сущность пути Висячего: жидкая тень, пульсирующая плоть и красный глаз, который никогда не моргает. Существует только один в мире. Он шепчет множеством голосов.</LotM_Uniqueness_HangedMan.description>
+  <LotM_Uniqueness_Sun.label>уникальность Солнца</LotM_Uniqueness_Sun.label>
+  <LotM_Uniqueness_Sun.description>Сущность пути Солнца: маленький белый и золотой солнце, который можно держать в руке. Существует только один в мире. Близко к нему ничто не отбрасывает тени.</LotM_Uniqueness_Sun.description>
+  <LotM_Uniqueness_Giant.label>Гигантская Уникальность</LotM_Uniqueness_Giant.label>
+  <LotM_Uniqueness_Giant.description>Суть пути Сумеречного Гиганта: кусок вечного заката, янтарная сфера с закатом солнца и большой меч внутри. В мире существует только один. Рядом с ним все кажется немного старше.</LotM_Uniqueness_Giant.description>
+</LanguageData>

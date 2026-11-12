@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_AbyssDirty.label>грязный удар</LotM_AbyssDirty.label>
+  <LotM_AbyssDirty.deathMessage>{0} умер от грязного удара.</LotM_AbyssDirty.deathMessage>
+  <LotM_AbyssPoisonBurn.label>отравляющее пламя</LotM_AbyssPoisonBurn.label>
+  <LotM_AbyssPoisonBurn.deathMessage>{0} сгорел до смерти в ядовитом пламени.</LotM_AbyssPoisonBurn.deathMessage>
+  <LotM_AbyssSulfurFlame.label>серная огонь</LotM_AbyssSulfurFlame.label>
+  <LotM_AbyssSulfurFlame.deathMessage>{0} умер среди сине-серных пламен.</LotM_AbyssSulfurFlame.deathMessage>
+  <LotM_AbyssRust.label>ржавчина</LotM_AbyssRust.label>
+  <LotM_AbyssRust.deathMessage>{0} умер, когда сердце было сжато невидимой рукой, покрытой ржавчиной.</LotM_AbyssRust.deathMessage>
+  <LotM_AbyssDesireBurst.label>извержение желания</LotM_AbyssDesireBurst.label>
+  <LotM_AbyssDesireBurst.deathMessage>{0} умер, когда желание вырвало его изнутри.</LotM_AbyssDesireBurst.deathMessage>
+  <LotM_AbyssRuin.label>разруха</LotM_AbyssRuin.label>
+  <LotM_AbyssRuin.deathMessage>{0} умер, когда слово из Бездны разрушило его разум и тело.</LotM_AbyssRuin.deathMessage>
+  <LotM_AbyssBloodBurst.label>кровь пылает</LotM_AbyssBloodBurst.label>
+  <LotM_AbyssBloodBurst.deathMessage>{0} истек кровью, их кровь и желание пылали.</LotM_AbyssBloodBurst.deathMessage>
+  <LotM_AbyssCorrosion.label>коррозия</LotM_AbyssCorrosion.label>
+  <LotM_AbyssCorrosion.deathMessage>{0} умер, разъеденный грязью Бездны.</LotM_AbyssCorrosion.deathMessage>
+</LanguageData>

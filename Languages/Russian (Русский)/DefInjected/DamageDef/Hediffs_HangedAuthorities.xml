@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_BloodRupture.label>кровотечение</LotM_BloodRupture.label>
+  <LotM_BloodRupture.deathMessage>{0} истек кровью изнутри.</LotM_BloodRupture.deathMessage>
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_VictimHeart.label>сохранить сердце жертвы</LotM_Make_VictimHeart.label>
+  <LotM_Make_VictimHeart.description>Сохраняет сердце убитого человека в соли. Зелье Некрылатого Ангела нуждается в нём.</LotM_Make_VictimHeart.description>
+  <LotM_Make_VictimHeart.jobString>Сохранение сердца.</LotM_Make_VictimHeart.jobString>
+  <LotM_Make_CompleteHumanSkin.label>отточить целую человеческую кожу</LotM_Make_CompleteHumanSkin.label>
+  <LotM_Make_CompleteHumanSkin.description>Шить и загонять человеческую кожу до тех пор, пока она не станет всей кожей человека, в едином куске. Для этого нужна зелье Убийцы Серий.</LotM_Make_CompleteHumanSkin.description>
+  <LotM_Make_CompleteHumanSkin.jobString>оттачивание человеческой кожи.</LotM_Make_CompleteHumanSkin.jobString>
+  <LotM_Make_PituitaryGland.label>извлечь гипофизарную железу</LotM_Make_PituitaryGland.label>
+  <LotM_Make_PituitaryGland.description>Открывает череп свежего человеческого трупа и вынимает гипофизарную железу размером с горошину. Тело потеряно. Зелье Желающего Апостола требует тех, кто из разных людей.</LotM_Make_PituitaryGland.description>
+  <LotM_Make_PituitaryGland.jobString>Извлечение гипофизарной железы.</LotM_Make_PituitaryGland.jobString>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Potion_Seer.label>зелье: Провидец</LotM_Potion_Seer.label>
+  <LotM_Potion_Seer.description>Тёмно-синяя жидкость, в которой словно плавают крошечные звёзды. Пахнет ванилью и мятой.</LotM_Potion_Seer.description>
+  <LotM_Potion_Seer.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Seer.ingestible.ingestReportString>
+  <LotM_Potion_Seer.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Seer.ingestible.ingestCommandString>
+  <LotM_Potion_Clown.label>зелье: Клоун</LotM_Potion_Clown.label>
+  <LotM_Potion_Clown.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Clown.ingestible.ingestReportString>
+  <LotM_Potion_Clown.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Clown.ingestible.ingestCommandString>
+  <LotM_Potion_Magician.label>зелье: Фокусник</LotM_Potion_Magician.label>
+  <LotM_Potion_Magician.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Magician.ingestible.ingestReportString>
+  <LotM_Potion_Magician.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Magician.ingestible.ingestCommandString>
+  <LotM_Potion_Faceless.label>зелье: Безликий</LotM_Potion_Faceless.label>
+  <LotM_Potion_Faceless.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Faceless.ingestible.ingestReportString>
+  <LotM_Potion_Faceless.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Faceless.ingestible.ingestCommandString>
+  <LotM_Potion_Marionettist.label>зелье: Марионеточник</LotM_Potion_Marionettist.label>
+  <LotM_Potion_Marionettist.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Marionettist.ingestible.ingestReportString>
+  <LotM_Potion_Marionettist.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Marionettist.ingestible.ingestCommandString>
+  <LotM_Potion_BizarroSorcerer.label>зелье: Причудливый колдун</LotM_Potion_BizarroSorcerer.label>
+  <LotM_Potion_BizarroSorcerer.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_BizarroSorcerer.ingestible.ingestReportString>
+  <LotM_Potion_BizarroSorcerer.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_BizarroSorcerer.ingestible.ingestCommandString>
+  <LotM_Potion_ScholarOfYore.label>зелье: Знаток былого</LotM_Potion_ScholarOfYore.label>
+  <LotM_Potion_ScholarOfYore.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_ScholarOfYore.ingestible.ingestReportString>
+  <LotM_Potion_ScholarOfYore.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_ScholarOfYore.ingestible.ingestCommandString>
+  <LotM_Potion_MiracleInvoker.label>зелье: Чудотворец</LotM_Potion_MiracleInvoker.label>
+  <LotM_Potion_MiracleInvoker.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_MiracleInvoker.ingestible.ingestReportString>
+  <LotM_Potion_MiracleInvoker.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_MiracleInvoker.ingestible.ingestCommandString>
+  <LotM_Potion_AttendantOfMysteries.label>зелье: Служитель тайн</LotM_Potion_AttendantOfMysteries.label>
+  <LotM_Potion_AttendantOfMysteries.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_AttendantOfMysteries.ingestible.ingestReportString>
+  <LotM_Potion_AttendantOfMysteries.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_AttendantOfMysteries.ingestible.ingestCommandString>
+  <LotM_Potion_Clown.description>Пошлые цвета, которые никогда не смешиваются. Если смотреть на них, кажется, они улыбаются.</LotM_Potion_Clown.description>
+  <LotM_Potion_Magician.description>Черная жидкость, которая потрескивает и меняет форму внутри флакона, как будто репетируя трюк.</LotM_Potion_Magician.description>
+  <LotM_Potion_Faceless.description>Отражает другое лицо каждый раз, когда кто-то смотрит на нее. Ни одно из них не принадлежит ему.</LotM_Potion_Faceless.description>
+  <LotM_Potion_Marionettist.description>Сверхтонкие нити плавают в жидкости и натягиваются к тому, кто держит флакон.</LotM_Potion_Marionettist.description>
+  <LotM_Potion_BizarroSorcerer.description>Что-то извивается внутри. Иногда из глубин смотрит глаз.</LotM_Potion_BizarroSorcerer.description>
+  <LotM_Potion_ScholarOfYore.description>Серая, как туман. Кто бы ни смотрел на него, вспоминает вещи, которых никогда не проживал.</LotM_Potion_ScholarOfYore.description>
+  <LotM_Potion_MiracleInvoker.description>Сияет светом, который не отбрасывает теней. Рядом с ней любое желание кажется возможным.</LotM_Potion_MiracleInvoker.description>
+  <LotM_Potion_AttendantOfMysteries.description>Его нельзя смотреть прямо. Кто бы ни попытался, забывает, зачем он это делал.</LotM_Potion_AttendantOfMysteries.description>
+</LanguageData>

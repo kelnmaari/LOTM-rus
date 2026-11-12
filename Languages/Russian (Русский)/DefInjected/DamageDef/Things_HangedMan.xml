@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Sacrifice.label>жертва</LotM_Sacrifice.label>
+  <LotM_Sacrifice.deathMessage>{0} был предложен в жертву.</LotM_Sacrifice.deathMessage>
+  <LotM_ShadowCold.label>тень холода</LotM_ShadowCold.label>
+  <LotM_ShadowCold.deathMessage>{0} умер, замерзший тенями.</LotM_ShadowCold.deathMessage>
+  <LotM_CorrosiveBlood.label>коррозийная кровь</LotM_CorrosiveBlood.label>
+  <LotM_CorrosiveBlood.deathMessage>{0} растворился в разъедающей крови.</LotM_CorrosiveBlood.deathMessage>
+  <LotM_CorrosiveBurst.label>дождь коррозийной крови</LotM_CorrosiveBurst.label>
+  <LotM_CorrosiveBurst.deathMessage>{0} растворился в дожде разъедающей крови.</LotM_CorrosiveBurst.deathMessage>
+  <LotM_SoulWither.label>увядание</LotM_SoulWither.label>
+  <LotM_SoulWither.deathMessage>{0} умер, увядший от Дегенерации.</LotM_SoulWither.deathMessage>
+</LanguageData>

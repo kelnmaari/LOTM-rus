@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_FeatKick.label>удар ногами</LotM_FeatKick.label>
+  <LotM_FeatKick.description>Удар ногой по всему телу: сбивает их и отбрасывает на пару клеток назад. Те, кто намного крупнее, лишь шатаются.</LotM_FeatKick.description>
+  <LotM_FeatThrowWeapon.label>бросок оружия</LotM_FeatThrowWeapon.label>
+  <LotM_FeatThrowWeapon.description>Бросает своё ближнее оружие со всей силой, вращаясь как боевой топор: оно бьёт намного сильнее обычного удара. Оружие остаётся там, где оно ударило, и его нужно поднять снова. Оружие, сгущённое силами, нельзя бросать.</LotM_FeatThrowWeapon.description>
+  <LotM_FeatWarCry.label>боевой клич</LotM_FeatWarCry.label>
+  <LotM_FeatWarCry.description>Боевой клич, слышимый по всему полю: их народ просыпается от паники и сражается с большим нервом на некоторое время (они бьют и целятся лучше и чувствуют меньше боли). Враги, которые не сильнее их, на мгновение сбиваются с толку, а некоторые убегают.</LotM_FeatWarCry.description>
+  <LotM_FeatHurl.label>хватать и бросать</LotM_FeatHurl.label>
+  <LotM_FeatHurl.description>Хватает их и швыряет в воздух к ближайшему врагу: оба падают, избитые и ошеломленные. Если рядом никого нет, они бросают их далеко. Они не могут поднять что-то намного больше себя (от Паладина Рассвета они могут поднять намного больше).</LotM_FeatHurl.description>
+  <LotM_FeatDemolish.label>разрушительный кулак</LotM_FeatDemolish.label>
+  <LotM_FeatDemolish.description>Удар по структуре: ломает дверь, деревянную стену или баррикаду одним ударом и оставляет каменную стену сильно потрескавшейся.</LotM_FeatDemolish.description>
+  <LotM_FeatGuard.label>охрана</LotM_FeatGuard.label>
+  <LotM_FeatGuard.description>Переключатель: поднимает свою защиту. Они двигаются медленнее, но иногда парируют ближние удары (чаще всего лучше они сражаются, и хуже атакующий) и наносят ответный удар сразу. Почти не использует духовность.</LotM_FeatGuard.description>
+  <LotM_FeatDisarm.label>демобилизовать</LotM_FeatDisarm.label>
+  <LotM_FeatDisarm.description>Резкий удар по рукам: отбрасывает оружие на несколько клеток. Шанс зависит от того, как хорошо они оба сражаются, и против более сильного Потустороннего гораздо сложнее.</LotM_FeatDisarm.description>
+  <LotM_FeatWhirlwind.label>вихрь</LotM_FeatWhirlwind.label>
+  <LotM_FeatWhirlwind.description>В одном движении с оружием крутится и режет всех врагов вокруг, нанося каждому таким же ударом, как обычный удар.</LotM_FeatWhirlwind.description>
+  <LotM_FeatAimedShot.label>выстрел в слабое место</LotM_FeatAimedShot.label>
+  <LotM_FeatAimedShot.description>С помощью дальнобойного оружия: делает точный прицел и бьет в жизненно важную точку (сердце, легкие, голову или шею) гораздо сильнее, чем обычный выстрел. Цель должна находиться в пределах досягаемости оружия.</LotM_FeatAimedShot.description>
+  <LotM_FeatBoulder.label>рвать и бросать</LotM_FeatBoulder.label>
+  <LotM_FeatBoulder.description>Рвет кусок камня и бросает его дугой: он разбивает всех вокруг и раскалывает землю. Если рядом есть кусок камня, они разрывают его целиком (он бьет сильнее и остается там, где упал); иначе они отламывают кусок от естественной каменной стены или с самой земли.</LotM_FeatBoulder.description>
+  <LotM_FeatStomp.label>топот</LotM_FeatStomp.label>
+  <LotM_FeatStomp.description>Шаг, который раскалывает землю: ударная волна сбивает с толку всех врагов вокруг, а те, кто рядом, ошеломлены и отталкиваются.</LotM_FeatStomp.description>
+</LanguageData>

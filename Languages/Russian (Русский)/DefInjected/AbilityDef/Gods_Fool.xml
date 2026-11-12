@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Apotheosis_Seer.label>апофеоз</LotM_Apotheosis_Seer.label>
+  <LotM_FoolBlindStupidity.label>слепая глупость</LotM_FoolBlindStupidity.label>
+  <LotM_FoolMisjudgment.label>ошибочное суждение</LotM_FoolMisjudgment.label>
+  <LotM_FoolOblivion.label>забвение</LotM_FoolOblivion.label>
+  <LotM_FoolDeceiveHistory.label>обмануть историю</LotM_FoolDeceiveHistory.label>
+  <LotM_FoolDeceiveTime.label>обмануть время</LotM_FoolDeceiveTime.label>
+  <LotM_FoolMakeReal.label>воплотить ложное</LotM_FoolMakeReal.label>
+  <LotM_FoolGraftStar.label>привить звезду</LotM_FoolGraftStar.label>
+  <LotM_FoolGraftDoor.label>привитая дверь</LotM_FoolGraftDoor.label>
+  <LotM_FoolGraftConcept.label>привить понятие</LotM_FoolGraftConcept.label>
+  <LotM_FoolGraftAuthority.label>привить власть</LotM_FoolGraftAuthority.label>
+  <LotM_FoolSpiritCall.label>зов Мира духов</LotM_FoolSpiritCall.label>
+  <LotM_FoolConceptMarionette.label>марионетка из понятия</LotM_FoolConceptMarionette.label>
+  <LotM_FoolPastEra.label>минувшая эпоха</LotM_FoolPastEra.label>
+  <LotM_FoolInconceivableMiracle.label>немыслимое чудо</LotM_FoolInconceivableMiracle.label>
+  <LotM_FoolHideColony.label>скрыть колонию</LotM_FoolHideColony.label>
+  <LotM_FoolRealmPrison.label>заточить в Царстве тайн</LotM_FoolRealmPrison.label>
+  <LotM_FoolRealmRelease.label>выпустить из Царства тайн</LotM_FoolRealmRelease.label>
+  <LotM_FoolProphecy.label>пророчество</LotM_FoolProphecy.label>
+  <LotM_FoolStupidityAura.label>аура глупости</LotM_FoolStupidityAura.label>
+  <LotM_Apotheosis_Seer.description>С тремя характеристиками Служитель тайн и Уникальностью Провидца внутри них, они начинают, на алтаре своего Святилища, ритуал превращения в Шута. Это длится три дня, и весь мир придет, чтобы остановить это, прямо в Святилище. Если они умрут, потеряют контроль, алтарь сломается или Святилище перестанет соответствовать требованиям, они взорвутся вихрем Духовных Червей.</LotM_Apotheosis_Seer.description>
+  <LotM_FoolBlindStupidity.description>На любом месте в мире: враги едва могут думать. Они выбирают не ту цель, не видят того, что находится перед ними и забывают, что делали. Он достигает даже ангелов и богов, но то, что живет инстинктивно (животные, насекомые, механоиды, монстры), едва ли обманывается.</LotM_FoolBlindStupidity.description>
+  <LotM_FoolMisjudgment.description>Выбрать врага где угодно в мире: они и вся их группа приходят к ложному выводу. Либо они считают, что там нечего делать, и уходят, либо они считают, что враг среди них, и сражаются друг с другом.</LotM_FoolMisjudgment.description>
+  <LotM_FoolOblivion.description>Фракция забывает что-то: где колония (она не отправляет набегов несколько дней) или обиду (отношения возвращаются к нулю).</LotM_FoolOblivion.description>
+  <LotM_FoolDeceiveHistory.description>Разделяет себя одного момента от себя следующего: колонист, или они сами, меняют свое настоящее на то, каким оно было до семи дней ранее. Потерянные части возвращаются, а раны, болезни и проклятия, которых у них не было тогда, исчезают.</LotM_FoolDeceiveHistory.description>
+  <LotM_FoolDeceiveTime.description>Смешивает порядок событий: враги места замирают на некоторое время, или угрозы, направленные в место, задерживаются на несколько дней.</LotM_FoolDeceiveTime.description>
+  <LotM_FoolMakeReal.description>Чтобы ложь стала реальной, она должна сначала существовать. Историческая проекция, сцена из прошлого или объект из прошлого становится реальным и постоянным. Проецируемое лицо возвращается как реальный человек, без тех сил, которые у него были.</LotM_FoolMakeReal.description>
+  <LotM_FoolGraftStar.description>Принимает концепцию звезды и накладывает ее на место: всё враждебное горит, как будто внутри солнца. На вражеском поселении без карты он стирает его из мира. Их сильнейшая атака: она сильно напрягает барьер.</LotM_FoolGraftStar.description>
+  <LotM_FoolGraftDoor.description>Соединяет два места в мире парой дверей: кто ступает на одну, выходит из другой. Если одна ломается, то и другая.</LotM_FoolGraftDoor.description>
+  <LotM_FoolGraftConcept.description>Прикрепляет концепцию к вещи: дверь, которая отправляет любого врага, кто проходит через неё, в море, горячее оружие, кровать, которая исцеляет, неприступное здание. Держится столько, сколько они живут.</LotM_FoolGraftConcept.description>
+  <LotM_FoolGraftAuthority.description>Дарует колонисту одну из своих властей на день: он обладает ее силами и платит за них духовностью Шута. Это тяжело давит на него.</LotM_FoolGraftAuthority.description>
+  <LotM_FoolSpiritCall.description>Призывает существ уровня ангелов из Мира духов, которые сражаются за них в течение нескольких часов где угодно в мире.</LotM_FoolSpiritCall.description>
+  <LotM_FoolConceptMarionette.description>Враг где угодно в мире мгновенно становится его марионеткой, даже ангел или полубог. Не другой бог.</LotM_FoolConceptMarionette.description>
+  <LotM_FoolPastEra.description>Проецирует историческую сцену на всё место: то, что было там и больше не существует, возвращается на некоторое время.</LotM_FoolPastEra.description>
+  <LotM_FoolInconceivableMiracle.description>Чудо, которое никто не может объяснить или предвидеть: нечто огромное и всегда хорошее.</LotM_FoolInconceivableMiracle.description>
+  <LotM_FoolHideColony.description>Скрывает колонию в тайне: несколько дней угроза её не находит.</LotM_FoolHideColony.description>
+  <LotM_FoolRealmPrison.description>Забирает врага из любого места в мире в своё Царство Тайн: он исчезает с карты и остается там.</LotM_FoolRealmPrison.description>
+  <LotM_FoolRealmRelease.description>Высвобождает кого-то, кого запер в своем Царстве, где бы он ни находился, как свою марионетку.</LotM_FoolRealmRelease.description>
+  <LotM_FoolProphecy.description>Говорят, что что-то произойдет, и это происходит: хороший урожай, торговец, неудачное набег, кто-то присоединяется, смерть лидера фракции, припасы. Это всегда сбывается, но иногда в извращенной форме.</LotM_FoolProphecy.description>
+  <LotM_FoolStupidityAura.description>Переключатель: при включении враги, приближающиеся к ним, думают, нацеливаются и двигаются медленнее. Потребляет духовность в час.</LotM_FoolStupidityAura.description>
+  <LotM_FoolGraftDamage.label>прививка урона</LotM_FoolGraftDamage.label>
+  <LotM_FoolGraftDamage.description>Переключатель: включённый, урон, который они получают, переходит к ближайшему врагу. Каждый удар стоит духовности; если нет никого, кому передать, они принимают его.</LotM_FoolGraftDamage.description>
+  <LotM_FoolWorldThreads.label>нити мира</LotM_FoolWorldThreads.label>
+  <LotM_FoolWorldThreads.description>Переключатель: в активном состоянии все их марионетки, где бы они ни находились, делают больше и передают им духовность.</LotM_FoolWorldThreads.description>
+  <LotM_FoolRestraint.label>сдерживание</LotM_FoolRestraint.label>
+  <LotM_FoolRestraint.description>Переключатель: если они сами себя не сдерживают, их слова становятся узлами судьбы, и каждые несколько дней само по себе происходит небольшое пророчество, иногда хорошее, а иногда извращенное. Пока это активно, ничего не происходит, но их духовность возвращается медленнее.</LotM_FoolRestraint.description>
+</LanguageData>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Authority_DemonessCatastrophe.label>Катастрофа</LotM_Authority_DemonessCatastrophe.label>
+  <LotM_Authority_DemonessCatastrophe.description>Власть Катастрофы, подчиненная Хаосу: природные бедствия и рукотворные, и падение того, что было стабильным.</LotM_Authority_DemonessCatastrophe.description>
+  <LotM_Authority_DemonessCatastrophe.passive>Естественные катастрофы (метель, буря, землетрясение, метеоры, засуха), несчастные случаи порядка и машин, детонация обрушения кого-либо или чего-либо изнутри, проклятия судьбы и коллапс Мира Зеркал. Его имя приносит страх, и он чувствует приближение больших угроз.</LotM_Authority_DemonessCatastrophe.passive>
+  <LotM_Authority_DemonessApocalypse.label>Апокалипсис</LotM_Authority_DemonessApocalypse.label>
+  <LotM_Authority_DemonessApocalypse.description>Возвышенная форма Катастрофы: не формы бедствия, а прибытие конечного результата. Всё, даже судьба, оказывается запутанным и достигает своего конца.</LotM_Authority_DemonessApocalypse.description>
+  <LotM_Authority_DemonessApocalypse.passive>Завершает область, вызывает внутренний конфликт Потусторонних и высвобождает бедствия национального масштаба.</LotM_Authority_DemonessApocalypse.passive>
+  <LotM_Authority_DemonessPleasure.label>удовольствие</LotM_Authority_DemonessPleasure.label>
+  <LotM_Authority_DemonessPleasure.description>Часть власти Удовольствия, подчиненная Очарованию: высшее удовольствие, которое заставляет людей потакать, и пустота и боль, которые следуют за ним и делают очарование ещё более неотразимым.</LotM_Authority_DemonessPleasure.description>
+  <LotM_Authority_DemonessPleasure.passive>Плач в удовольствии, сублимация в удовольствии и смерть в удовольствии.</LotM_Authority_DemonessPleasure.passive>
+  <LotM_Authority_DemonessDisease.label>Болезнь</LotM_Authority_DemonessDisease.label>
+  <LotM_Authority_DemonessDisease.description>Часть власти Болезни: уже не просто мистические патогены, а каждая причина болезни (ещё не ментальная чума Провидца).</LotM_Authority_DemonessDisease.description>
+  <LotM_Authority_DemonessDisease.passive>Она вызывает и лечит любые болезни; её союзники не болеют, пока она рядом.</LotM_Authority_DemonessDisease.passive>
+  <LotM_Authority_DemonessDisease.godLabel>Болезнь</LotM_Authority_DemonessDisease.godLabel>
+  <LotM_Authority_DemonessDisease.godPassive>Она — само понятие Болезни и может прикрепить её к чему угодно; её чума достигает богов и меняет её масштаб по её воле.</LotM_Authority_DemonessDisease.godPassive>
+  <LotM_Authority_DemonessChaos.label>Хаос</LotM_Authority_DemonessChaos.label>
+  <LotM_Authority_DemonessChaos.description>Основная власть Демонессы: возвращение всего в Хаос и первобытное состояние. Катастрофа вызывает коллапс системы, апокалипсис заставляет ее вспыхнуть, а Хаос — это сингулярность, где все сходится.</LotM_Authority_DemonessChaos.description>
+  <LotM_Authority_DemonessChaos.passive>Вихри жидкости всех цветов, которые поглощают все, к чему прикасаются, осада зеркал и щит Хаоса. Болезнь и Чума подчинены этому.</LotM_Authority_DemonessChaos.passive>
+  <LotM_Authority_DemonessChaos.godLabel>Хаос</LotM_Authority_DemonessChaos.godLabel>
+  <LotM_Authority_DemonessChaos.godPassive>Всё возвращается в Хаос: всё, что поглощает её вихрь, становится частью бесчисленных нереализованных возможностей.</LotM_Authority_DemonessChaos.godPassive>
+  <LotM_Authority_DemonessPrimordium.label>Первозданность</LotM_Authority_DemonessPrimordium.label>
+  <LotM_Authority_DemonessPrimordium.description>Начало, поскольку Хаос — это конец. На Последовательности 0 это Покой, Застой и Всемогущество, с окаменением и тёмной магией, подчиняющейся ему.</LotM_Authority_DemonessPrimordium.description>
+  <LotM_Authority_DemonessPrimordium.passive>Её взгляд полностью оцепеневает, неподвижность останавливает область, и она является сувереном тёмной магии: проклятия других не достигают её, никто, кроме бога, не может остановить её, и она открывает свою магию обычным людям.</LotM_Authority_DemonessPrimordium.passive>
+  <LotM_Authority_DemonessCharm.label>Очарование</LotM_Authority_DemonessCharm.label>
+  <LotM_Authority_DemonessCharm.description>Очарование на концептуальном уровне: всё влюбляется в неё, не желая расставаться и жадно владея. Даже правила и концепции неохотно подчиняются ей.</LotM_Authority_DemonessCharm.description>
+  <LotM_Authority_DemonessCharm.passive>Мертвецы едва могут её ранить; её смех замедляет всех её врагов, а её улыбка останавливает даже Короля ангелов.</LotM_Authority_DemonessCharm.passive>
+  <LotM_Authority_DemonessMirrorWorld.label>Мир зеркал</LotM_Authority_DemonessMirrorWorld.label>
+  <LotM_Authority_DemonessMirrorWorld.description>Полное господство над Зеркальным Миром и всем, что из него выведено, включая бессмертие и воскрешение. Она — Зеркальный Мир.</LotM_Authority_DemonessMirrorWorld.description>
+  <LotM_Authority_DemonessMirrorWorld.passive>Она умирает только если все её зеркала разбиты; она выходит через любое из них, на любой карте; существа зеркала подчиняются ей без ограничений, и её Божественное царство — Мир зеркал.</LotM_Authority_DemonessMirrorWorld.passive>
+  <LotM_Authority_DemonessFemininity.label>Женственность</LotM_Authority_DemonessFemininity.label>
+  <LotM_Authority_DemonessFemininity.description>Как женский аспект Истинного Творца, некоторая власть над женскими силами и концепциями.</LotM_Authority_DemonessFemininity.description>
+  <LotM_Authority_DemonessFemininity.passive>Превращает всё, что видит, в женщину, чтобы контролировать это.</LotM_Authority_DemonessFemininity.passive>
+</LanguageData>

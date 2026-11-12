@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Marionette.label>нити духовного тела</LotM_Marionette.label>
+  <LotM_MythicalForm.label>форма мифического существа</LotM_MythicalForm.label>
+  <LotM_HistoricalBorrow.label>заимствование тела из прошлого</LotM_HistoricalBorrow.label>
+  <LotM_HistoricalProjection.label>историческая проекция</LotM_HistoricalProjection.label>
+  <LotM_VoidHiding.label>укрыться в собственном прошлом</LotM_VoidHiding.label>
+  <LotM_SpiritBody.label>духовное тело</LotM_SpiritBody.label>
+  <LotM_BorrowMind.label>заимствование разума</LotM_BorrowMind.label>
+  <LotM_BorrowState.label>заимствование состояния</LotM_BorrowState.label>
+  <LotM_PaperOrgan.label>бумажный орган</LotM_PaperOrgan.label>
+  <LotM_TinyForm.label>крошечная форма</LotM_TinyForm.label>
+  <LotM_PotionAssimilation.label>поглощающее зелье</LotM_PotionAssimilation.label>
+  <LotM_PotionAssimilation.description>Зелье пробивается сквозь их тело и разум. Они дрожат, конвульсируют и видят то, чего не существует. Чем дольше оно длится, тем хуже становится: если их разум не выдержит до конца, они потеряют контроль.</LotM_PotionAssimilation.description>
+  <LotM_PotionAssimilation.stages.0.label>дрожь</LotM_PotionAssimilation.stages.0.label>
+  <LotM_PotionAssimilation.stages.1.label>видения</LotM_PotionAssimilation.stages.1.label>
+  <LotM_PotionAssimilation.stages.2.label>агония</LotM_PotionAssimilation.stages.2.label>
+  <LotM_PotionAssimilation.stages.3.label>на грани потери контроля</LotM_PotionAssimilation.stages.3.label>
+  <LotM_Transformation.label>трансформация Потустороннего</LotM_Transformation.label>
+  <LotM_Transformation.description>Зелье взяло контроль. Разум ломается и забывает себя, тело извивается; когда это закончится, ничего человеческого не останется. Нет известного лекарства.</LotM_Transformation.description>
+  <LotM_Transformation.stages.0.label>шёпот</LotM_Transformation.stages.0.label>
+  <LotM_Transformation.stages.1.label>безумие</LotM_Transformation.stages.1.label>
+  <LotM_Transformation.stages.2.label>забвение</LotM_Transformation.stages.2.label>
+  <LotM_Transformation.stages.3.label>безумие</LotM_Transformation.stages.3.label>
+  <LotM_Transformation.stages.4.label>деформация</LotM_Transformation.stages.4.label>
+  <LotM_Transformation.stages.5.label>на грани смерти</LotM_Transformation.stages.5.label>
+  <LotM_CorruptedCharacteristic.label>испорченная характеристика</LotM_CorruptedCharacteristic.label>
+  <LotM_CorruptedCharacteristic.description>Внутри этого существа бьётся характеристика Потустороннего того, кем оно было. Когда оно умирает, оно её высвобождает.</LotM_CorruptedCharacteristic.description>
+  <LotM_CorruptedCharacteristic.stages.5.label>нападеющий полубог</LotM_CorruptedCharacteristic.stages.5.label>
+  <LotM_CorruptedCharacteristic.stages.6.label>нападевающий учёный</LotM_CorruptedCharacteristic.stages.6.label>
+  <LotM_CorruptedCharacteristic.stages.7.label>нападевающий ангел</LotM_CorruptedCharacteristic.stages.7.label>
+  <LotM_CorruptedCharacteristic.stages.8.label>неуправляемый высокий ангел</LotM_CorruptedCharacteristic.stages.8.label>
+  <LotM_Ephemeral.label>призван</LotM_Ephemeral.label>
+  <LotM_Ephemeral.description>Оно отделилось от чего-то большего. Это не продлится.</LotM_Ephemeral.description>
+  <LotM_Marionette.description>Хватает нити духовного тела кого-то поблизости и тянет их, не отпуская. Если это завершается, этот человек навсегда принадлежит им. Интенсивная боль может перерезать нити.</LotM_Marionette.description>
+  <LotM_ThreadControl.label>нити захвачены</LotM_ThreadControl.label>
+  <LotM_ThreadControl.description>Марионеточник тянет нити их духовного тела. Их мысли и движения замедляются. Интенсивная боль может нарушить контроль.</LotM_ThreadControl.description>
+  <LotM_ThreadControl.stages.0.label>первоначальный контроль</LotM_ThreadControl.stages.0.label>
+  <LotM_ThreadControl.stages.1.label>почти марионетка</LotM_ThreadControl.stages.1.label>
+  <LotM_SpiritWorm.label>Червь Духа</LotM_SpiritWorm.label>
+  <LotM_SpiritWorm.description>Прозрачный червь, выгравированный ошеломляющими символами, живет внутри этой марионетки. Через него марионетка использует силы своего владельца, хотя и не так хорошо.</LotM_SpiritWorm.description>
+  <LotM_SpiritVisionHediff.label>духовное зрение</LotM_SpiritVisionHediff.label>
+  <LotM_SpiritVisionHediff.description>Видит ауры, эмоции и намерения, а также существ Мира духов. Их глаза не видят ничего лучше, но они могут угадать, что собираются делать другие. То, что они видят, также видит их.</LotM_SpiritVisionHediff.description>
+  <LotM_AcrobaticsHediff.label>акробатика</LotM_AcrobaticsHediff.label>
+  <LotM_AcrobaticsHediff.description>Движется с невозможной ловкостью клоуна.</LotM_AcrobaticsHediff.description>
+  <LotM_FalseFaceHediff.label>замаскированный</LotM_FalseFaceHediff.label>
+  <LotM_FalseFaceHediff.description>У них есть другое лицо, другое тело и другой голос. Враги не узнают их как угрозу, пока не нападут.</LotM_FalseFaceHediff.description>
+  <LotM_FlameWalk.label>шаг пламени</LotM_FlameWalk.label>
+  <LotM_FlameWalk.description>Только что прошли сквозь пламя. На мгновение огонь их не касается.</LotM_FlameWalk.description>
+  <LotM_AirPipeHediff.label>воздушная труба</LotM_AirPipeHediff.label>
+  <LotM_AirPipeHediff.description>Невидимый трубка приносит им чистый воздух. Токсичный газ на них не действует.</LotM_AirPipeHediff.description>
+  <LotM_PaperWeaponHediff.label>бумажное оружие</LotM_PaperWeaponHediff.label>
+  <LotM_PaperWeaponHediff.description>Держит оружие из закаленной бумаги. Когда эффект заканчивается, бумага рассыпается.</LotM_PaperWeaponHediff.description>
+  <LotM_IllusionHediff.label>обманутый иллюзией</LotM_IllusionHediff.label>
+  <LotM_IllusionHediff.description>Видят цвета, слышат звуки и обоняют то, чего не существует. Они не могут понять, что реально: они целятся и бьют намного хуже.</LotM_IllusionHediff.description>
+  <LotM_WormRegeneration.label>Черви Духа, восстанавливающие тело</LotM_WormRegeneration.label>
+  <LotM_WormRegeneration.description>Полупрозрачные черви, выгравированные головокружительными символами, извиваются в ранах: они закрывают плоть, останавливают кровотечение и, с течением времени, восстанавливают утраченное.</LotM_WormRegeneration.description>
+  <LotM_MythicalForm.description>Он больше не притворяется человеком: это белая маска без выражения, с червями духа, выходящими сзади. Восстанавливается за секунды, почти ничего не ранит, и всё, что находится поблизости, сходит с ума.</LotM_MythicalForm.description>
+  <LotM_MythicalForm.comps.0.tools.0.label>невидимые щупальца</LotM_MythicalForm.comps.0.tools.0.label>
+  <LotM_MythicalForm.comps.0.tools.1.label>червеобразное рой</LotM_MythicalForm.comps.0.tools.1.label>
+  <LotM_MythicalForm.stages.0.label>нестабильный</LotM_MythicalForm.stages.0.label>
+  <LotM_MythicalForm.stages.1.label>почти стабильно</LotM_MythicalForm.stages.1.label>
+  <LotM_MythicalForm.stages.2.label>стабильный</LotM_MythicalForm.stages.2.label>
+  <LotM_MythicalAftermath.label>после последствий мифической формы</LotM_MythicalAftermath.label>
+  <LotM_MythicalAftermath.description>Тело помнит себя вихрем червей. Всё болит, голова не успокаивается, и трудно чувствовать себя человеком.</LotM_MythicalAftermath.description>
+  <LotM_VortexMadness.label>вихревая безумие</LotM_VortexMadness.label>
+  <LotM_VortexMadness.description>Что-то невозможно извивается поблизости. Разум не может это обработать: думать, целиться и сохранять здравомыслие становится сложнее.</LotM_VortexMadness.description>
+  <LotM_HistoricalBorrow.description>Заимствует свою прошлую версию, здоровую и целую. Когда кредит заканчивается, раны вернутся.</LotM_HistoricalBorrow.description>
+  <LotM_HistoricalProjection.description>Призывает из Исторической пустоты проекцию того, кого колония знала, живого или мёртвого. Чем лучше они были известны, тем легче. У него нет собственной воли: он лишь подчиняется.</LotM_HistoricalProjection.description>
+  <LotM_VoidHiding.description>Прячется в пробеле в своей истории. Никто не может их увидеть или дотянуться, и оттуда они всё ещё могут брать и призывать.</LotM_VoidHiding.description>
+  <LotM_Sealed.label>запечатанный</LotM_Sealed.label>
+  <LotM_Sealed.description>Ночные Ястребы запечатали их до того, как они успели трансформироваться. Они не вернутся.</LotM_Sealed.description>
+  <LotM_GodhoodDissipated.label>изгнание божественности</LotM_GodhoodDissipated.label>
+  <LotM_GodhoodDissipated.description>Чудо рассеяло божественность вокруг них: силы их Потусторонних едва работают, а их тело становится более хрупким.</LotM_GodhoodDissipated.description>
+  <LotM_KingPower.label>сила короля ангелов</LotM_KingPower.label>
+  <LotM_KingPower.description>Чудо дало им, на один день, силу Последовательности 1.</LotM_KingPower.description>
+  <LotM_Blessed.label>благоприятная судьба</LotM_Blessed.label>
+  <LotM_Blessed.description>Кто-то исказил их судьбу в их пользу: всё идёт немного лучше.</LotM_Blessed.description>
+  <LotM_Cursed.label>изломанная судьба</LotM_Cursed.label>
+  <LotM_Cursed.description>Кто-то исказил их судьбу против них: всё идёт не так.</LotM_Cursed.description>
+  <LotM_SpiritBody.description>Больше нет границы между их физическим телом и духовным телом: они могут быть одним или другим, или разделять их и снова соединяться.</LotM_SpiritBody.description>
+  <LotM_MonsterDisguise.label>обманчивая форма</LotM_MonsterDisguise.label>
+  <LotM_MonsterDisguise.description>Изменили форму: никто не узнаёт их как угрозу, пока они не нападут.</LotM_MonsterDisguise.description>
+  <LotM_MonsterThreads.label>запутанные нити</LotM_MonsterThreads.label>
+  <LotM_MonsterThreads.description>Невидимые нити тянут их духовное тело: каждое движение стоит вдвое дороже.</LotM_MonsterThreads.description>
+  <LotM_Fragment.label>живой фрагмент</LotM_Fragment.label>
+  <LotM_Fragment.description>Кусочек, оторвавшийся от чего-то гораздо большего. Он сводит с ума любого, кто подходит.</LotM_Fragment.description>
+  <LotM_BorrowMind.description>Заимствует их разум в момент, когда он был только их. Ничто извне не касается его, пока это длится.</LotM_BorrowMind.description>
+  <LotM_BorrowState.description>Заимствует день, когда они отдыхали, хорошо питались и были свободны от боли. Когда он заканчивается, всё возвращается в прежнее состояние.</LotM_BorrowState.description>
+  <LotM_GreyFog.label>туман</LotM_GreyFog.label>
+  <LotM_GreyFog.description>Холодный серый туман окружает их. Место медленно остывает, пока не начнёт замерзать.</LotM_GreyFog.description>
+  <LotM_WormsDepleted.label>Черви истощены</LotM_WormsDepleted.label>
+  <LotM_WormsDepleted.description>Почти все их Черви Духа умерли. Их тело медленно успокаивается.</LotM_WormsDepleted.description>
+  <LotM_ProjectionEcho.label>эхо</LotM_ProjectionEcho.label>
+  <LotM_ProjectionEcho.description>Это проекция проекции: потрёпанная копия, слабее оригинала.</LotM_ProjectionEcho.description>
+  <LotM_ProjectionPossessed.label>одержимый</LotM_ProjectionPossessed.label>
+  <LotM_ProjectionPossessed.description>Кто-то управляет им изнутри: оно движется с целью.</LotM_ProjectionPossessed.description>
+  <LotM_PaperOrgan.labelNoun>бумажная часть</LotM_PaperOrgan.labelNoun>
+  <LotM_PaperOrgan.description>Сминает бумагу в форму того, чего не хватает: орган, рука, глаз. Работает как настоящее... пока кто-то не обнаружит, что это подделка.</LotM_PaperOrgan.description>
+  <LotM_Shapeshifted.label>изменился в облик</LotM_Shapeshifted.label>
+  <LotM_Shapeshifted.description>Их тело червей имеет форму животного. Внутри они всё ещё сами собой.</LotM_Shapeshifted.description>
+  <LotM_TinyForm.description>Сжимается в кусок плоти размером с закладку.</LotM_TinyForm.description>
+  <LotM_Suffocation.label>без воздуха</LotM_Suffocation.label>
+  <LotM_Suffocation.description>Прижимались к другим, пока не оставалось воздуха. Больно дышать и думать.</LotM_Suffocation.description>
+  <LotM_EmptyBody.label>пустое тело</LotM_EmptyBody.label>
+  <LotM_EmptyBody.description>Их физическое тело остается, в то время как их духовное тело ушло. Что бы ни случилось с этим телом, это случится с ними.</LotM_EmptyBody.description>
+  <LotM_ThreadedObject.label>регенерированные нити</LotM_ThreadedObject.label>
+  <LotM_ThreadedObject.description>Это предмет, но его материалы когда-то были живы, и кто-то вернул им их нити.</LotM_ThreadedObject.description>
+  <LotM_StrongThreads.label>укрепленные нити</LotM_StrongThreads.label>
+  <LotM_StrongThreads.description>Её нити так связаны с владельцем, что она использует их силы без необходимости червя.</LotM_StrongThreads.description>
+</LanguageData>

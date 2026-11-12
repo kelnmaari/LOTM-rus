@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Characteristic_Marauder.label>Характеристика Потустороннего Разбойника</LotM_Characteristic_Marauder.label>
+  <LotM_Characteristic_Marauder.description>Что осталось от Разбойника после смерти. Это чёрный, отрубленный, полупрозрачный палец.</LotM_Characteristic_Marauder.description>
+  <LotM_Characteristic_Swindler.label>Характеристика Потустороннего Мошенника</LotM_Characteristic_Swindler.label>
+  <LotM_Characteristic_Swindler.description>Что осталось от Обманщика после смерти. Это красный, прозрачный предмет в форме губ.</LotM_Characteristic_Swindler.description>
+  <LotM_Characteristic_Cryptologist.label>Характеристика Потустороннего Криптолога</LotM_Characteristic_Cryptologist.label>
+  <LotM_Characteristic_Cryptologist.description>Что осталось от Криптолога после смерти. Это бесцветный кристалл, испускающий тонкий туман.</LotM_Characteristic_Cryptologist.description>
+  <LotM_Characteristic_Prometheus.label>Характеристика Потустороннего Прометея</LotM_Characteristic_Prometheus.label>
+  <LotM_Characteristic_Prometheus.description>То, что осталось от Прометея после смерти. Это похоже на миниатюрную хрустальную лампу, которая никогда не зажигалась.</LotM_Characteristic_Prometheus.description>
+  <LotM_Characteristic_DreamStealer.label>Характеристика Потустороннего Крадущегося Сновидений</LotM_Characteristic_DreamStealer.label>
+  <LotM_Characteristic_DreamStealer.description>То, что осталось от Похитителя Снов после смерти. Это похоже на детскую руку: крошечная, бледная и немного тёмная.</LotM_Characteristic_DreamStealer.description>
+  <LotM_Characteristic_Parasite.label>Характеристика Потустороннего Паразита</LotM_Characteristic_Parasite.label>
+  <LotM_Characteristic_Parasite.description>Что осталось от Паразита после смерти. Это алмаз с прозрачными червями, проникающими внутрь и плавающими внутри.</LotM_Characteristic_Parasite.description>
+  <LotM_Characteristic_MentorOfDeceit.label>Характеристика Потустороннего Наставника Обмана</LotM_Characteristic_MentorOfDeceit.label>
+  <LotM_Characteristic_MentorOfDeceit.description>То, что осталось от Наставника Обмана после смерти. Это бесцветная завеса из грибка, как саван.</LotM_Characteristic_MentorOfDeceit.description>
+  <LotM_Characteristic_TrojanHorse.label>Характеристика Потустороннего Троянского Коня Судьбы</LotM_Characteristic_TrojanHorse.label>
+  <LotM_Characteristic_TrojanHorse.description>Что осталось от Троянского коня Судьбы, когда они умерли. Это кристалл с множеством зеркальных граней; каждое отражает другую личность.</LotM_Characteristic_TrojanHorse.description>
+  <LotM_Characteristic_WormOfTimeAngel.label>Характеристика Потустороннего Червя Времени</LotM_Characteristic_WormOfTimeAngel.label>
+  <LotM_Characteristic_WormOfTimeAngel.description>Что осталось от Червя Времени, когда они умерли. Это кристальная колонна света и тени, с двенадцатикольцовыми Червями Времени, быстро плавающими внутри. Всё рядом с ней кажется застывшим.</LotM_Characteristic_WormOfTimeAngel.description>
+</LanguageData>

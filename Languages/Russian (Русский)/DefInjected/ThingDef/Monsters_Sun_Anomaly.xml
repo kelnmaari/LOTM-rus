@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_FragmentSun_Bulbfreak.description>Часть обезумевшего Бестеневого, который отказывается умирать. Она горит болезненным светом, а когда падает, снова делится.</LotM_FragmentSun_Bulbfreak.description>
+  <LotM_FragmentSun_Toughspike.description>Часть обезумевшего Бестеневого, который отказывается умирать. Она горит болезненным светом, а когда падает, снова делится.</LotM_FragmentSun_Toughspike.description>
+  <LotM_FragmentSun_Trispike.description>Часть обезумевшего Бестеневого, который отказывается умирать. Она горит болезненным светом, а когда падает, снова делится.</LotM_FragmentSun_Trispike.description>
+  <LotM_A_LostBard.label>потерянный бард</LotM_A_LostBard.label>
+  <LotM_A_LostBard.description>Бард, потерявший контроль. Его пение превратилось в вопль, который невозможно вынести.</LotM_A_LostBard.description>
+  <LotM_A_LostBard.tools.0.label>щупальца</LotM_A_LostBard.tools.0.label>
+  <LotM_A_LostBard.tools.1.label>укус</LotM_A_LostBard.tools.1.label>
+  <LotM_A_LostLightSuppliant.label>потерянный проситель света</LotM_A_LostLightSuppliant.label>
+  <LotM_A_LostLightSuppliant.description>Светящийся молящийся, потерявший контроль. Слепящие вспышки покидают его тело.</LotM_A_LostLightSuppliant.description>
+  <LotM_A_LostLightSuppliant.tools.0.label>Когти</LotM_A_LostLightSuppliant.tools.0.label>
+  <LotM_A_LostLightSuppliant.tools.1.label>Удар</LotM_A_LostLightSuppliant.tools.1.label>
+  <LotM_A_LostSolarPriest.label>потерянный солнечный жрец</LotM_A_LostSolarPriest.label>
+  <LotM_A_LostSolarPriest.description>Солнечный Верховный Жрец, потерявший контроль. Он горит золотым огнем, который больше ничего не очищает.</LotM_A_LostSolarPriest.description>
+  <LotM_A_LostSolarPriest.tools.0.label>Шип</LotM_A_LostSolarPriest.tools.0.label>
+  <LotM_A_LostSolarPriest.tools.1.label>Удар</LotM_A_LostSolarPriest.tools.1.label>
+  <LotM_A_LostNotary.label>потерянный нотариус</LotM_A_LostNotary.label>
+  <LotM_A_LostNotary.description>Нотариус, потерявший контроль. Он повторяет бессмысленные пункты, и золото его кожи горит.</LotM_A_LostNotary.description>
+  <LotM_A_LostNotary.tools.0.label>Когти</LotM_A_LostNotary.tools.0.label>
+  <LotM_A_LostNotary.tools.1.label>укус</LotM_A_LostNotary.tools.1.label>
+  <LotM_A_LostPriestOfLight.label>потерянный жрец света</LotM_A_LostPriestOfLight.label>
+  <LotM_A_LostPriestOfLight.description>Жрец Света, потерявший контроль. Его нимб больше не очищает: он сжигает всё, что приближается.</LotM_A_LostPriestOfLight.description>
+  <LotM_A_LostPriestOfLight.tools.0.label>щупальца</LotM_A_LostPriestOfLight.tools.0.label>
+  <LotM_A_LostPriestOfLight.tools.1.label>укус</LotM_A_LostPriestOfLight.tools.1.label>
+  <LotM_A_LostUnshadowed.label>потерянный бестени</LotM_A_LostUnshadowed.label>
+  <LotM_A_LostUnshadowed.description>Неоттенённый, потерявший контроль. Свет, который больше не различает друга и врага, изливается из его тела; время от времени над тем, кто рядом, вспыхивает солнце. Он восстанавливается, когда никто не нападает на него, а когда он умирает, распадается на фрагменты.</LotM_A_LostUnshadowed.description>
+  <LotM_A_LostUnshadowed.tools.0.label>щупальца</LotM_A_LostUnshadowed.tools.0.label>
+  <LotM_A_LostUnshadowed.tools.1.label>укус</LotM_A_LostUnshadowed.tools.1.label>
+  <LotM_A_LostJusticeMentor.label>потерянный наставник правосудия</LotM_A_LostJusticeMentor.label>
+  <LotM_A_LostJusticeMentor.description>Наставник Правосудия, который потерял контроль. Его Правосудие больше ничего не значит, но он всё ещё судит: рядом с ним силы ослабевают, а тех, кого он осуждает, они не могут использовать свои силы. Солнца взрываются над его врагами.</LotM_A_LostJusticeMentor.description>
+  <LotM_A_LostJusticeMentor.tools.0.label>Пасть</LotM_A_LostJusticeMentor.tools.0.label>
+  <LotM_A_LostJusticeMentor.tools.1.label>Удар</LotM_A_LostJusticeMentor.tools.1.label>
+  <LotM_A_LostLightseeker.label>потерянный ищущий свет</LotM_A_LostLightseeker.label>
+  <LotM_A_LostLightseeker.description>Ангел Солнца, потерявший контроль. Он движется со скоростью света, горит как маленькое солнце и обжигает всё вокруг, не щадя никого.</LotM_A_LostLightseeker.description>
+  <LotM_A_LostLightseeker.tools.0.label>Когти</LotM_A_LostLightseeker.tools.0.label>
+  <LotM_A_LostLightseeker.tools.1.label>укус</LotM_A_LostLightseeker.tools.1.label>
+  <LotM_A_LostWhiteAngel.label>потерянный белый ангел</LotM_A_LostWhiteAngel.label>
+  <LotM_A_LostWhiteAngel.description>Высокий ангел Солнца, потерявший контроль. Его окружает чистое белое свечение, которое отменяет всё, к чему прикасается; где он находится, солнце не заходит, и ничто темное или мёртвое не может существовать.</LotM_A_LostWhiteAngel.description>
+  <LotM_A_LostWhiteAngel.tools.0.label>лезвия</LotM_A_LostWhiteAngel.tools.0.label>
+  <LotM_A_LostWhiteAngel.tools.1.label>Удар</LotM_A_LostWhiteAngel.tools.1.label>
+  <LotM_FragmentSun_Bulbfreak.label>незатененный фрагмент</LotM_FragmentSun_Bulbfreak.label>
+  <LotM_FragmentSun_Bulbfreak.tools.0.label>щупальца</LotM_FragmentSun_Bulbfreak.tools.0.label>
+  <LotM_FragmentSun_Toughspike.label>меньший фрагмент бестени</LotM_FragmentSun_Toughspike.label>
+  <LotM_FragmentSun_Toughspike.tools.0.label>Шип</LotM_FragmentSun_Toughspike.tools.0.label>
+  <LotM_FragmentSun_Trispike.label>крошечный незатененный фрагмент</LotM_FragmentSun_Trispike.label>
+  <LotM_FragmentSun_Trispike.tools.0.label>укус</LotM_FragmentSun_Trispike.tools.0.label>
+</LanguageData>

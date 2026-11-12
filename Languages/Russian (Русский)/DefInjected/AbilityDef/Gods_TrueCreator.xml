@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Apotheosis_HangedMan.label>апофеоз</LotM_Apotheosis_HangedMan.label>
+  <LotM_Apotheosis_HangedMan.description>С тремя характеристиками Тёмного Ангела и Уникальностью Висячего Мужчины внутри них, они начинают, на алтаре своего Святилища, ритуал стать Истинным Творцом. Он длится три дня, и весь мир придет остановить его, прямо в Святилище. Если они умрут, потеряют контроль, алтарь сломается или Святилище перестанет соответствовать требованиям, плоть взорвется, и чёрный океан затопит все вокруг них.</LotM_Apotheosis_HangedMan.description>
+  <LotM_CreatorSpawnCorrupted.label>породить испорченное</LotM_CreatorSpawnCorrupted.label>
+  <LotM_CreatorSpawnCorrupted.description>На любом месте в мире: из тьмы рождаются испорченные монстры плоти, которые сражаются за него. У них есть особенность воскрешения: плоть поднимается снова дважды.</LotM_CreatorSpawnCorrupted.description>
+  <LotM_CreatorMutate.label>мутация</LotM_CreatorMutate.label>
+  <LotM_CreatorMutate.description>На враге, где угодно в мире: плоть всей его группы мутирует. Слабые (животные, обычные люди и Потусторонние низких Последовательностей) становятся плотью зверей в его служении; остальные остаются деформированными какое-то время.</LotM_CreatorMutate.description>
+  <LotM_CreatorDepravedWord.label>развращенное слово</LotM_CreatorDepravedWord.label>
+  <LotM_CreatorDepravedWord.description>Над любым местом в мире: враги слышат его порочный язык. Они испытывают сильную боль, и их тела разрываются; внутри ворочаются чёрные черви и белые мотыльки. Самые слабые взрываются невыразимыми глазами.</LotM_CreatorDepravedWord.description>
+  <LotM_CreatorShadowWorld.label>открыть Мир теней</LotM_CreatorShadowWorld.label>
+  <LotM_CreatorShadowWorld.description>На любом месте в мире: открывает Мир Теней, который является его абсолютным хозяином, и десять теневых существ выходят, чтобы повиноваться ему.</LotM_CreatorShadowWorld.description>
+  <LotM_CreatorShadowOnBack.label>тень на спине</LotM_CreatorShadowOnBack.label>
+  <LotM_CreatorShadowOnBack.description>На ком-либо, где угодно в мире: тень цепляется за его спину, а другие поднимаются из глубин его разума, сливаясь и перестраиваясь: это его дегенеративная природа. За исключением высоких Последовательностей (которые в лучшем случае подавляют её), они превращаются в искажённого монстра Истинного Творца.</LotM_CreatorShadowOnBack.description>
+  <LotM_CreatorDevouringDarkness.label>пожирающая тьма</LotM_CreatorDevouringDarkness.label>
+  <LotM_CreatorDevouringDarkness.description>Над любым местом в мире: тьма, которая поглощает всё и развращает сердце. Она ранит врагов, которых достигает, и погружает их в порочность; если она наполняется, они становятся его чудовищами.</LotM_CreatorDevouringDarkness.description>
+  <LotM_CreatorDefile.label>осквернять</LotM_CreatorDefile.label>
+  <LotM_CreatorDefile.description>На любом месте в мире: оскверняет всё. Земля наполняется грязью, еда гниёт, враги болеют, и алтари других богов трескаются.</LotM_CreatorDefile.description>
+  <LotM_CreatorSeedPower.label>семя</LotM_CreatorSeedPower.label>
+  <LotM_CreatorSeedPower.description>На ком-либо, где угодно в мире: сеет семя, которое сливается с его духовным телом. Его почти невозможно очистить, и каждые несколько дней оно искажает его разум и судьбу: оно тянет его к богу, заставляет его потерять контроль или, если он подавлен, уводит к его стороне.</LotM_CreatorSeedPower.description>
+  <LotM_CreatorGrazeAll.label>пастись</LotM_CreatorGrazeAll.label>
+  <LotM_CreatorGrazeAll.description>На любом месте в мире: омывает души каждого мёртвого Потустороннего там. Каждая душа даёт ему часть своих сил.</LotM_CreatorGrazeAll.description>
+  <LotM_CreatorSacrifice.label>жертва</LotM_CreatorSacrifice.label>
+  <LotM_CreatorSacrifice.description>Он жертвует собой, чтобы обеспечить абсолютную надежду. Он лежит сломленным целый день почти без духовности; взамен его люди, умершие в последний день, восстают, все его союзники полностью исцелены и освобождены от всего плохого, и наполнены абсолютной надеждой на несколько дней.</LotM_CreatorSacrifice.description>
+  <LotM_CreatorSinBearing.label>козел отпущения</LotM_CreatorSinBearing.label>
+  <LotM_CreatorSinBearing.description>Переключатель: он несёт грехи своего народа. Включен, он принимает урон и смерть, предназначенные для его ближайших союзников, а основные атаки врагов направляются на него. Потребляет духовность в час.</LotM_CreatorSinBearing.description>
+</LanguageData>

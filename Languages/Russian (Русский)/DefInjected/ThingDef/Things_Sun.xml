@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_SunHolyWater.label>святая вода света</LotM_SunHolyWater.label>
+  <LotM_SunHolyWater.description>Вода, очищенная с помощью ритуала Солнца. Теплая на ощупь. Очень сильна против зла: брошенная, она сжигает и изгнает его; на оружии делает его святым на некоторое время.</LotM_SunHolyWater.description>
+  <LotM_SolarHolyWater.label>солнечная святая вода</LotM_SolarHolyWater.label>
+  <LotM_SolarHolyWater.description>Освящает местную воду заклинанием Солнца. Солнечная святая вода изгнания исцеляет злых духов и очищает призраков; кто выпьет её, перестаёт чувствовать холод. Любой, кто её несёт, может бросить её, окропить оружие или выпить.</LotM_SolarHolyWater.description>
+  <LotM_Projectile_HolyWater.label>фляга с святой водой</LotM_Projectile_HolyWater.label>
+  <LotM_Projectile_SolarHolyWater.label>фляга с солнечной святой водой</LotM_Projectile_SolarHolyWater.label>
+  <LotM_DaylightSource.label>полный дневной свет</LotM_DaylightSource.label>
+  <LotM_DaylightSource.description>Полдень, который кто-то призвал в это место.</LotM_DaylightSource.description>
+  <LotM_GoldenFlameSea.label>океан золотых пламен</LotM_GoldenFlameSea.label>
+  <LotM_GoldenFlameSea.description>Золотые, плотные и иллюзорные пламя с величественной аурой солнца. Они не зажигают ничего, но горят.</LotM_GoldenFlameSea.description>
+  <LotM_UnshadowedDomain.label>незатененная область</LotM_UnshadowedDomain.label>
+  <LotM_UnshadowedDomain.description>Яркий, пылающий свет освещает каждый угол региона в течение часов. Там не остается темноты: все скрытое или невидимое становится явным, и силы порчи, дегенерации и тьмы ослабевают. Это не барьер: любой может прийти и уйти.</LotM_UnshadowedDomain.description>
+  <LotM_FlaringSun.label>пылающее солнце</LotM_FlaringSun.label>
+  <LotM_FlaringSun.description>Они разводят руки, словно принимая дар от богов, и мгновенно огромный шар чистого света, сконцентрированного из бесчисленных священных пламен, охватывает место. Он наносит огромный урон развращенным, дегенератам и бессмертным, и плавит зло и тьму. Его досягаемость настолько велика, что легко ранить свою сторону.</LotM_FlaringSun.description>
+  <LotM_Projectile_SunSpear.label>незатененное копье</LotM_Projectile_SunSpear.label>
+  <LotM_SolarEnvoyLight.label>свет маленького солнца</LotM_SolarEnvoyLight.label>
+  <LotM_SolarEnvoyLight.description>Свет того, кто стал маленьким солнцем.</LotM_SolarEnvoyLight.description>
+  <LotM_Projectile_LightSpear.label>копье света</LotM_Projectile_LightSpear.label>
+  <LotM_DivineWall.label>стена света</LotM_DivineWall.label>
+  <LotM_DivineWall.description>Свет, ставший твёрдым: край Божественного царства. Ничто не проходит сквозь него и не нарушает его.</LotM_DivineWall.description>
+  <LotM_SunEmblem.label>священный эмблема Солнца</LotM_SunEmblem.label>
+  <LotM_SunEmblem.description>Святой эмблема Солнца, над алтарем церкви Божественного царства. Она никогда не перестаёт сиять.</LotM_SunEmblem.description>
+</LanguageData>

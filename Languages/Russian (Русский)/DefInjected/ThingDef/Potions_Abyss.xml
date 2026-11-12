@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Potion_Criminal.label>зелье: Преступник</LotM_Potion_Criminal.label>
+  <LotM_Potion_Criminal.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Criminal.ingestible.ingestReportString>
+  <LotM_Potion_Criminal.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Criminal.ingestible.ingestCommandString>
+  <LotM_Potion_UnwingedAngel.label>зелье: Бескрылый ангел</LotM_Potion_UnwingedAngel.label>
+  <LotM_Potion_UnwingedAngel.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_UnwingedAngel.ingestible.ingestReportString>
+  <LotM_Potion_UnwingedAngel.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_UnwingedAngel.ingestible.ingestCommandString>
+  <LotM_Potion_SerialKiller.label>зелье: Серийный убийца</LotM_Potion_SerialKiller.label>
+  <LotM_Potion_SerialKiller.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_SerialKiller.ingestible.ingestReportString>
+  <LotM_Potion_SerialKiller.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_SerialKiller.ingestible.ingestCommandString>
+  <LotM_Potion_Devil.label>зелье: Дьявол</LotM_Potion_Devil.label>
+  <LotM_Potion_Devil.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Devil.ingestible.ingestReportString>
+  <LotM_Potion_Devil.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Devil.ingestible.ingestCommandString>
+  <LotM_Potion_DesireApostle.label>зелье: Апостол желаний</LotM_Potion_DesireApostle.label>
+  <LotM_Potion_DesireApostle.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_DesireApostle.ingestible.ingestReportString>
+  <LotM_Potion_DesireApostle.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_DesireApostle.ingestible.ingestCommandString>
+  <LotM_Potion_Demon.label>зелье: Демон</LotM_Potion_Demon.label>
+  <LotM_Potion_Demon.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Demon.ingestible.ingestReportString>
+  <LotM_Potion_Demon.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Demon.ingestible.ingestCommandString>
+  <LotM_Potion_Blatherer.label>зелье: Болтун</LotM_Potion_Blatherer.label>
+  <LotM_Potion_Blatherer.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Blatherer.ingestible.ingestReportString>
+  <LotM_Potion_Blatherer.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Blatherer.ingestible.ingestCommandString>
+  <LotM_Potion_BloodyArchduke.label>зелье: Кровавый эрцгерцог</LotM_Potion_BloodyArchduke.label>
+  <LotM_Potion_BloodyArchduke.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_BloodyArchduke.ingestible.ingestReportString>
+  <LotM_Potion_BloodyArchduke.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_BloodyArchduke.ingestible.ingestCommandString>
+  <LotM_Potion_FilthyMonarch.label>зелье: Нечистый монарх</LotM_Potion_FilthyMonarch.label>
+  <LotM_Potion_FilthyMonarch.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_FilthyMonarch.ingestible.ingestReportString>
+  <LotM_Potion_FilthyMonarch.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_FilthyMonarch.ingestible.ingestCommandString>
+  <LotM_Potion_Criminal.description>тёмная красная жидкость, кровавая и в то же время сладкая.</LotM_Potion_Criminal.description>
+  <LotM_Potion_UnwingedAngel.description>Ледяная синяя жидкость с множеством черных точек, взвешенных внутри.</LotM_Potion_UnwingedAngel.description>
+  <LotM_Potion_SerialKiller.description>Черкая жидкость с кусочками льда, плавающими в ней. У нее резкий, опьяняющий вкус.</LotM_Potion_SerialKiller.description>
+  <LotM_Potion_Devil.description>Тёмкая жидкость, в которой сгорают серные пламя без остановки.</LotM_Potion_Devil.description>
+  <LotM_Potion_DesireApostle.description>Ярко окрашенная жидкость, приятная для глаз, как радужный коктейль.</LotM_Potion_DesireApostle.description>
+  <LotM_Potion_Demon.description>Ярко-красная жидкость с ароматным запахом. Она выглядит заманчиво и безвредно.</LotM_Potion_Demon.description>
+  <LotM_Potion_Blatherer.description>Почти эфирная жидкость, состоящая из наслоенных пузырей, которые никогда не перестают булькать; каждый из них издает звук.</LotM_Potion_Blatherer.description>
+  <LotM_Potion_BloodyArchduke.description>флакон густой, вязкой, отвратительной крови.</LotM_Potion_BloodyArchduke.description>
+  <LotM_Potion_FilthyMonarch.description>Темная черная гнойная масса, выделяющая едкий, темно-зеленый газ.</LotM_Potion_FilthyMonarch.description>
+</LanguageData>

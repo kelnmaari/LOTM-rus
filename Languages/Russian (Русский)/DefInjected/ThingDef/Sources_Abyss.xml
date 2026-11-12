@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Plant_TwinFlower.label>двойной цветок</LotM_Plant_TwinFlower.label>
+  <LotM_Plant_TwinFlower.description>Цветок, который всегда растет парами на одном стебле: один белый и один черный. Сбор его дает его гидролат.</LotM_Plant_TwinFlower.description>
+  <LotM_Plant_BlackLily.label>чёрная лилия</LotM_Plant_BlackLily.label>
+  <LotM_Plant_BlackLily.description>Лилия черная, как уголь, которая расцветает только там, где пролилось много крови. Сбор её даёт её эссенцию.</LotM_Plant_BlackLily.description>
+  <LotM_Plant_WhitePoppy.label>белая мак</LotM_Plant_WhitePoppy.label>
+  <LotM_Plant_WhitePoppy.description>Чистая белая мак, которая колышется даже когда нет ветра. Сбор её даёт цветок.</LotM_Plant_WhitePoppy.description>
+</LanguageData>

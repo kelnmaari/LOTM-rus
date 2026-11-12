@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_CardCutInjury.label>рез бумажного кинжала</LotM_CardCutInjury.label>
+  <LotM_CardCutInjury.labelNoun>порез бумажным кинжалом</LotM_CardCutInjury.labelNoun>
+  <LotM_CardCutInjury.description>Чистый, глубокий порез, сделанный листом бумаги, затвердевшим как сталь.</LotM_CardCutInjury.description>
+  <LotM_CardCutInjury.comps.0.labelTendedWell>перевязанный</LotM_CardCutInjury.comps.0.labelTendedWell>
+  <LotM_CardCutInjury.comps.0.labelTendedWellInner>сшитый</LotM_CardCutInjury.comps.0.labelTendedWellInner>
+  <LotM_CardCutInjury.comps.0.labelSolidTendedWell>установить</LotM_CardCutInjury.comps.0.labelSolidTendedWell>
+  <LotM_CardCutInjury.comps.2.permanentLabel>шрам от бумажного кинжала</LotM_CardCutInjury.comps.2.permanentLabel>
+  <LotM_CardCutInjury.injuryProps.destroyedLabel>Порез бумажным кинжалом</LotM_CardCutInjury.injuryProps.destroyedLabel>
+  <LotM_CardCutInjury.injuryProps.destroyedOutLabel>оторван бумажным кинжалом</LotM_CardCutInjury.injuryProps.destroyedOutLabel>
+  <LotM_AirBlastInjury.label>удар воздушной пули</LotM_AirBlastInjury.label>
+  <LotM_AirBlastInjury.labelNoun>удар воздушного пули</LotM_AirBlastInjury.labelNoun>
+  <LotM_AirBlastInjury.description>Глубокий синяк от сжатого воздуха, выпущенного как пуля.</LotM_AirBlastInjury.description>
+  <LotM_AirBlastInjury.comps.0.labelTendedWell>перевязанный</LotM_AirBlastInjury.comps.0.labelTendedWell>
+  <LotM_AirBlastInjury.comps.0.labelTendedWellInner>сшитый</LotM_AirBlastInjury.comps.0.labelTendedWellInner>
+  <LotM_AirBlastInjury.comps.0.labelSolidTendedWell>установить</LotM_AirBlastInjury.comps.0.labelSolidTendedWell>
+  <LotM_AirBlastInjury.comps.2.permanentLabel>шрам от воздушной пули</LotM_AirBlastInjury.comps.2.permanentLabel>
+  <LotM_AirBlastInjury.injuryProps.destroyedLabel>разорван воздушной пулей</LotM_AirBlastInjury.injuryProps.destroyedLabel>
+  <LotM_MysticBurn.label>ожог мистического пламени</LotM_MysticBurn.label>
+  <LotM_MysticBurn.labelNoun>ожог мистического пламени</LotM_MysticBurn.labelNoun>
+  <LotM_MysticBurn.description>Ожог от огня, призванного Потусторонним.</LotM_MysticBurn.description>
+  <LotM_MysticBurn.comps.0.labelTendedWell>выстреленный</LotM_MysticBurn.comps.0.labelTendedWell>
+  <LotM_MysticBurn.comps.0.labelTendedWellInner>ухаживаемый</LotM_MysticBurn.comps.0.labelTendedWellInner>
+  <LotM_MysticBurn.comps.0.labelSolidTendedWell>ухаживаемый</LotM_MysticBurn.comps.0.labelSolidTendedWell>
+  <LotM_MysticBurn.comps.2.permanentLabel>шрам от мистического пламени</LotM_MysticBurn.comps.2.permanentLabel>
+  <LotM_MysticBurn.injuryProps.destroyedLabel>обгоревший</LotM_MysticBurn.injuryProps.destroyedLabel>
+  <LotM_MysticBurn.injuryProps.destroyedOutLabel>обгоревший</LotM_MysticBurn.injuryProps.destroyedOutLabel>
+  <LotM_PotionBacklashInjury.label>ранение зельем</LotM_PotionBacklashInjury.label>
+  <LotM_PotionBacklashInjury.labelNoun>ранение зельем</LotM_PotionBacklashInjury.labelNoun>
+  <LotM_PotionBacklashInjury.description>Плоть разорвалась сама, пока зелье усваивалось.</LotM_PotionBacklashInjury.description>
+  <LotM_PotionBacklashInjury.comps.0.labelTendedWell>перевязанный</LotM_PotionBacklashInjury.comps.0.labelTendedWell>
+  <LotM_PotionBacklashInjury.comps.0.labelTendedWellInner>сшитый</LotM_PotionBacklashInjury.comps.0.labelTendedWellInner>
+  <LotM_PotionBacklashInjury.comps.0.labelSolidTendedWell>установить</LotM_PotionBacklashInjury.comps.0.labelSolidTendedWell>
+  <LotM_PotionBacklashInjury.comps.1.permanentLabel>шрам от зелья</LotM_PotionBacklashInjury.comps.1.permanentLabel>
+  <LotM_PotionBacklashInjury.injuryProps.destroyedLabel>разорванный</LotM_PotionBacklashInjury.injuryProps.destroyedLabel>
+  <LotM_SelfHarmInjury.label>самоповреждение</LotM_SelfHarmInjury.label>
+  <LotM_SelfHarmInjury.labelNoun>самопричиненная рана</LotM_SelfHarmInjury.labelNoun>
+  <LotM_SelfHarmInjury.description>Раны, которые они нанесли себе, пока зелье их поглощало.</LotM_SelfHarmInjury.description>
+  <LotM_SelfHarmInjury.comps.0.labelTendedWell>перевязанный</LotM_SelfHarmInjury.comps.0.labelTendedWell>
+  <LotM_SelfHarmInjury.comps.0.labelTendedWellInner>сшитый</LotM_SelfHarmInjury.comps.0.labelTendedWellInner>
+  <LotM_SelfHarmInjury.comps.0.labelSolidTendedWell>установить</LotM_SelfHarmInjury.comps.0.labelSolidTendedWell>
+  <LotM_SelfHarmInjury.comps.2.permanentLabel>шрам от самоповреждения</LotM_SelfHarmInjury.comps.2.permanentLabel>
+  <LotM_SelfHarmInjury.injuryProps.destroyedLabel>отрвано</LotM_SelfHarmInjury.injuryProps.destroyedLabel>
+  <LotM_SelfHarmInjury.injuryProps.destroyedOutLabel>отрвано</LotM_SelfHarmInjury.injuryProps.destroyedOutLabel>
+  <LotM_CrushInjury.label>сокрушение</LotM_CrushInjury.label>
+  <LotM_CrushInjury.labelNoun>угнетение</LotM_CrushInjury.labelNoun>
+  <LotM_CrushInjury.description>Плоть и кости раздавлены, когда место сжимается на себя.</LotM_CrushInjury.description>
+  <LotM_CrushInjury.comps.0.labelTendedWell>перевязанный</LotM_CrushInjury.comps.0.labelTendedWell>
+  <LotM_CrushInjury.comps.0.labelTendedWellInner>сшитый</LotM_CrushInjury.comps.0.labelTendedWellInner>
+  <LotM_CrushInjury.comps.0.labelSolidTendedWell>установить</LotM_CrushInjury.comps.0.labelSolidTendedWell>
+  <LotM_CrushInjury.comps.2.permanentLabel>шрам от раздавливания</LotM_CrushInjury.comps.2.permanentLabel>
+  <LotM_CrushInjury.injuryProps.destroyedLabel>раздавленный</LotM_CrushInjury.injuryProps.destroyedLabel>
+</LanguageData>

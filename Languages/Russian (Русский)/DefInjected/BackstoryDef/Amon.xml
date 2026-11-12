@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Amon_Child.title>сын древнего бога</LotM_Amon_Child.title>
+  <LotM_Amon_Child.titleShort>божественный сын</LotM_Amon_Child.titleShort>
+  <LotM_Amon_Child.description>[PAWN_nameDef] родился сыном древнего бога, когда мир ещё не имел этого имени. В детстве он крал игрушки; позже — тайны; а затем ещё — время.</LotM_Amon_Child.description>
+  <LotM_Amon_Adult.title>ангел времени</LotM_Amon_Adult.title>
+  <LotM_Amon_Adult.titleShort>ангел</LotM_Amon_Adult.titleShort>
+  <LotM_Amon_Adult.description>На протяжении тысячелетий [PAWN_nameDef] забирал всё, что его интересует: предметы, силы, тела. Он — ошибка пути, воплощенная в плоти. Он ищет что-то, о чем никто другой не знает местоположение, а тем временем развлекается.</LotM_Amon_Adult.description>
+  <LotM_Pallez_Child.title>ученик времени</LotM_Pallez_Child.title>
+  <LotM_Pallez_Child.titleShort>ученик</LotM_Pallez_Child.titleShort>
+  <LotM_Pallez_Child.description>[PAWN_nameDef] научился воровать, когда мир был моложе, у мастеров, которых больше нет.</LotM_Pallez_Child.description>
+  <LotM_Pallez_Adult.title>скрытый ангел</LotM_Pallez_Adult.title>
+  <LotM_Pallez_Adult.titleShort>скрытый</LotM_Pallez_Adult.titleShort>
+  <LotM_Pallez_Adult.description>[PAWN_nameDef] был ангелом Ошибки. Сегодня он старик, живущий скрываясь внутри других и меняющий тела, прежде чем его найдут. Он обладает одной из трёх характеристик Червей Времени, и Амон хочет её.</LotM_Pallez_Adult.description>
+</LanguageData>

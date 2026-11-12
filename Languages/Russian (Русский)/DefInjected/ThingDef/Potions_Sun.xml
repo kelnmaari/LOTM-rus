@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Potion_Bard.label>зелье: Бард</LotM_Potion_Bard.label>
+  <LotM_Potion_Bard.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Bard.ingestible.ingestReportString>
+  <LotM_Potion_Bard.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Bard.ingestible.ingestCommandString>
+  <LotM_Potion_LightSuppliant.label>зелье: Проситель света</LotM_Potion_LightSuppliant.label>
+  <LotM_Potion_LightSuppliant.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_LightSuppliant.ingestible.ingestReportString>
+  <LotM_Potion_LightSuppliant.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_LightSuppliant.ingestible.ingestCommandString>
+  <LotM_Potion_SolarHighPriest.label>зелье: Верховный жрец солнца</LotM_Potion_SolarHighPriest.label>
+  <LotM_Potion_SolarHighPriest.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_SolarHighPriest.ingestible.ingestReportString>
+  <LotM_Potion_SolarHighPriest.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_SolarHighPriest.ingestible.ingestCommandString>
+  <LotM_Potion_Notary.label>зелье: Нотариус</LotM_Potion_Notary.label>
+  <LotM_Potion_Notary.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Notary.ingestible.ingestReportString>
+  <LotM_Potion_Notary.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Notary.ingestible.ingestCommandString>
+  <LotM_Potion_PriestOfLight.label>зелье: Жрец света</LotM_Potion_PriestOfLight.label>
+  <LotM_Potion_PriestOfLight.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_PriestOfLight.ingestible.ingestReportString>
+  <LotM_Potion_PriestOfLight.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_PriestOfLight.ingestible.ingestCommandString>
+  <LotM_Potion_Unshadowed.label>зелье: Бестеневой</LotM_Potion_Unshadowed.label>
+  <LotM_Potion_Unshadowed.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Unshadowed.ingestible.ingestReportString>
+  <LotM_Potion_Unshadowed.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Unshadowed.ingestible.ingestCommandString>
+  <LotM_Potion_JusticeMentor.label>зелье: Наставник справедливости</LotM_Potion_JusticeMentor.label>
+  <LotM_Potion_JusticeMentor.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_JusticeMentor.ingestible.ingestReportString>
+  <LotM_Potion_JusticeMentor.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_JusticeMentor.ingestible.ingestCommandString>
+  <LotM_Potion_Lightseeker.label>зелье: Искатель света</LotM_Potion_Lightseeker.label>
+  <LotM_Potion_Lightseeker.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Lightseeker.ingestible.ingestReportString>
+  <LotM_Potion_Lightseeker.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Lightseeker.ingestible.ingestCommandString>
+  <LotM_Potion_WhiteAngel.label>зелье: Белый ангел</LotM_Potion_WhiteAngel.label>
+  <LotM_Potion_WhiteAngel.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_WhiteAngel.ingestible.ingestReportString>
+  <LotM_Potion_WhiteAngel.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_WhiteAngel.ingestible.ingestCommandString>
+  <LotM_Potion_Bard.description>Золотистая и теплая. Приложив к уху, кажется, она поет весёлую песню.</LotM_Potion_Bard.description>
+  <LotM_Potion_LightSuppliant.description>Оно светится собственным светом, как кусок полудня, пойманный в стекло.</LotM_Potion_LightSuppliant.description>
+  <LotM_Potion_SolarHighPriest.description>Горит при прикосновении, хотя колба холодная. Пахнет ладаном и рассветом.</LotM_Potion_SolarHighPriest.description>
+  <LotM_Potion_Notary.description>Прозрачная и неподвижная. Золотые буквы, которые никто не писал, плавают на ее поверхности.</LotM_Potion_Notary.description>
+  <LotM_Potion_PriestOfLight.description>Белый и теплый. В темноте он освещает всю комнату, и ничто не может скрыться от этого света.</LotM_Potion_PriestOfLight.description>
+  <LotM_Potion_Unshadowed.description>Золотая жидкость без всякого примеси, горячая и яростная. Выглядит как кусок солнца, пытающийся выбраться из флакона.</LotM_Potion_Unshadowed.description>
+  <LotM_Potion_JusticeMentor.description>Неподвижный и золотой, как сбалансированная весы. Тот, кто смотрит на него, чувствует себя осужденным и считает осуждение справедливым.</LotM_Potion_JusticeMentor.description>
+  <LotM_Potion_Lightseeker.description>Он сияет так ярко, что флакон кажется пустым: есть только свет. Тот, кто держит его, чувствует, что может улететь.</LotM_Potion_Lightseeker.description>
+  <LotM_Potion_WhiteAngel.description>Белый, чистый и такой яркий, что на него нельзя смотреть. Всё рядом с ним, что не является светом, начинает распадаться.</LotM_Potion_WhiteAngel.description>
+</LanguageData>

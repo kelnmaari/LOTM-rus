@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Potion_Hunter.label>зелье: Охотник</LotM_Potion_Hunter.label>
+  <LotM_Potion_Hunter.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Hunter.ingestible.ingestReportString>
+  <LotM_Potion_Hunter.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Hunter.ingestible.ingestCommandString>
+  <LotM_Potion_Provoker.label>зелье: Провокатор</LotM_Potion_Provoker.label>
+  <LotM_Potion_Provoker.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Provoker.ingestible.ingestReportString>
+  <LotM_Potion_Provoker.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Provoker.ingestible.ingestCommandString>
+  <LotM_Potion_Pyromaniac.label>зелье: Пироман</LotM_Potion_Pyromaniac.label>
+  <LotM_Potion_Pyromaniac.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Pyromaniac.ingestible.ingestReportString>
+  <LotM_Potion_Pyromaniac.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Pyromaniac.ingestible.ingestCommandString>
+  <LotM_Potion_Conspirer.label>зелье: Заговорщик</LotM_Potion_Conspirer.label>
+  <LotM_Potion_Conspirer.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Conspirer.ingestible.ingestReportString>
+  <LotM_Potion_Conspirer.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Conspirer.ingestible.ingestCommandString>
+  <LotM_Potion_Reaper.label>зелье: Жнец</LotM_Potion_Reaper.label>
+  <LotM_Potion_Reaper.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Reaper.ingestible.ingestReportString>
+  <LotM_Potion_Reaper.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Reaper.ingestible.ingestCommandString>
+  <LotM_Potion_IronbloodedKnight.label>зелье: Рыцарь железной крови</LotM_Potion_IronbloodedKnight.label>
+  <LotM_Potion_IronbloodedKnight.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_IronbloodedKnight.ingestible.ingestReportString>
+  <LotM_Potion_IronbloodedKnight.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_IronbloodedKnight.ingestible.ingestCommandString>
+  <LotM_Potion_WarBishop.label>зелье: Епископ войны</LotM_Potion_WarBishop.label>
+  <LotM_Potion_WarBishop.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_WarBishop.ingestible.ingestReportString>
+  <LotM_Potion_WarBishop.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_WarBishop.ingestible.ingestCommandString>
+  <LotM_Potion_WeatherWarlock.label>зелье: Колдун погоды</LotM_Potion_WeatherWarlock.label>
+  <LotM_Potion_WeatherWarlock.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_WeatherWarlock.ingestible.ingestReportString>
+  <LotM_Potion_WeatherWarlock.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_WeatherWarlock.ingestible.ingestCommandString>
+  <LotM_Potion_Conqueror.label>зелье: Завоеватель</LotM_Potion_Conqueror.label>
+  <LotM_Potion_Conqueror.ingestible.ingestReportString>Пьёт {0}.</LotM_Potion_Conqueror.ingestible.ingestReportString>
+  <LotM_Potion_Conqueror.ingestible.ingestCommandString>Выпить {0}</LotM_Potion_Conqueror.ingestible.ingestCommandString>
+  <LotM_Potion_Hunter.description>Глубокий красный жидкость, пузырящая, как будто кровь окрашивает всё стекло. Она имеет едкий запах крови, наполняющий ноздри.</LotM_Potion_Hunter.description>
+  <LotM_Potion_Provoker.description>Черная, вязкая жидкость с отвратительным вкусом и резким запахом. Просто видеть её заставляет хотеть бросить её на землю и попинать.</LotM_Potion_Provoker.description>
+  <LotM_Potion_Pyromaniac.description>Желтая жидкость с красными пузырями, плавающими на ней, и в центре "сердце", окруженное туманом крови. Пить ее обжигает из рта, по горлу в желудок и пронзает сердце.</LotM_Potion_Pyromaniac.description>
+  <LotM_Potion_Conspirer.description>Железо-черный, с большим количеством красноватой ржавчины, плавающей на нем. У него сильный ржавый вкус и он ощущается холодным, как змея, ползущая в темноте: скользкий и ледяной.</LotM_Potion_Conspirer.description>
+  <LotM_Potion_Reaper.description>Свежая красная кровь с черными вкраплениями, как железные опилки, словно внутри разбилось оружие. Она сильно пахнет кровью, имеет странный вкус ржавчины, а при употреблении вызывает жгучее ощущение во рту и пронзает мозг.</LotM_Potion_Reaper.description>
+  <LotM_Potion_IronbloodedKnight.description>Как расплавленный металл: красный, пылающий и яркий. Тот, кто его пьет, становится мужчиной, независимо от его пола.</LotM_Potion_IronbloodedKnight.description>
+  <LotM_Potion_WarBishop.description>Половина красная, половина черная, с светом, который постоянно перескакивает с одной стороны на другую.</LotM_Potion_WarBishop.description>
+  <LotM_Potion_WeatherWarlock.description>Образовавшаяся, пурпурная жидкость, которая горит.</LotM_Potion_WeatherWarlock.description>
+  <LotM_Potion_Conqueror.description>Ослепительная, пылающая фиолетовая сфера света в форме короны.</LotM_Potion_Conqueror.description>
+</LanguageData>

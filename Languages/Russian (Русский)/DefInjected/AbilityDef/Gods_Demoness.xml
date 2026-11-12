@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Apotheosis_Demoness.label>апофеоз</LotM_Apotheosis_Demoness.label>
+  <LotM_Apotheosis_Demoness.description>С тремя характеристиками Апокалипсиса и Уникальностью Демонессы внутри нее, она начинает, на алтаре своего Святилища, ритуал стать Первородной Демонессой: Хаосом, началом и концом. Он длится три дня, и весь мир придет остановить ее. Если она умрет, потеряет контроль, алтарь сломается или Святилище перестанет соответствовать требованиям, вихрь Хаоса поглотит все вокруг нее.</LotM_Apotheosis_Demoness.description>
+  <LotM_DemonessDivineChaosVortex.label>вихрь Хаоса</LotM_DemonessDivineChaosVortex.label>
+  <LotM_DemonessDivineChaosVortex.description>Хаос нельзя применить к чему-то стабильному: сначала область (10 клеток) рушится, затем она взрывается противоречиями, а наконец становится вихрем жидкости всех цветов, который поглощает всё. Всё, что находится внутри, растворяется в нереализованных возможностях, без тела: здания, предметы и существа слабее Ангела. Ангел остаётся разбитым, а другой бог катится в сопротивлении. Её союзники и то, что принадлежит ей, остаются нетронутыми; характеристики сохраняются.</LotM_DemonessDivineChaosVortex.description>
+  <LotM_DemonessDivineMirrorSiege.label>осада зеркал</LotM_DemonessDivineMirrorSiege.label>
+  <LotM_DemonessDivineMirrorSiege.description>Пролетает через Зеркальный Мир вокруг цели, оставляя проекцию в каждом месте; когда она сжимает кулак, все они становятся вихрями всех цветов, которые сливаются и поглощают его. Враги рядом с ней тоже поражаются. Другой бог катится, чтобы сопротивляться.</LotM_DemonessDivineMirrorSiege.description>
+  <LotM_DemonessDivineChaosShield.label>щит Хаоса</LotM_DemonessDivineChaosShield.label>
+  <LotM_DemonessDivineChaosShield.description>Вихрь Хаоса покрывает её на час и поглощает атаки и силы, достигающие её, пока не наполнится.</LotM_DemonessDivineChaosShield.description>
+  <LotM_DemonessDivineGaze.label>первобытный взгляд</LotM_DemonessDivineGaze.label>
+  <LotM_DemonessDivineGaze.description>Она смотрит на них: они мгновенно превращаются в камень, включая духовность, и остается только статуя. Другой бог катится, чтобы сопротивляться; иначе они остаются наполовину каменными.</LotM_DemonessDivineGaze.description>
+  <LotM_DemonessDivineStillness.label>безмолвие</LotM_DemonessDivineStillness.label>
+  <LotM_DemonessDivineStillness.description>Примордиум: в области (10 клеток) время почти перестаёт существовать. Его враги замирают на десять секунд, и выстрелы прекращаются. Другой бог появляется, чтобы сопротивляться.</LotM_DemonessDivineStillness.description>
+  <LotM_DemonessDivineOpenMagic.label>открытая тёмная магия</LotM_DemonessDivineOpenMagic.label>
+  <LotM_DemonessDivineOpenMagic.description>Открывает немного своей темной магии обычному человеку (не Потустороннему): они учатся двум слабым колдовским заклинаниям, проклятию несчастья и немного черного пламени. Каждое использует колдовскую пудру.</LotM_DemonessDivineOpenMagic.description>
+  <LotM_DemonessDivineLaugh.label>смех</LotM_DemonessDivineLaugh.label>
+  <LotM_DemonessDivineLaugh.description>Он смеётся: сердца всех его врагов на карте чешутся в течение часа (они двигаются медленнее, нацеливаются и бьют хуже). Даже патогены замедляются: болезни его народа ослабевают.</LotM_DemonessDivineLaugh.description>
+  <LotM_DemonessDivineSmile.label>улыбка</LotM_DemonessDivineSmile.label>
+  <LotM_DemonessDivineSmile.description>Она улыбается врагу: даже Король ангелов оцепенеет и не сможет причинить ей вреда в течение часа. Другой бог берётся в бой.</LotM_DemonessDivineSmile.description>
+  <LotM_DemonessDivinePlagueZone.label>зона чумы</LotM_DemonessDivinePlagueZone.label>
+  <LotM_DemonessDivinePlagueZone.description>Прикрепляет концепцию чумы к месту (8 клеток) на один день: каждый враг, наступающий на него, заболевает ее чумой (той, которую она поддерживает, или высасывающей). Ее чума достигает и богов.</LotM_DemonessDivinePlagueZone.description>
+  <LotM_DemonessDivineSickenThing.label>заболеть чем-то</LotM_DemonessDivineSickenThing.label>
+  <LotM_DemonessDivineSickenThing.description>Прикрепляет концепцию Болезни к чему-либо: здание, машину или существо гниет в течение дня.</LotM_DemonessDivineSickenThing.description>
+  <LotM_DemonessDivineMirrorFusion.label>слияние с Миром Зеркала</LotM_DemonessDivineMirrorFusion.label>
+  <LotM_DemonessDivineMirrorFusion.description>Она сливается с Зеркальным Миром и выходит через любое из своих зеркал (ледяное или спящее), на любой карте. Пассивно: она — Зеркальный Мир; она по-настоящему умирает, только если все ее зеркала разбиты, на каждой карте.</LotM_DemonessDivineMirrorFusion.description>
+  <LotM_DemonessDivineFeminize.label>женственность</LotM_DemonessDivineFeminize.label>
+  <LotM_DemonessDivineFeminize.description>Превращает того, кого она видит, в женщину (животное в самку). Враг, преобразованный таким образом, мгновенно влюбляется и бежит; заключенный присоединяется к ней. Враг-Потусторонний может сопротивляться.</LotM_DemonessDivineFeminize.description>
+  <LotM_DemonessDivineKingdom.label>Королевство Мира Зеркала</LotM_DemonessDivineKingdom.label>
+  <LotM_DemonessDivineKingdom.description>Его божественное царство, связанное с Зеркальным Миром, покрывает карту на день (или пока она снова не использует его). Только женщины действительно существуют там: вражеские мужчины хуже. Без защиты ее враги сталкиваются с бедствиями; глядя на то, чего они не должны, они оцепеневают, а иногда наслаждение оставляет их неподвижными, не желающими уходить.</LotM_DemonessDivineKingdom.description>
+  <LotM_DemonessMinorCurse.label>проклятие несчастья</LotM_DemonessMinorCurse.label>
+  <LotM_DemonessMinorCurse.description>Заклинание ведьмы, открытое Первородной Демоницей: с небольшим ведьминским порошком оно проклинает кого-то на несколько дней несчастных случаев. Потусторонний может сопротивляться.</LotM_DemonessMinorCurse.description>
+  <LotM_DemonessMinorFlame.label>меньшее чёрное пламя</LotM_DemonessMinorFlame.label>
+  <LotM_DemonessMinorFlame.description>Заклинание ведьмы, открытое Первородной Демонессой: с небольшим порошком ведьмы, маленький чёрный пламень сжигает кого-то.</LotM_DemonessMinorFlame.description>
+</LanguageData>

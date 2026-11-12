@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_AmonFamily.label>семья Амона</LotM_AmonFamily.label>
+  <LotM_AmonFamily.fixedName>Семья Амона</LotM_AmonFamily.fixedName>
+  <LotM_AmonFamily.description>Их все зовут Амон. У всех у одинаковая косынка, одинаковое чёрное пальто, одинаковый монокль и одинаковая улыбка. Они — аватара Амона, Короля ангелов Ошибки, и каждый из них верит, что он настоящий.
+
+Они крадут всё, что их интересует: предметы, силы, тела, время. Они сражаются как никто другой. Их можно убить, и они оставляют свою характеристику; но всегда есть другой.
+
+Они не торгуются, не ведут переговоры и не заключают союзов ни с кем.</LotM_AmonFamily.description>
+  <LotM_AmonFamily.pawnSingular>Амон</LotM_AmonFamily.pawnSingular>
+  <LotM_AmonFamily.pawnsPlural>Амон</LotM_AmonFamily.pawnsPlural>
+  <LotM_AmonFamily.leaderTitle>Амон</LotM_AmonFamily.leaderTitle>
+</LanguageData>

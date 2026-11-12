@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_DawnLight.label>Свет Рассвета</LotM_DawnLight.label>
+  <LotM_DawnLight.deathMessage>{0} распался в свете рассвета.</LotM_DawnLight.deathMessage>
+  <LotM_DawnShards.label>осколки рассвета</LotM_DawnShards.label>
+  <LotM_DawnShards.deathMessage>{0} был разорван на части в Урагане Света.</LotM_DawnShards.deathMessage>
+  <LotM_DawnPierce.label>копье рассвета</LotM_DawnPierce.label>
+  <LotM_DawnPierce.deathMessage>{0} умер, пронзенный рассветной копьём.</LotM_DawnPierce.deathMessage>
+  <LotM_GiantImpact.label>удар гиганта</LotM_GiantImpact.label>
+  <LotM_GiantImpact.deathMessage>{0} был раздавлен силой гиганта.</LotM_GiantImpact.deathMessage>
+  <LotM_SilverPierce.label>серебряный рапира</LotM_SilverPierce.label>
+  <LotM_SilverPierce.deathMessage>{0} погиб, пронзенный серебряным рапирой.</LotM_SilverPierce.deathMessage>
+  <LotM_TwilightCut.label>край сумерек</LotM_TwilightCut.label>
+  <LotM_TwilightCut.deathMessage>{0} упал под край Сумерек.</LotM_TwilightCut.deathMessage>
+  <LotM_TwilightRust.label>ржавчина сумерек</LotM_TwilightRust.label>
+  <LotM_TwilightRust.deathMessage>{0} распался в сумеречной буре.</LotM_TwilightRust.deathMessage>
+</LanguageData>

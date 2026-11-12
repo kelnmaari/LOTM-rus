@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_CrystalBall.label>вырезать хрустальный шар</LotM_Make_CrystalBall.label>
+  <LotM_Make_CrystalBall.description>Вырезает шар из звёздного кристалла и устанавливает его на серебряный постамент. Астрология Астролога работает лучше с ним.</LotM_Make_CrystalBall.description>
+  <LotM_Make_CrystalBall.jobString>вырезание хрустального шара.</LotM_Make_CrystalBall.jobString>
+</LanguageData>

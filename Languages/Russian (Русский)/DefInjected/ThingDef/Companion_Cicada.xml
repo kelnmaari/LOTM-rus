@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_CicadaGuitar.label>гитара Цикады</LotM_CicadaGuitar.label>
+  <LotM_CicadaGuitar.description>Потрёпанная гитара, дерево которой покрыто царапинами и цикадой, вырезанной на головке грифа. Цикада не знает, откуда она взялась: она проснулась с ней. Она звучит лучше, чем должна, и в экстренной ситуации она также служит для ударов.</LotM_CicadaGuitar.description>
+  <LotM_CicadaGuitar.tools.0.label>Тело</LotM_CicadaGuitar.tools.0.label>
+  <LotM_CicadaGuitar.tools.1.label>шея</LotM_CicadaGuitar.tools.1.label>
+</LanguageData>

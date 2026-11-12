@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Whispers.label>слушание</LotM_Whispers.label>
+  <LotM_Whispers.description>Они слышат шепот тайных и могущественных сущностей. Иногда они приносят полезные секреты; иногда — то, чего они никогда не должны были слышать. На Последовательности 8 они не могут это выключить.</LotM_Whispers.description>
+  <LotM_ListenerMadness.label>Безумие слушателя</LotM_ListenerMadness.label>
+  <LotM_ListenerMadness.description>Каждый Слушатель безумен внутри. Пока они остаются на Последовательности 8, через некоторое время безумие нарастает. Если оно доходит до конца, они теряют контроль. Переход на Последовательность 7 это прекращает.</LotM_ListenerMadness.description>
+  <LotM_ListenerMadness.stages.0.label>скрытый</LotM_ListenerMadness.stages.0.label>
+  <LotM_ListenerMadness.stages.1.label>рост</LotM_ListenerMadness.stages.1.label>
+  <LotM_ListenerMadness.stages.2.label>тяжёлый</LotM_ListenerMadness.stages.2.label>
+  <LotM_ListenerMadness.stages.3.label>на грани</LotM_ListenerMadness.stages.3.label>
+  <LotM_WhisperNoise.label>шёпот в голове</LotM_WhisperNoise.label>
+  <LotM_WhisperNoise.description>Они не могут перестать слышать шёпот. Мышление и концентрация трудны.</LotM_WhisperNoise.description>
+  <LotM_WhisperInsight.label>предупрежденные шёпотом</LotM_WhisperInsight.label>
+  <LotM_WhisperInsight.description>Шёпот сказал им, где таится опасность.</LotM_WhisperInsight.description>
+  <LotM_WhisperBoon.label>шёпотом секрет</LotM_WhisperBoon.label>
+  <LotM_WhisperBoon.description>Они услышали секрет, о котором не должны знать. На некоторое время все идет немного лучше.</LotM_WhisperBoon.description>
+  <LotM_FleshReserve.label>резерв плоти</LotM_FleshReserve.label>
+  <LotM_FleshReserve.description>Плоть и кровь, которые питают их магию и регенерацию. Пополняются поглощением трупов (один труп дает несколько зарядов). Когда тело целое, оно также стирает шрамы, по одному в час. Пока у них есть плоть, пули проникают в них, и смертельное ранение их не убивает (это стоит много плоти). Когда они пусты, это ослабляет их и может вызвать потерю контроля.</LotM_FleshReserve.description>
+  <LotM_FleshReserve.stages.0.label>корм</LotM_FleshReserve.stages.0.label>
+  <LotM_FleshReserve.stages.1.label>пустота</LotM_FleshReserve.stages.1.label>
+  <LotM_GrazedSouls.label>пасли души</LotM_GrazedSouls.label>
+  <LotM_GrazedSouls.description>Души, которые они проглотили. Они используют силы активных и могут мгновенно их менять. Со временем они изнашиваются и исчезают.</LotM_GrazedSouls.description>
+  <LotM_ReleasedSoul.label>освобожденная душа</LotM_ReleasedSoul.label>
+  <LotM_ReleasedSoul.description>Душа, которую пастух выпустил, чтобы сражаться. Когда время истекает, она возвращается.</LotM_ReleasedSoul.description>
+  <LotM_Servant.label>призван</LotM_Servant.label>
+  <LotM_Servant.description>Призванное существо, которое сражается на стороне того, кто его призвал.</LotM_Servant.description>
+  <LotM_ShadowCurse.label>проклятие тени</LotM_ShadowCurse.label>
+  <LotM_ShadowCurse.description>Кто-то использовал их плоть и кровь, чтобы проклясть их. Холод просачивается в их кости, и они становятся всё слабее.</LotM_ShadowCurse.description>
+  <LotM_ShadowLurk.label>скрыт в тенях</LotM_ShadowLurk.label>
+  <LotM_ShadowLurk.description>Они находятся в тенях. Никто не видит их, пока они остаются в темноте; свет или атака их обнаруживают. Стоит духовности.</LotM_ShadowLurk.description>
+  <LotM_ShadowBound.label>связанные тенями</LotM_ShadowBound.label>
+  <LotM_ShadowBound.description>Тени связывают их: они едва могут пошевелиться.</LotM_ShadowBound.description>
+  <LotM_ShadowChill.label>тень холода</LotM_ShadowChill.label>
+  <LotM_ShadowChill.description>Оружие тени коснулось их: они холодны, и их тело реагирует хуже.</LotM_ShadowChill.description>
+  <LotM_FleshBound.label>заперты в плоти</LotM_FleshBound.label>
+  <LotM_FleshBound.description>Наступают на ковёр из кровоточащей плоти, которая прилипает к их ногам.</LotM_FleshBound.description>
+  <LotM_FleshCloakHediff.label>плотная накидка</LotM_FleshCloakHediff.label>
+  <LotM_FleshCloakHediff.description>Плащ из липкой плоти, который сопротивляется магии и уменьшает урон.</LotM_FleshCloakHediff.description>
+  <LotM_FleshArms.label>плотские руки</LotM_FleshArms.label>
+  <LotM_FleshArms.description>Выросли дополнительные руки и костяные оружие.</LotM_FleshArms.description>
+  <LotM_FleshArms.comps.2.tools.0.label>костящее лезвие</LotM_FleshArms.comps.2.tools.0.label>
+  <LotM_FleshArms.comps.2.tools.1.label>дополнительная рука</LotM_FleshArms.comps.2.tools.1.label>
+  <LotM_BlackArmor.label>черная броня</LotM_BlackArmor.label>
+  <LotM_BlackArmor.description>Гигант в холодной черной броне с двумя красными огнями для глаз. Броня поглощает большую часть ударов и трескается, пока не сломается. Стоит духовности.</LotM_BlackArmor.description>
+  <LotM_ShadowBladeHediff.label>оружие тени</LotM_ShadowBladeHediff.label>
+  <LotM_ShadowBladeHediff.description>Вооружены оружием, выкованным из теней. Когда эффект заканчивается, оно возвращается в тень.</LotM_ShadowBladeHediff.description>
+  <LotM_BlackGreatswordHediff.label>меч упадка</LotM_BlackGreatswordHediff.label>
+  <LotM_BlackGreatswordHediff.description>Владеет черным великим мечом Дегенерации. Когда эффект заканчивается, он распадается.</LotM_BlackGreatswordHediff.description>
+  <LotM_GrazedPower.label>поглотили души</LotM_GrazedPower.label>
+  <LotM_GrazedPower.description>Он поглотил души тех, кто пал поблизости. Каждый из них делает его сильнее.</LotM_GrazedPower.description>
+  <LotM_CreatorWhispers.label>шёпот Творца</LotM_CreatorWhispers.label>
+  <LotM_CreatorWhispers.description>Они слышат голос Истинного Творца через верных Ордена Авроры. Если они продолжат слушать, они превратятся в преданных. Успокаивающая поэма или реквием очищает их голову; вдали от верных, он угасает.</LotM_CreatorWhispers.description>
+  <LotM_CreatorWhispers.stages.0.label>слабый</LotM_CreatorWhispers.stages.0.label>
+  <LotM_CreatorWhispers.stages.1.label>настойчивый</LotM_CreatorWhispers.stages.1.label>
+  <LotM_CreatorWhispers.stages.2.label>почти убежден</LotM_CreatorWhispers.stages.2.label>
+  <LotM_CreatorBlessing.label>благословение Творца</LotM_CreatorBlessing.label>
+  <LotM_CreatorBlessing.description>Ритуал завершен: Истинный Творец ответил и укрепил себя.</LotM_CreatorBlessing.description>
+  <LotM_CaptiveBound.label>обречены на жертву</LotM_CaptiveBound.label>
+  <LotM_CaptiveBound.description>Орден Авроры связал их с их алтарем. Они освободятся, когда рядом не останется верных.</LotM_CaptiveBound.description>
+  <LotM_MythicalForm_Flesh.label>тень и плоть</LotM_MythicalForm_Flesh.label>
+  <LotM_MythicalForm_Flesh.description>Его мифическая форма, еще неполная: черная тень и извивающаяся масса плоти. Она регенерирует за секунды, почти ничего ей не вредит, и она пугает близких врагов.</LotM_MythicalForm_Flesh.description>
+  <LotM_MythicalForm_Flesh.comps.0.tools.0.label>тенцеля плоти</LotM_MythicalForm_Flesh.comps.0.tools.0.label>
+  <LotM_MythicalForm_Flesh.comps.0.tools.1.label>коррозионная тень</LotM_MythicalForm_Flesh.comps.0.tools.1.label>
+  <LotM_MythicalForm_Flesh.stages.0.label>неполный</LotM_MythicalForm_Flesh.stages.0.label>
+  <LotM_MythicalForm_Flesh.stages.1.label>почти готово</LotM_MythicalForm_Flesh.stages.1.label>
+  <LotM_MythicalForm_Flesh.stages.2.label>полный</LotM_MythicalForm_Flesh.stages.2.label>
+  <LotM_ShadowSubstitute.label>замена тени</LotM_ShadowSubstitute.label>
+  <LotM_ShadowSubstitute.description>Их тень принимает на себя смертельные удары вместо них. Когда она исчерпана, тень остаётся разрушенной некоторое время.</LotM_ShadowSubstitute.description>
+  <LotM_TrinityHeads.label>головки Троицы</LotM_TrinityHeads.label>
+  <LotM_TrinityHeads.description>Две теневые головы на плечах, одна молодая и одна старая. Каждая может взять треть тела и мгновенно переделать его, и каждая использует свою душу.</LotM_TrinityHeads.description>
+  <LotM_TrinityUsed.label>головы потрачены</LotM_TrinityUsed.label>
+  <LotM_TrinityUsed.description>Уже использовали свои головы.</LotM_TrinityUsed.description>
+  <LotM_WordPrison.label>тюрьма слов</LotM_WordPrison.label>
+  <LotM_WordPrison.description>Свои же слова заключили их в тюрьму. Они отрезанны от мира: они не могут действовать, и ничто извне их не достигает.</LotM_WordPrison.description>
+  <LotM_Depravity.label>дегенерация</LotM_Depravity.label>
+  <LotM_Depravity.description>Их душа погружается в самую вязкую часть собственного разума. Она растет сама по себе: сначала она приносит злобу и ревность, затем замедляет их, а в конце концов ломает их. Успокаивающая поэма или реквием останавливает это.</LotM_Depravity.description>
+  <LotM_Depravity.stages.0.label>злонамеренность</LotM_Depravity.stages.0.label>
+  <LotM_Depravity.stages.1.label>тонущий</LotM_Depravity.stages.1.label>
+  <LotM_Depravity.stages.2.label>порочный</LotM_Depravity.stages.2.label>
+  <LotM_SoulSinking.label>утонувшая душа</LotM_SoulSinking.label>
+  <LotM_SoulSinking.description>Невидимая сила тянет их сознание вниз. Их лицо подёргивается; движение и мышление затруднены.</LotM_SoulSinking.description>
+  <LotM_Separated.label>отделенный</LotM_Separated.label>
+  <LotM_Separated.description>Их отрезали от того, что было их. Их духовность не реагирует.</LotM_Separated.description>
+  <LotM_Proclamation.label>провозглашен</LotM_Proclamation.label>
+  <LotM_Proclamation.description>Каждое слово, называющее их, делало их немного сильнее.</LotM_Proclamation.description>
+  <LotM_Betrayed.label>предали самих себя</LotM_Betrayed.label>
+  <LotM_Betrayed.description>Дегенерация обернулась против своего владельца. Когда она проходит, она возвращается к его стороне.</LotM_Betrayed.description>
+  <LotM_BodyBetrayal.label>преданный своим телом</LotM_BodyBetrayal.label>
+  <LotM_BodyBetrayal.description>Их собственное тело обернулось против них: плоть дегенерирует и ранит себя.</LotM_BodyBetrayal.description>
+  <LotM_Withering.label>увядание</LotM_Withering.label>
+  <LotM_Withering.description>Они услышали голос Тёмного Ангела. Их сознание затуманивается, их энергия испаряется, а плоть медленно увядает.</LotM_Withering.description>
+  <LotM_BlackCoat.label>покрыты тьмой</LotM_BlackCoat.label>
+  <LotM_BlackCoat.description>Вязкая чёрная жидкость покрывает их: трудно двигаться и ясно мыслить.</LotM_BlackCoat.description>
+  <LotM_DepravedFollower.label>порочный последователь</LotM_DepravedFollower.label>
+  <LotM_DepravedFollower.description>Один пастуший дух, тронутый Дегенерацией. Он подчиняется без колебаний.</LotM_DepravedFollower.description>
+</LanguageData>

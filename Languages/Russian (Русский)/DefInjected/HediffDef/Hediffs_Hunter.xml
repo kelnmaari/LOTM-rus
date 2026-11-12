@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_HunterKeenSensesOn.label>острые чувства</LotM_HunterKeenSensesOn.label>
+  <LotM_HunterKeenSensesOn.description>Сосредоточение: их зрение, слух и обоняние достигают намного, намного дальше. Они лучше нацеливаются и обнаруживают тех, кто прячется поблизости.</LotM_HunterKeenSensesOn.description>
+  <LotM_HunterTracked.label>отслеженный</LotM_HunterTracked.label>
+  <LotM_HunterTracked.description>Охотник на их следе: знает, где они находятся, их нельзя спрятать, и Охотник бьёт их немного сильнее.</LotM_HunterTracked.description>
+  <LotM_HunterMired.label>застрявший в зыбучем песке</LotM_HunterMired.label>
+  <LotM_HunterMired.description>Утопая в зыбучем песке: они едва могут двигаться вперёд.</LotM_HunterMired.description>
+  <LotM_HunterPoisonedWeapon.label>отравленное оружие</LotM_HunterPoisonedWeapon.label>
+  <LotM_HunterPoisonedWeapon.description>Их оружие покрыто ядом охотника: каждый удар или выстрел, попадающий, вводит токсины и яд, который ранит и мешает.</LotM_HunterPoisonedWeapon.description>
+  <LotM_HunterVenom.label>Ядовитое отравление охотника</LotM_HunterVenom.label>
+  <LotM_HunterVenom.description>Яд растений и животных органов: это больно и мешает движению.</LotM_HunterVenom.description>
+  <LotM_HunterProvoked.label>провоцировал</LotM_HunterProvoked.label>
+  <LotM_HunterProvoked.description>На них спровоцировали в самом болезненном месте: они потеряли самообладание и просто хотят ударить того, кто их спровоцировал, не укрываясь и не стреляя точно.</LotM_HunterProvoked.description>
+  <LotM_HunterCompressed.label>сжатые пламя</LotM_HunterCompressed.label>
+  <LotM_HunterCompressed.description>Собирая сжатые пламя в руке: следующий огненный удар становится сильнее, чем дольше они их собирали.</LotM_HunterCompressed.description>
+  <LotM_HunterFireArmorOn.label>огненная броня</LotM_HunterFireArmorOn.label>
+  <LotM_HunterFireArmorOn.description>Слой пламени, который все еще позволяет им дышать: он защищает их от ударов, холода, газов и яда в воздухе, и сжигает того, кто наносит им удар в ближнем бою.</LotM_HunterFireArmorOn.description>
+  <LotM_HunterFlameWeaponOn.label>Огненное оружие</LotM_HunterFlameWeaponOn.label>
+  <LotM_HunterFlameWeaponOn.description>Оружие огня, сотворенное в их руке: оно сжигает, режет и пронзает, и вкладывает огонь в врага. У него нет твердой формы: оно не может парировать.</LotM_HunterFlameWeaponOn.description>
+  <LotM_HunterFlameWeaponOn.comps.0.tools.0.label>меч пламени</LotM_HunterFlameWeaponOn.comps.0.tools.0.label>
+  <LotM_HunterFlameWeaponOn.comps.0.tools.1.label>точка пламени</LotM_HunterFlameWeaponOn.comps.0.tools.1.label>
+  <LotM_HunterFlameWeaponGreaterOn.label>пламенная палка и сабля</LotM_HunterFlameWeaponGreaterOn.label>
+  <LotM_HunterFlameWeaponGreaterOn.description>Багрово-белые пламена, сотворенные в виде твердого огненного сабеля и хлыста: они сжигают, режут, досягают далеко и могут парировать. Они вкладывают огонь во врага.</LotM_HunterFlameWeaponGreaterOn.description>
+  <LotM_HunterFlameWeaponGreaterOn.comps.0.tools.0.label>пламенный сабел</LotM_HunterFlameWeaponGreaterOn.comps.0.tools.0.label>
+  <LotM_HunterFlameWeaponGreaterOn.comps.0.tools.1.label>пламенная палка</LotM_HunterFlameWeaponGreaterOn.comps.0.tools.1.label>
+  <LotM_HunterFireEnchanted.label>оружие, пропитанное огнем</LotM_HunterFireEnchanted.label>
+  <LotM_HunterFireEnchanted.description>Их оружие и пули несут огонь: каждый попавший удар сжигает, и он достигает духов и удваивает их.</LotM_HunterFireEnchanted.description>
+  <LotM_HunterFlameSeed.label>пропитанный огонь</LotM_HunterFlameSeed.label>
+  <LotM_HunterFlameSeed.description>Пироманьяк обрушил на них огонь. Если взорваться, он взрывается изнутри.</LotM_HunterFlameSeed.description>
+  <LotM_HunterInnerBurn.label>сгорает изнутри</LotM_HunterInnerBurn.label>
+  <LotM_HunterInnerBurn.description>Пылающая копьё пронзило их: они горят изнутри в течение нескольких секунд.</LotM_HunterInnerBurn.description>
+  <LotM_HunterLured.label>ведомый заговором</LotM_HunterLured.label>
+  <LotM_HunterLured.description>Заговорщик вёл их ложной информацией туда, куда они хотели.</LotM_HunterLured.description>
+  <LotM_HunterConfused.label>сбитый с толку</LotM_HunterConfused.label>
+  <LotM_HunterConfused.description>Слухи и ложные сигналы: они не знают, где враг или кому доверять.</LotM_HunterConfused.description>
+  <LotM_HunterInformed.label>знает, лжет ли торговец</LotM_HunterInformed.label>
+  <LotM_HunterInformed.description>Настроить небольшую заговор вокруг торговца: знают, что он прячет и когда лжет, и ведут намного лучшие переговоры.</LotM_HunterInformed.description>
+  <LotM_HunterWeaknessMarked.label>найдена слабость</LotM_HunterWeaknessMarked.label>
+  <LotM_HunterWeaknessMarked.description>Жнец обнаружил их слабости: его удары пронзают броню, наносят удар по жизненно важным точкам и достигают их, даже если они дух.</LotM_HunterWeaknessMarked.description>
+  <LotM_HunterCullOn.label>отбор</LotM_HunterCullOn.label>
+  <LotM_HunterCullOn.description>Каждый удар и каждый выстрел, попадающий в цель, собирает жизнь цели, как будто поражая жизненно важную точку. Три последовательных удара по одной цели вызывают огромный удар.</LotM_HunterCullOn.description>
+  <LotM_HunterCullMark.label>отбор</LotM_HunterCullMark.label>
+  <LotM_HunterCullMark.description>Жнец собирает их жизнь, удар за ударом. На третий раз подряд наносится настоящий удар.</LotM_HunterCullMark.description>
+  <LotM_HunterWeaponized.label>вооруженный</LotM_HunterWeaponized.label>
+  <LotM_HunterWeaponized.description>То, что они держат, — это смертоносное оружие: их удары и выстрелы наносят значительно больший урон.</LotM_HunterWeaponized.description>
+  <LotM_HunterTeam.label>команда рыцарей</LotM_HunterTeam.label>
+  <LotM_HunterTeam.description>Часть команды Рыцаря Железной Крови: скрытая связь их связывает. Они просыпаются от опасности вместе с ним и сражаются лучше рядом с ним; он может концентрировать их силу и делиться с командой уроном, который он получает.</LotM_HunterTeam.description>
+  <LotM_HunterTeamRitual.label>ритуал команды</LotM_HunterTeamRitual.label>
+  <LotM_HunterTeamRitual.description>Железнокровный Рыцарь формирует связь, чтобы добавить их в свою команду: им нужно провести пару часов рядом друг с другом.</LotM_HunterTeamRitual.description>
+  <LotM_HunterTeamBuff.label>рядом со своим Рыцарем</LotM_HunterTeamBuff.label>
+  <LotM_HunterTeamBuff.description>Их рыцарь из железа крови рядом: они делят свои чувства и сражаются как единое тело.</LotM_HunterTeamBuff.description>
+  <LotM_HunterConcentrated.label>сила команды сконцентрирована</LotM_HunterConcentrated.label>
+  <LotM_HunterConcentrated.description>Концентрируют силу своей команды на себе: все их силы становятся сильнее.</LotM_HunterConcentrated.description>
+  <LotM_HunterAlleviationOn.label>облегчение</LotM_HunterAlleviationOn.label>
+  <LotM_HunterAlleviationOn.description>Разделил половину полученного ими урона среди своей команды, и всё, что поражает их разум, становится кратковременным оцепенением.</LotM_HunterAlleviationOn.description>
+  <LotM_HunterGalvanizedOn.label>заряженный</LotM_HunterGalvanizedOn.label>
+  <LotM_HunterGalvanizedOn.description>Их тело и пламя — сталь: они лучше сопротивляются порезам, пулям и ударам, но не тому, что плавит сталь.</LotM_HunterGalvanizedOn.description>
+  <LotM_HunterFlameBodyOn.label>Тело пламени</LotM_HunterFlameBodyOn.label>
+  <LotM_HunterFlameBodyOn.description>Всё их тело — огонь: они двигаются быстрее, большая часть физического урона истощает их духовность вместо здоровья, а они исцеляются, поглощая близлежащие огни.</LotM_HunterFlameBodyOn.description>
+  <LotM_MythicalForm_CalamityGiant.label>Гигант Каламити</LotM_MythicalForm_CalamityGiant.label>
+  <LotM_MythicalForm_CalamityGiant.description>Их мифическая форма: Гигант Катастрофы, огромный, из горячей стали. Почти ничего не ранит его, он регенерирует за секунды, его удары огромны, и он сжигает врагов поблизости.</LotM_MythicalForm_CalamityGiant.description>
+  <LotM_MythicalForm_CalamityGiant.comps.0.tools.0.label>пламенный стальной кулак</LotM_MythicalForm_CalamityGiant.comps.0.tools.0.label>
+  <LotM_MythicalForm_CalamityGiant.comps.0.tools.1.label>топот</LotM_MythicalForm_CalamityGiant.comps.0.tools.1.label>
+  <LotM_MythicalForm_CalamityGiant.stages.0.label>неполный</LotM_MythicalForm_CalamityGiant.stages.0.label>
+  <LotM_MythicalForm_CalamityGiant.stages.1.label>почти готово</LotM_MythicalForm_CalamityGiant.stages.1.label>
+  <LotM_MythicalForm_CalamityGiant.stages.2.label>полный</LotM_MythicalForm_CalamityGiant.stages.2.label>
+  <LotM_HunterWarSongOn.label>военная песня</LotM_HunterWarSongOn.label>
+  <LotM_HunterWarSongOn.description>Пение войны: их собственные рядом с ними обретают дух, а враги поблизости действуют хуже.</LotM_HunterWarSongOn.description>
+  <LotM_HunterWarSongBuff.label>военная песня</LotM_HunterWarSongBuff.label>
+  <LotM_HunterWarSongBuff.description>Слышит боевую песню своего Епископа: они бьют, наводят прицел и выдерживают лучше, и не так легко ломаются.</LotM_HunterWarSongBuff.description>
+  <LotM_HunterWarSongDebuff.label>боевая песня врага</LotM_HunterWarSongDebuff.label>
+  <LotM_HunterWarSongDebuff.description>Военная песня епископа врага давит на разум: они целятся хуже и двигаются медленнее.</LotM_HunterWarSongDebuff.description>
+  <LotM_HunterWarCryRally.label>боевой клич</LotM_HunterWarCryRally.label>
+  <LotM_HunterWarCryRally.description>Клич их епископа сотрясает их тело и разум: они едва чувствуют боль и бьют сильнее.</LotM_HunterWarCryRally.description>
+  <LotM_HunterFogged.label>Туман войны</LotM_HunterFogged.label>
+  <LotM_HunterFogged.description>Окутанный Туман Войны противника: они видят, слышат и наводят прицел намного хуже, их интуиция темнеет, а их побеги проваливаются.</LotM_HunterFogged.description>
+  <LotM_HunterWarBanner.label>боевой штандарт</LotM_HunterWarBanner.label>
+  <LotM_HunterWarBanner.description>Багровое, капающее знамя на их лбу, дар Эссенции Войны: набор набора легче (достаточно, чтобы они не думали о них плохо; ритуал длится час) и работает по всей карте.</LotM_HunterWarBanner.description>
+  <LotM_HunterWeatherPowers.label>погодные силы</LotM_HunterWeatherPowers.label>
+  <LotM_HunterWeatherPowers.description>Сущность Войны дала им силы Колдуна Погоды: изменять и успокаивать погоду, молнию, дерево и ураган.</LotM_HunterWeatherPowers.description>
+  <LotM_HunterBorrowedPowers.label>собраны силы</LotM_HunterBorrowedPowers.label>
+  <LotM_HunterBorrowedPowers.description>Силы, которые они взяли у своей команды через Сбор. Каждая возвращается к своему владельцу через два часа.</LotM_HunterBorrowedPowers.description>
+  <LotM_HunterLentPower.label>сила зелья</LotM_HunterLentPower.label>
+  <LotM_HunterLentPower.description>Их Военный Епископ дал им одну из его сил: они используют её с силой Епископа (и, если они не Потусторонние, с его духовностью).</LotM_HunterLentPower.description>
+  <LotM_HunterFused.label>слиты</LotM_HunterFused.label>
+  <LotM_HunterFused.description>Военный Епископ и Потусторонняя Демонесса слили свои силы: его огонь несет черные пламена, а она может вложить огненный меч.</LotM_HunterFused.description>
+  <LotM_HunterCrowdControlOn.label>Контроль толпы</LotM_HunterCrowdControlOn.label>
+  <LotM_HunterCrowdControlOn.description>Лучи крови и ржавчины связывают их ближайшую команду: общий щит поглощает выстрелы и взрывы до тех пор, пока не исчерпан.</LotM_HunterCrowdControlOn.description>
+  <LotM_HunterLinked.label>связан с группой</LotM_HunterLinked.label>
+  <LotM_HunterLinked.description>Контроль толпы Военного Епископа связывает их с другими: они делят щит от выстрелов и взрывов, оглушения едва пробиваются, и они сопротивляются всему, что лучше бьёт по их разуму.</LotM_HunterLinked.description>
+  <LotM_HunterConcealed.label>скрытые за цепочкой командования</LotM_HunterConcealed.label>
+  <LotM_HunterConcealed.description>То, что проходит через цепочку командования, скрыто: враги, наносящие им удары издалека (пророчества, проклятия), не могут их найти.</LotM_HunterConcealed.description>
+  <LotM_HunterDrenched.label>промокший</LotM_HunterDrenched.label>
+  <LotM_HunterDrenched.description>Попав под проливной дождь, ведомый Колдуном Погоды: вода замедляет их, а удар молнии их подзарядит.</LotM_HunterDrenched.description>
+  <LotM_HunterHurricaneOn.label>ураган</LotM_HunterHurricaneOn.label>
+  <LotM_HunterHurricaneOn.description>Вызвали ураган по карте: ветер ранит и сбивает с ног их врагов на открытом воздухе.</LotM_HunterHurricaneOn.description>
+  <LotM_HunterWeatherShared.label>разделяемая погода</LotM_HunterWeatherShared.label>
+  <LotM_HunterWeatherShared.description>Его Колдун Погоды поделился властью над Погодой с ними: они могут призывать молнию, с духовностью Колдуна, если они не Потусторонние.</LotM_HunterWeatherShared.description>
+  <LotM_HunterFlameKnightOn.label>рыцарь пламени</LotM_HunterFlameKnightOn.label>
+  <LotM_HunterFlameKnightOn.description>Носит железную чёрную броню, сделанную из сине-фиолетовых пламен, с символикой стали.</LotM_HunterFlameKnightOn.description>
+  <LotM_HunterBorrowedConquest.label>Заимствованный Завоевание</LotM_HunterBorrowedConquest.label>
+  <LotM_HunterBorrowedConquest.description>Сущность Войны дала им силу Завоевания на один день: их пламя тёмно-красное, почти фиолетовое, и они могут превращать марионеток в солдат.</LotM_HunterBorrowedConquest.description>
+  <LotM_HunterConquered.label>покоренный</LotM_HunterConquered.label>
+  <LotM_HunterConquered.description>Завоеватель покорил их тело, разум и дух: они верны навсегда, и почти ничто их не ломает.</LotM_HunterConquered.description>
+  <LotM_HunterControlled.label>контролируемый</LotM_HunterControlled.label>
+  <LotM_HunterControlled.description>Завоеватель покорил их волю и контролирует их тело. Когда это проходит, они возвращаются к себе.</LotM_HunterControlled.description>
+  <LotM_HunterRankShared.label>общий ранг</LotM_HunterRankShared.label>
+  <LotM_HunterRankShared.description>Их Завоеватель поделился с ними своим рангом: они имеют все свои силы, с духовностью Завоевателя, если они не Потусторонние.</LotM_HunterRankShared.description>
+  <LotM_HunterTempTeam.label>боевая команда</LotM_HunterTempTeam.label>
+  <LotM_HunterTempTeam.description>На один день они являются частью временной команды Завоевателя, который является их военным командиром: у них почти всё, что есть у настоящей команды.</LotM_HunterTempTeam.description>
+  <LotM_HunterBloodArmorOn.label>кровяная броня</LotM_HunterBloodArmorOn.label>
+  <LotM_HunterBloodArmorOn.description>Кровавая, железо-черная броня, закаленная их пламенем: ее защита ненамного слабее Руки Бога.</LotM_HunterBloodArmorOn.description>
+  <LotM_HunterLastStand.label>самопожертвование</LotM_HunterLastStand.label>
+  <LotM_HunterLastStand.description>Пожертвовали собой: на минуту они ведут себя почти как бог, и почти ничего им не больно. Затем они умирают.</LotM_HunterLastStand.description>
+</LanguageData>

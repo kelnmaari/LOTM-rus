@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_AbyssExtorted.label>вымогательство</LotM_AbyssExtorted.label>
+  <LotM_AbyssExtorted.description>Преступник схватил их не так давно: на один день больше нечего из них вытащить.</LotM_AbyssExtorted.description>
+  <LotM_AbyssDemonicAttribute.label>демоническое свойство</LotM_AbyssDemonicAttribute.label>
+  <LotM_AbyssDemonicAttribute.description>Когда они стали Некрылатым Ангелом, их тело изменилось, и вошли демонические силы, разные для каждого: медлительность и ещё две. У Убийцы серийных преступлений у них всех.</LotM_AbyssDemonicAttribute.description>
+  <LotM_AbyssSunk.label>утонул</LotM_AbyssSunk.label>
+  <LotM_AbyssSunk.description>Они тонут, словно их крылья сломаны: они двигаются намного медленнее и хуже уклоняются.</LotM_AbyssSunk.description>
+  <LotM_AbyssVenom.label>пламенной яд</LotM_AbyssVenom.label>
+  <LotM_AbyssVenom.description>Яд демонического пламени остался внутри них: он причиняет боль, и токсичное накопление продолжает расти.</LotM_AbyssVenom.description>
+  <LotM_AbyssFoulCursed.label>отвратительное проклятие</LotM_AbyssFoulCursed.label>
+  <LotM_AbyssFoulCursed.description>Они услышали слово на Языке Отвращения: боль, тошнота и неуклюжее тело.</LotM_AbyssFoulCursed.description>
+  <LotM_AbyssSmokeHidden.label>цвет дыма</LotM_AbyssSmokeHidden.label>
+  <LotM_AbyssSmokeHidden.description>Они приняли цвет своего чёрного дыма, как хамелеон: пока внутри него и не атакуя, их никто не видит.</LotM_AbyssSmokeHidden.description>
+  <LotM_AbyssSeries.label>серия убийств</LotM_AbyssSeries.label>
+  <LotM_AbyssSeries.description>Они убивают по шаблону, чтобы угодить Дьяволам Бездны. Каждый жертва шаблона, которую они убивают собственной рукой и знаком, добавляет к серии (минимум один день между одной и другой; при более чем пятнадцати серия становится холодной). С тремя они могут ускорить ритуал; с семью серия закрыта.</LotM_AbyssSeries.description>
+  <LotM_AbyssShaken.label>сломленный дух</LotM_AbyssShaken.label>
+  <LotM_AbyssShaken.description>Они увидели то, что оставил Серийный Убийца: их руки дрожат, и они думают о поиске выхода больше, чем о борьбе.</LotM_AbyssShaken.description>
+  <LotM_AbyssDevilProjection.label>проекция Дьявола</LotM_AbyssDevilProjection.label>
+  <LotM_AbyssDevilProjection.description>Проекция Дьявола Бездны, призванная ритуалом Убийцы Серий. Если серия закрыта, она бьет и выдерживает намного больше.</LotM_AbyssDevilProjection.description>
+  <LotM_AbyssDevilProjection.stages.0.label>слабый</LotM_AbyssDevilProjection.stages.0.label>
+  <LotM_AbyssDevilProjection.stages.1.label>целый</LotM_AbyssDevilProjection.stages.1.label>
+  <LotM_AbyssBloodlust.label>кровная жажда</LotM_AbyssBloodlust.label>
+  <LotM_AbyssBloodlust.description>Великая слабость Дьявола: холодная, жестокая жажда крови, которая растёт сама по себе (гораздо быстрее при трансформации) и успокаивается ранением и убийством врагов. С высокой жаждой крови они бьют сильнее, но быстрее ломаются; когда она наполнена, она толкает их к потере контроля, и иногда они впадают в холодное безумие, в котором они нападают на всех, даже на своих людей. Успокоение её — это то, как они усваивают своё зелье.</LotM_AbyssBloodlust.description>
+  <LotM_AbyssBloodlust.stages.0.label>сдерживаемый</LotM_AbyssBloodlust.stages.0.label>
+  <LotM_AbyssBloodlust.stages.1.label>жаждущий</LotM_AbyssBloodlust.stages.1.label>
+  <LotM_AbyssBloodlust.stages.2.label>невыносимый</LotM_AbyssBloodlust.stages.2.label>
+  <LotM_AbyssDevilForm.label>демоническая трансформация</LotM_AbyssDevilForm.label>
+  <LotM_AbyssDevilForm.description>Превращается в Дьявола на час: растут козлиные рога с узорами, огромные крылья летучей мыши, обмотанные светло-синими пламенными огнями, пахнущими сернистым, разворачиваются с их спины, их кожа становится чёрной, как броня, и они достигают почти трёх метров. Они обретают силу, скорость и защиту, и превращение разрушает то, что их связывает: оно сбрасывает оглушения, Медлительность и всё, что их обездвиживает (и, если они пленники, они сбегают). В трансформированном состоянии их огненные шары идут десять или двадцать одновременно. Их жажда крови возрастает намного быстрее.</LotM_AbyssDevilForm.description>
+  <LotM_AbyssLavaSwordOn.label>меч лавы</LotM_AbyssLavaSwordOn.label>
+  <LotM_AbyssLavaSwordOn.description>Огромный меч в форме сикиры из пламени: он бьет чрезвычайно сильно, намного сильнее против живых, и один удар рассекает каменную стену.</LotM_AbyssLavaSwordOn.description>
+  <LotM_AbyssFlameCageSelf.label>клеть огня</LotM_AbyssFlameCageSelf.label>
+  <LotM_AbyssFlameCageSelf.description>Вокруг них затвердела клетка светло-голубокого пламени: она ловит пули и снаряды, выпущенные в них.</LotM_AbyssFlameCageSelf.description>
+  <LotM_AbyssCaged.label>запертый в пламени</LotM_AbyssCaged.label>
+  <LotM_AbyssCaged.description>Заперты в клетке светло-голубого пламени: не могут двигаться или атаковать.</LotM_AbyssCaged.description>
+  <LotM_AbyssCorrupted.label>чёрная жидкость</LotM_AbyssCorrupted.label>
+  <LotM_AbyssCorrupted.description>Покрыты слегка вязкой чёрной жидкостью, которая вот-вот вырвется в испорченную мглу.</LotM_AbyssCorrupted.description>
+  <LotM_AbyssAbyssalized.label>бездонный</LotM_AbyssAbyssalized.label>
+  <LotM_AbyssAbyssalized.description>Порча Бездны коснулась их: желания давят на них сильнее обычного. Они более жестоки и ломаются быстрее.</LotM_AbyssAbyssalized.description>
+  <LotM_AbyssRusted.label>ржавчина в крови</LotM_AbyssRusted.label>
+  <LotM_AbyssRusted.description>Невидимая рука сжимает их сердце: на их коже красная ржавчина и они кашляют ржавой кровью.</LotM_AbyssRusted.description>
+  <LotM_AbyssVengeance.label>месть</LotM_AbyssVengeance.label>
+  <LotM_AbyssVengeance.description>Они почувствовали, кто хочет их убить. Против тех, на кого они нападают, они бьют сильнее в течение нескольких часов, и убийство их еще больше успокаивает их кровожадность.</LotM_AbyssVengeance.description>
+  <LotM_AbyssCatalyzed.label>катализировано</LotM_AbyssCatalyzed.label>
+  <LotM_AbyssCatalyzed.description>Апостол Желания катализировал их эмоции: они потеряли контроль в худший момент и не могут сопротивляться чему-либо. Они защищаются хуже на некоторое время.</LotM_AbyssCatalyzed.description>
+  <LotM_AbyssTimeDisrupted.label>время распалось</LotM_AbyssTimeDisrupted.label>
+  <LotM_AbyssTimeDisrupted.description>Напряжение и настороженность росли настолько, что их чувство времени распадалось: они двигаются, наводят прицел и атакуют, как в замедленной съемке.</LotM_AbyssTimeDisrupted.description>
+  <LotM_AbyssHornsBurnt.label>обожженные рога</LotM_AbyssHornsBurnt.label>
+  <LotM_AbyssHornsBurnt.description>Они зажгли свои рога для Ментального Шока. Сгорев, они не могут им пользоваться; они восстанавливаются днём.</LotM_AbyssHornsBurnt.description>
+  <LotM_AbyssDesireIncarnation.label>воплощение желания</LotM_AbyssDesireIncarnation.label>
+  <LotM_AbyssDesireIncarnation.description>Переключатель: тело превращается в тёмкую чёрную жидкость, сделанную из эмоций и желаний, как будто самые тёмные желания сердца собрались и пролились по земле, чтобы поработить всё. Почти ничего физического их не ранит, они двигаются быстрее, и никто их не видит (кроме мгновения после атаки); близлежащие враги, демонстрирующие эмоциональную флуктуацию, медленно погружаются в порочность. Потребляет духовность в час.</LotM_AbyssDesireIncarnation.description>
+  <LotM_AbyssCareless.label>беспечный</LotM_AbyssCareless.label>
+  <LotM_AbyssCareless.description>Рядом демон, и, не замечая этого, их разум истощается: они неосторожны и совершают ошибки. Они целятся и бьют хуже, а иногда теряют то, на что целились.</LotM_AbyssCareless.description>
+  <LotM_AbyssHellfire.label>адский огонь</LotM_AbyssHellfire.label>
+  <LotM_AbyssHellfire.description>Темный красный огонь из ада, который цепляется за врагов в области и который ничего не может потушить, пока длится: он непрерывно сжигает их в течение пятнадцати секунд и разжигает пожары вокруг.</LotM_AbyssHellfire.description>
+  <LotM_AbyssSloth.label>вялость</LotM_AbyssSloth.label>
+  <LotM_AbyssSloth.description>Они потеряли всю волю: они двигаются, наводят прицел и бьют слабо.</LotM_AbyssSloth.description>
+  <LotM_AbyssMalice.label>злонамеренность</LotM_AbyssMalice.label>
+  <LotM_AbyssMalice.description>Богохульство на Языке Отвращения пробудило в них интенсивную злобу: негодование ко всему и всем. Они ломаются быстрее.</LotM_AbyssMalice.description>
+  <LotM_AbyssDemonHorns.label>демонические рога</LotM_AbyssDemonHorns.label>
+  <LotM_AbyssDemonHorns.description>Рога их мифической формы, полные узоров, растут из их головы: их разум обостряется. Ментальный шок работает ещё раз в день, а вспышка желания бьёт сильнее.</LotM_AbyssDemonHorns.description>
+  <LotM_AbyssDemonWings.label>демонические крылья</LotM_AbyssDemonWings.label>
+  <LotM_AbyssDemonWings.description>Крылья их мифической формы, окутанные светло-голубыми пламенными, вырываются из спины: они намного быстрее и труднее поразить издалека.</LotM_AbyssDemonWings.description>
+  <LotM_AbyssDemonSkin.label>кожа демона</LotM_AbyssDemonSkin.label>
+  <LotM_AbyssDemonSkin.description>Кожа их мифической формы: черная и твёрдая, как броня.</LotM_AbyssDemonSkin.description>
+  <LotM_AbyssDemonEyes.label>демонические глаза</LotM_AbyssDemonEyes.label>
+  <LotM_AbyssDemonEyes.description>Глаза их мифической формы светятся красным: они видят лучше, целится точнее и также чувствуют то, что не может их убить.</LotM_AbyssDemonEyes.description>
+  <LotM_MythicalForm_Demon.label>Дьявол</LotM_MythicalForm_Demon.label>
+  <LotM_MythicalForm_Demon.description>Их мифическая форма: Дьявол, огромный, с рогами, полными узоров, крыльями из светло-голубоких пламен и чёрной кожей. Их раны затягиваются за секунды, и близлежащие враги становятся неосторожными; некоторые теряют контроль.</LotM_MythicalForm_Demon.description>
+  <LotM_AbyssBewildered.label>запутанная голова</LotM_AbyssBewildered.label>
+  <LotM_AbyssBewildered.description>Слово из Бездонной всё ещё звенит в их голове: они не могут понять, что делать. Они думают, целятся и двигаются хуже.</LotM_AbyssBewildered.description>
+  <LotM_AbyssCurseSickness.label>чума слова</LotM_AbyssCurseSickness.label>
+  <LotM_AbyssCurseSickness.description>Проклятие Блатерщика: чума, которая не исцеляется сама по себе или лекарствами. Лихорадка, кашель и усталость до тех пор, пока проклятие не угаснет.</LotM_AbyssCurseSickness.description>
+  <LotM_AbyssCurseBlind.label>проклятая слепота</LotM_AbyssCurseBlind.label>
+  <LotM_AbyssCurseBlind.description>Проклятие Блатерера: чёрный туман покрывает их глаза. Они едва могут видеть.</LotM_AbyssCurseBlind.description>
+  <LotM_AbyssCurseClumsy.label>проклятая неуклюжесть</LotM_AbyssCurseClumsy.label>
+  <LotM_AbyssCurseClumsy.description>Проклятие Блатерщика: всё ускользает из их рук. Они терпят неудачу в том, что делают, целятся и бьют хуже, а работают намного медленнее.</LotM_AbyssCurseClumsy.description>
+  <LotM_AbyssCurseWeak.label>проклятая слабость</LotM_AbyssCurseWeak.label>
+  <LotM_AbyssCurseWeak.description>Проклятие Блатерера: их тело не отвечает. Они двигаются медленно, бьют слабо и едва могут что-либо нести.</LotM_AbyssCurseWeak.description>
+  <LotM_AbyssCurseMisfortune.label>проклятое несчастье</LotM_AbyssCurseMisfortune.label>
+  <LotM_AbyssCurseMisfortune.description>Проклятие Блатерщика: всё идёт не так для них. Удары бьют сильнее, а уклонение меньше.</LotM_AbyssCurseMisfortune.description>
+  <LotM_AbyssConnections.label>связи</LotM_AbyssConnections.label>
+  <LotM_AbyssConnections.description>Люди, с которыми связан Блатер, (они получили одно из его слов или разговаривали с ним). Блатер может шептать им в ухо откуда угодно.</LotM_AbyssConnections.description>
+  <LotM_AbyssTongueSilenced.label>язык сдержан</LotM_AbyssTongueSilenced.label>
+  <LotM_AbyssTongueSilenced.description>Их развращающий язык отключен: их разговоры не вызывают ни у кого порока.</LotM_AbyssTongueSilenced.description>
+  <LotM_AbyssTearsTaken.label>собраны слёзы</LotM_AbyssTearsTaken.label>
+  <LotM_AbyssTearsTaken.description>Слезы их отчаяния уже собраны для формулы Бездны. Их нельзя собрать дважды.</LotM_AbyssTearsTaken.description>
+  <LotM_AbyssMaliceSeed.label>семя злобы</LotM_AbyssMaliceSeed.label>
+  <LotM_AbyssMaliceSeed.description>Сажает семя злобы глубоко в сознание кого-либо (до трех одновременно; враг должен проиграть состязание). Катализированное, оно делает их холоднокровными на день: если за это время они совершают злонамеренный акт (убийство, удар по поверженному или союзнику), они погружаются в порочность, пока не падут в Бездну: Потусторонний теряет контроль, а обычный человек исчезает. Пока они несут это, их желания поют, а их безумие медленно нарастает. Если Архидух умирает, они возрождаются внутри носителя, который умирает, истекая кровью, а желание пылает.</LotM_AbyssMaliceSeed.description>
+  <LotM_AbyssPsycheEroded.label>гниющее сознание</LotM_AbyssPsycheEroded.label>
+  <LotM_AbyssPsycheEroded.description>Злободневная злоба Архидука прогнила их разум и всё, что с ним связано: даже их зеркальное "я" не может их спасти.</LotM_AbyssPsycheEroded.description>
+  <LotM_AbyssBlankFear.label>чистый страх</LotM_AbyssBlankFear.label>
+  <LotM_AbyssBlankFear.description>Чистый, инстинктивный страх оставил их разум пустым: они едва могут думать или действовать.</LotM_AbyssBlankFear.description>
+  <LotM_AbyssHemorrhage.label>суверен крови</LotM_AbyssHemorrhage.label>
+  <LotM_AbyssHemorrhage.description>Командует кровью других. Враг истекает кровью из всех отверстий, его кровь и желание вспыхивают огнем: намного более слабое, до смерти; близкое к их уровню, на некоторое время. У союзника это останавливает кровотечение и возвращает немного крови.</LotM_AbyssHemorrhage.description>
+  <LotM_AbyssPossessive.label>собственничество</LotM_AbyssPossessive.label>
+  <LotM_AbyssPossessive.description>Кто-то попытался их очаровать: вместо оцепенения в них родилась яростная собственническая привязанность. Они двигаются и бьют с большей решимостью.</LotM_AbyssPossessive.description>
+  <LotM_AbyssBloodLiquid.label>жидкий</LotM_AbyssBloodLiquid.label>
+  <LotM_AbyssBloodLiquid.description>Их тело из сгустившейся крови превратилось в жидкость: это бассейн, который быстро движется, и почти ничего не причиняет боли.</LotM_AbyssBloodLiquid.description>
+  <LotM_AbyssBloodTaken.label>кровь взята</LotM_AbyssBloodTaken.label>
+  <LotM_AbyssBloodTaken.description>Капля их крови уже была взята для формулы Бездны. Её нельзя брать дважды.</LotM_AbyssBloodTaken.description>
+  <LotM_AbyssContaminated.label>загрязненный</LotM_AbyssContaminated.label>
+  <LotM_AbyssContaminated.description>Они видели Короля Грязи или находились рядом с ним: что-то грязное попало внутрь. Они целятся хуже, ломаются раньше, и их порочность возрастает.</LotM_AbyssContaminated.description>
+  <LotM_AbyssCorroded.label>испорченный</LotM_AbyssCorroded.label>
+  <LotM_AbyssCorroded.description>Коррозия: их броня (и их тела) сдирается с каждым ударом. Она медленно стирается.</LotM_AbyssCorroded.description>
+  <LotM_AbyssCorroded.stages.0.label>мягкий</LotM_AbyssCorroded.stages.0.label>
+  <LotM_AbyssCorroded.stages.1.label>сильный</LotM_AbyssCorroded.stages.1.label>
+  <LotM_AbyssCorroded.stages.2.label>тяжёлый</LotM_AbyssCorroded.stages.2.label>
+  <LotM_AbyssCorroded.stages.3.label>разрушен</LotM_AbyssCorroded.stages.3.label>
+  <LotM_AbyssFlamesOfAbyss.label>пламя Бездны</LotM_AbyssFlamesOfAbyss.label>
+  <LotM_AbyssFlamesOfAbyss.description>Зеленый и черный огонь, который сжигает, разъедает, отравляет и портит. Сопротивление огню (или иммунитет) останавливает только сгорающую часть: коррозия, отравление и порча все равно проникают. Он также разъедает стены в этом районе.</LotM_AbyssFlamesOfAbyss.description>
+</LanguageData>

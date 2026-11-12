@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_SunBurnInjury.label>солнечный ожог</LotM_SunBurnInjury.label>
+  <LotM_SunBurnInjury.labelNoun>солнечный ожог</LotM_SunBurnInjury.labelNoun>
+  <LotM_SunBurnInjury.description>Свет, подобный полуденному солнцу, сжигал плоть. Рана слегка светится.</LotM_SunBurnInjury.description>
+  <LotM_SunBurnInjury.comps.0.labelTendedWell>перевязанный</LotM_SunBurnInjury.comps.0.labelTendedWell>
+  <LotM_SunBurnInjury.comps.0.labelTendedWellInner>леченный</LotM_SunBurnInjury.comps.0.labelTendedWellInner>
+  <LotM_SunBurnInjury.comps.0.labelSolidTendedWell>леченный</LotM_SunBurnInjury.comps.0.labelSolidTendedWell>
+  <LotM_SunBurnInjury.comps.1.permanentLabel>шрам от солнца</LotM_SunBurnInjury.comps.1.permanentLabel>
+  <LotM_SunBurnInjury.injuryProps.destroyedLabel>Разорван светом</LotM_SunBurnInjury.injuryProps.destroyedLabel>
+  <LotM_HolyLightInjury.label>рана святого света</LotM_HolyLightInjury.label>
+  <LotM_HolyLightInjury.labelNoun>рана священного света</LotM_HolyLightInjury.labelNoun>
+  <LotM_HolyLightInjury.description>Луч святого света пронзил плоть. Края раны стали золотыми.</LotM_HolyLightInjury.description>
+  <LotM_HolyLightInjury.comps.0.labelTendedWell>перевязанный</LotM_HolyLightInjury.comps.0.labelTendedWell>
+  <LotM_HolyLightInjury.comps.0.labelTendedWellInner>леченный</LotM_HolyLightInjury.comps.0.labelTendedWellInner>
+  <LotM_HolyLightInjury.comps.0.labelSolidTendedWell>леченный</LotM_HolyLightInjury.comps.0.labelSolidTendedWell>
+  <LotM_HolyLightInjury.comps.1.permanentLabel>золотой шрам</LotM_HolyLightInjury.comps.1.permanentLabel>
+  <LotM_HolyLightInjury.injuryProps.destroyedLabel>очищенный светом</LotM_HolyLightInjury.injuryProps.destroyedLabel>
+  <LotM_GoldenFlameInjury.label>золотой ожог</LotM_GoldenFlameInjury.label>
+  <LotM_GoldenFlameInjury.labelNoun>золотой ожог</LotM_GoldenFlameInjury.labelNoun>
+  <LotM_GoldenFlameInjury.description>Золотые пламя, которое не сжигает одежду или траву, но сжигает плоть и то, что находится за ней.</LotM_GoldenFlameInjury.description>
+  <LotM_GoldenFlameInjury.comps.0.labelTendedWell>перевязанный</LotM_GoldenFlameInjury.comps.0.labelTendedWell>
+  <LotM_GoldenFlameInjury.comps.0.labelTendedWellInner>леченный</LotM_GoldenFlameInjury.comps.0.labelTendedWellInner>
+  <LotM_GoldenFlameInjury.comps.0.labelSolidTendedWell>леченный</LotM_GoldenFlameInjury.comps.0.labelSolidTendedWell>
+  <LotM_GoldenFlameInjury.comps.1.permanentLabel>золотой шрам</LotM_GoldenFlameInjury.comps.1.permanentLabel>
+  <LotM_GoldenFlameInjury.injuryProps.destroyedLabel>поглощен золотыми пламенями</LotM_GoldenFlameInjury.injuryProps.destroyedLabel>
+  <LotM_HolyWaterInjury.label>ожог святой водой</LotM_HolyWaterInjury.label>
+  <LotM_HolyWaterInjury.labelNoun>ожог святой водой</LotM_HolyWaterInjury.labelNoun>
+  <LotM_HolyWaterInjury.description>Священная вода дымится, когда соприкасается с злом, и сжигает его.</LotM_HolyWaterInjury.description>
+  <LotM_HolyWaterInjury.comps.0.labelTendedWell>перевязанный</LotM_HolyWaterInjury.comps.0.labelTendedWell>
+  <LotM_HolyWaterInjury.comps.0.labelTendedWellInner>леченный</LotM_HolyWaterInjury.comps.0.labelTendedWellInner>
+  <LotM_HolyWaterInjury.comps.0.labelSolidTendedWell>леченный</LotM_HolyWaterInjury.comps.0.labelSolidTendedWell>
+  <LotM_HolyWaterInjury.comps.1.permanentLabel>коптящий шрам</LotM_HolyWaterInjury.comps.1.permanentLabel>
+  <LotM_HolyWaterInjury.injuryProps.destroyedLabel>изгнанный</LotM_HolyWaterInjury.injuryProps.destroyedLabel>
+  <LotM_ContractFlameInjury.label>ожог контракта</LotM_ContractFlameInjury.label>
+  <LotM_ContractFlameInjury.labelNoun>ожог контракта</LotM_ContractFlameInjury.labelNoun>
+  <LotM_ContractFlameInjury.description>Золотые пламя, появившиеся ниоткуда, когда они нарушили своё слово.</LotM_ContractFlameInjury.description>
+  <LotM_ContractFlameInjury.comps.0.labelTendedWell>перевязанный</LotM_ContractFlameInjury.comps.0.labelTendedWell>
+  <LotM_ContractFlameInjury.comps.0.labelTendedWellInner>леченный</LotM_ContractFlameInjury.comps.0.labelTendedWellInner>
+  <LotM_ContractFlameInjury.comps.0.labelSolidTendedWell>леченный</LotM_ContractFlameInjury.comps.0.labelSolidTendedWell>
+  <LotM_ContractFlameInjury.comps.1.permanentLabel>знак нарушителя клятвы</LotM_ContractFlameInjury.comps.1.permanentLabel>
+  <LotM_ContractFlameInjury.injuryProps.destroyedLabel>поглощен их словом</LotM_ContractFlameInjury.injuryProps.destroyedLabel>
+</LanguageData>

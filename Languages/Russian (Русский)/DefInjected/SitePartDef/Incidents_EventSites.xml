@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_EvKidnapSite.label>Убежище культа</LotM_EvKidnapSite.label>
+  <LotM_EvKidnapSite.description>Похищенный колонист удерживается здесь. Если никто не прибудет вовремя, его принесут в жертву.</LotM_EvKidnapSite.description>
+  <LotM_EvKidnapSite.arrivedLetter>Ты достиг убежища. Заложник связан посередине: кто-то должен добраться до него, чтобы развязать его.</LotM_EvKidnapSite.arrivedLetter>
+  <LotM_EvContainSite.label>Потусторонний потерял контроль</LotM_EvContainSite.label>
+  <LotM_EvContainSite.description>Кто-то потерял контроль здесь. Просьба о помощи в сдерживании.</LotM_EvContainSite.description>
+  <LotM_EvContainSite.arrivedLetter>Воздух вибрирует. Что-то, что когда-то было Потусторонним, ждет здесь.</LotM_EvContainSite.arrivedLetter>
+  <LotM_EvBountySite.label>Убежище ищущего Потустороннего</LotM_EvBountySite.label>
+  <LotM_EvBountySite.description>Искатель Потустороннего прячется здесь со своим народом.</LotM_EvBountySite.description>
+  <LotM_EvBountySite.arrivedLetter>Ты нашел логово искомого Потустороннего. Они не одни.</LotM_EvBountySite.arrivedLetter>
+  <LotM_EvRuinsSite.label>руины Четвертой Эпохи</LotM_EvRuinsSite.label>
+  <LotM_EvRuinsSite.description>Старые камни из другой эпохи. Что-то осталось внутри... и что-то это охраняет.</LotM_EvRuinsSite.description>
+  <LotM_EvRuinsSite.arrivedLetter>Руины молчат. Смотри под ноги: там старые ловушки.</LotM_EvRuinsSite.arrivedLetter>
+  <LotM_EvTombSite.label>гробница полубога</LotM_EvTombSite.label>
+  <LotM_EvTombSite.description>Здесь покоится могущественный Потусторонний. Его характеристика всё ещё внутри, и его тело не в покое.</LotM_EvTombSite.description>
+  <LotM_EvTombSite.arrivedLetter>Гробница открыта. Что-то движется внутри.</LotM_EvTombSite.arrivedLetter>
+</LanguageData>

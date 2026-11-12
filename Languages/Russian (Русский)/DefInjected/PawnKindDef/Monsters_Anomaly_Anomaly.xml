@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_A_LostSeer.label>потерянный Провидец</LotM_A_LostSeer.label>
+  <LotM_A_LostClown.label>потерянный клоун</LotM_A_LostClown.label>
+  <LotM_A_LostMagician.label>потерянный маг</LotM_A_LostMagician.label>
+  <LotM_A_LostFaceless.label>потерянный безликий</LotM_A_LostFaceless.label>
+  <LotM_A_LostMarionettist.label>потерянный Марионеточник</LotM_A_LostMarionettist.label>
+  <LotM_A_LostSorcerer.label>переполненный чародей</LotM_A_LostSorcerer.label>
+  <LotM_A_LostScholar.label>пожиратель истории</LotM_A_LostScholar.label>
+  <LotM_A_LostInvoker.label>ночь чудес</LotM_A_LostInvoker.label>
+  <LotM_A_LostAttendant.label>путешественник пустоты</LotM_A_LostAttendant.label>
+  <LotM_Fragment_Bulbfreak.label>фрагмент чародейства</LotM_Fragment_Bulbfreak.label>
+  <LotM_Fragment_Toughspike.label>меньший фрагмент</LotM_Fragment_Toughspike.label>
+  <LotM_Fragment_Trispike.label>крошечный фрагмент</LotM_Fragment_Trispike.label>
+</LanguageData>

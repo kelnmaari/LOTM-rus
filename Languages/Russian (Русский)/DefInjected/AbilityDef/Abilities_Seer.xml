@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_SpiritVision.label>духовное зрение</LotM_SpiritVision.label>
+  <LotM_SpiritVision.description>Два лёгких удара между бровями открывают мир аур, чувств и намерений. Духовное зрение позволяет предугадывать поступки других и замечать обитателей Мира духов. Они тоже видят наблюдателя. Пока способность включена, она каждый час расходует духовность.</LotM_SpiritVision.description>
+  <LotM_Divination.label>гадание на маятнике</LotM_Divination.label>
+  <LotM_Divination.description>Маятнику задают вопрос об угрозах колонии. Он даёт ответ, даже если опасность скрыта.</LotM_Divination.description>
+  <LotM_CardThrow.label>бумажный кинжал</LotM_CardThrow.label>
+  <LotM_CardThrow.description>Потусторонний делает лист бумаги острым, как сталь, и бросает его.</LotM_CardThrow.description>
+  <LotM_Acrobatics.label>акробатика</LotM_Acrobatics.label>
+  <LotM_Acrobatics.description>Кувырки, безупречное равновесие и невероятные прыжки. На короткое время попасть по Потустороннему становится гораздо труднее.</LotM_Acrobatics.description>
+  <LotM_FlamingJump.label>прыжок через пламя</LotM_FlamingJump.label>
+  <LotM_FlamingJump.description>Потусторонний входит в одно пламя и выходит из другого, даже если его не видит.</LotM_FlamingJump.description>
+  <LotM_AirBullet.label>воздушная пуля</LotM_AirBullet.label>
+  <LotM_AirBullet.description>Щелчок пальцами заставляет воздух вылететь с силой пули.</LotM_AirBullet.description>
+  <LotM_FlameControl.label>управление пламенем</LotM_FlameControl.label>
+  <LotM_FlameControl.description>Одним жестом поджигает горючие предметы на расстоянии.</LotM_FlameControl.description>
+  <LotM_DamageTransfer.label>перенос раны</LotM_DamageTransfer.label>
+  <LotM_DamageTransfer.description>Переносит тяжёлую рану с головы, туловища или внутреннего органа на руку либо ногу. Можно применить к себе или к другому при прикосновении.</LotM_DamageTransfer.description>
+  <LotM_PaperWeapon.label>бумажное оружие</LotM_PaperWeapon.label>
+  <LotM_PaperWeapon.description>Складывает и укрепляет бумагу, превращая её в посох, прочный как сталь. Через несколько часов бумага распадается.</LotM_PaperWeapon.description>
+  <LotM_Illusion.label>иллюзия</LotM_Illusion.label>
+  <LotM_Illusion.description>Мнимые краски, звуки и запахи заполняют область. Внутри трудно отличить настоящее от вымысла.</LotM_Illusion.description>
+  <LotM_AirPipe.label>воздушная трубка</LotM_AirPipe.label>
+  <LotM_AirPipe.description>Тонкая невидимая трубка подаёт чистый воздух.</LotM_AirPipe.description>
+  <LotM_ChangeFace.label>смена облика</LotM_ChangeFace.label>
+  <LotM_ChangeFace.description>Меняет лицо, тело, голос и запах, превращаясь в другого человека. Враги не распознают угрозу до первой атаки.</LotM_ChangeFace.description>
+  <LotM_Marionette.label>нити духовного тела</LotM_Marionette.label>
+  <LotM_FlamingJumpGreat.label>великий прыжок через пламя</LotM_FlamingJumpGreat.label>
+  <LotM_AirCannon.label>воздушная пушка</LotM_AirCannon.label>
+  <LotM_PaperFigurineTransfer.label>перенос раны на бумажного двойника</LotM_PaperFigurineTransfer.label>
+  <LotM_MarionetteSwap.label>обмен местами с марионеткой</LotM_MarionetteSwap.label>
+  <LotM_BestowWorm.label>даровать червя духа</LotM_BestowWorm.label>
+  <LotM_MythicalForm.label>форма мифического существа</LotM_MythicalForm.label>
+  <LotM_HistoricalBorrow.label>заимствование тела из прошлого</LotM_HistoricalBorrow.label>
+  <LotM_HistoricalProjection.label>историческая проекция</LotM_HistoricalProjection.label>
+  <LotM_HistoricalItem.label>предмет из прошлого</LotM_HistoricalItem.label>
+  <LotM_VoidHiding.label>укрыться в собственном прошлом</LotM_VoidHiding.label>
+  <LotM_FogOfHistory.label>туман истории</LotM_FogOfHistory.label>
+  <LotM_Miracle.label>чудо</LotM_Miracle.label>
+  <LotM_TwistFate.label>исказить судьбу</LotM_TwistFate.label>
+  <LotM_SpiritBody.label>духовное тело</LotM_SpiritBody.label>
+  <LotM_RegenerateThreads.label>восстановить нити</LotM_RegenerateThreads.label>
+  <LotM_ThreadedFood.label>пища с духовными нитями</LotM_ThreadedFood.label>
+  <LotM_GraftPortal.label>соединить места</LotM_GraftPortal.label>
+  <LotM_GraftLoop.label>замкнуть дорогу в петлю</LotM_GraftLoop.label>
+  <LotM_GraftRedirect.label>перенаправить удар</LotM_GraftRedirect.label>
+  <LotM_RealmOfMysteries.label>Царство тайн</LotM_RealmOfMysteries.label>
+  <LotM_BorrowMind.label>заимствование разума</LotM_BorrowMind.label>
+  <LotM_BorrowState.label>заимствование состояния</LotM_BorrowState.label>
+  <LotM_HistoricalEcho.label>проекция проекции</LotM_HistoricalEcho.label>
+  <LotM_VoidHidingDeep.label>укрыться в древней истории</LotM_VoidHidingDeep.label>
+  <LotM_PossessProjection.label>вселиться в проекцию</LotM_PossessProjection.label>
+  <LotM_PaperOrgan.label>бумажный орган</LotM_PaperOrgan.label>
+  <LotM_FlameTransport.label>отправить через пламя</LotM_FlameTransport.label>
+  <LotM_AirCannonGreat.label>воздушная пушка</LotM_AirCannonGreat.label>
+  <LotM_MarionetteGreat.label>нити духовного тела</LotM_MarionetteGreat.label>
+  <LotM_Shapeshift.label>смена формы</LotM_Shapeshift.label>
+  <LotM_TinyForm.label>крошечная форма</LotM_TinyForm.label>
+  <LotM_MiracleHeal.label>чудо: исцелить</LotM_MiracleHeal.label>
+  <LotM_MiracleRebuild.label>чудо: восстановить</LotM_MiracleRebuild.label>
+  <LotM_MiracleLifespan.label>чудо: продлить жизнь</LotM_MiracleLifespan.label>
+  <LotM_MiracleCalm.label>чудо: успокоить небеса</LotM_MiracleCalm.label>
+  <LotM_MiracleGodhood.label>чудо: рассеять божественность</LotM_MiracleGodhood.label>
+  <LotM_MiracleKingPower.label>чудо: сила высшего ангела</LotM_MiracleKingPower.label>
+  <LotM_MiracleTeleport.label>чудо: телепортация</LotM_MiracleTeleport.label>
+  <LotM_MiracleShrink.label>чудо: уменьшить область</LotM_MiracleShrink.label>
+  <LotM_MiracleOtherForm.label>чудо: форма другого пути</LotM_MiracleOtherForm.label>
+  <LotM_HistoricalScene.label>историческая сцена</LotM_HistoricalScene.label>
+  <LotM_MassThreads.label>всеобщий контроль нитей</LotM_MassThreads.label>
+  <LotM_WormsToAll.label>раздать червей духа</LotM_WormsToAll.label>
+  <LotM_GraftSpiritWorld.label>соединить через Мир духов</LotM_GraftSpiritWorld.label>
+  <LotM_GraftBeginEnd.label>соединить начало и конец</LotM_GraftBeginEnd.label>
+  <LotM_MiracleCalmCharacteristics.label>чудо: успокоить характеристики</LotM_MiracleCalmCharacteristics.label>
+  <LotM_AstralTravel.label>войти в Астральный мир</LotM_AstralTravel.label>
+  <LotM_Marionette.description>Хватает нити духовного тела кого-то поблизости и тянет их, не отпуская. Если это завершается, этот человек навсегда принадлежит им. Интенсивная боль может перерезать нити.</LotM_Marionette.description>
+  <LotM_FlamingJumpGreat.description>Прыгает в любой огонь, независимо от расстояния.</LotM_FlamingJumpGreat.description>
+  <LotM_AirCannon.description>Воздух, сжатый силой пушки. Он взрывается при ударе.</LotM_AirCannon.description>
+  <LotM_PaperFigurineTransfer.description>Передаёт раны и болезни, свои или чужие, бумажному двойнику, который распадается на месте.</LotM_PaperFigurineTransfer.description>
+  <LotM_MarionetteSwap.description>Следует их нитям и меняется местами с одной из их марионеток.</LotM_MarionetteSwap.description>
+  <LotM_BestowWorm.description>Разделяет Червь Духа от их тела и имплантирует его в марионетку, которая затем может использовать часть их сил.</LotM_BestowWorm.description>
+  <LotM_MythicalForm.description>Перестать притворяться человеком: белая маска без выражения, из-за которой из-за неё выходят Черви Духа. Почти ничто им не вредит, а кто их видит, сходит с ума.
+
+Sудержание этого имеет цену.</LotM_MythicalForm.description>
+  <LotM_HistoricalBorrow.description>Заимствует свою прошлую версию, здоровую и целую. Когда кредит заканчивается, раны вернутся.</LotM_HistoricalBorrow.description>
+  <LotM_HistoricalProjection.description>Призывает из Исторической пустоты проекцию того, кого колония знала, живого или мёртвого. Чем лучше они были известны, тем легче. У него нет собственной воли: он лишь подчиняется.</LotM_HistoricalProjection.description>
+  <LotM_HistoricalItem.description>Призывает проекцию объекта, принадлежащего колонии. Она реальна, пока длится.</LotM_HistoricalItem.description>
+  <LotM_VoidHiding.description>Прячется в пробеле в своей истории. Никто не может их увидеть или дотянуться, и оттуда они всё ещё могут брать и призывать.</LotM_VoidHiding.description>
+  <LotM_FogOfHistory.description>Вокруг них поднимается холодный серый туман. Место медленно остывает, как будто погружаясь в забытое прошлое.</LotM_FogOfHistory.description>
+  <LotM_Miracle.description>Превращает Желания в чудо. Желания рождаются из счастья окружающих их. Чем больше чудо, тем вероятнее, что оно сбудется искажённо.</LotM_Miracle.description>
+  <LotM_TwistFate.description>Толкает судьбу: делает всё лучше или хуже для кого-то на один день. На самих себя оно толкает судьбу места.</LotM_TwistFate.description>
+  <LotM_SpiritBody.description>Больше нет границы между их физическим телом и духовным телом: они могут быть одним или другим, или разделять их и снова соединяться.</LotM_SpiritBody.description>
+  <LotM_RegenerateThreads.description>То, что когда-то имело духовное тело, снова обретает нити, и они его: труп поднимается, тот, кто ест эту пищу, становится его марионеткой, и предмет из дерева, кожи или ткани ходит за ним. То, чего никогда не было живым, не имеет нитей для регенерации.</LotM_RegenerateThreads.description>
+  <LotM_ThreadedFood.description>Возвращает нити в пищу, которая когда-то была живой. Кто её съест, тот будет их марионеткой.</LotM_ThreadedFood.description>
+  <LotM_GraftPortal.description>Прикрепляет это место к другому: тот, кто ступает на одно, выходит из другого.</LotM_GraftPortal.description>
+  <LotM_GraftLoop.description>Присоединяется к началу и концу пути: кто бы ни вошел, всегда возвращается туда, откуда пришел.</LotM_GraftLoop.description>
+  <LotM_GraftRedirect.description>Прикрепляет попадания врага, направленные на их союзников, к другим врагам.</LotM_GraftRedirect.description>
+  <LotM_RealmOfMysteries.description>Эмбрион божественного царства: алтарь, который ничто не может сломать, где никто другой не может быть. Там они в безопасности.</LotM_RealmOfMysteries.description>
+  <LotM_BorrowMind.description>Заимствует их разум в момент, когда он был только их. Ничто извне не касается его, пока это длится.</LotM_BorrowMind.description>
+  <LotM_BorrowState.description>Заимствует день, когда они отдыхали, хорошо питались и были свободны от боли. Когда он заканчивается, всё возвращается в прежнее состояние.</LotM_BorrowState.description>
+  <LotM_HistoricalEcho.description>Призывает эхо проекции: легче вызвать, но слабее и менее долговечно.</LotM_HistoricalEcho.description>
+  <LotM_VoidHidingDeep.description>Погружается в эпоху, которая не принадлежит им. Никто не может следовать за ними туда, но это дорого, чтобы удерживать, и они ничего не могут сделать.</LotM_VoidHidingDeep.description>
+  <LotM_PossessProjection.description>Из их укрытия в прошлом они посылают свой разум в одну из своих проекций и управляют ею сами.</LotM_PossessProjection.description>
+  <LotM_PaperOrgan.description>Сминает бумагу в форму того, чего не хватает: орган, рука, глаз. Работает как настоящее... пока кто-то не обнаружит, что это подделка.</LotM_PaperOrgan.description>
+  <LotM_FlameTransport.description>Предмет рядом с пламенем проходит сквозь огонь и появляется рядом с ними, или рядом с одним из их марионеток.</LotM_FlameTransport.description>
+  <LotM_AirCannonGreat.description>Сжатый воздух с любой силой, которую они выберут: от толчка до береговой артиллерии.</LotM_AirCannonGreat.description>
+  <LotM_MarionetteGreat.description>Их нити достигают любого, кого они могут видеть на расстоянии. Мгновенно они получают их; через секунду они принадлежат им.</LotM_MarionetteGreat.description>
+  <LotM_Shapeshift.description>Их тело червей перестраивается в форму животного, которое они знают. Некоторые органы работают; другие — не так уж.</LotM_Shapeshift.description>
+  <LotM_TinyForm.description>Сжимается в кусок плоти размером с закладку.</LotM_TinyForm.description>
+  <LotM_MiracleHeal.description>Как в Городе Луны: шрамы, деформации и хронические болезни исчезают, а потерянные конечности возвращаются.</LotM_MiracleHeal.description>
+  <LotM_MiracleRebuild.description>Как в Городе Константа: всё построенное снова становится целым.</LotM_MiracleRebuild.description>
+  <LotM_MiracleLifespan.description>Возвращает кому-то годы. То же самое нельзя просить у того же человека так часто.</LotM_MiracleLifespan.description>
+  <LotM_MiracleCalm.description>Катаклизмы неба и земли успокаиваются.</LotM_MiracleCalm.description>
+  <LotM_MiracleGodhood.description>Как Котар: божественность рассеивается, и силы врага ослабевают. Те, у кого больше божественности, восстанавливают её быстрее.</LotM_MiracleGodhood.description>
+  <LotM_MiracleKingPower.description>На один день активируется сила Последовательности 1. Она также восстанавливает силу ангела, чья ранг понизился.</LotM_MiracleKingPower.description>
+  <LotM_MiracleTeleport.description>Они, и тот, кто рядом с ними, появляются где-то ещё.</LotM_MiracleTeleport.description>
+  <LotM_MiracleShrink.description>Место сжимается на себя. Всё внутри вдавливается в центр, пока не останется воздуха.</LotM_MiracleShrink.description>
+  <LotM_MiracleOtherForm.description>Временно принимает форму мифического существа другого пути, который они знают.</LotM_MiracleOtherForm.description>
+  <LotM_HistoricalScene.description>Проецируется на место, каким оно было: то, что было и исчезло, возвращается на некоторое время.</LotM_HistoricalScene.description>
+  <LotM_MassThreads.description>Мгновенно захватывает нити всех более слабых в месте: людей и животных, вплоть до крыс.</LotM_MassThreads.description>
+  <LotM_WormsToAll.description>Отделяет Жертину Духа для каждой марионетки, у которой еще нет такой.</LotM_WormsToAll.description>
+  <LotM_GraftSpiritWorld.description>Присоединяет это место к другому через Мир духов: они и все, кто рядом с ними, появляются там.</LotM_GraftSpiritWorld.description>
+  <LotM_GraftBeginEnd.description>Соединяет начало чего-то с его концом и пропускает то, что находится между ними. Ассимиляция заканчивается сейчас; порча никогда не происходит.</LotM_GraftBeginEnd.description>
+  <LotM_MiracleCalmCharacteristics.description>Подобно Заратул: характеристики успокаиваются и на несколько дней перестают втягивать те, что принадлежат их пути. Для того, кто усваивает зелье, это облегчает нагрузку.</LotM_MiracleCalmCharacteristics.description>
+  <LotM_AstralTravel.description>Входит в абстрактный, концептуальный мир и перемещается по нему со скоростью света куда угодно.</LotM_AstralTravel.description>
+</LanguageData>

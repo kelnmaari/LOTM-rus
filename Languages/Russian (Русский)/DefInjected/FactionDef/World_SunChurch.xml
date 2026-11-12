@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_SunChurch.label>Церковь Вечно Пылающего Солнца</LotM_SunChurch.label>
+  <LotM_SunChurch.fixedName>Церковь Вечно Пылающего Солнца</LotM_SunChurch.fixedName>
+  <LotM_SunChurch.description>Церковь Вечно Пылающего Солнца: жрецы, которые поют хвалу Солнцу, благословляют, судят и подписывают священные контракты. Они приветствуют тех, кто живет в свете, но ненавидят все проклятое, дикарей и бандитов, и не успокоятся, пока существует Орден Авроры.
+
+Их вооруженная рука — Очистители, которые охотятся на монстров и сжигают зло. Их ряды: верующие, светлые просители, солнечные высшие жрецы, нотариусы, жрецы света и, на самом верху, полубожественные архиепископы. Над ними, в их Святилище, находятся ангелы и их бог.</LotM_SunChurch.description>
+  <LotM_SunChurch.pawnSingular>верные Солнцу</LotM_SunChurch.pawnSingular>
+  <LotM_SunChurch.pawnsPlural>верные Солнцу</LotM_SunChurch.pawnsPlural>
+  <LotM_SunChurch.leaderTitle>Архиепископ</LotM_SunChurch.leaderTitle>
+</LanguageData>

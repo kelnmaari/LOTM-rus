@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Cicada_Child.title>долгая лето</LotM_Cicada_Child.title>
+  <LotM_Cicada_Child.titleShort>лето</LotM_Cicada_Child.titleShort>
+  <LotM_Cicada_Child.description>[PAWN_nameDef] не помнит ничего до очень долгого лета. Он проснулся, поющий под деревом, жаждущий сцены, с гитарой, откуда он не знает.</LotM_Cicada_Child.description>
+  <LotM_Cicada_Adult.title>бродячий музыкант</LotM_Cicada_Adult.title>
+  <LotM_Cicada_Adult.titleShort>музыкант</LotM_Cicada_Adult.titleShort>
+  <LotM_Cicada_Adult.description>[PAWN_nameDef] путешествует по дорогам со своей потрёпанной гитарой и играет в тавернах, на площадях, свадьбах и похоронах (менее успешно в последнем). Он мечтает исполнить величайшую музыку в мире.</LotM_Cicada_Adult.description>
+</LanguageData>

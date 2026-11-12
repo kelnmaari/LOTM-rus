@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_DrankPotion.stages.0.label>выпил зелье Потустороннего</LotM_DrankPotion.stages.0.label>
+  <LotM_DrankPotion.stages.0.description>Мои руки всё ещё дрожат. Я слышал голоса, пришедшие ниоткуда.</LotM_DrankPotion.stages.0.description>
+  <LotM_DrankPotion.stages.1.label>выпил зелье середины Последовательности</LotM_DrankPotion.stages.1.label>
+  <LotM_DrankPotion.stages.1.description>Я почувствовал, как мой разум разбился на части и снова собрался воедино. Я не знаю, принадлежат ли все части мне.</LotM_DrankPotion.stages.1.description>
+  <LotM_DrankPotion.stages.2.label>выпил зелье полубога</LotM_DrankPotion.stages.2.label>
+  <LotM_DrankPotion.stages.2.description>Моё тело распалось и само воссоздало себя. Я видел вещи за пределами этого мира. Я выжил, но часть меня осталась позади.</LotM_DrankPotion.stages.2.description>
+  <LotM_AssimilatedPotion.stages.0.label>Мне удалось усвоить зелье: {0}</LotM_AssimilatedPotion.stages.0.label>
+  <LotM_AssimilatedPotion.stages.0.description>Я сделал это. Зелье теперь часть меня, и я чувствую, как пробуждаются новые силы.</LotM_AssimilatedPotion.stages.0.description>
+  <LotM_AssimilatedPotion.stages.1.label>Мне удалось усвоить зелье: {0}</LotM_AssimilatedPotion.stages.1.label>
+  <LotM_AssimilatedPotion.stages.1.description>Мой разум распался и снова сошёлся, но я остался ответственным. Я сильнее, чем прежде.</LotM_AssimilatedPotion.stages.1.description>
+  <LotM_AssimilatedPotion.stages.2.label>Мне удалось усвоить зелье: {0}</LotM_AssimilatedPotion.stages.2.label>
+  <LotM_AssimilatedPotion.stages.2.description>Я выжил в том, что убивает почти всех. Я больше не полностью человек... и мне всё равно.</LotM_AssimilatedPotion.stages.2.description>
+  <LotM_MythicalFormHorror.stages.0.label>я был вихрем червей</LotM_MythicalFormHorror.stages.0.label>
+  <LotM_MythicalFormHorror.stages.0.description>На несколько секунд я перестал быть человеком. Я чувствовал, как извиваются все черви, и сам растворялся среди них. Не знаю, всё ли, что вернулось, это я.</LotM_MythicalFormHorror.stages.0.description>
+  <LotM_MythicalFormHorror.stages.1.label>Мифическая форма всё ещё меня беспокоит</LotM_MythicalFormHorror.stages.1.label>
+  <LotM_MythicalFormHorror.stages.1.description>Становится всё легче и легче возвращаться... и это самое страшное для меня.</LotM_MythicalFormHorror.stages.1.description>
+  <LotM_SwallowedByVoid.stages.0.label>Я был внутри Исторической пустоты</LotM_SwallowedByVoid.stages.0.label>
+  <LotM_SwallowedByVoid.stages.0.description>Оно поглотило меня. Внутри не было ни вверх, ни вниз, только повторяющиеся сцены, которые уже произошли. Я до сих пор не знаю, как долго я там был.</LotM_SwallowedByVoid.stages.0.description>
+</LanguageData>

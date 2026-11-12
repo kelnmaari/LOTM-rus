@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Authority_Horror.label>Ужас</LotM_Authority_Horror.label>
+  <LotM_Authority_Horror.description>Менеее проявление власти Ужаса.</LotM_Authority_Horror.description>
+  <LotM_Authority_Horror.passive>Аура ужаса: кто бы ни смотрел прямо на них или чувствовал их влияние, он дрожит, не в силах сдержать или скрыть это. Слабые Потусторонние могут потерять контроль или умереть от страха; просто попадание в сон кого-либо тоже может это вызвать. Недавно возвысившиеся, они не могут сдержать свою ауру.</LotM_Authority_Horror.passive>
+  <LotM_Authority_Horror.godPassive>Она — Ужас, воплощённый в плоти: её глаза сжимают звёздное небо. Враги, которые видят её, чувствуют покой и неконтролируемый страх, а иногда то, что они делали, прерывается. С её взглядом она парализует всё место ужасом.</LotM_Authority_Horror.godPassive>
+  <LotM_Authority_Concealment.label>сокрытие</LotM_Authority_Concealment.label>
+  <LotM_Authority_Concealment.description>Власть Сокрытия, в некоторой степени: стирать, хранить в тайне и обращать вспять то, что скрыто.</LotM_Authority_Concealment.description>
+  <LotM_Authority_Concealment.passive>Чувство ангелов: когда существо уровня ангела появляется в месте, даже скрытое, они это чувствуют и обнажают. То, что они скрывают, нельзя наблюдать или угадывать извне, даже высшим ангелом.</LotM_Authority_Concealment.passive>
+  <LotM_Authority_Concealment.godPassive>Полное сокрытие: она самый трудный бог для слежки. То, что принадлежит ей, нельзя угадать или отследить, и половина рейдов в поисках её Святилища никогда его не находит. Она интуитивно воспринимает каждую тайну: на её карте всё, что её враги прячут или маскируют, обнажается. Она затягивает кого угодно в Скрытый Мир и может навсегда запечатать их там.</LotM_Authority_Concealment.godPassive>
+  <LotM_Authority_Misfortune.label>Неудача</LotM_Authority_Misfortune.label>
+  <LotM_Authority_Misfortune.description>Тьма над Несчастьем: несчастье, которое может обрушиться на человека, на место или на целый народ.</LotM_Authority_Misfortune.description>
+  <LotM_Authority_Misfortune.passive>Их несчастье всегда достигает тех, кто на том же уровне. Проклятый народ теряет свое богатство: он приходит ослабленным и иногда природа сразу же против него.</LotM_Authority_Misfortune.passive>
+  <LotM_Authority_Misfortune.godLabel>Неудача и Катастрофа</LotM_Authority_Misfortune.godLabel>
+  <LotM_Authority_Misfortune.godPassive>Несчастье и Катастрофа: она приносит катастрофы через несчастье в любое место в мире.</LotM_Authority_Misfortune.godPassive>
+  <LotM_Authority_DarknessPath.label>тьма</LotM_Authority_DarknessPath.label>
+  <LotM_Authority_DarknessPath.description>Некая власть над самой Тьмой.</LotM_Authority_DarknessPath.description>
+  <LotM_Authority_DarknessPath.passive>Слуга Тьмы: в темноте их почти невозможно по-настоящему убить; они возвращаются из смерти, но каждый раз они глубже сливаются с ней, пока не становятся частью Тьмы. Атаки тьмы едва влияют на них.</LotM_Authority_DarknessPath.passive>
+  <LotM_Authority_DarknessPath.godPassive>Полная тьма: она вызывает сны, приносит покой или вечный покой и растворяется во тьме. Спокойствие, которое она дарит, защищает её ближайших союзников: они не ломаются, и порча не достигает их. Она может высвободить Тьму, которая является Пунктом назначения Всего. В темноте она не может умереть: смертельный удар растворяет её в Тьме, и она восстанавливается целой в своём Святилище. С Вечной Ночью она окутывает себя Тьмой: она и её союзники поблизости всегда в темноте, и она обладает большей силой.</LotM_Authority_DarknessPath.godPassive>
+  <LotM_Authority_SpiritBody.label>Духовное тело и духовность</LotM_Authority_SpiritBody.label>
+  <LotM_Authority_SpiritBody.description>Она — пункт назначения духов и их повелитель. Она перекрывается с властью Смерти (которая склоняется к нежити) и властью Матери Богини Порочности; Тьма склоняется к природным духам.</LotM_Authority_SpiritBody.description>
+  <LotM_Authority_SpiritBody.passive>Каждый дух идет к ней: каждая смерть на ее карте возвращает ей духовность. Она всегда видит Мир духов, и его создания не касаются тех, кто на ее стороне. Она призывает природные духи и усыпляет духовные тела других.</LotM_Authority_SpiritBody.passive>
+  <LotM_Authority_NightCrimsonMoon.label>ночь и багровый месяц</LotM_Authority_NightCrimsonMoon.label>
+  <LotM_Authority_NightCrimsonMoon.description>ночь и багровая луна, увенчивающая её.</LotM_Authority_NightCrimsonMoon.description>
+  <LotM_Authority_NightCrimsonMoon.passive>Ночью она и Потусторонние на ее стороне обладают большей силой. Она может поднимать Багровый Луну над любым местом в мире: красная ночь, которая укрепляет ее собственную и наполняет врагов страхом и кошмарами.</LotM_Authority_NightCrimsonMoon.passive>
+  <LotM_Authority_Silence.label>Тишина</LotM_Authority_Silence.label>
+  <LotM_Authority_Silence.description>тишина, хранящая тайны.</LotM_Authority_Silence.description>
+  <LotM_Authority_Silence.passive>Она умолкает того, кого хочет, множеством способов, так что они никогда не раскрывают того, что она скрывает. Тишина может царить вокруг неё: никто не говорит, не поёт и не произносит сил (песни, стихи, молитвы, провозглашения).</LotM_Authority_Silence.passive>
+</LanguageData>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Npc_Pallez.talks.0.nodes.0.speech>*Из глубины сна доносится старый, усталый голос.*
+
+Тсс. Тише, малец. Не кричи и не произноси моё имя вслух. Я Паллез Зороаст. Я… был ангелом. А теперь я старик, который прячется.
+
+Того господина с моноклем, что заходил сюда, я видел. А он меня — нет. Вот что важно. Если найдёт, он меня съест. Буквально.
+
+Мне нужно где-нибудь укрыться. Внутри кого-нибудь из вас. Я никому не помешаю, ничего не украду и никого не съем. Просто спрячусь.</LotM_Npc_Pallez.talks.0.nodes.0.speech>
+  <LotM_Npc_AmonAvatar.label>Амон</LotM_Npc_AmonAvatar.label>
+  <LotM_Npc_AmonAvatar.description>Аватар Амона Последовательности 5, который приходит встретиться с колонистом Ошибки, достигшим Последовательности 7.</LotM_Npc_AmonAvatar.description>
+  <LotM_Npc_AmonAvatar.letterLabel>Джентльмен в монокле</LotM_Npc_AmonAvatar.letterLabel>
+  <LotM_Npc_AmonAvatar.letterText>За столом колонии сидит незнакомец, пьющий чай, как будто он здесь жив: остроконечная шляпа, чёрный плащ, хрустальный монокль над правым глазом.
+
+Он говорит, что его зовут {PAWN_nameDef}, и что он пришёл встретиться с вашим колонистом по пути Ошибки. Щёлкните правой кнопкой мыши, чтобы поговорить. Если кто-то его атакует, разговор не затянется.</LotM_Npc_AmonAvatar.letterText>
+  <LotM_Npc_AmonAvatar.hostileText>{0} вытирает рукав улыбкой. "Такое плохое поведение. Хорошо: если хочешь играть, давай поиграем".</LotM_Npc_AmonAvatar.hostileText>
+  <LotM_Npc_AmonAvatar.deathText>{0} падал, не переставая улыбаться. «Интересно», — сумел он сказать. Где-то в мире другой Амон поправил монокль и продолжил свои дела.</LotM_Npc_AmonAvatar.deathText>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.0.speech>*Он сидит за вашим столом, держит вашу чашку, пьет ваш чай. У него надет остроконечный головной убор, черный плащ, хрустальный монокль над правым глазом. Когда он видит вас, он поднимает чашку, как в тост.*
+
+Добрый день. Простите, что не ждал приглашения: ожидание — пустая трата времени, а время — единственное, что я никогда не возвращаю.
+
+Меня зовут Амон. *Он поправляет монокль.* Я почувствовал, что кто-то в этой колонии начал идти по моему пути, и я хотел с ними встретиться. Мне нравится наблюдать за ростом вещей. Прежде чем я их соберу.</LotM_Npc_AmonAvatar.talks.0.nodes.0.speech>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.0.options.0.label>Кто ты на самом деле?</LotM_Npc_AmonAvatar.talks.0.nodes.0.options.0.label>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.0.options.1.label>Что ты имеешь в виду, "собрать их"?</LotM_Npc_AmonAvatar.talks.0.nodes.0.options.1.label>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.0.options.2.label>Приветствуй его как коллегу по пути.</LotM_Npc_AmonAvatar.talks.0.nodes.0.options.2.label>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.0.options.3.label>Попробуй предсказать, чего он хочет.</LotM_Npc_AmonAvatar.talks.0.nodes.0.options.3.label>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.0.options.4.label>Скажи ему, что эта колония находится под светом.</LotM_Npc_AmonAvatar.talks.0.nodes.0.options.4.label>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.0.options.5.label>Пожелай ему спокойной ночи, даже если день.</LotM_Npc_AmonAvatar.talks.0.nodes.0.options.5.label>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.0.options.6.label>Предложи ему сделку.</LotM_Npc_AmonAvatar.talks.0.nodes.0.options.6.label>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.0.options.7.label>Брось ему вызов на бой.</LotM_Npc_AmonAvatar.talks.0.nodes.0.options.7.label>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.0.options.8.label>Открой дверь, чтобы он ушел.</LotM_Npc_AmonAvatar.talks.0.nodes.0.options.8.label>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.0.options.9.label>Уходи из моей колонии.</LotM_Npc_AmonAvatar.talks.0.nodes.0.options.9.label>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.1.speech>Правда? *Он улыбается, забавляясь.* Я Амон. Не копия, не один из многих: Амон. Если ты когда-нибудь встретишь другого, кто скажет то же самое, он ошибается.
+
+Ну, он думает, что я ошибаюсь. Это семейная проблема. Очень большая.</LotM_Npc_AmonAvatar.talks.0.nodes.1.speech>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.2.speech>*Он крутит чашку между пальцами.* Плод созревает, не так ли? Ты наблюдаешь за его ростом, немного заботишься о нём, и однажды... *он щелкает пальцами.*
+
+Твоя ошибка Потустороннего всё ещё зелёная. Когда они станут Паразитами, я узнаю. Не нужно говорить мне: я почувствую это, как ты чувствуешь приближающийся дождь.</LotM_Npc_AmonAvatar.talks.0.nodes.2.speech>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.3.speech>*Впервые он кажется искренне заинтересованным.* Коллега. Как мило. *Он осматривает тебя с помощью монокля, как будто оценивая драгоценность.*
+
+Продолжай воровать, продолжай обманывать, продолжай расти. Путь вознаграждает тех, кто не останавливается. И я вознаграждаю их тоже. По-своему.</LotM_Npc_AmonAvatar.talks.0.nodes.3.speech>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.4.speech>*Прежде чем вы успеваете сосредоточиться, он протягивает вам что-то: монету, которую вы собирались использовать для предсказания.* Вы это уронили.
+
+Не напрягайтесь: то, что вы собирались увидеть, я уже забрал. Но я скажу вам бесплатно, потому что я люблю вас: я хочу видеть только то, что вы делаете. Ничего больше. Пока.</LotM_Npc_AmonAvatar.talks.0.nodes.4.speech>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.5.speech>Свет. *Он вздыхает, почти ностальгически.* Мой отец говорил так же. Он был солнцем мира, более древнего, чем этот.
+
+I иногда скучаю по нему. Почти так же, как я рад, что он ушёл.</LotM_Npc_AmonAvatar.talks.0.nodes.5.speech>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.6.speech>*Он смеётся, восхищённый.* Спокойной ночи и тебе. Мне нравятся люди, которые намеренно неправы: это почти как украсть кусочек дня.</LotM_Npc_AmonAvatar.talks.0.nodes.6.speech>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.7.speech>Сделка? *Он кладет чашу.* Сделки для тех, кто имеет что терять. Я не теряю: максимум, я одалживаю.
+
+Но я ценю предложение. Это самая честная вещь, которую кто-либо говорил мне за столетие.</LotM_Npc_AmonAvatar.talks.0.nodes.7.speech>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.8.speech>*Он смотрит на твою руку, затем на твои глаза.* Такая энергия. Нет, спасибо. Сражаться с кем-то, кто уже потерял интерес, меня утомляет, а скука — единственное, что по-настоящему меня оскорбляет.</LotM_Npc_AmonAvatar.talks.0.nodes.8.speech>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.9.speech>Он смотрит на дверь, которую ты открыл для него, затем на тебя. Как мило. Хотя я никогда не использую двери, чтобы уйти. Я использую их, чтобы люди думали, что я ушел.</LotM_Npc_AmonAvatar.talks.0.nodes.9.speech>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.10.speech>*Он не двигается.* Конечно, конечно. *Он делает еще один глоток, не торопясь.* Я уйду, когда допью чай. Было бы невежливо уходить с наполовину выпитым, не так ли?</LotM_Npc_AmonAvatar.talks.0.nodes.10.speech>
+  <LotM_Npc_AmonAvatar.talks.0.nodes.11.speech>*Он допивает чай, встаёт и делает безупречный поклон.*
+
+Было приятно. Правда: прошла вечность с тех пор, как кто-то казался таким... многообещающим. Мы встретимся снова. Я всегда возвращаюсь; это единственное, что никогда не подводит.
+
+*Когда он уходит, ты чувствуешь, что чего-то не хватает. Ты не знаешь, пока не придёт время.*</LotM_Npc_AmonAvatar.talks.0.nodes.11.speech>
+  <LotM_Npc_Pallez.label>Палес Зороаст</LotM_Npc_Pallez.label>
+  <LotM_Npc_Pallez.description>Старый ангел-Ошибка (Червь Времени), прячущийся от Амона внутри колониста. Он хранит третью характеристику, которой не хватает Амону. Он просто хочет жить.</LotM_Npc_Pallez.description>
+  <LotM_Npc_Pallez.talks.0.nodes.0.options.0.label>Амон?</LotM_Npc_Pallez.talks.0.nodes.0.options.0.label>
+  <LotM_Npc_Pallez.talks.0.nodes.0.options.1.label>Почему он ищет тебя?</LotM_Npc_Pallez.talks.0.nodes.0.options.1.label>
+  <LotM_Npc_Pallez.talks.0.nodes.0.options.2.label>Хорошо. Я выберу, где ты спрячешься.</LotM_Npc_Pallez.talks.0.nodes.0.options.2.label>
+  <LotM_Npc_Pallez.talks.0.nodes.0.options.3.label>Нет. Найдите другую колонию.</LotM_Npc_Pallez.talks.0.nodes.0.options.3.label>
+  <LotM_Npc_Pallez.talks.0.nodes.1.speech>Шш! *Голос сжимается.* Да. Его. Не говори так, как будто это ничего. Имена зовут, малыш. И это имя кусает.</LotM_Npc_Pallez.talks.0.nodes.1.speech>
+  <LotM_Npc_Pallez.talks.0.nodes.2.speech>Потому что у меня есть то, чего он хочет: одна из трёх частей, которой ему не хватает, чтобы стать тем, кем он хочет быть. И потому что я старик его собственного пути, а он собирает стариков своего пути. Изнутри.</LotM_Npc_Pallez.talks.0.nodes.2.speech>
+  <LotM_Npc_Pallez.talks.0.nodes.3.speech>Спасибо, малыш. Правда. Выбери кого-нибудь спокойного, если можешь. Люди, кричащие во сне, вызывают у меня головную боль.</LotM_Npc_Pallez.talks.0.nodes.3.speech>
+  <LotM_Npc_Pallez.talks.0.nodes.4.speech>*Долгий вздох.* Ну-ну. Пусть время будет к тебе добрым, малыш. И если увидишь монокль... беги.</LotM_Npc_Pallez.talks.0.nodes.4.speech>
+  <LotM_Npc_Pallez.talks.1.nodes.0.speech>Ну что, парень? Куда мне идти? У меня нет всего дня. Ну, у него тоже есть.</LotM_Npc_Pallez.talks.1.nodes.0.speech>
+  <LotM_Npc_Pallez.talks.1.nodes.0.options.0.label>Выбери, где он спрячется.</LotM_Npc_Pallez.talks.1.nodes.0.options.0.label>
+  <LotM_Npc_Pallez.talks.1.nodes.0.options.1.label>Нет. Найдите другую колонию.</LotM_Npc_Pallez.talks.1.nodes.0.options.1.label>
+  <LotM_Npc_Pallez.talks.1.nodes.1.speech>Как хочешь. Пусть время будет к тебе мягким.</LotM_Npc_Pallez.talks.1.nodes.1.speech>
+  <LotM_Npc_Pallez.talks.2.nodes.0.speech>Он нас видел! *Голос срывается.* Этот Амон почуял меня. Он пойдет за тем, кто меня несёт.
+
+Защитите их, или выведите их отсюда. А если они упадут... Я перейду к кому-то другому. Прости, малыш. Прости.</LotM_Npc_Pallez.talks.2.nodes.0.speech>
+  <LotM_Npc_Pallez.talks.3.nodes.0.speech>Спрячься, малыш. *Едва слышный шёпот.* Рядом Амон.
+
+Не думай обо мне. Не называй мое имя. И пусть тот, кто меня унесет от него, берет меня.</LotM_Npc_Pallez.talks.3.nodes.0.speech>
+  <LotM_Npc_Pallez.talks.4.nodes.0.speech>Малыш. *Голос дрожит.* У одного из вас созрело. Я чувствую это отсюда, и он уже учуял запах. У тебя есть несколько дней.</LotM_Npc_Pallez.talks.4.nodes.0.speech>
+  <LotM_Npc_Pallez.talks.4.nodes.0.options.0.label>Укрой их своим покровом.</LotM_Npc_Pallez.talks.4.nodes.0.options.0.label>
+  <LotM_Npc_Pallez.talks.4.nodes.0.options.1.label>Ты можешь их защитить?</LotM_Npc_Pallez.talks.4.nodes.0.options.1.label>
+  <LotM_Npc_Pallez.talks.4.nodes.0.options.2.label>Что мы делаем?</LotM_Npc_Pallez.talks.4.nodes.0.options.2.label>
+  <LotM_Npc_Pallez.talks.4.nodes.1.speech>*Долгая тишина, словно кто-то собирает силы.* Готово. Несколько дней он их не увидит.
+
+После этого я буду изношен до обрезков, так что не проси меня об этом так часто.</LotM_Npc_Pallez.talks.4.nodes.1.speech>
+  <LotM_Npc_Pallez.talks.4.nodes.2.speech>Нет, парень. Я ещё не оправился от прошлого раза. Тебе придётся прятать их самому.</LotM_Npc_Pallez.talks.4.nodes.2.speech>
+  <LotM_Npc_Pallez.talks.4.nodes.3.speech>Спрячьте их. Нет другого способа. Из мира: скрытое пространство, внутри кого-то. Из поля зрения: сокрытие. Или далеко, в караване, вдали от любой вашей колонии.
+
+Если он прибывает и не находит их, он уходит. Затем он возвращается. Он всегда возвращается.</LotM_Npc_Pallez.talks.4.nodes.3.speech>
+  <LotM_Npc_Pallez.talks.5.nodes.0.speech>*Знакомый голос, из нового места.* Ну. Последний не дошел. Я живу здесь теперь.
+
+Прости за беспорядок, малыш. Я ничего не трону.</LotM_Npc_Pallez.talks.5.nodes.0.speech>
+  <LotM_Npc_Pallez.talks.6.nodes.0.speech>*Голос теперь звучит изнутри кого-то в колонии.* Ах. Приятно и тепло. Спасибо, малыш.
+
+Правила дома: не говори моего имени вслух, не ищи меня духовным зрением, когда вокруг чужие, и если видишь косые шляпы, беги. Я предупрежу тебя, если почувствую его.
+
+И если тот, кто меня несет, умрет, не беспокойся обо мне: я перейду к кому-то другому. Беспокойся о них.</LotM_Npc_Pallez.talks.6.nodes.0.speech>
+  <LotM_Npc_Pallez.talks.7.nodes.0.speech>Ты хочешь знать о нём, не так ли? Показывает.
+
+Он — путь Ошибки, воплощённый в плоти. Он крадёт всё: вещи, силы, тела, время. У него есть аватары повсюду, и каждый из них верит, что он настоящий. Знаешь худшую часть? Они все немного правы.
+
+Он сражается лучше любого, кого я когда-либо видел. Не потому, что он сильнее: потому что он никогда не делает того, чего ты ожидаешь.</LotM_Npc_Pallez.talks.7.nodes.0.speech>
+  <LotM_Npc_Pallez.talks.7.nodes.0.options.0.label>Его можно убить?</LotM_Npc_Pallez.talks.7.nodes.0.options.0.label>
+  <LotM_Npc_Pallez.talks.7.nodes.0.options.1.label>А чего ты хочешь?</LotM_Npc_Pallez.talks.7.nodes.0.options.1.label>
+  <LotM_Npc_Pallez.talks.7.nodes.1.speech>Аватары, да. Они даже оставляют свою характеристику. Настоящий... нет. Если ты его убьешь, он встанет в другом аватаре, где-то еще, и рассмеется.
+
+Говорят, есть замок... *Он внезапно замолкает.* Забудь. Старый болтун.</LotM_Npc_Pallez.talks.7.nodes.1.speech>
+  <LotM_Npc_Pallez.talks.7.nodes.2.speech>Чтобы жить, парень. Вот и всё. В моём возрасте это довольно амбициозный план.</LotM_Npc_Pallez.talks.7.nodes.2.speech>
+  <LotM_Npc_Pallez.talks.8.nodes.0.speech>Слушай внимательно, это может спасти чью-то жизнь.
+
+Когда один из твоих Потусторонних-Ошибок становится Паразитом, он это почувствует, как я чувствую дождь на коленях. У тебя есть несколько дней. Если к тому времени ты их не спрятал, он приходит лично и забирает их. Ты не убиваешь его. Ты не останавливаешь его. Ты прячешь их.
+
+Из мира: скрытое пространство, внутри кого-то. Из поля зрения: сокрытия. Далеко: караван, действительно далеко. Или я прикрываю их своим покровом. Я могу это делать время от времени, не часто: это стоит мне.</LotM_Npc_Pallez.talks.8.nodes.0.speech>
+  <LotM_Npc_Pallez.talks.9.nodes.0.speech>Совет старика, бесплатно: кража — это не хватание. Кража — это когда другой человек не знает, что что-то у него пропало. 
+
+И никогда не кради одно и то же дважды у одного человека. Во второй раз они будут ждать.</LotM_Npc_Pallez.talks.9.nodes.0.speech>
+  <LotM_Npc_Pallez.talks.9.nodes.0.options.0.label>Попроси у него совета о продвижении по пути.</LotM_Npc_Pallez.talks.9.nodes.0.options.0.label>
+  <LotM_Npc_Pallez.talks.9.nodes.0.options.1.label>Спасибо, старик.</LotM_Npc_Pallez.talks.9.nodes.0.options.1.label>
+  <LotM_Npc_Pallez.talks.9.nodes.1.speech>Вперед? *Он вздыхает.* Вперед медленно, малыш. Каждый шаг, который ты делаешь, делает тебя для него ярче.
+
+Если ты всё же собираешься подниматься, делай это с уже подготовленным укрытием. Это всё, что я знаю, что работает.</LotM_Npc_Pallez.talks.9.nodes.1.speech>
+</LanguageData>

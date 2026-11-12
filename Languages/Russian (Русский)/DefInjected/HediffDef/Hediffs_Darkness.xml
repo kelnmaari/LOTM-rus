@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Nocturnality.label>ноктюрнализм</LotM_Nocturnality.label>
+  <LotM_Nocturnality.description>Чем глубже ночь, тем сильнее: тело, интуиция и разум. Они видят во тьме без света и чувствуют опасности, скрытые в ней. От Ночного ястреба тьма места достаточна (и в ней они восстанавливаются), но полуденное солнце ослабляет их.</LotM_Nocturnality.description>
+  <LotM_SpiritVisionLesserHediff.label>духовное зрение</LotM_SpiritVisionLesserHediff.label>
+  <LotM_SpiritVisionLesserHediff.description>Видит духов и существ Мира духов, хотя не может чётко определить состояние каждой части тела. То, что они видят, видит и они.</LotM_SpiritVisionLesserHediff.description>
+  <LotM_PoemWorn.label>истёртые ментальные защиты</LotM_PoemWorn.label>
+  <LotM_PoemWorn.description>Они снова и снова сопротивлялись стихам и ментальным силам. Каждый раз становится сложнее.</LotM_PoemWorn.description>
+  <LotM_ForcedSleep.label>спит</LotM_ForcedSleep.label>
+  <LotM_ForcedSleep.description>Внезапно уснул, как будто песнь убаюкала его. Удар будит его.</LotM_ForcedSleep.description>
+  <LotM_DreamSleep.label>заперт во сне</LotM_DreamSleep.label>
+  <LotM_DreamSleep.description>Их утащили в сон, не заметив. Это был не сон: это был сон. Только сильный удар может их вытащить.</LotM_DreamSleep.description>
+  <LotM_Serene.label>безмятежный</LotM_Serene.label>
+  <LotM_Serene.description>Они сопротивлялись колыбельной, но остались безмятежными: им трудно чувствовать и выражать эмоции.</LotM_Serene.description>
+  <LotM_Pacified.label>умиротворенный</LotM_Pacified.label>
+  <LotM_Pacified.description>Поэма отняла у них волю к жизни: они вялые и едва реагируют.</LotM_Pacified.description>
+  <LotM_Horror.label>ужас</LotM_Horror.label>
+  <LotM_Horror.description>Необъяснимый ужас сжимает их грудь. Мышление и прицеливание затруднены.</LotM_Horror.description>
+  <LotM_NightmareTrauma.label>раздавленный дух</LotM_NightmareTrauma.label>
+  <LotM_NightmareTrauma.description>Что-то попало в их сны и сокрушило их страхом. Они до сих пор не оправились.</LotM_NightmareTrauma.description>
+  <LotM_NightmareBody.label>душа вне тела</LotM_NightmareBody.label>
+  <LotM_NightmareBody.description>Спят, пока их душа блуждает по области. Они беззащитны: если их ранят, душа возвращается. Стоит духовности.</LotM_NightmareBody.description>
+  <LotM_NightmareSoul.label>душа кошмара</LotM_NightmareSoul.label>
+  <LotM_NightmareSoul.description>Душа Кошмара вне его тела. Невидимая для других, она не может ни причинить вреда, ни быть причиненной. Свет выглядит тусклым, и всё размыто; сны других людей выглядят как овалы света.</LotM_NightmareSoul.description>
+  <LotM_NightmareLimbs.label>кошмарные конечности</LotM_NightmareLimbs.label>
+  <LotM_NightmareLimbs.description>Кошмарные конечности прорастают из их спины, чтобы сражаться вблизи. Они являются частью их плоти: если они ломаются, это причиняет им боль.</LotM_NightmareLimbs.description>
+  <LotM_NightmareLimbs.comps.1.tools.0.label>конечность кошмара</LotM_NightmareLimbs.comps.1.tools.0.label>
+  <LotM_NightmareLimbs.comps.1.tools.1.label>подсказка кошмара</LotM_NightmareLimbs.comps.1.tools.1.label>
+  <LotM_Requiem.label>реквием</LotM_Requiem.label>
+  <LotM_Requiem.description>Онемевает духовное тело цели. Оно гасит врага изнутри, умолкает дух и приносит союзнику покой.</LotM_Requiem.description>
+  <LotM_SpiritTeeth.label>запечатанные духи</LotM_SpiritTeeth.label>
+  <LotM_SpiritTeeth.description>Подавленные духи запечатаны в своих зубах. Удар по зубу высвобождает их; после этого они возвращаются.</LotM_SpiritTeeth.description>
+  <LotM_SpiritDecoy.label>оборотничающий дух</LotM_SpiritDecoy.label>
+  <LotM_SpiritDecoy.description>Дух в их форме сопровождает их: дух понесет следующий удар.</LotM_SpiritDecoy.description>
+  <LotM_BansheeDrain.label>скрип сирены</LotM_BansheeDrain.label>
+  <LotM_BansheeDrain.description>Крик баанши истощил их сознание.</LotM_BansheeDrain.description>
+  <LotM_NightDomain.label>домен ночи</LotM_NightDomain.label>
+  <LotM_NightDomain.description>Тьма изливается из их тела, как прилив. Внутри ночь принадлежит им самим, а не их врагам.</LotM_NightDomain.description>
+  <LotM_DomainWeakness.label>заперт в ночи</LotM_DomainWeakness.label>
+  <LotM_DomainWeakness.description>Они находятся внутри Домена Ночи врага: тьма разъедает их, истощает их жизненную силу и приносит им несчастье.</LotM_DomainWeakness.description>
+  <LotM_DomainBlessing.label>укрытый ночью</LotM_DomainBlessing.label>
+  <LotM_DomainBlessing.description>Они внутри Домена Ночи союзника: тьма защищает и укрепляет их.</LotM_DomainBlessing.description>
+  <LotM_HairBound.label>запутан в волосах</LotM_HairBound.label>
+  <LotM_HairBound.description>Холодная шерсть связывает их. Их мысли затихают, и тело не хочет сопротивляться мирному сну.</LotM_HairBound.description>
+  <LotM_DarkConcealment.label>скрыт во тьме</LotM_DarkConcealment.label>
+  <LotM_DarkConcealment.description>Темный, сновидческий туман скрывает их форму и их мистические связи. Враги не воспринимают их, пока не атакуют.</LotM_DarkConcealment.description>
+  <LotM_Misfortune.label>несчастье</LotM_Misfortune.label>
+  <LotM_Misfortune.description>Они получили крупную дозу невезения: они промахиваются мимо выстрелов и ударов, работают хуже, спотыкаются, а иногда их оружие ломается или выскальзывает из руки.</LotM_Misfortune.description>
+  <LotM_MythicalForm_Wolf.label>демоническая волк с восемью лапами</LotM_MythicalForm_Wolf.label>
+  <LotM_MythicalForm_Wolf.description>Их мифическая форма, всё ещё незавершенная: огромный восьминогий демонический волк, сделанный из тьмы. Он регенерирует за секунды, почти ничего не причиняет ему вреда, и его вой наполняет врагов ужасом.</LotM_MythicalForm_Wolf.description>
+  <LotM_MythicalForm_Wolf.comps.0.tools.0.label>клыки демонической волка</LotM_MythicalForm_Wolf.comps.0.tools.0.label>
+  <LotM_MythicalForm_Wolf.comps.0.tools.1.label>когти демонической волка</LotM_MythicalForm_Wolf.comps.0.tools.1.label>
+  <LotM_MythicalForm_Wolf.stages.0.label>неполный</LotM_MythicalForm_Wolf.stages.0.label>
+  <LotM_MythicalForm_Wolf.stages.1.label>почти готово</LotM_MythicalForm_Wolf.stages.1.label>
+  <LotM_MythicalForm_Wolf.stages.2.label>полный</LotM_MythicalForm_Wolf.stages.2.label>
+  <LotM_DarknessSwordHediff.label>меч тьмы</LotM_DarknessSwordHediff.label>
+  <LotM_DarknessSwordHediff.description>Вооружен костящим мечом, вытащенным из самой глубокой тьмы. Когда эффект заканчивается, он возвращается во тьму.</LotM_DarknessSwordHediff.description>
+  <LotM_NightmareWorld.label>мир кошмаров</LotM_NightmareWorld.label>
+  <LotM_NightmareWorld.description>Кошмарный мир покрывает всю область. Их союзники в безопасности от безумия; их враги, сонливые и неуклюжие.</LotM_NightmareWorld.description>
+  <LotM_DreamProtected.label>душа защищена сном</LotM_DreamProtected.label>
+  <LotM_DreamProtected.description>Они находятся внутри Кошмара союзника: их душа в безопасности от безумия, порчи и ментальных сил.</LotM_DreamProtected.description>
+  <LotM_DreamDazed.label>заперт в кошмаре</LotM_DreamDazed.label>
+  <LotM_DreamDazed.description>Они находятся внутри Кошмара врага: всё медленно и размыто, как во сне.</LotM_DreamDazed.description>
+  <LotM_IntangibleSpirit.label>нематериальный дух</LotM_IntangibleSpirit.label>
+  <LotM_IntangibleSpirit.description>Неосязающий дух окутывает их и уносит в Зеркальный Мир. Ничто не касается их, но они также не могут навредить чему-либо.</LotM_IntangibleSpirit.description>
+  <LotM_ConcealedAlly.label>скрытый</LotM_ConcealedAlly.label>
+  <LotM_ConcealedAlly.description>Слуга Сокрытия стерла их из мира: они видят всё, покрытое тёмным туманом. Никто не видит и не касается их, но они не могут действовать.</LotM_ConcealedAlly.description>
+  <LotM_SecretField.label>поле тайны</LotM_SecretField.label>
+  <LotM_SecretField.description>Окружает область полем, где всё тайно: их союзников нельзя увидеть или предсказать, пока они не нападут.</LotM_SecretField.description>
+  <LotM_SecretConcealed.label>втайне</LotM_SecretConcealed.label>
+  <LotM_SecretConcealed.description>Они находятся внутри поля тайны: никто не может их видеть, шпионить или провидеть, пока они не атакуют.</LotM_SecretConcealed.description>
+  <LotM_SurpriseStrike.label>внезапная атака</LotM_SurpriseStrike.label>
+  <LotM_SurpriseStrike.description>Вышли из тайны, чтобы атаковать: никто не видел их приближения.</LotM_SurpriseStrike.description>
+  <LotM_PeacefulPresence.label>крайняя тишина</LotM_PeacefulPresence.label>
+  <LotM_PeacefulPresence.description>Само присутствие Служителя сокрытия приносит им покой, достигающий самой глубины их сердца.</LotM_PeacefulPresence.description>
+  <LotM_Despair.label>отчаяние</LotM_Despair.label>
+  <LotM_Despair.description>Прилив тьмы коснулся их и лишил их надежды.</LotM_Despair.description>
+  <LotM_DeepSleep.label>глубокий сон</LotM_DeepSleep.label>
+  <LotM_DeepSleep.description>Опустились в сон настолько глубокий, что даже удар не будит их.</LotM_DeepSleep.description>
+</LanguageData>

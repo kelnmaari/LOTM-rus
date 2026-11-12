@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_HeardConcert.stages.0.label>услышал концерт</LotM_HeardConcert.stages.0.label>
+  <LotM_HeardConcert.stages.0.description>Кто-то играл и пел для нас. Час, на который всё остальное могло подождать.</LotM_HeardConcert.stages.0.description>
+  <LotM_HeardSadConcert.stages.0.label>услышал грустную концерт</LotM_HeardSadConcert.stages.0.label>
+  <LotM_HeardSadConcert.stages.0.description>Он играл медленные песни, такие, которые не заканчиваются. Все равно было прекрасно. Немного слишком прекрасно.</LotM_HeardSadConcert.stages.0.description>
+  <LotM_CicadaSunlessMood.stages.0.label>солнце, которого не было</LotM_CicadaSunlessMood.stages.0.label>
+  <LotM_CicadaSunlessMood.stages.0.description>Я был так близко. По крайней мере, я не один.</LotM_CicadaSunlessMood.stages.0.description>
+  <LotM_CicadaSunlessMood.stages.1.label>солнце, которого не было</LotM_CicadaSunlessMood.stages.1.label>
+  <LotM_CicadaSunlessMood.stages.1.description>Я был так близко. Теперь я не знаю, за что пою.</LotM_CicadaSunlessMood.stages.1.description>
+</LanguageData>

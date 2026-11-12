@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Apotheosis_Giant.label>апофеоз</LotM_Apotheosis_Giant.label>
+  <LotM_Apotheosis_Giant.description>С тремя характеристиками Руки Бога и Уникальностью Гиганта внутри них, они начинают, на алтаре своего Святилища, ритуал превращения в Сумеречного Гиганта. Это длится три дня, и весь мир придёт, чтобы остановить его, прямо в Святилище. Если они умрут, потеряют контроль, алтарь сломается или Святилище перестанет соответствовать требованиям, Сумерки поглотят их и всё вокруг состарится и рассыплется.</LotM_Apotheosis_Giant.description>
+  <LotM_GiantTwilightDomain.label>домен сумерек</LotM_GiantTwilightDomain.label>
+  <LotM_GiantTwilightDomain.description>Переключатель: затвердевает Сумерки вокруг него. В большой области время замедляется для его врагов: они двигаются, атакуют и нацеливаются со скоростью вдвое медленнее, как будто в другом мире, и стареют, оставаясь внутри. Потребляет духовность в час.</LotM_GiantTwilightDomain.description>
+  <LotM_GiantDivineTwilightSword.label>божественный Меч Сумерек</LotM_GiantDivineTwilightSword.label>
+  <LotM_GiantDivineTwilightSword.description>На ком-либо, где угодно в мире: Тёмный Меч падает с неба и окутывает его сиянием заката. Они застывают во времени, их мысли и движения почти остановлены, как будто они существуют в другом мире; даже Король ангелов не может полностью сбежать. Всё, к чему он прикасается, увядает.</LotM_GiantDivineTwilightSword.description>
+  <LotM_GiantDivineInstability.label>потеря контроля</LotM_GiantDivineInstability.label>
+  <LotM_GiantDivineInstability.description>На Потустороннем, где бы ни было в мире: течение времени достигает воли, живущей в его характеристиках. Они становятся нестабильными, и симптомы ухудшаются с каждым днём, пока они не теряют контроль и не преображаются. Очищение рассветом может их спасти.</LotM_GiantDivineInstability.description>
+  <LotM_GiantDivineFactionTwilight.label>сумерки фракции</LotM_GiantDivineFactionTwilight.label>
+  <LotM_GiantDivineFactionTwilight.description>На поселении на карте мира: к нему приближается сумерки. За три дня всё гниет, ржавеет и крошится, и его люди стареют или уходят; в конце остаются лишь руины. Это тяжело давит на барьер.</LotM_GiantDivineFactionTwilight.description>
+  <LotM_GiantDivineDawnPurify.label>Рассвет: очищение</LotM_GiantDivineDawnPurify.label>
+  <LotM_GiantDivineDawnPurify.description>Концовки привязаны к началам. На ком-либо, где угодно в мире: Рассвет очищает его, разрушая, в равной степени, то, что его портит. Он возвращает того, кто преображается, и устраняет нестабильность, порочность, тень на спине или семя Истинного Творца. В обмен они теряют часть того, что усвоили из своего зелья.</LotM_GiantDivineDawnPurify.description>
+  <LotM_GiantDivineSunrise.label>Рассвет: восход</LotM_GiantDivineSunrise.label>
+  <LotM_GiantDivineSunrise.description>На месте в мире: рассвет наступает одновременно. Тьма, туман, затмение и всё, что отравляет воздух, то, что прячут его враги, раскрывается, и его собственный народ немного восстанавливается.</LotM_GiantDivineSunrise.description>
+  <LotM_GiantDivineFuneral.label>торжественное погребение</LotM_GiantDivineFuneral.label>
+  <LotM_GiantDivineFuneral.description>Смерть среди самых торжественных вещей. В месте на карте мира: мертвые вечно покоятся. Никакое труп там не может подняться или воскреснуть, и ходячие мертвецы, призраки и тени исчезают.</LotM_GiantDivineFuneral.description>
+  <LotM_GiantDivineJudgment.label>суд распада</LotM_GiantDivineJudgment.label>
+  <LotM_GiantDivineJudgment.description>На месте в мире: всё злое и испорченное увядает. Это святость в пути Сумерек, через разрушение, а не свет: зло там гниёт и стареет одновременно.</LotM_GiantDivineJudgment.description>
+  <LotM_GiantDivineStripSkill.label>снять навык</LotM_GiantDivineStripSkill.label>
+  <LotM_GiantDivineStripSkill.description>На месте в мире, на один день: все его враги там теряют свои навыки и опыт. Они сражаются только инстинктивно: они нацеливаются и бьют намного хуже.</LotM_GiantDivineStripSkill.description>
+  <LotM_GiantDivineStrength.label>Сила</LotM_GiantDivineStrength.label>
+  <LotM_GiantDivineStrength.description>На месте в мире, на один день: их союзники там получают самую ужасающую силу. Они бьют намного сильнее, несут намного больше и не устают сражаться.</LotM_GiantDivineStrength.description>
+  <LotM_GiantDivineGigantism.label>гигантизм</LotM_GiantDivineGigantism.label>
+  <LotM_GiantDivineGigantism.description>На союзнике, где угодно в мире, на один день: самая гигантская форма. Он превращается в гиганта, с гораздо большей силой и здоровьем.</LotM_GiantDivineGigantism.description>
+  <LotM_GiantDivineDevastation.label>Разрушение</LotM_GiantDivineDevastation.label>
+  <LotM_GiantDivineDevastation.description>На месте в мире: с неба падает двуручный меч Сумерек размером с башню. Всё вокруг опустошено: строения разрушаются и рушатся, а те, кто рядом, разрываются. Он не стирает то, на что нападает: он его изнашивает.</LotM_GiantDivineDevastation.description>
+  <LotM_GiantDivineProtection.label>Защита</LotM_GiantDivineProtection.label>
+  <LotM_GiantDivineProtection.description>На месте в мире, на один день: самая несгибаемая защита покрывает его союзников там. Всё, что достигает их, наносит половину урона.</LotM_GiantDivineProtection.description>
+  <LotM_GiantDivineDuel.label>божественный поединок</LotM_GiantDivineDuel.label>
+  <LotM_GiantDivineDuel.description>Бросает вызов фракции на карте мира: её лучший воин появляется в Святилище, чтобы сразиться с ним. Если их чемпион падает, фракция платит дань и уважает его; если бог падает, ничего.</LotM_GiantDivineDuel.description>
+  <LotM_GiantDivineProxy.label>божественный Прокси</LotM_GiantDivineProxy.label>
+  <LotM_GiantDivineProxy.description>Он отдаётся Реке Вечной Тьмы на мгновение: в течение нескольких часов он почти становится Полувеликим Старым Существом, далеко выше любого другого бога. Сефира — это сила, но и опасность: нет способа использовать её без оплаты. Барьер против Внешних Божеств сильно страдает, и ему требуется несколько дней, чтобы снова это сделать.</LotM_GiantDivineProxy.description>
+  <LotM_GiantDivineSelfDetonation.label>самоуничтожение</LotM_GiantDivineSelfDetonation.label>
+  <LotM_GiantDivineSelfDetonation.description>Последнее средство: он полностью отдается Прокси и взрывается. Всё враждебное в этом месте уничтожается, и бог умирает. Заранее он выбирает наследника своего пути: его характеристики переходят к ним, как сделал Гигантский Король. Барьер против Внешних Божеств почти рушится.</LotM_GiantDivineSelfDetonation.description>
+  <LotM_MythicalFormTwilightGiant.label>форма мифического существа</LotM_MythicalFormTwilightGiant.label>
+  <LotM_MythicalFormTwilightGiant.description>Они выпускают то, чем они являются: Титанический Гигант Сумерек, бронзовый гигант с крыльями на шлеме и двуручным мечом заката в руке. Почти ничего не вредит ему, всё вокруг него увядает, и более слабые не выдерживают зрелища.</LotM_MythicalFormTwilightGiant.description>
+</LanguageData>

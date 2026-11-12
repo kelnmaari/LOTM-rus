@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Projectile_FleshBomb.label>бомба плоти</LotM_Projectile_FleshBomb.label>
+  <LotM_ShadowBlade.label>теневое лезвие</LotM_ShadowBlade.label>
+  <LotM_ShadowBlade.description>Лезвие, выкованное из теней. Его порезы оставляют холод и дегенерацию. Он вернется в тень через несколько часов или как только его уронят.</LotM_ShadowBlade.description>
+  <LotM_ShadowBlade.tools.0.label>Клинок</LotM_ShadowBlade.tools.0.label>
+  <LotM_ShadowBlade.tools.1.label>Кончик</LotM_ShadowBlade.tools.1.label>
+  <LotM_BlackGreatsword.label>меч упадка</LotM_BlackGreatsword.label>
+  <LotM_BlackGreatsword.description>Черный меч из домена Дегенерации. Он разъедает плоть и душу, пронзает броню и лишает защиты тех, у кого дегенеративные мысли. Он рассыплется через несколько часов или сразу после того, как его уронят.</LotM_BlackGreatsword.description>
+  <LotM_BlackGreatsword.tools.0.label>черная кромка</LotM_BlackGreatsword.tools.0.label>
+  <LotM_BlackGreatsword.tools.1.label>Кончик</LotM_BlackGreatsword.tools.1.label>
+  <LotM_ShadowWall.label>стенная тень</LotM_ShadowWall.label>
+  <LotM_ShadowWall.description>Странкая чёрная жидкость, затвердевшая в стену. Она скоро рассыплется.</LotM_ShadowWall.description>
+  <LotM_FleshRug.label>ковёр из плоти</LotM_FleshRug.label>
+  <LotM_FleshRug.description>Кровотечная плоть, растекающаяся по земле.</LotM_FleshRug.description>
+  <LotM_FleshServant.label>плотский слуга</LotM_FleshServant.label>
+  <LotM_FleshServant.description>Марионетка из плоти и крови с огромной силой. Невосприимчива к атакам на дух. Взрывается при смерти.</LotM_FleshServant.description>
+  <LotM_FleshServant.tools.0.label>кулаки плоти</LotM_FleshServant.tools.0.label>
+  <LotM_DepravityShadow.label>тень порока</LotM_DepravityShadow.label>
+  <LotM_DepravityShadow.description>Порочные мысли Чёрного Рыцаря, вырванные и превращённые в теневое существо.</LotM_DepravityShadow.description>
+  <LotM_DepravityShadow.tools.0.label>теневые когти</LotM_DepravityShadow.tools.0.label>
+  <LotM_DepravityShadow.tools.1.label>укус тени</LotM_DepravityShadow.tools.1.label>
+  <LotM_FleshHorror.label>ужас плоти</LotM_FleshHorror.label>
+  <LotM_FleshHorror.description>Черный рыцарь, потерявший контроль: черная тень и извивающаяся плоть. Он пожирает души тех, кто падает поблизости, и становится сильнее.</LotM_FleshHorror.description>
+  <LotM_FleshHorror.tools.0.label>Когти</LotM_FleshHorror.tools.0.label>
+  <LotM_FleshHorror.tools.1.label>тенцеля плоти</LotM_FleshHorror.tools.1.label>
+  <LotM_DarkOcean.label>океан тьмы</LotM_DarkOcean.label>
+  <LotM_DarkOcean.description>вязкое черное море.</LotM_DarkOcean.description>
+  <LotM_FleshHorrorGreater.label>великий ужас плоти</LotM_FleshHorrorGreater.label>
+  <LotM_FleshHorrorGreater.description>Троичный Тамплиер, потерявший контроль: гора тени и плоти с тремя головами, которые никогда не перестают бормотать. Он пересоздает себя из любой плоти, которую находит.</LotM_FleshHorrorGreater.description>
+  <LotM_FleshHorrorGreater.tools.0.label>Когти</LotM_FleshHorrorGreater.tools.0.label>
+  <LotM_FleshHorrorGreater.tools.1.label>тенцеля плоти</LotM_FleshHorrorGreater.tools.1.label>
+  <LotM_FleshHorrorKing.label>король плоти и тени</LotM_FleshHorrorKing.label>
+  <LotM_FleshHorrorKing.description>Темный Ангел, потерявший контроль: бесконечная плоть под тенью, заслоняющей солнце. Тени подчиняются ему, и его окружает черное море.</LotM_FleshHorrorKing.description>
+  <LotM_FleshHorrorKing.tools.0.label>Когти</LotM_FleshHorrorKing.tools.0.label>
+  <LotM_FleshHorrorKing.tools.1.label>Пасть</LotM_FleshHorrorKing.tools.1.label>
+  <LotM_FleshHorrorKing.tools.2.label>тенцеля плоти</LotM_FleshHorrorKing.tools.2.label>
+</LanguageData>

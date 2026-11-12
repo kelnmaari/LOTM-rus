@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_Potion_Marauder.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Marauder.jobString>
+  <LotM_Make_Potion_Marauder.label>приготовить зелье: Мародёр</LotM_Make_Potion_Marauder.label>
+  <LotM_Make_Potion_Swindler.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Swindler.jobString>
+  <LotM_Make_Potion_Swindler.label>приготовить зелье: Мошенник</LotM_Make_Potion_Swindler.label>
+  <LotM_Make_Potion_Cryptologist.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Cryptologist.jobString>
+  <LotM_Make_Potion_Cryptologist.label>приготовить зелье: Криптолог</LotM_Make_Potion_Cryptologist.label>
+  <LotM_Make_Potion_Prometheus.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Prometheus.jobString>
+  <LotM_Make_Potion_Prometheus.label>приготовить зелье: Прометей</LotM_Make_Potion_Prometheus.label>
+  <LotM_Make_Potion_DreamStealer.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_DreamStealer.jobString>
+  <LotM_Make_Potion_DreamStealer.label>приготовить зелье: Похититель снов</LotM_Make_Potion_DreamStealer.label>
+  <LotM_Make_Potion_Parasite.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Parasite.jobString>
+  <LotM_Make_Potion_Parasite.label>приготовить зелье: Паразит</LotM_Make_Potion_Parasite.label>
+  <LotM_Make_Potion_MentorOfDeceit.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_MentorOfDeceit.jobString>
+  <LotM_Make_Potion_MentorOfDeceit.label>приготовить зелье: Наставник обмана</LotM_Make_Potion_MentorOfDeceit.label>
+  <LotM_Make_Potion_TrojanHorse.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_TrojanHorse.jobString>
+  <LotM_Make_Potion_TrojanHorse.label>приготовить зелье: Троянский конь судьбы</LotM_Make_Potion_TrojanHorse.label>
+  <LotM_Make_Potion_WormOfTimeAngel.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_WormOfTimeAngel.jobString>
+  <LotM_Make_Potion_WormOfTimeAngel.label>приготовить зелье: Червь времени</LotM_Make_Potion_WormOfTimeAngel.label>
+  <LotM_Make_Potion_Marauder.description>Смешать кровоточащего чёрного комара или душевное ядро, пожирающее свечи (или характеристику Потустороннего Разбойника) с кровью другого и порошком вербены.</LotM_Make_Potion_Marauder.description>
+  <LotM_Make_Potion_Swindler.description>Смешайте человекоподобный кувшин (или характеристику Потустороннего Обманщика) с гипнотической личинкой роя и слезами другого.</LotM_Make_Potion_Swindler.description>
+  <LotM_Make_Potion_Cryptologist.description>Смешай мозг сфинкса (или характеристику Потустороннего Криптолога) с взрослым гипнотическим роем и лунным камнем.</LotM_Make_Potion_Cryptologist.description>
+  <LotM_Make_Potion_Prometheus.description>Смешать кристального червя или брошь робкого призрака (или характеристику Потустороннего Прометея) с пылью робкого призрака и свежеукраденным вином.</LotM_Make_Potion_Prometheus.description>
+  <LotM_Make_Potion_DreamStealer.description>Смешивает сердце крысы-пожирателя снов (или характеристику Потустороннего похитителя снов) с кровью крысы-пожирателя снов и духом порока.</LotM_Make_Potion_DreamStealer.description>
+  <LotM_Make_Potion_Parasite.description>Смешать кристалл вытягивателя душ или кукольного злого червя (или характеристика Потустороннего Паразита) с кровью вытягивателя душ и заключенной душой или каменным, запечатанным душой.</LotM_Make_Potion_Parasite.description>
+  <LotM_Make_Potion_MentorOfDeceit.description>Смешай ладони болота-гиганта или ядро богохульного жреца (или характеристику Потустороннего Наставника Обмана) с кровью болота-гиганта и грибным саваном богохульного жреца.</LotM_Make_Potion_MentorOfDeceit.description>
+  <LotM_Make_Potion_TrojanHorse.description>Смешивает посмертный кристалл жреца королевского двора Гиганта или вертикальный глаз Короля-Пожирателя Душ (или Троянский конь характеристики Потустороннего) с Червем Звезды и ложной историей, считающейся правдой.</LotM_Make_Potion_TrojanHorse.description>
+  <LotM_Make_Potion_WormOfTimeAngel.description>Смешивает характеристику Потустороннего Червя Времени с древними часами и использованным альманахом.</LotM_Make_Potion_WormOfTimeAngel.description>
+</LanguageData>

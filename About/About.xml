@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>Lord of the Mysteries — русский перевод</name>
+  <author>Huginn</author>
+  <packageId>huginn.Reg.LordOfTheMysteries</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Reg.LordOfTheMysteries</packageId>
+      <displayName>Lord of the Mysteries</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3809971059</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Reg.LordOfTheMysteries</li>
+  </loadAfter>
+  <description>Русский перевод Lord of the Mysteries от Reg для версии мода 0.8.2. Включает интерфейс, способности, рецепты и исследования, сюжетные события и диалоги. Загрузите после оригинального мода и выберите русский язык в настройках RimWorld.</description>
+</ModMetaData>

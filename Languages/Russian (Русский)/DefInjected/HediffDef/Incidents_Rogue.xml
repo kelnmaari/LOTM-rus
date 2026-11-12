@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_LurkerHidden.label>скрытый в ночи</LotM_LurkerHidden.label>
+  <LotM_LurkerHidden.description>Прячась во тьме на краю карты. Нужно приблизиться (или посмотреть с духовным зрением), чтобы найти их.</LotM_LurkerHidden.description>
+  <LotM_ShadowApproach.label>среди теней</LotM_ShadowApproach.label>
+  <LotM_ShadowApproach.description>Они прибыли сквозь тени и ещё не покинули их полностью: их нельзя нацеливать на некоторое время.</LotM_ShadowApproach.description>
+</LanguageData>

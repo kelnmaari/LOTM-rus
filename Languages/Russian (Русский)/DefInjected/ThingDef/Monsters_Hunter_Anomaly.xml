@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_A_LostHunter.label>потерянный охотник</LotM_A_LostHunter.label>
+  <LotM_A_LostHunter.description>Охотник, потерявший контроль. Масса багровой плоти с силой медведя, которая следует за добычей по запаху и не отпускает.</LotM_A_LostHunter.description>
+  <LotM_A_LostHunter.tools.0.label>Когти</LotM_A_LostHunter.tools.0.label>
+  <LotM_A_LostHunter.tools.1.label>укус</LotM_A_LostHunter.tools.1.label>
+  <LotM_A_LostProvoker.label>потерянный провокатор</LotM_A_LostProvoker.label>
+  <LotM_A_LostProvoker.description>Провокатор, потерявший контроль. Он воняет гниющим камнем, и его присутствие заставляет всех поблизости хотеть с ним сражаться.</LotM_A_LostProvoker.description>
+  <LotM_A_LostProvoker.tools.0.label>кулаки</LotM_A_LostProvoker.tools.0.label>
+  <LotM_A_LostProvoker.tools.1.label>шипы</LotM_A_LostProvoker.tools.1.label>
+  <LotM_A_LostPyromaniac.label>потерянный пироманьяк</LotM_A_LostPyromaniac.label>
+  <LotM_A_LostPyromaniac.description>Пироманьяк, потерявший контроль. Его плоть сгорает сквозь крошечные отверстия в коже, и он извергает багровый огонь на всё, что движется.</LotM_A_LostPyromaniac.description>
+  <LotM_A_LostPyromaniac.tools.0.label>горящие когти</LotM_A_LostPyromaniac.tools.0.label>
+  <LotM_A_LostPyromaniac.tools.1.label>укус</LotM_A_LostPyromaniac.tools.1.label>
+  <LotM_A_LostConspirer.label>потерянный заговорщик</LotM_A_LostConspirer.label>
+  <LotM_A_LostConspirer.description>Заговорщик, потерявший контроль. Ржавая масса, полная глаз, которая сбивает с толку окружающих и сжигает их багрово-белыми пламенными.</LotM_A_LostConspirer.description>
+  <LotM_A_LostConspirer.tools.0.label>щупальца</LotM_A_LostConspirer.tools.0.label>
+  <LotM_A_LostConspirer.tools.1.label>укус</LotM_A_LostConspirer.tools.1.label>
+  <LotM_A_LostReaper.label>потерянный сборщик душ</LotM_A_LostReaper.label>
+  <LotM_A_LostReaper.description>Жнец, потерявший контроль. Зверь из острой кости, который всегда нацелен на жизненно важные точки: каждый удар предназначен для убийства.</LotM_A_LostReaper.description>
+  <LotM_A_LostReaper.tools.0.label>Костяные лезвия</LotM_A_LostReaper.tools.0.label>
+  <LotM_A_LostReaper.tools.1.label>укус</LotM_A_LostReaper.tools.1.label>
+  <LotM_A_LostIronbloodedKnight.label>потерянный железнокровный рыцарь</LotM_A_LostIronbloodedKnight.label>
+  <LotM_A_LostIronbloodedKnight.description>Железно-кровный рыцарь, потерявший контроль: туша черного железа, которая горит собственными сине-белыми пламенями и взрывается при каждом ударе.</LotM_A_LostIronbloodedKnight.description>
+  <LotM_A_LostIronbloodedKnight.tools.0.label>Пылающий железный меч</LotM_A_LostIronbloodedKnight.tools.0.label>
+  <LotM_A_LostIronbloodedKnight.tools.1.label>Удар</LotM_A_LostIronbloodedKnight.tools.1.label>
+  <LotM_A_LostWarBishop.label>потерянный военный епископ</LotM_A_LostWarBishop.label>
+  <LotM_A_LostWarBishop.description>Военный епископ, потерявший контроль: колосс из черного железа, окутанный синими пламенными, с ржаво-красным туманом вокруг. Там, где он идет, воздух наполняется криками битвы, которую никто не видит.</LotM_A_LostWarBishop.description>
+  <LotM_A_LostWarBishop.tools.0.label>синий железный меч</LotM_A_LostWarBishop.tools.0.label>
+  <LotM_A_LostWarBishop.tools.1.label>Удар</LotM_A_LostWarBishop.tools.1.label>
+</LanguageData>

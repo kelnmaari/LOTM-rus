@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Plant_RedChestnut.label>красный каштан</LotM_Plant_RedChestnut.label>
+  <LotM_Plant_RedChestnut.description>Каштанник с цветами густых красных лепестков. Сбор его даёт его цветы.</LotM_Plant_RedChestnut.description>
+  <LotM_Plant_BloodChestnut.label>дерево кроваво-красного каштана</LotM_Plant_BloodChestnut.label>
+  <LotM_Plant_BloodChestnut.description>Редкое каштанное дерево с темной корой и красноватыми листьями. Его каштаны красные, как высохшая кровь. Сбор его дает один.</LotM_Plant_BloodChestnut.description>
+  <LotM_Plant_EvilCorpseLily.label>лилия злого трупа</LotM_Plant_EvilCorpseLily.label>
+  <LotM_Plant_EvilCorpseLily.description>Сгусток черных лилий, который прорастает там, где было мертво. Он пахнет гнилью. Сбор его дает его корневую систему.</LotM_Plant_EvilCorpseLily.description>
+</LanguageData>

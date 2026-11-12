@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_MythicalForm_TwilightGiant.label>Сумеречный Гигант</LotM_MythicalForm_TwilightGiant.label>
+  <LotM_MythicalForm_TwilightGiant.description>Их мифическая форма: бронзовый гигант на закате, с крыльями на шлеме и пылающим сумеречным мечом. Почти ничто не причиняет ему вреда, а всё вокруг него увядает.</LotM_MythicalForm_TwilightGiant.description>
+  <LotM_MythicalForm_TwilightGiant.comps.0.tools.0.label>сумеречный меч</LotM_MythicalForm_TwilightGiant.comps.0.tools.0.label>
+  <LotM_MythicalForm_TwilightGiant.comps.0.tools.1.label>топот</LotM_MythicalForm_TwilightGiant.comps.0.tools.1.label>
+  <LotM_MythicalForm_TwilightGiant.stages.0.label>неполный</LotM_MythicalForm_TwilightGiant.stages.0.label>
+  <LotM_MythicalForm_TwilightGiant.stages.1.label>полный</LotM_MythicalForm_TwilightGiant.stages.1.label>
+  <LotM_TwilightDomainHediff.label>домен сумерек</LotM_TwilightDomainHediff.label>
+  <LotM_TwilightDomainHediff.description>Сумерки затвердели вокруг них: время замедляется для их врагов, которые стареют, пока они остаются внутри. Потребляет духовность в час.</LotM_TwilightDomainHediff.description>
+  <LotM_TwilightDecay.label>сумеречное разложение</LotM_TwilightDecay.label>
+  <LotM_TwilightDecay.description>Аура Гиганта Сумерек искривляет материю и пустоту вокруг него: все начинает разрушаться. Трудно поднять руки, и ничего не происходит, как раньше.</LotM_TwilightDecay.description>
+  <LotM_TwilightSunWane.label>заходящее солнце</LotM_TwilightSunWane.label>
+  <LotM_TwilightSunWane.description>Сумерки — это конец Света, Святости и Солнца: рядом с Гигантом Сумерек сила Потустороннего Солнечного становится слабее, как закат.</LotM_TwilightSunWane.description>
+  <LotM_InstinctOnly.label>сражается инстинктивно</LotM_InstinctOnly.label>
+  <LotM_InstinctOnly.description>Бог Боя лишил их навыков и опыта: они сражаются только инстинктивно, целясь и нанося гораздо худшие удары.</LotM_InstinctOnly.description>
+  <LotM_TwilightSlowed.label>замедление времени</LotM_TwilightSlowed.label>
+  <LotM_TwilightSlowed.description>Запертые в затвердевшем Сумерках: время течет медленно для них. Они двигаются, атакуют и целятся со скоростью вдвое меньше.</LotM_TwilightSlowed.description>
+  <LotM_TwilightFrozen.label>заморожен в Сумерках</LotM_TwilightFrozen.label>
+  <LotM_TwilightFrozen.description>Окутанные сиянием Сумерек: их мысли и движения почти остановились, как будто они существуют в другом мире.</LotM_TwilightFrozen.description>
+  <LotM_TwilightInstability.label>нестабильность</LotM_TwilightInstability.label>
+  <LotM_TwilightInstability.description>Прохождение времени достигло воли, живущей в их характеристиках: они теряют контроль. Симптомы ухудшаются с каждым днём, пока они не превратятся. Только очень сильное очищение может их спасти.</LotM_TwilightInstability.description>
+  <LotM_TwilightInstability.stages.0.label>мягкий</LotM_TwilightInstability.stages.0.label>
+  <LotM_TwilightInstability.stages.1.label>тяжёлый</LotM_TwilightInstability.stages.1.label>
+  <LotM_TwilightInstability.stages.2.label>на грани</LotM_TwilightInstability.stages.2.label>
+  <LotM_CombatStrength.label>Сила Бога Боя</LotM_CombatStrength.label>
+  <LotM_CombatStrength.description>Бог Боя даровал им самую ужасающую силу: они бьют намного сильнее, несут намного больше и не устают сражаться.</LotM_CombatStrength.description>
+  <LotM_CombatProtection.label>Защита Бога Боя</LotM_CombatProtection.label>
+  <LotM_CombatProtection.description>Самая несгибаемая защита покрывает их: что бы ни достигло их, наносит половину урона.</LotM_CombatProtection.description>
+  <LotM_GodGigantism.label>гигантизм</LotM_GodGigantism.label>
+  <LotM_GodGigantism.description>Бог Боя дал им самую гигантную форму: они гигант, с гораздо большей силой и здоровьем.</LotM_GodGigantism.description>
+  <LotM_DivineProxy.label>божественный Прокси</LotM_DivineProxy.label>
+  <LotM_DivineProxy.description>Он отдал себя Реке Вечной Тьмы на мгновение: он почти Полувеликий Старый, далеко выше любого другого бога.</LotM_DivineProxy.description>
+</LanguageData>

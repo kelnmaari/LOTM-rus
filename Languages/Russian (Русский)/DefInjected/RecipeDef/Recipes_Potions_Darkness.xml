@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_Potion_Sleepless.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Sleepless.jobString>
+  <LotM_Make_Potion_Sleepless.label>приготовить зелье: Бессонный</LotM_Make_Potion_Sleepless.label>
+  <LotM_Make_Potion_MidnightPoet.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_MidnightPoet.jobString>
+  <LotM_Make_Potion_MidnightPoet.label>приготовить зелье: Полуночный поэт</LotM_Make_Potion_MidnightPoet.label>
+  <LotM_Make_Potion_Nightmare.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Nightmare.jobString>
+  <LotM_Make_Potion_Nightmare.label>приготовить зелье: Кошмар</LotM_Make_Potion_Nightmare.label>
+  <LotM_Make_Potion_SoulAssurer.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_SoulAssurer.jobString>
+  <LotM_Make_Potion_SoulAssurer.label>приготовить зелье: Усмиритель душ</LotM_Make_Potion_SoulAssurer.label>
+  <LotM_Make_Potion_SpiritWarlock.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_SpiritWarlock.jobString>
+  <LotM_Make_Potion_SpiritWarlock.label>приготовить зелье: Колдун духов</LotM_Make_Potion_SpiritWarlock.label>
+  <LotM_Make_Potion_Nightwatcher.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Nightwatcher.jobString>
+  <LotM_Make_Potion_Nightwatcher.label>приготовить зелье: Ночной дозорный</LotM_Make_Potion_Nightwatcher.label>
+  <LotM_Make_Potion_HorrorBishop.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_HorrorBishop.jobString>
+  <LotM_Make_Potion_HorrorBishop.label>приготовить зелье: Епископ ужаса</LotM_Make_Potion_HorrorBishop.label>
+  <LotM_Make_Potion_ServantOfConcealment.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_ServantOfConcealment.jobString>
+  <LotM_Make_Potion_ServantOfConcealment.label>приготовить зелье: Слуга сокрытия</LotM_Make_Potion_ServantOfConcealment.label>
+  <LotM_Make_Potion_KnightOfMisfortune.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_KnightOfMisfortune.jobString>
+  <LotM_Make_Potion_KnightOfMisfortune.label>приготовить зелье: Рыцарь несчастья</LotM_Make_Potion_KnightOfMisfortune.label>
+  <LotM_Make_Potion_Sleepless.description>Смешай цветок полуночной красоты (или характеристику Потустороннего, не спящего) с древней родниковой водой и выдержанным крепким алкоголем.</LotM_Make_Potion_Sleepless.description>
+  <LotM_Make_Potion_MidnightPoet.description>Смешивает голосовые связки воющего (или характеристику Потустороннего ночного поэта) с почвой колокольчика, поглощающего души, и багровым сандалом.</LotM_Make_Potion_MidnightPoet.description>
+  <LotM_Make_Potion_Nightmare.description>Смешайте кошмарную тень (или характеристику Потустороннего Кошмара) с лунной водой Мира духов и гидросолем лунного цветка.</LotM_Make_Potion_Nightmare.description>
+  <LotM_Make_Potion_SoulAssurer.description>Смешайте череп экзотического глубокого спящего (или характеристику Потустороннего Гаранта Души) с святой водой и порошком цветка глубокого сна.</LotM_Make_Potion_SoulAssurer.description>
+  <LotM_Make_Potion_SpiritWarlock.description>Смешивает источник безумных снов (или характеристику Потустороннего колдуна духов) с испарением душевного гнезда и молоком из зуба полнолуния.</LotM_Make_Potion_SpiritWarlock.description>
+  <LotM_Make_Potion_Nightwatcher.description>Смешать сердце злого лунного стража (или характеристику Потустороннего Ночного Ястреба) с тёмным мозговым загрязнением и багровой древесной смолой.</LotM_Make_Potion_Nightwatcher.description>
+  <LotM_Make_Potion_HorrorBishop.description>Смешать череп воющего волка (или характеристику Потустороннего Бископа Ужаса) с остаточным порошком подношения из подземного мира и 9 × испуганного духа.</LotM_Make_Potion_HorrorBishop.description>
+  <LotM_Make_Potion_ServantOfConcealment.description>Смешивает шкуру тёмного зверя (или характеристику Потустороннего слуги сокрытия) с кровью тайного зверя и перышком змея с перьями.</LotM_Make_Potion_ServantOfConcealment.description>
+  <LotM_Make_Potion_KnightOfMisfortune.description>Смешать характеристику Потустороннего Несчастья с письменно благословением судьбы и аурой подземного мира. Нет другого способа: в мире есть только трое.</LotM_Make_Potion_KnightOfMisfortune.description>
+</LanguageData>

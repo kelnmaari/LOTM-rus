@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Seer_History.label>История</LotM_Seer_History.label>
+  <LotM_Seer_History.description>Историческая пустота: заимствовать из прошлого, призывать то, что когда-то существовало, и прятаться в его пробелах.</LotM_Seer_History.description>
+  <LotM_Authority_Miracles.label>Чудеса</LotM_Authority_Miracles.label>
+  <LotM_Authority_Miracles.description>Власть чудес: исполнять желания других, пока не сможешь исполнить свои собственные.</LotM_Authority_Miracles.description>
+  <LotM_Authority_Miracles.passive>Желания: люди вокруг просят о вещах. Каждое желание, ставшее правдой, любыми средствами, дарует им Желания для их чудес. Чем больше чудо, тем легче оно искажается; с ограничениями места или времени оно почти не искажается.</LotM_Authority_Miracles.passive>
+  <LotM_Authority_Miracles.godPassive>Чудеса бога: они стоят намного меньше и почти никогда не искажаются. Они воскресают до восьми раз, и один раз в жизни, когда их количество воскрешений исчерпано, счет пополняется. Если они умирают с разбитой табличкой предсказаний, у них некуда возвращаться.</LotM_Authority_Miracles.godPassive>
+  <LotM_Authority_Graft.label>Прививка</LotM_Authority_Graft.label>
+  <LotM_Authority_Graft.description>Пересборка, меньшая власть Изменения: она соединяет то, что не имеет связи, и достигает невообразимого, как изменение определения или правил чего-либо.</LotM_Authority_Graft.description>
+  <LotM_Authority_Graft.passive>Прививка смерти: раз в день, если удар собирался убить их, эта смерть прививается к бумажному двойнику. Их марионетки никогда не ускользают, даже на другой карте.</LotM_Authority_Graft.passive>
+  <LotM_Authority_Graft.godLabel>Сборка</LotM_Authority_Graft.godLabel>
+  <LotM_Authority_Graft.godPassive>Сборка, одна из их двух основных властей: они пришивают объекты, существ, концепции и даже власти, не имевшие связи, с невообразимыми, но реальными эффектами. Всё, что они пришивают, длится столько, сколько они живут: если они умирают, это прекращается мгновенно.</LotM_Authority_Graft.godPassive>
+  <LotM_Authority_Realm.label>Царство тайн</LotM_Authority_Realm.label>
+  <LotM_Authority_Realm.description>Власть Сокрытия: зародыш божественного царства.</LotM_Authority_Realm.description>
+  <LotM_Authority_Realm.passive>Их безопасное место: алтарь, который ничего не может сломать, где никто другой не может быть. Пока внутри, ничто не достигает их.</LotM_Authority_Realm.passive>
+  <LotM_Authority_Realm.godPassive>Их Божественное царство полностью завершено и наполнено привитыми вещами: кто заставит себя войти в их Святилище, может оказаться где-то ещё в мире или в море.</LotM_Authority_Realm.godPassive>
+  <LotM_Symbolism_BlindStupidity.label>Слепая глупость</LotM_Symbolism_BlindStupidity.label>
+  <LotM_Symbolism_BlindStupidity.description>Символ Слепой Глупости, в области разума: Шут использует его на поверхности, чтобы другие не могли мыслить правильно. Он достигает даже богов, но то, что живёт инстинктивно, едва ли обманывается.</LotM_Symbolism_BlindStupidity.description>
+  <LotM_Symbolism_BlindStupidity.passive>Кто бы ни попытался использовать силу на них, тот уходит с замешательством, не зная, чего искал.</LotM_Symbolism_BlindStupidity.passive>
+  <LotM_Authority_Fooling.label>Обман</LotM_Authority_Fooling.label>
+  <LotM_Authority_Fooling.description>Одна из их двух основных властей: она охватывает часть Истории, Времени, Судьбы, Изменения и Сокрытия. Её основной эффект — превращение лжи в реальность.</LotM_Authority_Fooling.description>
+  <LotM_Authority_Fooling.passive>Разделенная личность: раз в день, когда к ним приходит смерть, они меняются местами с собой из момента, предшествующего, и смерть никогда не происходит. Вне Времени: ничто не замораживает и не ошеломляет их.</LotM_Authority_Fooling.passive>
+  <LotM_Authority_SpiritWorldLord.label>Повелитель мира духов</LotM_Authority_SpiritWorldLord.label>
+  <LotM_Authority_SpiritWorldLord.description>Они владеют большей частью власти над Миром духов: более слабая версия Владыки Мира духов. Они могут командовать существами Мира духов уровня ангелов и превращать даже концептуальное существо в марионетку.</LotM_Authority_SpiritWorldLord.description>
+  <LotM_Authority_SpiritWorldLord.passive>Родная земля: тот, кто сражается с ними внутри своего Святилища, использует более слабые силы.</LotM_Authority_SpiritWorldLord.passive>
+  <LotM_Authority_FoolHistory.label>История</LotM_Authority_FoolHistory.label>
+  <LotM_Authority_FoolHistory.description>Власть Истории: хотя прошлое нельзя изменить, они могут обмануть его на время и вернуть его обратно.</LotM_Authority_FoolHistory.description>
+  <LotM_Authority_FoolHistory.passive>Их исторические проекции достигают уровня Короля ангелов, и они могут иметь много таких одновременно.</LotM_Authority_FoolHistory.passive>
+  <LotM_Authority_AnchorOfDestiny.label>Якорь судьбы</LotM_Authority_AnchorOfDestiny.label>
+  <LotM_Authority_AnchorOfDestiny.description>Власть Маяка Судьбы: их судьба очень трудно изменить, и если они не сдерживаются, их слова становятся узлами в реке судьбы. То, что они говорят, происходит, хотя и не всегда так, как они хотели.</LotM_Authority_AnchorOfDestiny.description>
+  <LotM_Authority_AnchorOfDestiny.passive>Если они не сдерживаются, каждые несколько дней что-то, что они сказали, происходит само по себе: иногда хорошо, иногда извращённо.</LotM_Authority_AnchorOfDestiny.passive>
+</LanguageData>

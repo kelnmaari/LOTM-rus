@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_VerbenaPowder.label>измельчить порошок вербены</LotM_Make_VerbenaPowder.label>
+  <LotM_Make_VerbenaPowder.description>Сушить и перетирать вербену. Зелье Разбойника нуждается в этом.</LotM_Make_VerbenaPowder.description>
+  <LotM_Make_VerbenaPowder.jobString>Измельчение вербены.</LotM_Make_VerbenaPowder.jobString>
+  <LotM_Make_FalseHistory.label>написание ложной истории</LotM_Make_FalseHistory.label>
+  <LotM_Make_FalseHistory.description>Написать вымышленную историю так хорошо, чтобы любой, кто её прочитает, поверил в её правдивость. Для этого нужно зелье Троянского коня Судьбы.</LotM_Make_FalseHistory.description>
+  <LotM_Make_FalseHistory.jobString>Написание ложной истории</LotM_Make_FalseHistory.jobString>
+  <LotM_Make_UsedAlmanac.label>сборка использованного альманаха</LotM_Make_UsedAlmanac.label>
+  <LotM_Make_UsedAlmanac.description>Собирает альманах и заполняет его годом записей, зачеркнутыми днями и датами, которые еще не произошли. Для этого нужно зелье Черви Времени.</LotM_Make_UsedAlmanac.description>
+  <LotM_Make_UsedAlmanac.jobString>заполнение альманаха.</LotM_Make_UsedAlmanac.jobString>
+</LanguageData>

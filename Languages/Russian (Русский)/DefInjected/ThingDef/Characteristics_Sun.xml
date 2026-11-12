@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Characteristic_Bard.label>Характеристика Барда Потустороннего</LotM_Characteristic_Bard.label>
+  <LotM_Characteristic_Bard.description>Что осталось от Барда после смерти. Оно теплое, и иногда звучит как далёкая нота.</LotM_Characteristic_Bard.description>
+  <LotM_Characteristic_LightSuppliant.label>Характеристика Потустороннего Светлого Просителя</LotM_Characteristic_LightSuppliant.label>
+  <LotM_Characteristic_LightSuppliant.description>Что осталось от Светского Просителя, когда он умер. Он испускает мягкий свет, как очень маленькое солнце.</LotM_Characteristic_LightSuppliant.description>
+  <LotM_Characteristic_SolarHighPriest.label>Характеристика Потустороннего Солнечного Жреца</LotM_Characteristic_SolarHighPriest.label>
+  <LotM_Characteristic_SolarHighPriest.description>Что осталось от Солнечного Верховного Жреца после смерти. Он горит, не сгорая, золотым огнём, который не сгорает.</LotM_Characteristic_SolarHighPriest.description>
+  <LotM_Characteristic_Notary.label>Характеристика Потустороннего Нотариуса</LotM_Characteristic_Notary.label>
+  <LotM_Characteristic_Notary.description>Что осталось от Нотариуса, когда он умер. На его поверхности появляются и исчезают золотые буквы, как пункты.</LotM_Characteristic_Notary.description>
+  <LotM_Characteristic_PriestOfLight.label>Характеристика Потустороннего Жреца Света</LotM_Characteristic_PriestOfLight.label>
+  <LotM_Characteristic_PriestOfLight.description>То, что осталось от Жреца Света после смерти. Оно светится чистым белым светом; насекомые, приближающиеся к нему, превращаются в пепел.</LotM_Characteristic_PriestOfLight.description>
+  <LotM_Characteristic_Unshadowed.label>Характеристика Потустороннего Без Тени</LotM_Characteristic_Unshadowed.label>
+  <LotM_Characteristic_Unshadowed.description>Что осталось от Неутенимого, когда он умер. Он не отбрасывает тени, и ничто вокруг него тоже.</LotM_Characteristic_Unshadowed.description>
+  <LotM_Characteristic_JusticeMentor.label>Характеристика Потустороннего Наставника Справедливости</LotM_Characteristic_JusticeMentor.label>
+  <LotM_Characteristic_JusticeMentor.description>Что осталось от Наставника Справедливости после смерти. Его вес зависит от того, кто его держит: свет в праведных руках, невыносимый в любых других.</LotM_Characteristic_JusticeMentor.description>
+  <LotM_Characteristic_Lightseeker.label>Характеристика Потустороннего Искателя Света</LotM_Characteristic_Lightseeker.label>
+  <LotM_Characteristic_Lightseeker.description>Что осталось от Искателя Света, когда он умирает. Это свет, к которому можно прикоснуться. Когда никто не смотрит, он медленно движется сам по себе туда, где восходит солнце.</LotM_Characteristic_Lightseeker.description>
+  <LotM_Characteristic_WhiteAngel.label>Характеристика Потустороннего Белого Ангела</LotM_Characteristic_WhiteAngel.label>
+  <LotM_Characteristic_WhiteAngel.description>Что осталось от Белого Ангела после смерти. Оно белое, как полдень. Всё, что не является светом вокруг него, медленно распадается.</LotM_Characteristic_WhiteAngel.description>
+</LanguageData>

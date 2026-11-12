@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_Potion_Hunter.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Hunter.jobString>
+  <LotM_Make_Potion_Hunter.label>приготовить зелье: Охотник</LotM_Make_Potion_Hunter.label>
+  <LotM_Make_Potion_Provoker.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Provoker.jobString>
+  <LotM_Make_Potion_Provoker.label>приготовить зелье: Провокатор</LotM_Make_Potion_Provoker.label>
+  <LotM_Make_Potion_Pyromaniac.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Pyromaniac.jobString>
+  <LotM_Make_Potion_Pyromaniac.label>приготовить зелье: Пироман</LotM_Make_Potion_Pyromaniac.label>
+  <LotM_Make_Potion_Conspirer.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Conspirer.jobString>
+  <LotM_Make_Potion_Conspirer.label>приготовить зелье: Заговорщик</LotM_Make_Potion_Conspirer.label>
+  <LotM_Make_Potion_Reaper.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Reaper.jobString>
+  <LotM_Make_Potion_Reaper.label>приготовить зелье: Жнец</LotM_Make_Potion_Reaper.label>
+  <LotM_Make_Potion_IronbloodedKnight.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_IronbloodedKnight.jobString>
+  <LotM_Make_Potion_IronbloodedKnight.label>приготовить зелье: Рыцарь железной крови</LotM_Make_Potion_IronbloodedKnight.label>
+  <LotM_Make_Potion_WarBishop.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_WarBishop.jobString>
+  <LotM_Make_Potion_WarBishop.label>приготовить зелье: Епископ войны</LotM_Make_Potion_WarBishop.label>
+  <LotM_Make_Potion_WeatherWarlock.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_WeatherWarlock.jobString>
+  <LotM_Make_Potion_WeatherWarlock.label>приготовить зелье: Колдун погоды</LotM_Make_Potion_WeatherWarlock.label>
+  <LotM_Make_Potion_Conqueror.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Conqueror.jobString>
+  <LotM_Make_Potion_Conqueror.label>приготовить зелье: Завоеватель</LotM_Make_Potion_Conqueror.label>
+  <LotM_Make_Potion_Hunter.description>Смешать кроваво-красный каштан или активированный болотный кристалл (или характеристику Потустороннего Охотника) с цветком каштана и красным вином.</LotM_Make_Potion_Hunter.description>
+  <LotM_Make_Potion_Provoker.description>Смешивает корневище злого трупа лилии или язык кустика-попугая (или характеристику Провокатора Потустороннего) с экстрактом жимолости и дистиллированным алкоголем.</LotM_Make_Potion_Provoker.description>
+  <LotM_Make_Potion_Pyromaniac.description>Смешать железу огненной саламандры или ядро магма-эльфа (или характеристику Потустороннего Пироманиака) с кровью огненной саламандры и порошком магматического пироксена.</LotM_Make_Potion_Pyromaniac.description>
+  <LotM_Make_Potion_Conspirer.description>Смешать композитные глаза черной охотящейся паутины или мозг сфинкса (или характеристика Потустороннего Заговорщика) с железой яда черной охотящейся паутины и янтарной пудрой.</LotM_Make_Potion_Conspirer.description>
+  <LotM_Make_Potion_Reaper.description>Смешивает когти демонического волка или язык Лесного Охотника (или характеристику Потустороннего Реппера) с кровью демонического волка и эфирным маслом эссенции дуба.</LotM_Make_Potion_Reaper.description>
+  <LotM_Make_Potion_IronbloodedKnight.description>Смешивает ядро Магма-Гиганта или Камень Катастрофы (или характеристику Потустороннего Железнокровного Рыцаря) с кипящей магмой и полем битвы.</LotM_Make_Potion_IronbloodedKnight.description>
+  <LotM_Make_Potion_WarBishop.description>Смешивает сердце Биполярного Центавра или ядро Военной Кометы (или характеристику Потустороннего Военного Епископа) с кровью Биполярного Центавра и фрагментами Военной Кометы.</LotM_Make_Potion_WarBishop.description>
+  <LotM_Make_Potion_WeatherWarlock.description>Смешай череп Погодного Гиганта или ядро медузы-тумана (или характеристику Потустороннего Мага Погоды) с кровью тех, которых убило погода, и веткой, пораженной молнией.</LotM_Make_Potion_WeatherWarlock.description>
+  <LotM_Make_Potion_Conqueror.description>Смешайте характеристику Завоевателя Потустороннего с настоящей короной и головами могущественных врагов.</LotM_Make_Potion_Conqueror.description>
+</LanguageData>

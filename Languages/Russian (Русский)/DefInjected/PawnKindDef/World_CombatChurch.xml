@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_CombatChurch_Soldier.label>Солдат Боя</LotM_CombatChurch_Soldier.label>
+  <LotM_CombatChurch_Veteran.label>Ветерана боя</LotM_CombatChurch_Veteran.label>
+  <LotM_CombatChurch_WeaponMaster.label>мастер церковного оружия</LotM_CombatChurch_WeaponMaster.label>
+  <LotM_CombatChurch_Paladin.label>Паладин рассвета Церкви</LotM_CombatChurch_Paladin.label>
+  <LotM_CombatChurch_Guardian.label>хранитель Боя</LotM_CombatChurch_Guardian.label>
+  <LotM_CombatChurch_Cardinal.label>кардинал Боя</LotM_CombatChurch_Cardinal.label>
+</LanguageData>

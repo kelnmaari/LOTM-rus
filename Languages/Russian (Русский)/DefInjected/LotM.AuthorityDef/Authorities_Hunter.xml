@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Authority_HunterWar.passive>Распространяет свой ранг на весь отряд и может собирать сколько угодно временных отрядов. Став богом, одним взглядом разжигает войны, а его Отвага не знает страха.</LotM_Authority_HunterWar.passive>
+  <LotM_Authority_HunterGathering.label>Сбор</LotM_Authority_HunterGathering.label>
+  <LotM_Authority_HunterGathering.description>Война — это искусство собирать массы: он собирает силу своей армии и даёт свою своей народу.</LotM_Authority_HunterGathering.description>
+  <LotM_Authority_HunterGathering.passive>Использует силы своей команды без разрешения (другие теряют их тем временем) и одалживает свои; только с Демонессой они сливаются. От Мага Погоды он одалживает одну силу всей команде сразу.</LotM_Authority_HunterGathering.passive>
+  <LotM_Authority_HunterWeather.label>Погода</LotM_Authority_HunterWeather.label>
+  <LotM_Authority_HunterWeather.description>Частичная власть над погодой: изменение погоды в регионе, создание экстремальной погоды и успокоение её.</LotM_Authority_HunterWeather.description>
+  <LotM_Authority_HunterWeather.passive>Грозы, проливной дождь, ураганы, туман, метели и мороз; молнии, как серебряные деревья, метеоры и цунами, приносимые погодой; полёт на ветру и совместное проживание погоды со своей командой.</LotM_Authority_HunterWeather.passive>
+  <LotM_Authority_HunterConquest.label>Завоевание</LotM_Authority_HunterConquest.label>
+  <LotM_Authority_HunterConquest.description>Тело, разум и дух другого хотят подчиниться и выбирают подчиниться; будучи покоренными, они верны навсегда.</LotM_Authority_HunterConquest.description>
+  <LotM_Authority_HunterConquest.passive>Покоряет, внушает трепет, контролирует тела и превращает вещи в солдат. Как бог, Завоевание распространяется на территории: его божественное царство, аура перед которой нижестоящие склоняют головы, и характеристики, которые восстают.</LotM_Authority_HunterConquest.passive>
+  <LotM_Authority_HunterWar.label>Война</LotM_Authority_HunterWar.label>
+  <LotM_Authority_HunterWar.description>Война: армия, сражающаяся как единое целое, и командир, который делает её большей.</LotM_Authority_HunterWar.description>
+  <LotM_Authority_HunterLordOfWar.label>Повелитель войны</LotM_Authority_HunterLordOfWar.label>
+  <LotM_Authority_HunterLordOfWar.description>Символизм: символическое расширение власти Войны.</LotM_Authority_HunterLordOfWar.description>
+  <LotM_Authority_HunterLordOfWar.passive>Он и его команда делят силу, ранг и Уникальность по всему миру одновременно; один может делиться своей силой со всеми, и он меняет местами с кем угодно.</LotM_Authority_HunterLordOfWar.passive>
+  <LotM_Authority_HunterDestruction.label>Разрушение</LotM_Authority_HunterDestruction.label>
+  <LotM_Authority_HunterDestruction.description>Разрушение как действие и как состояние: в самом низком оно убивает истинного бога, в самом высоком — сокрушает планету. Оно превосходит символизм Боя.</LotM_Authority_HunterDestruction.description>
+  <LotM_Authority_HunterDestruction.passive>Обнаруживает слабости и нацеливается на цели; то, что оно убивает, не возвращается. Бесформенное пламя, которое превращает всё в пепел, и бедствие: он — повелитель бедствий.</LotM_Authority_HunterDestruction.passive>
+  <LotM_Authority_HunterSacrifices.label>Жертвоприношения</LotM_Authority_HunterSacrifices.label>
+  <LotM_Authority_HunterSacrifices.description>Жрец, который приносит жертвы источнику силы: он влияет на любой ритуал жертвоприношения и может просить у Сефирот силы.</LotM_Authority_HunterSacrifices.description>
+  <LotM_Authority_HunterSacrifices.passive>Ритуалы их врагов проваливаются; при жертвоприношении Городу Бедствия они получают силы Демонессы (за цену приближения к порче).</LotM_Authority_HunterSacrifices.passive>
+  <LotM_Authority_HunterCharm.label>Очарование</LotM_Authority_HunterCharm.label>
+  <LotM_Authority_HunterCharm.description>Очарование, симбиотическое с Завоеванием: самый обаятельный из людей.</LotM_Authority_HunterCharm.description>
+  <LotM_Authority_HunterCharm.passive>Те, кто низкого ранга, которые смотрят на него, теряют рассудок или склоняют головы; его собственные следуют и восхищаются им.</LotM_Authority_HunterCharm.passive>
+  <LotM_Authority_HunterMasculinity.label>Мужественность</LotM_Authority_HunterMasculinity.label>
+  <LotM_Authority_HunterMasculinity.description>Мужской аспект Истинного Творца: власть над тем, что мужское.</LotM_Authority_HunterMasculinity.description>
+  <LotM_Authority_HunterMasculinity.passive>Превращает любого в мужчину; он самый сильный и мужественный из мужчин.</LotM_Authority_HunterMasculinity.passive>
+</LanguageData>

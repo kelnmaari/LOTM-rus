@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_CatastropheBlizzard.label>Катастрофический метель</LotM_CatastropheBlizzard.label>
+  <LotM_CatastropheBlizzard.description>Демонесса Катастрофы выпустила метель: сильный снег и холод, который обрушивается одновременно. Когда она заканчивается, она оставляет мороз катастрофы.</LotM_CatastropheBlizzard.description>
+  <LotM_CatastropheBlizzard.endMessage>Катастрофический метель закончилась.</LotM_CatastropheBlizzard.endMessage>
+  <LotM_CatastropheBlizzard.letterText>Демонесса Катастрофы выпустила метель: температура упадет до 45 градусов на полдня.</LotM_CatastropheBlizzard.letterText>
+  <LotM_CatastropheDrought.label>Катастрофическая засуха</LotM_CatastropheDrought.label>
+  <LotM_CatastropheDrought.description>Демонесса Катастрофы принесла засуху: ни капли дождя и жару, которая всё выше.</LotM_CatastropheDrought.description>
+  <LotM_CatastropheDrought.endMessage>Катастрофическая засуха закончилась.</LotM_CatastropheDrought.endMessage>
+  <LotM_CatastropheDrought.letterText>Демонесса Катастрофы принесла засуху: температура поднимется до 28 градусов на один день.</LotM_CatastropheDrought.letterText>
+</LanguageData>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_DawnLightInjury.label>удар рассвета</LotM_DawnLightInjury.label>
+  <LotM_DawnLightInjury.labelNoun>ожог рассветом</LotM_DawnLightInjury.labelNoun>
+  <LotM_DawnLightInjury.description>Свет рассвета сжигает то, что не принадлежит миру живых.</LotM_DawnLightInjury.description>
+  <LotM_DawnLightInjury.comps.0.labelTendedWell>перевязанный</LotM_DawnLightInjury.comps.0.labelTendedWell>
+  <LotM_DawnLightInjury.comps.0.labelTendedWellInner>леченный</LotM_DawnLightInjury.comps.0.labelTendedWellInner>
+  <LotM_DawnLightInjury.comps.0.labelSolidTendedWell>леченный</LotM_DawnLightInjury.comps.0.labelSolidTendedWell>
+  <LotM_DawnLightInjury.comps.1.permanentLabel>шрам рассвета</LotM_DawnLightInjury.comps.1.permanentLabel>
+  <LotM_DawnLightInjury.injuryProps.destroyedLabel>разорван светом рассвета</LotM_DawnLightInjury.injuryProps.destroyedLabel>
+  <LotM_DawnShardInjury.label>порез света</LotM_DawnShardInjury.label>
+  <LotM_DawnShardInjury.labelNoun>порез света</LotM_DawnShardInjury.labelNoun>
+  <LotM_DawnShardInjury.description>Чистый разрез от осколка света рассвета, острый, как сталь.</LotM_DawnShardInjury.description>
+  <LotM_DawnShardInjury.comps.0.labelTendedWell>перевязанный</LotM_DawnShardInjury.comps.0.labelTendedWell>
+  <LotM_DawnShardInjury.comps.0.labelTendedWellInner>сшитый</LotM_DawnShardInjury.comps.0.labelTendedWellInner>
+  <LotM_DawnShardInjury.comps.0.labelSolidTendedWell>леченный</LotM_DawnShardInjury.comps.0.labelSolidTendedWell>
+  <LotM_DawnShardInjury.comps.2.permanentLabel>шрам света</LotM_DawnShardInjury.comps.2.permanentLabel>
+  <LotM_DawnShardInjury.injuryProps.destroyedLabel>порез светом рассвета</LotM_DawnShardInjury.injuryProps.destroyedLabel>
+  <LotM_DawnShardInjury.injuryProps.destroyedOutLabel>порез светом рассвета</LotM_DawnShardInjury.injuryProps.destroyedOutLabel>
+  <LotM_DawnPierceInjury.label>рана копья рассвета</LotM_DawnPierceInjury.label>
+  <LotM_DawnPierceInjury.labelNoun>рана копья рассвета</LotM_DawnPierceInjury.labelNoun>
+  <LotM_DawnPierceInjury.description>Глубокая рана, открытая стрелой рассветного света, которая распалась при пронзании.</LotM_DawnPierceInjury.description>
+  <LotM_DawnPierceInjury.comps.0.labelTendedWell>перевязанный</LotM_DawnPierceInjury.comps.0.labelTendedWell>
+  <LotM_DawnPierceInjury.comps.0.labelTendedWellInner>сшитый</LotM_DawnPierceInjury.comps.0.labelTendedWellInner>
+  <LotM_DawnPierceInjury.comps.0.labelSolidTendedWell>леченный</LotM_DawnPierceInjury.comps.0.labelSolidTendedWell>
+  <LotM_DawnPierceInjury.comps.2.permanentLabel>шрам копья</LotM_DawnPierceInjury.comps.2.permanentLabel>
+  <LotM_DawnPierceInjury.injuryProps.destroyedLabel>пронзенный рассветной копьем</LotM_DawnPierceInjury.injuryProps.destroyedLabel>
+  <LotM_DawnPierceInjury.injuryProps.destroyedOutLabel>пронзенный рассветной копьем</LotM_DawnPierceInjury.injuryProps.destroyedOutLabel>
+  <LotM_GiantImpactInjury.label>удар гиганта</LotM_GiantImpactInjury.label>
+  <LotM_GiantImpactInjury.labelNoun>удар гиганта</LotM_GiantImpactInjury.labelNoun>
+  <LotM_GiantImpactInjury.description>Удар гигантской силы. Кости трескаются.</LotM_GiantImpactInjury.description>
+  <LotM_GiantImpactInjury.comps.0.labelTendedWell>перевязанный</LotM_GiantImpactInjury.comps.0.labelTendedWell>
+  <LotM_GiantImpactInjury.comps.0.labelTendedWellInner>леченный</LotM_GiantImpactInjury.comps.0.labelTendedWellInner>
+  <LotM_GiantImpactInjury.comps.0.labelSolidTendedWell>установить</LotM_GiantImpactInjury.comps.0.labelSolidTendedWell>
+  <LotM_GiantImpactInjury.comps.1.permanentLabel>раздавленный шрам</LotM_GiantImpactInjury.comps.1.permanentLabel>
+  <LotM_GiantImpactInjury.injuryProps.destroyedLabel>раздавленный</LotM_GiantImpactInjury.injuryProps.destroyedLabel>
+  <LotM_SilverPierceInjury.label>рана серебряным рапирой</LotM_SilverPierceInjury.label>
+  <LotM_SilverPierceInjury.labelNoun>рана серебряным рапирой</LotM_SilverPierceInjury.labelNoun>
+  <LotM_SilverPierceInjury.description>Тонкая, глубокая рана, открытая серебряным лучом, появившимся внутри тела.</LotM_SilverPierceInjury.description>
+  <LotM_SilverPierceInjury.comps.0.labelTendedWell>перевязанный</LotM_SilverPierceInjury.comps.0.labelTendedWell>
+  <LotM_SilverPierceInjury.comps.0.labelTendedWellInner>сшитый</LotM_SilverPierceInjury.comps.0.labelTendedWellInner>
+  <LotM_SilverPierceInjury.comps.0.labelSolidTendedWell>леченный</LotM_SilverPierceInjury.comps.0.labelSolidTendedWell>
+  <LotM_SilverPierceInjury.comps.2.permanentLabel>серебряный шрам</LotM_SilverPierceInjury.comps.2.permanentLabel>
+  <LotM_SilverPierceInjury.injuryProps.destroyedLabel>пронзенный серебром</LotM_SilverPierceInjury.injuryProps.destroyedLabel>
+  <LotM_SilverPierceInjury.injuryProps.destroyedOutLabel>пронзенный серебром</LotM_SilverPierceInjury.injuryProps.destroyedOutLabel>
+  <LotM_TwilightCutInjury.label>порез сумерек</LotM_TwilightCutInjury.label>
+  <LotM_TwilightCutInjury.labelNoun>порез сумерек</LotM_TwilightCutInjury.labelNoun>
+  <LotM_TwilightCutInjury.description>Порез с серыми, сухими краями, как будто плоть вокруг него состарилась за мгновение.</LotM_TwilightCutInjury.description>
+  <LotM_TwilightCutInjury.comps.0.labelTendedWell>перевязанный</LotM_TwilightCutInjury.comps.0.labelTendedWell>
+  <LotM_TwilightCutInjury.comps.0.labelTendedWellInner>сшитый</LotM_TwilightCutInjury.comps.0.labelTendedWellInner>
+  <LotM_TwilightCutInjury.comps.0.labelSolidTendedWell>леченный</LotM_TwilightCutInjury.comps.0.labelSolidTendedWell>
+  <LotM_TwilightCutInjury.comps.2.permanentLabel>шрам сумерек</LotM_TwilightCutInjury.comps.2.permanentLabel>
+  <LotM_TwilightCutInjury.injuryProps.destroyedLabel>пересеченный сумерками</LotM_TwilightCutInjury.injuryProps.destroyedLabel>
+  <LotM_TwilightCutInjury.injuryProps.destroyedOutLabel>пересеченный сумерками</LotM_TwilightCutInjury.injuryProps.destroyedOutLabel>
+  <LotM_TwilightRustInjury.label>недоделанная плоть</LotM_TwilightRustInjury.label>
+  <LotM_TwilightRustInjury.labelNoun>плоть, распущенная сумерками</LotM_TwilightRustInjury.labelNoun>
+  <LotM_TwilightRustInjury.description>Плоть заржавела и распалась, как старый металл.</LotM_TwilightRustInjury.description>
+  <LotM_TwilightRustInjury.comps.0.labelTendedWell>перевязанный</LotM_TwilightRustInjury.comps.0.labelTendedWell>
+  <LotM_TwilightRustInjury.comps.0.labelTendedWellInner>леченный</LotM_TwilightRustInjury.comps.0.labelTendedWellInner>
+  <LotM_TwilightRustInjury.comps.0.labelSolidTendedWell>леченный</LotM_TwilightRustInjury.comps.0.labelSolidTendedWell>
+  <LotM_TwilightRustInjury.comps.1.permanentLabel>ржавый шрам</LotM_TwilightRustInjury.comps.1.permanentLabel>
+  <LotM_TwilightRustInjury.injuryProps.destroyedLabel>Недоделанный Сумерками</LotM_TwilightRustInjury.injuryProps.destroyedLabel>
+</LanguageData>

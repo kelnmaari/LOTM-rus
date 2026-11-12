@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Ing_BloodspotMosquito.label>черный москит с пятнами крови</LotM_Ing_BloodspotMosquito.label>
+  <LotM_Ing_BloodspotMosquito.description>Чёрная мошка с красными пятнами на крыльях. Даже мёртвая, она выглядит готовой укусить.</LotM_Ing_BloodspotMosquito.description>
+  <LotM_Ing_CandleEaterCore.label>духовное ядро, пожирающее свечи</LotM_Ing_CandleEaterCore.label>
+  <LotM_Ing_CandleEaterCore.description>Тёплое сердце духа, питавшегося светом свечи. Рядом с ним дрожат пламя.</LotM_Ing_CandleEaterCore.description>
+  <LotM_Ing_VerbenaPowder.label>порошок вербены</LotM_Ing_VerbenaPowder.label>
+  <LotM_Ing_VerbenaPowder.description>Десять граммов сушеной, измельчённой вербены, тускло-фиолетового цвета. Пахнет лимоном.</LotM_Ing_VerbenaPowder.description>
+  <LotM_Ing_HumanFacedPitcher.label>кувшин с человеческим лицом</LotM_Ing_HumanFacedPitcher.label>
+  <LotM_Ing_HumanFacedPitcher.description>Кувшин хищного растения, которое, при ближайшем рассмотрении, имеет форму улыбающегося лица.</LotM_Ing_HumanFacedPitcher.description>
+  <LotM_Ing_HypnoSwarmLarva.label>гипнотическая личинка роя</LotM_Ing_HypnoSwarmLarva.label>
+  <LotM_Ing_HypnoSwarmLarva.description>Мягкий, бледный личиночный. Долгое рассматривание вызывает сонливость.</LotM_Ing_HypnoSwarmLarva.description>
+  <LotM_Ing_OthersTears.label>слезы другого</LotM_Ing_OthersTears.label>
+  <LotM_Ing_OthersTears.description>Двадцать миллилитров чужих слёз, в маленьком флаконе. Всё ещё тёплые.</LotM_Ing_OthersTears.description>
+  <LotM_Ing_SphinxBrain.label>мозг сфинкса</LotM_Ing_SphinxBrain.label>
+  <LotM_Ing_SphinxBrain.description>Мозг существа с телом льва и головой человека, которое жило загадками. Его складки выглядят как буквы.</LotM_Ing_SphinxBrain.description>
+  <LotM_Ing_HypnoSwarmAdult.label>взрослый гипнотический рой</LotM_Ing_HypnoSwarmAdult.label>
+  <LotM_Ing_HypnoSwarmAdult.description>Крылатое насекомое, чей жужжащий звук вызывает сонливость. Оно всё ещё вибрирует в банке.</LotM_Ing_HypnoSwarmAdult.description>
+  <LotM_Ing_Moonstone.label>лунный камень</LotM_Ing_Moonstone.label>
+  <LotM_Ing_Moonstone.description>Молочно-белый камень с голубоватым блеском, который движется при повороте.</LotM_Ing_Moonstone.description>
+  <LotM_Ing_CrystalNematode.label>кристальный червь</LotM_Ing_CrystalNematode.label>
+  <LotM_Ing_CrystalNematode.description>Тонкий червь, прозрачный как стекло. Он движется бесшумно и отражает то, что его окружает.</LotM_Ing_CrystalNematode.description>
+  <LotM_Ing_RobedWraithRemnant.label>брошь робкого призрака</LotM_Ing_RobedWraithRemnant.label>
+  <LotM_Ing_RobedWraithRemnant.description>Старинная брошь, которую носил призрак, завернутый в одеяние. Она всегда холодная и тяжелее, чем должна быть.</LotM_Ing_RobedWraithRemnant.description>
+  <LotM_Ing_RobedWraithDust.label>пыль робкого призрака</LotM_Ing_RobedWraithDust.label>
+  <LotM_Ing_RobedWraithDust.description>Десять граммов серой пыли, которую оставил робкий призрак, когда он распался.</LotM_Ing_RobedWraithDust.description>
+  <LotM_Ing_DreamEaterRatHeart.label>сердце крысы-пожирателя снов</LotM_Ing_DreamEaterRatHeart.label>
+  <LotM_Ing_DreamEaterRatHeart.description>Крошечное сердце крысы, которое поедало сны спящих поблизости. Оно бьётся медленно, как у спящего человека.</LotM_Ing_DreamEaterRatHeart.description>
+  <LotM_Ing_DreamEaterRatBlood.label>кровь крысы-пожирателя снов</LotM_Ing_DreamEaterRatBlood.label>
+  <LotM_Ing_DreamEaterRatBlood.description>тридцать миллилитров серой крови, пахнущей подушками.</LotM_Ing_DreamEaterRatBlood.description>
+  <LotM_Ing_DepravitySpirit.label>дух порока</LotM_Ing_DepravitySpirit.label>
+  <LotM_Ing_DepravitySpirit.description>Банка мутного воздуха, который движется сам по себе: что-то оставшееся от духа порока.</LotM_Ing_DepravitySpirit.description>
+  <LotM_Ing_SoulSnatcherCrystal.label>кристалл выкачиватель душ</LotM_Ing_SoulSnatcherCrystal.label>
+  <LotM_Ing_SoulSnatcherCrystal.description>Кристалл, который оставляет душа-похититель при смерти, существо Мира духов, которое питается духами. Что-то движется внутри него, как будто оно все еще ищет кого-то, чтобы утащить.</LotM_Ing_SoulSnatcherCrystal.description>
+  <LotM_Ing_PuppetEvilWorm.label>злой червь-кукла</LotM_Ing_PuppetEvilWorm.label>
+  <LotM_Ing_PuppetEvilWorm.description>Длинный, бледный червь, который проникает в тела и двигает их как марионеток. Даже мертвый, он извивается, когда кто-то приближается.</LotM_Ing_PuppetEvilWorm.description>
+  <LotM_Ing_SoulSnatcherBlood.label>кровь выкачивателя душ</LotM_Ing_SoulSnatcherBlood.label>
+  <LotM_Ing_SoulSnatcherBlood.description>Сто миллилитров чёрной, холодной крови. Если смотреть на неё достаточно долго, кажется, что что-то смотрит в ответ.</LotM_Ing_SoulSnatcherBlood.description>
+  <LotM_Ing_ImprisonedSoul.label>заключенная душа</LotM_Ing_ImprisonedSoul.label>
+  <LotM_Ing_ImprisonedSoul.description>Стеклянная банка с пойманной внутри душой. Она медленно, без остановки стучит по стеклу.</LotM_Ing_ImprisonedSoul.description>
+  <LotM_Ing_SwampGiantPalms.label>ладони гигантского болота</LotM_Ing_SwampGiantPalms.label>
+  <LotM_Ing_SwampGiantPalms.description>Две огромные руки гиганта, жившего в болотах Мира духов. Они всегда влажные, и между пальцами растёт мох.</LotM_Ing_SwampGiantPalms.description>
+  <LotM_Ing_BlasphemousPriestCore.label>ядро богохульного жреца</LotM_Ing_BlasphemousPriestCore.label>
+  <LotM_Ing_BlasphemousPriestCore.description>Ядро безликого, облачённого в одеяния, существа Мира духов, завернутое в грибные саваны. Оно медленно бьётся и пахнет плесенью и ладаном.</LotM_Ing_BlasphemousPriestCore.description>
+  <LotM_Ing_SwampGiantBlood.label>кровь болота-гиганта</LotM_Ing_SwampGiantBlood.label>
+  <LotM_Ing_SwampGiantBlood.description>Восемьдесят миллилитров густой зеленой крови, пахнущей застойной водой.</LotM_Ing_SwampGiantBlood.description>
+  <LotM_Ing_BlasphemousPriestShroud.label>Грибная саван богохульного жреца</LotM_Ing_BlasphemousPriestShroud.label>
+  <LotM_Ing_BlasphemousPriestShroud.description>Двадцать граммов бесцветной ткани из грибов, как тонкая занавеска. Она движется сама по себе, когда никто не смотрит.</LotM_Ing_BlasphemousPriestShroud.description>
+  <LotM_Ing_GiantCourtPriestCrystal.label>посмертный кристалл жреца двора Гиганта-Короля</LotM_Ing_GiantCourtPriestCrystal.label>
+  <LotM_Ing_GiantCourtPriestCrystal.description>Кристалл, который оставил жрец двора Гигантского Короля после его смерти. Внутри можно увидеть каменные колонны и пустой трон.</LotM_Ing_GiantCourtPriestCrystal.description>
+  <LotM_Ing_SoulSnatcherKingEye.label>вертиканое око Короля-Пожирателя Душ</LotM_Ing_SoulSnatcherKingEye.label>
+  <LotM_Ing_SoulSnatcherKingEye.description>Вертиканый глаз размером с руку, принадлежавший Королю Пожирателей Душ. Смотреть прямо на него ощущается так, будто что-то вырывают из тебя.</LotM_Ing_SoulSnatcherKingEye.description>
+  <LotM_Ing_FalseHistory.label>ложная история, считающаяся правдой</LotM_Ing_FalseHistory.label>
+  <LotM_Ing_FalseHistory.description>Сборник страниц с вымышленной историей, рассказанной настолько хорошо, что любой, кто ее читает, верит в нее. Детали немного меняются при каждом перечитывании.</LotM_Ing_FalseHistory.description>
+  <LotM_Ing_AncientClock.label>древние часы</LotM_Ing_AncientClock.label>
+  <LotM_Ing_AncientClock.description>Старые золотые карманные часы, которые никто не сделал в известную эпоху. Иногда стрелки идут назад.</LotM_Ing_AncientClock.description>
+  <LotM_Ing_UsedAlmanac.label>использованный альманах</LotM_Ing_UsedAlmanac.label>
+  <LotM_Ing_UsedAlmanac.description>Альманах, изношенный от такого большого использования, с зачеркнутыми днями и заметками по полям. Некоторые даты ещё не наступили.</LotM_Ing_UsedAlmanac.description>
+</LanguageData>

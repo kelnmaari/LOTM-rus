@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_FleshRotInjury.label>гнилая плоть</LotM_FleshRotInjury.label>
+  <LotM_FleshRotInjury.labelNoun>гнилая часть</LotM_FleshRotInjury.labelNoun>
+  <LotM_FleshRotInjury.description>Плоть сгнила изнутри, от мистической чумы.</LotM_FleshRotInjury.description>
+  <LotM_FleshRotInjury.comps.0.labelTendedWell>перевязанный</LotM_FleshRotInjury.comps.0.labelTendedWell>
+  <LotM_FleshRotInjury.comps.0.labelTendedWellInner>леченный</LotM_FleshRotInjury.comps.0.labelTendedWellInner>
+  <LotM_FleshRotInjury.comps.0.labelSolidTendedWell>леченный</LotM_FleshRotInjury.comps.0.labelSolidTendedWell>
+  <LotM_FleshRotInjury.comps.2.permanentLabel>шрам гниющей плоти</LotM_FleshRotInjury.comps.2.permanentLabel>
+  <LotM_FleshRotInjury.injuryProps.destroyedLabel>гнилой</LotM_FleshRotInjury.injuryProps.destroyedLabel>
+  <LotM_FleshRotInjury.injuryProps.destroyedOutLabel>гнилой</LotM_FleshRotInjury.injuryProps.destroyedOutLabel>
+</LanguageData>

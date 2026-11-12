@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Make_Potion_Warrior.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Warrior.jobString>
+  <LotM_Make_Potion_Warrior.label>приготовить зелье: Воин</LotM_Make_Potion_Warrior.label>
+  <LotM_Make_Potion_Pugilist.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Pugilist.jobString>
+  <LotM_Make_Potion_Pugilist.label>приготовить зелье: Боец</LotM_Make_Potion_Pugilist.label>
+  <LotM_Make_Potion_WeaponMaster.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_WeaponMaster.jobString>
+  <LotM_Make_Potion_WeaponMaster.label>приготовить зелье: Мастер оружия</LotM_Make_Potion_WeaponMaster.label>
+  <LotM_Make_Potion_DawnPaladin.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_DawnPaladin.jobString>
+  <LotM_Make_Potion_DawnPaladin.label>приготовить зелье: Паладин рассвета</LotM_Make_Potion_DawnPaladin.label>
+  <LotM_Make_Potion_Guardian.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Guardian.jobString>
+  <LotM_Make_Potion_Guardian.label>приготовить зелье: Страж</LotM_Make_Potion_Guardian.label>
+  <LotM_Make_Potion_DemonHunter.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_DemonHunter.jobString>
+  <LotM_Make_Potion_DemonHunter.label>приготовить зелье: Охотник на демонов</LotM_Make_Potion_DemonHunter.label>
+  <LotM_Make_Potion_SilverKnight.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_SilverKnight.jobString>
+  <LotM_Make_Potion_SilverKnight.label>приготовить зелье: Серебряный рыцарь</LotM_Make_Potion_SilverKnight.label>
+  <LotM_Make_Potion_Glory.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_Glory.jobString>
+  <LotM_Make_Potion_Glory.label>приготовить зелье: Слава</LotM_Make_Potion_Glory.label>
+  <LotM_Make_Potion_HandOfGod.jobString>Готовит зелье Потустороннего.</LotM_Make_Potion_HandOfGod.jobString>
+  <LotM_Make_Potion_HandOfGod.label>приготовить зелье: Длань Бога</LotM_Make_Potion_HandOfGod.label>
+  <LotM_Make_Potion_Warrior.description>Смешивает глаза мутировавшего чёрного медведя или кровожадный рога носорога (или характеристику Воина Потустороннего) с кровью мутировавшего чёрного медведя и ониксом.</LotM_Make_Potion_Warrior.description>
+  <LotM_Make_Potion_Pugilist.description>Смешать сердце гигантского черного медведя или средний палец Лесного Бродяги (или характеристика Потустороннего Пулериста) с кровью Лесного Бродяги или желчным пузырем гигантского черного медведя, и аметистом.</LotM_Make_Potion_Pugilist.description>
+  <LotM_Make_Potion_WeaponMaster.description>Смешать левую лапу железного медведя или ухо шестирукого серого обезьяны (или характеристика Потустороннего Мастера Оружия) с кровью железного медведя или волосами шестирукой серой обезьяны, и стрелами поля боя.</LotM_Make_Potion_WeaponMaster.description>
+  <LotM_Make_Potion_DawnPaladin.description>Смешивает правую лапу серебряного медведя или грудную кость рассветной птицы (или характеристику Паладина рассвета Потустороннего) с желчью серебряного медведя или когтем рассветной птицы, и опалом.</LotM_Make_Potion_DawnPaladin.description>
+  <LotM_Make_Potion_Guardian.description>Смешай сердце серого гиганта или уши Лесного Стража (или характеристику Потустороннего Стража) с кровью серого гиганта или пылью каменного гиганта, и глаз серого гиганта или глаз Лесного Стража.</LotM_Make_Potion_Guardian.description>
+  <LotM_Make_Potion_DemonHunter.description>Смешай глаз божественного гиганта или вертикальный глаз Охотника Злого Духа (или характеристику Потустороннего Охотника за Демонами) с кровью божественного гиганта и черепом божественного гиганта или черепом Охотника Злого Духа.</LotM_Make_Potion_DemonHunter.description>
+  <LotM_Make_Potion_SilverKnight.description>Смешай сердце Преследователя Королевского Двора или сердце Стража Королевского Двора (или характеристику Потустороннего Серебряного Рыцаря) с водой, отравленной смертью, и янтарем с древним насекомым.</LotM_Make_Potion_SilverKnight.description>
+  <LotM_Make_Potion_Glory.description>Смешивает славное гигантское кристаллизование (или характеристику Потустороннего Славы) с кровью славного гиганта и объектом, эродированным Тьмой.</LotM_Make_Potion_Glory.description>
+  <LotM_Make_Potion_HandOfGod.description>Смешай характеристику Потустороннего Руки Бога с водой реки Стим, и хроника верности.</LotM_Make_Potion_HandOfGod.description>
+</LanguageData>

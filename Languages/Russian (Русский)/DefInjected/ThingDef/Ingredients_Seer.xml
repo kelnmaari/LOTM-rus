@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Ing_StarCrystal.label>звёздный кристалл</LotM_Ing_StarCrystal.label>
+  <LotM_Ing_NightVanilla.label>жидкость ночной ванили</LotM_Ing_NightVanilla.label>
+  <LotM_Ing_GoldMint.label>листья золотой мяты</LotM_Ing_GoldMint.label>
+  <LotM_Ing_BizarroBaneEye.label>главный глаз причудливого чудовища</LotM_Ing_BizarroBaneEye.label>
+  <LotM_Ing_BizarroBaneBlood.label>кровь причудливого чудовища</LotM_Ing_BizarroBaneBlood.label>
+  <LotM_Ing_StarCrystal.description>Кристалл, отражающий звёздное небо, которое не принадлежит этому миру.</LotM_Ing_StarCrystal.description>
+  <LotM_Ing_NightVanilla.description>Жидкое вещество ванили, которое цветёт только ночью. Пахнет снами.</LotM_Ing_NightVanilla.description>
+  <LotM_Ing_GoldMint.description>Семь листьев мяты с золотыми блестками. Они проясняют разум.</LotM_Ing_GoldMint.description>
+  <LotM_Ing_HumanFacedRose.label>целая стебель розы с человеческим лицом</LotM_Ing_HumanFacedRose.label>
+  <LotM_Ing_HumanFacedRose.description>Вся стебель розы, чьи лепестки образуют человеческое лицо, которое улыбается... или притворяется улыбаться.</LotM_Ing_HumanFacedRose.description>
+  <LotM_Ing_JimsonweedJuice.label>сок из джинсового растения</LotM_Ing_JimsonweedJuice.label>
+  <LotM_Ing_JimsonweedJuice.description>Сок из джинсового плюща. Несколько капель заставляют видеть то, чего нет.</LotM_Ing_JimsonweedJuice.description>
+  <LotM_Ing_BlackRimSunflower.label>порошок подсолнуха с чёрной окантовкой</LotM_Ing_BlackRimSunflower.label>
+  <LotM_Ing_BlackRimSunflower.description>Порошок подсолнуха с чёрными краями лепестков, как нарисованная улыбка.</LotM_Ing_BlackRimSunflower.description>
+  <LotM_Ing_PantherSpinalFluid.label>спинномозговая жидкость чёрного пантеры с тёмными пятнами</LotM_Ing_PantherSpinalFluid.label>
+  <LotM_Ing_PantherSpinalFluid.description>Вся спинномозговая жидкость чёрного пантера с ещё более тёмными пятнами. Она светится в темноте.</LotM_Ing_PantherSpinalFluid.description>
+  <LotM_Ing_DropletGem.label>порошок драгоценного камня</LotM_Ing_DropletGem.label>
+  <LotM_Ing_DropletGem.description>Пудра капельного самоцвета, которая всегда кажется готовой упасть.</LotM_Ing_DropletGem.description>
+  <LotM_Ing_FantasyGrassOil.label>эфирное масло фэнтезийной травы</LotM_Ing_FantasyGrassOil.label>
+  <LotM_Ing_FantasyGrassOil.description>Масло из травы, которое размывает контур всего, к чему прикасается. Несколько капель, и всё выглядит как трюк.</LotM_Ing_FantasyGrassOil.description>
+  <LotM_Ing_HunterPituitary.label>мутировавшаяся гипофизарная железа тысячеликого охотника</LotM_Ing_HunterPituitary.label>
+  <LotM_Ing_HunterPituitary.description>Железа существа, которое прячется среди людей, меняя облик. Оно всё ещё меняет форму в флаконе.</LotM_Ing_HunterPituitary.description>
+  <LotM_Ing_HunterBlood.label>кровь охотника с тысячей ликами</LotM_Ing_HunterBlood.label>
+  <LotM_Ing_HunterBlood.description>Кровь тысячеликого охотника. Она отражает лицо того, кто на неё смотрит.</LotM_Ing_HunterBlood.description>
+  <LotM_Ing_DragonToothGrass.label>порошок травы драконьих зубов</LotM_Ing_DragonToothGrass.label>
+  <LotM_Ing_DragonToothGrass.description>порошок травы с листьями, острыми, как зубы.</LotM_Ing_DragonToothGrass.description>
+  <LotM_Ing_AncientWraithDust.label>пыль древнего призрака</LotM_Ing_AncientWraithDust.label>
+  <LotM_Ing_AncientWraithDust.description>Пыль, оставленная очень древним призраком, когда он растворился. Она всё ещё движется сама по себе, как нити.</LotM_Ing_AncientWraithDust.description>
+  <LotM_Ing_GoldenSpringWater.label>вода золотого источника</LotM_Ing_GoldenSpringWater.label>
+  <LotM_Ing_GoldenSpringWater.description>Вода из золотого источника, как на острове Сониа. Она никогда не остывает.</LotM_Ing_GoldenSpringWater.description>
+  <LotM_Ing_DragoBark.label>кора древа дракона</LotM_Ing_DragoBark.label>
+  <LotM_Ing_DragoBark.description>Кора древа дракона, из которого течёт красная смола.</LotM_Ing_DragoBark.description>
+  <LotM_Ing_BizarroBaneEye.description>Главный глаз существа Мира духов, сделанного из червей. Он всё ещё наблюдает.</LotM_Ing_BizarroBaneEye.description>
+  <LotM_Ing_BizarroBaneBlood.description>Прозрачная кровь, в которой извиваются крошечные черви.</LotM_Ing_BizarroBaneBlood.description>
+  <LotM_Ing_RedBirchBark.label>кора берёзы с рыжими волосами</LotM_Ing_RedBirchBark.label>
+  <LotM_Ing_RedBirchBark.description>Кора берёзы с красными волокнами, как волосы.</LotM_Ing_RedBirchBark.description>
+  <LotM_Ing_FogWolfHeart.label>превращённое сердце демонической волка тумана</LotM_Ing_FogWolfHeart.label>
+  <LotM_Ing_FogWolfHeart.description>Сердце демонической волка, спрятавшегося в тумане. Оно покрыто инеем, который никогда не тает.</LotM_Ing_FogWolfHeart.description>
+  <LotM_Ing_FogWolfFrost.label>кристалл белого инея волка-тумана</LotM_Ing_FogWolfFrost.label>
+  <LotM_Ing_FogWolfFrost.description>Кристалл инея, образующийся на меху демонических волков тумана.</LotM_Ing_FogWolfFrost.description>
+  <LotM_Ing_AncientRecords.label>подлинные древние исторические записи</LotM_Ing_AncientRecords.label>
+  <LotM_Ing_AncientRecords.description>Сборник записей из эпохи, которую больше никто не помнит. Они подлинные: вот в чём странность.</LotM_Ing_AncientRecords.description>
+  <LotM_Ing_DarkWolfHeart.label>сердце тёмного демонического волка</LotM_Ing_DarkWolfHeart.label>
+  <LotM_Ing_DarkWolfHeart.description>Сердце демонической волки, сделанной из тьмы. Оно бьется медленно и тускнеет свет вокруг себя.</LotM_Ing_DarkWolfHeart.description>
+  <LotM_Ing_DarkWolfBlood.label>кровь тёмного демонического волка</LotM_Ing_DarkWolfBlood.label>
+  <LotM_Ing_DarkWolfBlood.description>Кровь чёрная, как ночь. Триста миллилитров весят как камень.</LotM_Ing_DarkWolfBlood.description>
+  <LotM_Ing_WormOfTime.label>Червь Времени</LotM_Ing_WormOfTime.label>
+  <LotM_Ing_WormOfTime.description>Червь Духа, который ест время. Вокруг него часы отстают.</LotM_Ing_WormOfTime.description>
+  <LotM_Ing_SpiritWorldSpecialty.label>специальность Мира духов</LotM_Ing_SpiritWorldSpecialty.label>
+  <LotM_Ing_SpiritWorldSpecialty.description>Что существует только в Мире духов. Зелье требует девяти разных.</LotM_Ing_SpiritWorldSpecialty.description>
+</LanguageData>

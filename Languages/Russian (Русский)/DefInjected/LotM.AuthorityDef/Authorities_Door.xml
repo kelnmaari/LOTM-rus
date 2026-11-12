@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Authority_DoorTeleport.label>телепортация</LotM_Authority_DoorTeleport.label>
+  <LotM_Authority_DoorTeleport.description>Первоначальный контроль над Телепортацией, который зависит от власти Пространства.</LotM_Authority_DoorTeleport.description>
+  <LotM_Authority_DoorTeleport.passive>Моргает и оставляет изображения, которые сражаются, открывает прямые двери где угодно в мире, в Мир духов и Астральный Мир, и заставляет целую группу блуждать. От «Ключа Звезд» он удерживает врагов, пытающихся сбежать на другую плоскость, привязанную к реальности.</LotM_Authority_DoorTeleport.passive>
+  <LotM_Authority_DoorTeleport.godLabel>Пространство</LotM_Authority_DoorTeleport.godLabel>
+  <LotM_Authority_DoorTeleport.godPassive>Они мгновенно путешествуют в любое пространство, с кем они захотят. Конечная форма Мерцания — Всепроникновение.</LotM_Authority_DoorTeleport.godPassive>
+  <LotM_Authority_Replication.label>репликация</LotM_Authority_Replication.label>
+  <LotM_Authority_Replication.description>Власть Репликации (или Воссоздания), связанная с Миром духов.</LotM_Authority_Replication.description>
+  <LotM_Authority_Replication.passive>Копирует известные им силы, не записывая их и используя; более высокие выходят по-другому и слабее, но с некоторой властью. Воспроизводит сцены, чтобы двигаться со всем вокруг. Не может копировать Уникальности.</LotM_Authority_Replication.passive>
+  <LotM_Authority_Replication.godPassive>Реплицирует власти истинного бога, не воспроизводя его символов, и даёт его альтернативным мирам правила собственных.</LotM_Authority_Replication.godPassive>
+  <LotM_Authority_Position.label>Положение</LotM_Authority_Position.label>
+  <LotM_Authority_Position.description>Власть Позиции: они никогда не теряют свою собственную, их враги никогда ее не найдут, и они могут заставить врагов потерять свою.</LotM_Authority_Position.description>
+  <LotM_Authority_Position.passive>Ничто не находит их издалека (ни прорицание, ни какого-либо слежения). Они находят то, что хотят, где угодно, открывают ключ звёзд к нему, запечатывают позицию кого-либо и стирают врагов своих.</LotM_Authority_Position.passive>
+  <LotM_Authority_Position.godPassive>Позиция достигает времени, судьбы и разума: они могут заставить кого-то потерять направление в Реке Судьбы.</LotM_Authority_Position.godPassive>
+  <LotM_Authority_Seals.label>Печати</LotM_Authority_Seals.label>
+  <LotM_Authority_Seals.description>Первоначальный контроль над властью Печатей, в форме звездного света.</LotM_Authority_Seals.description>
+  <LotM_Authority_Seals.passive>Лабиринты пространства и времени, звёздный свет, который самовосстанавливается, звёздное небо, которое запечатывает всю область, и печати над концепциями: сила, возможность, правило поля боя. Они запечатывают свою склонность к сходимости: с Уникальностью они выдерживают три характеристики.</LotM_Authority_Seals.passive>
+  <LotM_Authority_Seals.godPassive>Их печати ловят даже истинного бога.</LotM_Authority_Seals.godPassive>
+  <LotM_Authority_Door.label>Дверь</LotM_Authority_Door.label>
+  <LotM_Authority_Door.description>Концепция Дверей: Пространство, Печати, Альтернативные Миры.</LotM_Authority_Door.description>
+  <LotM_Authority_Door.passive>Открывает или закрывает все, что связано с дверями во всем мире: печати ломаются или крепнут. Коллапсирует пространство, фрагментирует пространство до предела, создает альтернативные миры (их Божественное царство) и становится или превращает других в концепции.</LotM_Authority_Door.passive>
+</LanguageData>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_AnomalousNight.label>Аномальная ночь</LotM_AnomalousNight.label>
+  <LotM_AnomalousNight.description>Небо становится красным. Враждебные Потусторонние и монстры бьют сильнее, а животные беспокойны.</LotM_AnomalousNight.description>
+  <LotM_AnomalousNight.endMessage>Аномальная ночь окончена.</LotM_AnomalousNight.endMessage>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_SanctumBroken.label>сломанный святыня</LotM_SanctumBroken.label>
+  <LotM_SanctumBroken.description>Святилище, их главный якорь в мире, сломано или больше не соответствует своим требованиям. Их божественная сила не может достичь мира, пока он не будет отремонтирован, и их якорь падает.</LotM_SanctumBroken.description>
+  <LotM_GodDescended.label>нисхождение</LotM_GodDescended.label>
+  <LotM_GodDescended.description>Бог покинул их Святилище со всей их силой. Мир не может долго терпеть их снаружи: когда он закончится, они вернутся сами.</LotM_GodDescended.description>
+  <LotM_SacredFireHediff.label>святое пламя</LotM_SacredFireHediff.label>
+  <LotM_SacredFireHediff.description>Зло и враги, которые приближаются, сгорают в золотых пламени.</LotM_SacredFireHediff.description>
+</LanguageData>

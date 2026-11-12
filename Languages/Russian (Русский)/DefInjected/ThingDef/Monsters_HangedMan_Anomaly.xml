@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_A_LostSuppliant.label>потерянный проситель</LotM_A_LostSuppliant.label>
+  <LotM_A_LostSuppliant.description>Умоляющий Тайны, потерявший контроль. Он всё ещё бормочет имена, которые никогда не следует произносить.</LotM_A_LostSuppliant.description>
+  <LotM_A_LostSuppliant.tools.0.label>щупальца</LotM_A_LostSuppliant.tools.0.label>
+  <LotM_A_LostSuppliant.tools.1.label>укус</LotM_A_LostSuppliant.tools.1.label>
+  <LotM_A_LostListener.label>потерянный слушатель</LotM_A_LostListener.label>
+  <LotM_A_LostListener.description>Слушатель, потерявший контроль. Шепот, который он слышал, вырывается из него и сводит с ума тех, кто рядом.</LotM_A_LostListener.description>
+  <LotM_A_LostListener.tools.0.label>Когти</LotM_A_LostListener.tools.0.label>
+  <LotM_A_LostListener.tools.1.label>Удар</LotM_A_LostListener.tools.1.label>
+  <LotM_A_LostShadowAscetic.label>потерянный теневой аскет</LotM_A_LostShadowAscetic.label>
+  <LotM_A_LostShadowAscetic.description>Теневой аскет, потерявший контроль. Голодные тени срывают его тело.</LotM_A_LostShadowAscetic.description>
+  <LotM_A_LostShadowAscetic.tools.0.label>Шип</LotM_A_LostShadowAscetic.tools.0.label>
+  <LotM_A_LostShadowAscetic.tools.1.label>Удар</LotM_A_LostShadowAscetic.tools.1.label>
+  <LotM_A_LostRoseBishop.label>потерянный розовый епископ</LotM_A_LostRoseBishop.label>
+  <LotM_A_LostRoseBishop.description>Розовая епископка, потерявшая контроль. Она отрывает куски плоти и бросает их: они взрываются едкой кровью.</LotM_A_LostRoseBishop.description>
+  <LotM_A_LostRoseBishop.tools.0.label>Когти</LotM_A_LostRoseBishop.tools.0.label>
+  <LotM_A_LostRoseBishop.tools.1.label>укус</LotM_A_LostRoseBishop.tools.1.label>
+  <LotM_A_LostShepherd.label>потерянный пастух</LotM_A_LostShepherd.label>
+  <LotM_A_LostShepherd.description>Пастух, потерявший контроль. Он пожирает трупы для исцеления и связывает живых тенями.</LotM_A_LostShepherd.description>
+  <LotM_A_LostShepherd.tools.0.label>щупальца</LotM_A_LostShepherd.tools.0.label>
+  <LotM_A_LostShepherd.tools.1.label>укус</LotM_A_LostShepherd.tools.1.label>
+  <LotM_A_LostBlackKnight.label>потерянный чёрный рыцарь</LotM_A_LostBlackKnight.label>
+  <LotM_A_LostBlackKnight.description>Черный Рыцарь, потерявший контроль: черная тень и извивающаяся плоть. Он пожирает души тех, кто падает поблизости, и становится сильнее. Когда он умирает, распадается на фрагменты.</LotM_A_LostBlackKnight.description>
+  <LotM_A_LostBlackKnight.tools.0.label>щупальца</LotM_A_LostBlackKnight.tools.0.label>
+  <LotM_A_LostBlackKnight.tools.1.label>укус</LotM_A_LostBlackKnight.tools.1.label>
+  <LotM_A_LostTrinityTemplar.label>потерянный рыцарь триады</LotM_A_LostTrinityTemplar.label>
+  <LotM_A_LostTrinityTemplar.description>Троичный Темплер, потерявший контроль. Его головы переделывают его, когда он вот-вот падет, и из его плоти вырываются слуги.</LotM_A_LostTrinityTemplar.description>
+  <LotM_A_LostTrinityTemplar.tools.0.label>Пасть</LotM_A_LostTrinityTemplar.tools.0.label>
+  <LotM_A_LostTrinityTemplar.tools.1.label>Удар</LotM_A_LostTrinityTemplar.tools.1.label>
+  <LotM_A_LostProfanePresbyter.label>потерянный профанный пресбитер</LotM_A_LostProfanePresbyter.label>
+  <LotM_A_LostProfanePresbyter.description>Ангел Дегенерации, потерявший контроль. Он бормочет слова, которые заключают и развращают того, кто их слышит. В первый раз, когда он умирает, он возвращается.</LotM_A_LostProfanePresbyter.description>
+  <LotM_A_LostProfanePresbyter.tools.0.label>Когти</LotM_A_LostProfanePresbyter.tools.0.label>
+  <LotM_A_LostProfanePresbyter.tools.1.label>укус</LotM_A_LostProfanePresbyter.tools.1.label>
+  <LotM_A_LostDarkAngel.label>потерянный тёмный ангел</LotM_A_LostDarkAngel.label>
+  <LotM_A_LostDarkAngel.description>Король ангелов пути Повешенного, потерявший контроль. Тени подчиняются ему, черное море поглощает всё, что на него стреляют, и в первый раз, когда он умирает, он возвращается.</LotM_A_LostDarkAngel.description>
+  <LotM_A_LostDarkAngel.tools.0.label>лезвия</LotM_A_LostDarkAngel.tools.0.label>
+  <LotM_A_LostDarkAngel.tools.1.label>Удар</LotM_A_LostDarkAngel.tools.1.label>
+  <LotM_FragmentFlesh_Bulbfreak.label>фрагмент чёрного рыцаря</LotM_FragmentFlesh_Bulbfreak.label>
+  <LotM_FragmentFlesh_Bulbfreak.description>Кусок разъяренного Черного Рыцаря, который отказывается умирать. Когда он падает, он снова распадается.</LotM_FragmentFlesh_Bulbfreak.description>
+  <LotM_FragmentFlesh_Bulbfreak.tools.0.label>щупальца</LotM_FragmentFlesh_Bulbfreak.tools.0.label>
+  <LotM_FragmentFlesh_Toughspike.label>фрагмент низшего чёрного рыцаря</LotM_FragmentFlesh_Toughspike.label>
+  <LotM_FragmentFlesh_Toughspike.description>Кусок разъяренного Черного Рыцаря, который отказывается умирать. Когда он падает, он снова распадается.</LotM_FragmentFlesh_Toughspike.description>
+  <LotM_FragmentFlesh_Toughspike.tools.0.label>Шип</LotM_FragmentFlesh_Toughspike.tools.0.label>
+  <LotM_FragmentFlesh_Trispike.label>крошечный фрагмент чёрного рыцаря</LotM_FragmentFlesh_Trispike.label>
+  <LotM_FragmentFlesh_Trispike.description>Кусок разъяренного Черного Рыцаря, который отказывается умирать. Когда он падает, он снова распадается.</LotM_FragmentFlesh_Trispike.description>
+  <LotM_FragmentFlesh_Trispike.tools.0.label>укус</LotM_FragmentFlesh_Trispike.tools.0.label>
+  <LotM_FleshServantA.label>плотский слуга</LotM_FleshServantA.label>
+  <LotM_FleshServantA.description>Марионетка из плоти и крови с огромной силой. Невосприимчива к атакам на дух. Взрывается при смерти.</LotM_FleshServantA.description>
+  <LotM_FleshServantA.tools.0.label>Кожные шипы</LotM_FleshServantA.tools.0.label>
+</LanguageData>

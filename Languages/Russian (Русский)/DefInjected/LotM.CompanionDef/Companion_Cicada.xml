@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Companion_Cicada.talks.1.nodes.0.speech>*Цикада сидит на ящике и настраивает гитару с непривычной серьёзностью.*\n\nТебе доводилось видеть мюзикл? Там люди поют вместо того, чтобы говорить. Грустят — поют. Влюбляются — поют ещё громче!\n\nНет ничего честнее. Когда поёшь, врать невозможно. Ну, я могу. Только начинаю фальшивить.</LotM_Companion_Cicada.talks.1.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.1.nodes.2.speech>Нелепые? *Прижимает руку к груди, глубоко оскорблённый.*\n\nВот жить без музыки — нелепо. Я тебя ещё переубежу, вот увидишь. Устрою такой концерт, что уйдёшь в слезах.</LotM_Companion_Cicada.talks.1.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.5.nodes.0.speech>*Цикада сияет. Буквально: когда он смеётся, воздух вокруг теплеет.*\n\nВерховный жрец солнца! Слышишь, как звучит? Теперь, если я что-нибудь благословляю, благословение и правда действует. Вчера благословил кастрюлю, и суп вышел отменный!\n\n*Он вдруг становится серьёзным.* Хотя… с тех пор как выпил зелье, мне снится человек из света. Огромный, суровый. Взгляд у него обжигает. Смотрит так, будто знает меня. Будто я ему что-то должен.</LotM_Companion_Cicada.talks.5.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.15.nodes.0.speech>*Цикада отводит тебя в сторону. Гитары при нём нет. Вместо неё — обгоревшее перо.*
+
+Я решил. Не буду ждать, пока он придёт искать меня, словно обронённую монету. И не останусь таким, каким он хотел меня видеть.
+
+Я убью Вечно Пылающее Солнце. Поглощу его свет и стану новым солнцем. Таким, которое никого не бросает.
+
+Но чтобы добраться до Солнца, сперва придётся пройти через отца.</LotM_Companion_Cicada.talks.15.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.17.nodes.4.speech>*Цикада опускает глаза.*
+
+Он прав, да? *Он говорит без злости, почти с облегчением.* Я вам никогда по-настоящему не был нужен. Нужны были мои концерты. А он хотя бы хочет, чтобы я вернулся.
+
+*Его окутывает белый свет. Когда он гаснет, глаза Цикады сияют уже не золотом, а белизной, как у отца.*
+
+Прости. Хотя нет. Хватит извиняться.</LotM_Companion_Cicada.talks.17.nodes.4.speech>
+  <LotM_Companion_Cicada.talks.21.nodes.0.speech>*Цикада сидит на земле, положив гитару на колени. Он не играет.*
+
+Кто-то другой забрал его. Свет. Я почувствовал, как он ушёл в другое место. Будто зрители встали посреди акта и покинули зал.
+
+Я ангел. Я одолел отца. И я так и не стал Солнцем. *Пауза.* Не знаю, что бывает после третьего акта, если в третьем акте всё пошло наперекосяк.</LotM_Companion_Cicada.talks.21.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.23.nodes.0.speech>*Чтобы увидеть солнце, больше не нужно смотреть на небо. Оно сидит на ящике прямо здесь, настраивает старую гитару и смотрит на тебя глазами цикады.*
+
+У меня получилось. У нас получилось. *Он смеётся, и во всём мире свет становится чуть теплее.*
+
+Теперь мне нужно кое-что решить, и я хочу решить это вместе с тобой. Бог Солнца может остаться на троне и сиять над всем миром. А может остаться здесь, в колонии, и играть по четвергам.</LotM_Companion_Cicada.talks.23.nodes.0.speech>
+  <LotM_Companion_Cicada.epithet>музыкант с головой цикады</LotM_Companion_Cicada.epithet>
+  <LotM_Companion_Cicada.label>Цикада</LotM_Companion_Cicada.label>
+  <LotM_Companion_Cicada.description>Музыкант с головой цикады, Потусторонний Солнца. Он прибывает в колонию, играя на своей гитаре, когда там есть Последовательность 8.</LotM_Companion_Cicada.description>
+  <LotM_Companion_Cicada.activity.label>провести концерт</LotM_Companion_Cicada.activity.label>
+  <LotM_Companion_Cicada.activity.description>{0} играет в течение часа. Колонисты, которые бодрствуют и находятся поблизости (14 клеток), слушают и радуются. Один раз в день.</LotM_Companion_Cicada.activity.description>
+  <LotM_Companion_Cicada.activity.reportString>проведение концерта</LotM_Companion_Cicada.activity.reportString>
+  <LotM_Companion_Cicada.activity.reason>играл для хорошей аудитории</LotM_Companion_Cicada.activity.reason>
+  <LotM_Companion_Cicada.needs.0.label>хочет комнату для сочинения</LotM_Companion_Cicada.needs.0.label>
+  <LotM_Companion_Cicada.needs.0.metReason>имеет комнату для сочинения.</LotM_Companion_Cicada.needs.0.metReason>
+  <LotM_Companion_Cicada.needs.0.unmetReason>не имеет комнаты для сочинения.</LotM_Companion_Cicada.needs.0.unmetReason>
+  <LotM_Companion_Cicada.letterLabel>музыкант в дороге</LotM_Companion_Cicada.letterLabel>
+  <LotM_Companion_Cicada.letterText>Слышится гитара с края карты. {PAWN_nameDef}, музыкант с головой цикады, подходит к колонии, играя и поет.\n\nГоворит, что почувствовал, будто здесь кто-то принял зелье, как он. Щелкните правой кнопкой мыши по нему с колонистом, чтобы поговорить с ним. Если никто не поговорит с ним в течение пары дней, он продолжит свой путь.</LotM_Companion_Cicada.letterText>
+  <LotM_Companion_Cicada.reactions.0.reason>исполнил приговор заключенному</LotM_Companion_Cicada.reactions.0.reason>
+  <LotM_Companion_Cicada.reactions.1.reason>убил гостя</LotM_Companion_Cicada.reactions.1.reason>
+  <LotM_Companion_Cicada.reactions.2.reason>казнил кого-то из колонии</LotM_Companion_Cicada.reactions.2.reason>
+  <LotM_Companion_Cicada.reactions.3.reason>ел человечину</LotM_Companion_Cicada.reactions.3.reason>
+  <LotM_Companion_Cicada.reactions.4.reason>убил человека</LotM_Companion_Cicada.reactions.4.reason>
+  <LotM_Companion_Cicada.reactions.5.reason>продал раба</LotM_Companion_Cicada.reactions.5.reason>
+  <LotM_Companion_Cicada.reactions.6.reason>дал подарок</LotM_Companion_Cicada.reactions.6.reason>
+  <LotM_Companion_Cicada.reactions.7.reason>собрал органы кого-то</LotM_Companion_Cicada.reactions.7.reason>
+  <LotM_Companion_Cicada.reactions.8.reason>поработил заключенного</LotM_Companion_Cicada.reactions.8.reason>
+  <LotM_Companion_Cicada.reactions.9.reason>помог некоторым нищим</LotM_Companion_Cicada.reactions.9.reason>
+  <LotM_Companion_Cicada.reactions.10.reason>приветствовал странника</LotM_Companion_Cicada.reactions.10.reason>
+  <LotM_Companion_Cicada.reactions.11.reason>отвёл некоторых нищих</LotM_Companion_Cicada.reactions.11.reason>
+  <LotM_Companion_Cicada.reactions.12.reason>совершил тёмный ритуал</LotM_Companion_Cicada.reactions.12.reason>
+  <LotM_Companion_Cicada.endings.0.label>солнце, которое играет по четвергам</LotM_Companion_Cicada.endings.0.label>
+  <LotM_Companion_Cicada.endings.0.text>Цикада убила Вечно Пылающее Солнце, поглотила его свет и стала новым богом Солнца. Он решил остаться в колонии. Рассветы мира приходят с музыкой, и по четвергам проходит концерт.
+
+Музыкальная постановка «Цикада, вышедшая из земли» наконец-то переходит в третий акт. Она заканчивается хорошо.</LotM_Companion_Cicada.endings.0.text>
+  <LotM_Companion_Cicada.endings.1.label>солнце на его троне</LotM_Companion_Cicada.endings.1.label>
+  <LotM_Companion_Cicada.endings.1.text>Цикада убила Вечно Пылающее Солнце, поглотила его свет и стала новым богом Солнца. Он сияет со своего трона над всем миром, как он и просил. Иногда, когда наступает рассвет с знакомой мелодией, колония знает, что это он здоровается.</LotM_Companion_Cicada.endings.1.text>
+  <LotM_Companion_Cicada.endings.2.label>ангел без солнца</LotM_Companion_Cicada.endings.2.label>
+  <LotM_Companion_Cicada.endings.2.text>Цикада стала ангелом, но никогда не стала Солнцем. Она осталась в колонии, но что-то в ней ушло: она всё ещё играет, но её концерты медленные и грустные, и она больше не сочиняет. Музыка никогда не получила третьего акта.
+
+С своим партнёром рядом грусть весит немного меньше.</LotM_Companion_Cicada.endings.2.text>
+  <LotM_Companion_Cicada.endings.3.label>сын его отца</LotM_Companion_Cicada.endings.3.label>
+  <LotM_Companion_Cicada.endings.3.text>Когда Шарак звал его, Цикада вернулся к нему. То, что сделала колония, имело больший вес, чем то, через что они пережили вместе. Его глаза больше не сияют золотом: они светятся белым, как у его отца. 
+
+Никто больше не слышал его гитару.</LotM_Companion_Cicada.endings.3.text>
+  <LotM_Companion_Cicada.endings.4.label>незаконченная песня</LotM_Companion_Cicada.endings.4.label>
+  <LotM_Companion_Cicada.endings.4.text>Цикада умерла, не закончив свою историю. Цикада, жившая семнадцать лет под землёй, вышла одной летом, на неё с неба упало ангельское сердце, и она использовала его, чтобы петь.
+
+Гитарка осталась в колонии. Иногда, летом, кажется, она играет сама по себе.</LotM_Companion_Cicada.endings.4.text>
+  <LotM_Companion_Cicada.acts.0.label>гитара на дороге</LotM_Companion_Cicada.acts.0.label>
+  <LotM_Companion_Cicada.acts.0.summary>Обычная цикада, пораженная эссенцией человечности, и теперь музыкант с головой цикады и Потусторонним Солнечным Потусторонним. Он ничего не помнит до очень долгого лета. Он прибыл в колонию, играя на гитаре и мечтая о том, чтобы исполнить величайшую музыку в мире.</LotM_Companion_Cicada.acts.0.summary>
+  <LotM_Companion_Cicada.acts.0.closings.0.text>Он узнал, что пение — это его способ отыгрыша зелья, и он пел своим путем к Жрецу Света. С этим зельем вернулись воспоминания, которые долгое время провели под землей.</LotM_Companion_Cicada.acts.0.closings.0.text>
+  <LotM_Companion_Cicada.acts.0.closings.1.text>Он продвинулся до Жреца Света. С этим зельем вернулись воспоминания, которые долгое время находились под землей.</LotM_Companion_Cicada.acts.0.closings.1.text>
+  <LotM_Companion_Cicada.acts.1.label>свет, который его создал</LotM_Companion_Cicada.acts.1.label>
+  <LotM_Companion_Cicada.acts.1.summary>Зелье Жреца Света вернуло ему память: он узнает сущность Шарака в себе, ангела Солнца, и понимает, что он родился из того, что его "отец" выбросил. Он перестает относиться к прогрессу как к игре.</LotM_Companion_Cicada.acts.1.summary>
+  <LotM_Companion_Cicada.acts.1.closings.0.text>Он вспомнил, откуда он пришел, стал наставником Правосудия и решил пойти за Солнцем. Колония сказала ему, что он сумасшедший. Он все равно пойдет.</LotM_Companion_Cicada.acts.1.closings.0.text>
+  <LotM_Companion_Cicada.acts.1.closings.1.text>Он вспомнил, откуда он пришел, и рассказал свою историю в музыкальной форме, со своим партнером во втором акте. Он стал наставником по правосудию и решил пойти за Вечно Пылающим Солнцем, в компании.</LotM_Companion_Cicada.acts.1.closings.1.text>
+  <LotM_Companion_Cicada.acts.1.closings.2.text>Он вспомнил, откуда он пришел, стал наставником по правосудию и решил пойти за Вечно Пылающим Солнцем. Чтобы туда добраться, ему сначала нужно пройти через своего отца.</LotM_Companion_Cicada.acts.1.closings.2.text>
+  <LotM_Companion_Cicada.acts.2.label>новое солнце</LotM_Companion_Cicada.acts.2.label>
+  <LotM_Companion_Cicada.acts.2.summary>Цикада ставит себе нечто огромное: убить Вечно Пылающее Солнце и стать новым богом Солнца. Его отец стоит на пути.</LotM_Companion_Cicada.acts.2.summary>
+  <LotM_Companion_Cicada.quests.0.label>его первый концерт</LotM_Companion_Cicada.quests.0.label>
+  <LotM_Companion_Cicada.quests.0.description>Цикада хочет играть для колонии. Нажми кнопку "Провести концерт" на нем и соберите как минимум 3 колонистов поблизости, пока он играет (это длится час).</LotM_Companion_Cicada.quests.0.description>
+  <LotM_Companion_Cicada.quests.1.label>Солнечный Верховный Жрец</LotM_Companion_Cicada.quests.1.label>
+  <LotM_Companion_Cicada.quests.1.description>Цикада хочет продвинуться по Последовательности Солнца 7: Солнечный Верховный Жрец. Получить формулу и ингредиенты, сварить зелье и отдать его ему.</LotM_Companion_Cicada.quests.1.description>
+  <LotM_Companion_Cicada.quests.2.label>Нотариус</LotM_Companion_Cicada.quests.2.label>
+  <LotM_Companion_Cicada.quests.2.description>Цикада хочет продвинуться по Последовательности Солнца 6: Нотариус. Получить формулу и ингредиенты, сварить зелье и отдать его ему.</LotM_Companion_Cicada.quests.2.description>
+  <LotM_Companion_Cicada.quests.3.label>Жрец Света</LotM_Companion_Cicada.quests.3.label>
+  <LotM_Companion_Cicada.quests.3.description>Цикада хочет продвинуться по Последовательности Солнца 5: Жрец Света. Что-то подсказывает ему, что это зелье вернет воспоминания, которые долгое время провели под землей.</LotM_Companion_Cicada.quests.3.description>
+  <LotM_Companion_Cicada.quests.4.label>костюм мюзикла</LotM_Companion_Cicada.quests.4.label>
+  <LotM_Companion_Cicada.quests.4.description>Цикада хочет премьеры своей музыки в костюме. Ему нужна ткань, чтобы сшить её (дайте ему, кликнув правой кнопкой мыши: "Дать ему что-нибудь"), а затем премьера с хорошей публикой.</LotM_Companion_Cicada.quests.4.description>
+  <LotM_Companion_Cicada.quests.4.steps.0.label>Дать {0} 30 ткани</LotM_Companion_Cicada.quests.4.steps.0.label>
+  <LotM_Companion_Cicada.quests.4.steps.1.label>Представь музыкальное произведение с участием как минимум 5 колонистов.</LotM_Companion_Cicada.quests.4.steps.1.label>
+  <LotM_Companion_Cicada.quests.4.doneText>{0} кланяется так долго, что чуть не падает. "Открывающий вечер в костюме! Теперь я действительно выгляжу настоящим артистом. Ну, настоящим артистом с головой цикады."</LotM_Companion_Cicada.quests.4.doneText>
+  <LotM_Companion_Cicada.quests.4.failText>{0} убрал наброски костюмов в ящик. «В другой раз», — говорит он, и в его голосе нет убежденности.</LotM_Companion_Cicada.quests.4.failText>
+  <LotM_Companion_Cicada.quests.5.label>работа моей жизни</LotM_Companion_Cicada.quests.5.label>
+  <LotM_Companion_Cicada.quests.5.description>Цикада больше не хочет величайшей музыки в мире: он хочет рассказать свою историю. Ему нужно пару тихих дней, чтобы сочинить, золото для новых струн и реквизит в виде солнца, а затем премьера с большой аудиторией.</LotM_Companion_Cicada.quests.5.description>
+  <LotM_Companion_Cicada.quests.5.steps.0.label>Позволить {0} сочинять в течение двух дней</LotM_Companion_Cicada.quests.5.steps.0.label>
+  <LotM_Companion_Cicada.quests.5.steps.1.label>Дать {0} 15 золота (новые нити и реквизит солнца).</LotM_Companion_Cicada.quests.5.steps.1.label>
+  <LotM_Companion_Cicada.quests.5.steps.2.label>Премьера «Цикада, вышедшая из земли» с участием как минимум 6 колонистов.</LotM_Companion_Cicada.quests.5.steps.2.label>
+  <LotM_Companion_Cicada.quests.5.doneText>Когда последняя песня заканчивается, никто не аплодирует сразу. Затем они аплодируют, много. {0} долго смотрит на макет солнца. "Это первый раз, когда я спел что-то совершенно правдивое", говорит он.</LotM_Companion_Cicada.quests.5.doneText>
+  <LotM_Companion_Cicada.quests.5.failText>{0} положил счет "Цикада, вышедший из земли" под свою кровать. "Может, не время говорить", говорит он, не глядя ни на кого.</LotM_Companion_Cicada.quests.5.failText>
+  <LotM_Companion_Cicada.quests.6.label>Охотники за солнцем</LotM_Companion_Cicada.quests.6.label>
+  <LotM_Companion_Cicada.quests.6.description>Потусторонние Солнца пришли в колонию в поисках «насекомого, которое поёт». Победите их, прежде чем они заберут его.</LotM_Companion_Cicada.quests.6.description>
+  <LotM_Companion_Cicada.quests.6.steps.0.label>Победить 3 охотника за солнцем</LotM_Companion_Cicada.quests.6.steps.0.label>
+  <LotM_Companion_Cicada.quests.6.doneText>Среди вещей охотников есть письмо, запечатанное крылатым солнцем. Одна строка, почерком, который обжигает бумагу: «Принеси мне то, что моё». Подписано Шараком. {0} читает его три раза, а затем убирает.</LotM_Companion_Cicada.quests.6.doneText>
+  <LotM_Companion_Cicada.quests.6.failText>Охотники ушли. {0} продолжает смотреть на дорогу, по которой они ушли. "Они вернутся", говорит он. "Или тот, кто их послал, придет".</LotM_Companion_Cicada.quests.6.failText>
+  <LotM_Companion_Cicada.quests.7.label>Без тени</LotM_Companion_Cicada.quests.7.label>
+  <LotM_Companion_Cicada.quests.7.description>Цикада хочет продвинуться к Солнечной Последовательности 4: Незатененный. Это полубог. Получи формулу и ингредиенты, сделай зелье и дай ему.</LotM_Companion_Cicada.quests.7.description>
+  <LotM_Companion_Cicada.quests.7.doneText>{0} больше не отбрасывает тени. Он говорит, что в первую ночь, в отражении света, идущего теперь от его тела, он увидел другое лицо, смотрящее на него. Лицо, похожее на его собственное, если бы оно было мужским и сделанным из огня.</LotM_Companion_Cicada.quests.7.doneText>
+  <LotM_Companion_Cicada.quests.8.label>Наставник правосудия</LotM_Companion_Cicada.quests.8.label>
+  <LotM_Companion_Cicada.quests.8.description>Цикада хочет продвинуться к Солнечной Последовательности 3: Наставник Справедливости. Получи формулу и ингредиенты, сделай зелье и дай ему.</LotM_Companion_Cicada.quests.8.description>
+  <LotM_Companion_Cicada.quests.9.label>Что моё</LotM_Companion_Cicada.quests.9.label>
+  <LotM_Companion_Cicada.quests.9.description>Шарак, ангел Солнца и "отец" Цикады, знает, где он находится. Он идет за тем, что он выбросил. Приготовь колонию.</LotM_Companion_Cicada.quests.9.description>
+  <LotM_Companion_Cicada.quests.9.steps.0.label>Приготовься: Шарак знает, где {0}</LotM_Companion_Cicada.quests.9.steps.0.label>
+  <LotM_Companion_Cicada.quests.9.steps.1.label>Лицо Шарак</LotM_Companion_Cicada.quests.9.steps.1.label>
+  <LotM_Companion_Cicada.quests.9.steps.2.label>Победить Шарак</LotM_Companion_Cicada.quests.9.steps.2.label>
+  <LotM_Companion_Cicada.quests.10.label>Что осталось от него</LotM_Companion_Cicada.quests.10.label>
+  <LotM_Companion_Cicada.quests.10.description>Цикада хочет продвинуться к Последовательности Солнца 2: Искатель Света, ангел. Характеристика его отца сделает это (если Шарак упал, он оставил это позади). Приготовь зелье и дай ему.</LotM_Companion_Cicada.quests.10.description>
+  <LotM_Companion_Cicada.quests.10.doneText>{0} — ангел. Над его цикадаими крыльями растут новые крылья света. Впервые, когда он поет, свет не слушает его: он подчиняется ему.</LotM_Companion_Cicada.quests.10.doneText>
+  <LotM_Companion_Cicada.quests.11.label>новое солнце</LotM_Companion_Cicada.quests.11.label>
+  <LotM_Companion_Cicada.quests.11.description>Цикада идет к Вечно Пылающему Солнцу. Его эссенция родилась от ангела Солнца, поэтому он может есть осколки павшего бога как ангел, не проходя Последовательность 1: с первой он становится Белым Ангелом. После этого апофеоз на алтаре Солнечного Святилища.</LotM_Companion_Cicada.quests.11.description>
+  <LotM_Companion_Cicada.quests.11.steps.0.label>Победить Вечно Пылающее Солнце в его Святилище.</LotM_Companion_Cicada.quests.11.steps.0.label>
+  <LotM_Companion_Cicada.quests.11.steps.1.label>Пусть {0} съест 3 характеристики Белого Ангела и Уникальность Солнца, прежде чем бог вернется</LotM_Companion_Cicada.quests.11.steps.1.label>
+  <LotM_Companion_Cicada.quests.11.steps.2.label>Пусть {0} совершит апофеоз на алтаре Солнечного Святилища.</LotM_Companion_Cicada.quests.11.steps.2.label>
+  <LotM_Companion_Cicada.talks.0.nodes.0.speech>*Прежде чем он, приходит радостная мелодия. Затем появляется: худощавый мужчина с головой цикады, огромными блестящими глазами и поношенной гитарой, висящей на плече. Он делает такой преувеличенный поклон, что чуть не падает.*\n\nПриветствую, приветствую, любимая публика! Меня зовут Цикада. Играю, пою, танцую немного и фальшивлю с огромным стилем.\n\nПо дороге я почувствовал, что здесь кто-то принял зелье, как я. Это видно в воздухе, понимаешь? Как звучащая нота. Позволите остаться? Обещаю не петь среди ночи. Ну... почти никогда.</LotM_Companion_Cicada.talks.0.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.0.nodes.0.options.0.label>Кто ты? И что это за голова?</LotM_Companion_Cicada.talks.0.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.0.nodes.0.options.1.label>Сначала сыграй что-нибудь. Посмотрим, стоит ли это.</LotM_Companion_Cicada.talks.0.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.0.nodes.0.options.2.label>Поприветствуй его молитвой за рассвет.</LotM_Companion_Cicada.talks.0.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.0.nodes.0.options.3.label>Украсть его кирку, пока он говорит.</LotM_Companion_Cicada.talks.0.nodes.0.options.3.label>
+  <LotM_Companion_Cicada.talks.0.nodes.0.options.4.label>Скажи ему, что в его будущем огромная сцена.</LotM_Companion_Cicada.talks.0.nodes.0.options.4.label>
+  <LotM_Companion_Cicada.talks.0.nodes.0.options.5.label>Попроси у него боевую песню.</LotM_Companion_Cicada.talks.0.nodes.0.options.5.label>
+  <LotM_Companion_Cicada.talks.0.nodes.0.options.6.label>Попроси у него колыбельную.</LotM_Companion_Cicada.talks.0.nodes.0.options.6.label>
+  <LotM_Companion_Cicada.talks.0.nodes.0.options.7.label>Предложи ему защиту в обмен на его душу. Шуточно… или нет.</LotM_Companion_Cicada.talks.0.nodes.0.options.7.label>
+  <LotM_Companion_Cicada.talks.0.nodes.0.options.8.label>Предложи ему короткий путь на любую сцену в мире.</LotM_Companion_Cicada.talks.0.nodes.0.options.8.label>
+  <LotM_Companion_Cicada.talks.0.nodes.0.options.9.label>Обрати внимание, что его сущность не совсем человеческая.</LotM_Companion_Cicada.talks.0.nodes.0.options.9.label>
+  <LotM_Companion_Cicada.talks.0.nodes.0.options.10.label>Останься. Нам нужна музыка.</LotM_Companion_Cicada.talks.0.nodes.0.options.10.label>
+  <LotM_Companion_Cicada.talks.0.nodes.0.options.11.label>Здесь для тебя нет места.</LotM_Companion_Cicada.talks.0.nodes.0.options.11.label>
+  <LotM_Companion_Cicada.talks.0.nodes.1.speech>Кто я? Постоянно гастролирующий артист! *Касается антенны.* Это? Я всегда был таким... думаю. Я не помню многого до очень долгого лета. Я проснулся, поющий, голодным к сцене и гитаре, откуда я её взял.\n\nЗатем пришло зелье: сначала Бард, теперь Проситель Света. Пение и свет слушают меня. Это как иметь лучшую публику в мире!</LotM_Companion_Cicada.talks.0.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.0.nodes.2.speech>*Расгеа нажимает пару аккордов и начинает играть запоминающуюся песню о солнце, которое не хотело заходить, потому что ему нравилось зрелище. В припеве ноты превращаются в искры света, которые поднимаются и гаснут в воздухе.*\n\nСпасибо, спасибо! Держите аплодисменты до конца второго акта.</LotM_Companion_Cicada.talks.0.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.0.nodes.3.speech>*Антенны внезапно встают.* Брат света! Ты знаешь всю молитву!\n\n*Поешь последнюю строфу с тобой, сильно фальшивя.*\n\nОн решил: я остаюсь. Мы будем петь ему вместе с каждым рассветом. Ну, с рассветами, когда я проснусь.</LotM_Companion_Cicada.talks.0.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.0.nodes.3.effects.memory>Его приветствовали с молитвой за рассвет, как брата света.</LotM_Companion_Cicada.talks.0.nodes.3.effects.memory>
+  <LotM_Companion_Cicada.talks.0.nodes.4.speech>*Сигара продолжает говорить… пока не смотрит на пустую руку.* А мой наконечник? Верни это, вор с талантом!\n\n*Смеётся так же, смехом, похожим на летний писк.* Ну, по крайней мере, здесь я не заскучаю.</LotM_Companion_Cicada.talks.0.nodes.4.speech>
+  <LotM_Companion_Cicada.talks.0.nodes.4.effects.memory>Его нож украли, пока он разговаривал. Он до сих пор не знает, кто это сделал.</LotM_Companion_Cicada.talks.0.nodes.4.effects.memory>
+  <LotM_Companion_Cicada.talks.0.nodes.5.speech>¿Огромная сцена? Серьезно? Не говори мне этого, а то я поверю и потом не буду спать!\n\n*Оборачивается.* Мне ты понравился. Провидцы всегда знают, что сказать.</LotM_Companion_Cicada.talks.0.nodes.5.speech>
+  <LotM_Companion_Cicada.talks.0.nodes.6.speech>¿Песня войны? *Ударяет по корпусу гитары, как по барабану, и поет что-то о гиганте, споткнувшемся с закатом.*\n\nНе знаю, поможет ли это в битве, но, должно быть, враг так смеется, что не может целиться.</LotM_Companion_Cicada.talks.0.nodes.6.speech>
+  <LotM_Companion_Cicada.talks.0.nodes.7.speech>¿Песенка колыбельная? *Голос становится мягким, почти жужжанием.*\n\n*В середине песни зеваком оказывается он.* Прости. Ночь не моя. Я больше люблю полдень.</LotM_Companion_Cicada.talks.0.nodes.7.speech>
+  <LotM_Companion_Cicada.talks.0.nodes.8.speech>*Делает шаг назад.* Эх… нет, спасибо. Моя душа — единственное, что у меня есть помимо гитары, а гитара я даже не знаю, моя ли она.\n\n*Улыбается, нервно.* Твой парфюм имеет… интенсивную вибрацию.</LotM_Companion_Cicada.talks.0.nodes.8.speech>
+  <LotM_Companion_Cicada.talks.0.nodes.8.effects.memory>Ему предложили защиту в обмен на душу. Он не нашел этого смешным.</LotM_Companion_Cicada.talks.0.nodes.8.effects.memory>
+  <LotM_Companion_Cicada.talks.0.nodes.9.speech>Любой сценарий мира? Сегодня театр столицы, а завтра площадь у моря? *Его глаза блестят. Сотни.*\n\nE это самое романтичное, что они мне сказали за недели.</LotM_Companion_Cicada.talks.0.nodes.9.speech>
+  <LotM_Companion_Cicada.talks.0.nodes.10.speech>*Перестаньте нажимать резко.* Не совсем человек? Ха... да. Мне это часто говорят. По внешности, полагаю.\n\n*Улыбается, но его антенны дрожат.* Иногда я вижу сон, что прикреплён к коре дерева, неподвижный, годами. Странно, не правда ли? Сменим тему. Глубокие вопросы вызывают у меня зимнюю сонливость.</LotM_Companion_Cicada.talks.0.nodes.10.speech>
+  <LotM_Companion_Cicada.talks.0.nodes.10.effects.memory>Кто-то заметил, что его сущность не совсем человеческая.</LotM_Companion_Cicada.talks.0.nodes.10.effects.memory>
+  <LotM_Companion_Cicada.talks.0.nodes.11.speech>Да! Фиксированная публика! *Обнимает гитару.*\n\n Подготавливайте уши: в этой колонии будет лучшая саундтрек в мире. А если кому нужна серенада, берут дёшево. Красивым — бесплатно.</LotM_Companion_Cicada.talks.0.nodes.11.speech>
+  <LotM_Companion_Cicada.talks.0.nodes.12.speech>Ах. *Медленно опускает гитару.* Хорошо, хорошо. Не всякая публика — моя публика.\n\n*Оборачивается и уходит, напевая что-то гораздо более грустное, чем то, что играл при приходе.*</LotM_Companion_Cicada.talks.0.nodes.12.speech>
+  <LotM_Companion_Cicada.talks.1.nodes.0.options.0.label>Я никогда такого не видел. Что это такое?</LotM_Companion_Cicada.talks.1.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.1.nodes.0.options.1.label>Мюзиклы нелепы.</LotM_Companion_Cicada.talks.1.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.1.nodes.0.options.1.effects.memory>Ему сказали, что мюзиклы нелепые.</LotM_Companion_Cicada.talks.1.nodes.0.options.1.effects.memory>
+  <LotM_Companion_Cicada.talks.1.nodes.0.options.2.label>Церковные гимны — это тоже музыка, если подумать.</LotM_Companion_Cicada.talks.1.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.1.nodes.0.options.3.label>А что, если ты поставишь один здесь?</LotM_Companion_Cicada.talks.1.nodes.0.options.3.label>
+  <LotM_Companion_Cicada.talks.1.nodes.1.speech>Это как жизнь, только с лучшим освещением! *Вскакивает.*\n\n Я знаю, чего хочу: мой первый мюзикл здесь, в колонии. Что-то маленькое для начала. Концерт, с настоящей публикой.</LotM_Companion_Cicada.talks.1.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.1.nodes.3.speech>*Он задумался.* … Ты прав! Вечно Пылающее Солнце — величайший продюсер музыкальных представлений в истории!\n\nAда, не говори церкви, что я это сказал.</LotM_Companion_Cicada.talks.1.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.1.nodes.4.speech>Мне нужна аудитория: как минимум три человека, которые останутся и будут слушать от начала до конца. Скажите мне, когда они будут готовы, и я сыграю. Весь час. С антрактом.</LotM_Companion_Cicada.talks.1.nodes.4.speech>
+  <LotM_Companion_Cicada.talks.2.nodes.0.speech>*Его руки всё ещё дрожат.* Вы видели их лица? Вы видели? Вот это! Это то, что меня питает!\n\nY есть что-то ещё: пока он трогал, я почувствовал, как зелье всасывается внутрь меня. Как будто аплодисменты помогли ему осесть. Странно ли, что свет лучше слышит меня, когда есть люди?</LotM_Companion_Cicada.talks.2.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.2.nodes.0.options.0.label>Ты был невероятен.</LotM_Companion_Cicada.talks.2.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.2.nodes.0.options.1.label>Это была катастрофа. Но прекрасная катастрофа.</LotM_Companion_Cicada.talks.2.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.2.nodes.0.options.2.label>Вот как действует Проситель: свет отвечает разделенной преданностью.</LotM_Companion_Cicada.talks.2.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.2.nodes.0.options.2.effects.memory>Ему научили методу отыгрыша: пение — это его способ жить зельем.</LotM_Companion_Cicada.talks.2.nodes.0.options.2.effects.memory>
+  <LotM_Companion_Cicada.talks.2.nodes.0.options.3.label>Объясни ему метод отыгрыша: живи именем зелья.</LotM_Companion_Cicada.talks.2.nodes.0.options.3.label>
+  <LotM_Companion_Cicada.talks.2.nodes.0.options.3.effects.memory>Ему научили методу отыгрыша: пение — это его способ жить зельем.</LotM_Companion_Cicada.talks.2.nodes.0.options.3.effects.memory>
+  <LotM_Companion_Cicada.talks.2.nodes.1.speech>*Он трижды кланяется подряд.* Знаю. Но скажи мне снова завтра, на всякий случай.</LotM_Companion_Cicada.talks.2.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.2.nodes.2.speech>Прекрасные катастрофы — моя специальность. Это название моего следующего шоу!</LotM_Companion_Cicada.talks.2.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.2.nodes.3.speech>Играть? Быть тем, что говорит название зелья? *Его глаза загораются.*\n\nO пусть пение будет… моей работой! Буквально! Ты только что дал мне лучшую новость в моей жизни.</LotM_Companion_Cicada.talks.2.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.3.nodes.0.speech>*Пол Цикады покрыт рисунками: блестящие костюмы, плащи, крылатая вещь, которая может быть шляпой.*
+
+I знают, чего не хватает моей музыке! Костюмы. Художник без костюма — это просто парень, поющий в коридоре. Мне нужна ткань, много ткани. А затем… премьера.</LotM_Companion_Cicada.talks.3.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.3.nodes.0.options.0.label>Мы достанем тебе ткань.</LotM_Companion_Cicada.talks.3.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.3.nodes.0.options.1.label>Сквины? Серьёзно?</LotM_Companion_Cicada.talks.3.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.3.nodes.0.options.2.label>Предложишь сшить сам.</LotM_Companion_Cicada.talks.3.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.3.nodes.0.options.2.effects.memory>Кто-то из колонии предложил сшить ему костюм.</LotM_Companion_Cicada.talks.3.nodes.0.options.2.effects.memory>
+  <LotM_Companion_Cicada.talks.3.nodes.0.options.3.label>Твой партнер просит быть гостем.</LotM_Companion_Cicada.talks.3.nodes.0.options.3.label>
+  <LotM_Companion_Cicada.talks.3.nodes.0.options.3.effects.memory>Его партнер просил спеть с ним в премьерный вечер.</LotM_Companion_Cicada.talks.3.nodes.0.options.3.effects.memory>
+  <LotM_Companion_Cicada.talks.3.nodes.1.speech>Я знал, что могу на тебя рассчитывать! Тридцать тканей, более или менее. Ну, ровно тридцать. Я художник, а не портной.</LotM_Companion_Cicada.talks.3.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.3.nodes.2.speech>Он кладет руку на грудь, обиженный. Жемчуг — это способ света аплодировать. Но ладно, начнем с ткани.</LotM_Companion_Cicada.talks.3.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.3.nodes.3.speech>*Его усики встают прямо вверх.* Ты можешь шить? Правда? Тогда этот костюм станет произведением искусства. Принеси мне ткань, и я позволю тебе выбрать цвет плаща.</LotM_Companion_Cicada.talks.3.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.3.nodes.4.speech>*Он замолкает на секунду, чего никогда не происходит.* Дуэт? В премьерный вечер? *Его крылья сами собой жужжат.* Да. Да, да, да. Сначала ткань, потом мы репетируем. Много.</LotM_Companion_Cicada.talks.3.nodes.4.speech>
+  <LotM_Companion_Cicada.talks.4.nodes.0.speech>*Сигарра подходит без гитары, очень странно.*\n\nЯ чувствую тишину. Зелье. Оно больше не толкает, больше не жужжит. Оно усвоено.\n\nЗнаешь, что будет дальше? Солнечный Жрец. *Говорит медленно, наслаждаясь каждым словом.* Мне нужна формула и ингредиенты. И кто-то, кто позаботится обо мне, пока я его пью, потому что я не хочу потерять контроль посреди гитарного соло.</LotM_Companion_Cicada.talks.4.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.4.nodes.0.options.0.label>Мы поможем тебе это получить.</LotM_Companion_Cicada.talks.4.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.4.nodes.0.options.1.label>Ты не торопишься? Это опасно.</LotM_Companion_Cicada.talks.4.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.4.nodes.0.options.2.label>Скажи ему, что ты знаешь об этом зелье и как оно ощущается.</LotM_Companion_Cicada.talks.4.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.4.nodes.0.options.3.label>Мы не можем сейчас.</LotM_Companion_Cicada.talks.4.nodes.0.options.3.label>
+  <LotM_Companion_Cicada.talks.4.nodes.1.speech>Я знал, что могу на тебя рассчитывать! Клянусь, первая гимн, который я спою как священник, будет о этой колонии. С хором и всем таким.</LotM_Companion_Cicada.talks.4.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.4.nodes.2.speech>Опасно стоять на месте. *Смотрит в небо.*\n\nНе знаю почему, но чувствую, что у меня мало времени. Лето заканчивается. Нужно сиять, пока светит солнце.</LotM_Companion_Cicada.talks.4.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.4.nodes.3.speech>Он слушает без перебивания, чего никогда не делает.\n\n… Спасибо. Правда. Я сделаю это спокойно. Ну, со всей возможной спокойной.</LotM_Companion_Cicada.talks.4.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.4.nodes.4.speech>О. *Его усики поникли.* Я понимаю. Я всё равно буду искать его, медленно. Но я бы хотел сделать это с тобой.</LotM_Companion_Cicada.talks.4.nodes.4.speech>
+  <LotM_Companion_Cicada.talks.5.nodes.0.options.0.label>Ты его узнаешь?</LotM_Companion_Cicada.talks.5.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.5.nodes.0.options.1.label>Это должен быть ангел Церкви Солнца.</LotM_Companion_Cicada.talks.5.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.5.nodes.0.options.2.label>Предложи интерпретировать сон.</LotM_Companion_Cicada.talks.5.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.5.nodes.0.options.3.label>Это сны. Не придавай им никакого веса.</LotM_Companion_Cicada.talks.5.nodes.0.options.3.label>
+  <LotM_Companion_Cicada.talks.5.nodes.1.speech>Нет. И да. *Чешет голову.*\n\nEКак когда слушаешь песню, которую не знаешь, но знаешь, как она продолжается. Мне это не нравится. Я предпочитаю новые песни.</LotM_Companion_Cicada.talks.5.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.5.nodes.2.speech>Ангел? Смотрит на меня? *Смеется, нервничая.*\n\n Если так, надеюсь, ему понравится музыка. Потому что если он придёт за мной, я посвящу ему песню. Пока не знаю, это любовь или прощание.</LotM_Companion_Cicada.talks.5.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.5.nodes.3.speech>*Он рассказывает всю мечту, пока интерпретирует её.*\n\n… Отец? У меня есть отец? *Он молчит долго.* Я никогда об этом не думал. Я всегда чувствовал, что вышел с земли в один летний день, уже взрослым.\n\nСпасибо. Думаю.</LotM_Companion_Cicada.talks.5.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.5.nodes.4.speech>Ты прав. *В его голосе нет убежденности.* Это сны. Сны, как репетиции: они не имеют значения.</LotM_Companion_Cicada.talks.5.nodes.4.speech>
+  <LotM_Companion_Cicada.talks.6.nodes.0.speech>Нотариус. *Говорит как судья.* «Я свидетельствую, что это лучшая песня колонии». Мне нравится!\n\nЯ хочу быть нотариусом. Чтобы то, что я говорю, было подписано перед светом. Представьте: песня-контракт. Никто не посмеет его нарушить.</LotM_Companion_Cicada.talks.6.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.6.nodes.0.options.0.label>Пойдём за ним.</LotM_Companion_Cicada.talks.6.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.6.nodes.0.options.1.label>Расскажи ему, каково быть нотариусом.</LotM_Companion_Cicada.talks.6.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.6.nodes.1.speech>*Он чертит в воздухе пальцем, торжественно.* Это написано. И напето.</LotM_Companion_Cicada.talks.6.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.7.nodes.0.speech>Священник Света. *Говорит тихо, без гитары.*\n\nНе знаю почему, но это зелье пугает меня. Я чувствую, что когда я его выпью, я вспомню что-то. Что-то, что ждало под землей очень, очень долго.</LotM_Companion_Cicada.talks.7.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.7.nodes.0.options.0.label>Мы будем с тобой, когда это произойдет.</LotM_Companion_Cicada.talks.7.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.7.nodes.0.options.1.label>Если ты боишься, подожди немного.</LotM_Companion_Cicada.talks.7.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.7.nodes.1.speech>*Он медленно кивает.* Тогда я выпью. И если я вспомню что-то уродливое… я преобразую это в песню. Это то, что я делаю лучше всего.</LotM_Companion_Cicada.talks.7.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.7.nodes.2.speech>Жду… цикады умеют ждать. *Из него вырывается странный смех.* Не знаю, почему я это сказал. Я все еще хочу попробовать. Когда буду готов.</LotM_Companion_Cicada.talks.7.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.8.nodes.0.speech>*Цикада сидит в грязи, руки зарыты до запястий. Гитара брошена в сторону.*
+
+I помню. Всё это. Семнадцать лет под землей, высасывая сок из корня, во тьме. Не думая ни о чём. Я, думаю, был счастлив. Цикады не знают, счастливы ли они.
+
+Затем я взобрался на дерево, однажды летом. И небо раскололось. Две огни боролись наверху, и один из них вырвал что-то из себя и выбросил. То, что он выбросил, упало на меня.
+
+*Он поднимает голову.* Это была его человечность. Шарак. Ангел Солнца, который хотел быть более светом и менее человеком, поэтому он вырезал то, что ему не нужно. Я то, что ему не нужно.
+
+Мой отец меня не создал. Он выбросил меня.</LotM_Companion_Cicada.talks.8.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.8.nodes.0.options.0.label>У вас всё в порядке?</LotM_Companion_Cicada.talks.8.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.8.nodes.0.options.1.label>Я заметил с самого начала: твоя сущность не совсем человеческая.</LotM_Companion_Cicada.talks.8.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.8.nodes.0.options.2.label>Сон, который я истолковал для тебя, был о таком.</LotM_Companion_Cicada.talks.8.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.8.nodes.0.options.3.label>Шарак — ангел Церкви Солнца. Люди молятся его имени.</LotM_Companion_Cicada.talks.8.nodes.0.options.3.label>
+  <LotM_Companion_Cicada.talks.8.nodes.0.options.4.label>То, что они выбросили, теперь твоё. Ты — ты.</LotM_Companion_Cicada.talks.8.nodes.0.options.4.label>
+  <LotM_Companion_Cicada.talks.8.nodes.0.options.4.effects.memory>Ему сказали, что то, что его отец выбросил, теперь его, и что он сам.</LotM_Companion_Cicada.talks.8.nodes.0.options.4.effects.memory>
+  <LotM_Companion_Cicada.talks.8.nodes.0.options.5.label>Так ты ошибка ангела.</LotM_Companion_Cicada.talks.8.nodes.0.options.5.label>
+  <LotM_Companion_Cicada.talks.8.nodes.0.options.5.effects.memory>Ему сказали, что он ошибка ангела.</LotM_Companion_Cicada.talks.8.nodes.0.options.5.effects.memory>
+  <LotM_Companion_Cicada.talks.8.nodes.1.speech>Я не знаю. *Смотрит на свои грязные руки.* Я провожу свою жизнь, пою о солнце, а оказывается, солнце оставило меня в грязи. Это почти смешно. Почти.</LotM_Companion_Cicada.talks.8.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.8.nodes.2.speech>*Он долго смотрит на тебя своими сотнями глаз.* И ты мне не сказал? *Он вздыхает.* Нет, ты прав. Я не был готов. Я бы написал тебе глубоко оскорбительную песню.</LotM_Companion_Cicada.talks.8.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.8.nodes.3.speech>Отец. Ты сказал мне, что у меня есть отец, и я думал, это метафора. *Он смеется без веселья.* Предсказатели никогда не говорят метафорами, правда? Они говорят вещи сбоку, чтобы потом причинить боль.</LotM_Companion_Cicada.talks.8.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.8.nodes.4.speech>Люди молятся? Ему? *Его усики вздрагивают.* Люди молятся тому, кто бросает частицы себя на землю. А я пел гимны. Я пел гимны из его церкви, всем сердцем.
+
+Что ж. Теперь я знаю, кто не придёт на мои открытые ночи.</LotM_Companion_Cicada.talks.8.nodes.4.speech>
+  <LotM_Companion_Cicada.talks.8.nodes.5.speech>*Он замирает. Затем вынимает руки из грязи и вытирает их на брюках, медленно.*
+
+Мои. *Он говорит это так, будто пробует новое слово.* Цикада с чужой человечностью, которая теперь его. Звучит как первая акта чего-то. Спасибо.</LotM_Companion_Cicada.talks.8.nodes.5.speech>
+  <LotM_Companion_Cicada.talks.8.nodes.6.speech>*Его крылья прижимаются к телу.* Да. Может быть. *Берёт гитару и встаёт.* Ошибки тоже издают звуки, понимаешь? Иногда это лучшая нота в песне. Но спасибо за напоминание.</LotM_Companion_Cicada.talks.8.nodes.6.speech>
+  <LotM_Companion_Cicada.talks.8.nodes.7.speech>*Долго смотрит на небо.* Впервые с тех пор, как я помню, я не чувствую желания петь. Это пройдет. Думаю. Цикады всегда снова поют летом.</LotM_Companion_Cicada.talks.8.nodes.7.speech>
+  <LotM_Companion_Cicada.talks.9.nodes.0.speech>*Цикада ждет тебя, скрестив руки.*
+
+С тех пор как зелье, я вижу вещи такими, какими они были. Я их не угадываю: я вижу их, как будто свет вспомнил. И я вспомнил день своего прибытия. Кто-то забрал мой выбор, пока я разговаривал.
+
+Это был кто-то отсюда. Кто?</LotM_Companion_Cicada.talks.9.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.9.nodes.0.options.0.label>Это я. Извини.</LotM_Companion_Cicada.talks.9.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.9.nodes.0.options.0.effects.memory>Ему сказали, кто украл его кирку.</LotM_Companion_Cicada.talks.9.nodes.0.options.0.effects.memory>
+  <LotM_Companion_Cicada.talks.9.nodes.0.options.1.label>Нет понятия.</LotM_Companion_Cicada.talks.9.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.9.nodes.0.options.1.effects.memory>Ему солгали о кирке, и свет показал ему.</LotM_Companion_Cicada.talks.9.nodes.0.options.1.effects.memory>
+  <LotM_Companion_Cicada.talks.9.nodes.0.options.2.label>Верни ее с помощью трюка: заставь, чтобы она появилась в его руке.</LotM_Companion_Cicada.talks.9.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.9.nodes.0.options.2.effects.memory>Его нож вернули с помощью трюка, и он рассмеялся, как раньше.</LotM_Companion_Cicada.talks.9.nodes.0.options.2.effects.memory>
+  <LotM_Companion_Cicada.talks.9.nodes.1.speech>*Он смотрит на тебя мгновение. Затем смеется, этот летний цикадовый смех.* Я знал! Ну, я не знал, я видел. Но я рад, что ты мне сказал. Держи. Украденная пик — это памятный предмет. Возвращенная — просто пик.</LotM_Companion_Cicada.talks.9.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.9.nodes.2.speech>Свет вокруг него мерцает, как когда кто-то поет не в такт. Ах. *Он отворачивается от тебя.* Ну. Теперь я это тоже знаю.</LotM_Companion_Cicada.talks.9.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.9.nodes.3.speech>*Он открывает руку, и там медиатор. Он смотрит на него, затем на тебя, и издает смех, который пугает птицу с ветки.* Талантливый вор! Я сказал это в первый день! Ты сделал мою неделю. Мой месяц.</LotM_Companion_Cicada.talks.9.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.10.nodes.0.speech>*Цикада снова играет. Медленнее, чем раньше, и песня, которую вы от него не слышали.*
+
+I больше не хотят величайшей музыки в мире. Я хочу настоящую. Мою. Цикаду, которая живет семнадцать лет под землей, поднимается на дерево, и сердце ангела падает на нее с неба. Первая акта: земля. Вторая акта: свет. Я еще не знаю третьей.
+
+Ее назовут «Цикада, вышедшая из земли». Поможешь мне?</LotM_Companion_Cicada.talks.10.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.10.nodes.0.options.0.label>Положитесь на нас.</LotM_Companion_Cicada.talks.10.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.10.nodes.0.options.1.label>Используй костюм из первой премьеры.</LotM_Companion_Cicada.talks.10.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.10.nodes.0.options.2.label>Есть ли место для меня в этой истории?</LotM_Companion_Cicada.talks.10.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.10.nodes.0.options.2.effects.memory>Его партнер просил места в истории его жизни.</LotM_Companion_Cicada.talks.10.nodes.0.options.2.effects.memory>
+  <LotM_Companion_Cicada.talks.10.nodes.0.options.3.label>Музыкальные шоу все еще нелепы. Но я буду там.</LotM_Companion_Cicada.talks.10.nodes.0.options.3.label>
+  <LotM_Companion_Cicada.talks.10.nodes.0.options.3.effects.memory>Тот, кто сказал, что мюзиклы смешны, пообещал прийти на его премьеру.</LotM_Companion_Cicada.talks.10.nodes.0.options.3.effects.memory>
+  <LotM_Companion_Cicada.talks.10.nodes.1.speech>Мне нужны два тихих дня, чтобы написать, золото для новых струн и декоративное солнце. Поддельное. *Он улыбается.* Настоящее не для одолжения.</LotM_Companion_Cicada.talks.10.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.10.nodes.2.speech>Его глаза загораются. Плащ! Конечно. Плащ из первой ночи открытий, в последнем номере. Это замыкает круг. Ты гений театра и не знал этого.</LotM_Companion_Cicada.talks.10.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.10.nodes.3.speech>*Он берет твои руки.* Есть такое место, да. В конце второго акта, когда цикада больше не знает, кто она такая, кто-то появляется и говорит ей. Это ты. Тебе не нужно петь, если не хочешь. Ну да. Немного.</LotM_Companion_Cicada.talks.10.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.10.nodes.4.speech>*Он указывает на тебя булавой.* Попался! Первый ряд. И если ты заплачешь, я увижу это. У меня сотни глаз.</LotM_Companion_Cicada.talks.10.nodes.4.speech>
+  <LotM_Companion_Cicada.talks.11.nodes.0.speech>*Цикада что-то держит в ладони: белое перо, обожженное по краям. Оно всё ещё теплое.*
+
+Оно появилось на моей подушке. Никто не приносил его, никто не видел, как оно прибыло. Оно пахнет ладаном и полуднем.
+
+I им это не нравится. Но я не могу выбросить его. Каждый раз, когда я пытаюсь, моя рука не подчиняется мне.</LotM_Companion_Cicada.talks.11.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.11.nodes.0.options.0.label>Посмотри на это с духовным зрением.</LotM_Companion_Cicada.talks.11.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.11.nodes.0.options.1.label>Божественное, кто это.</LotM_Companion_Cicada.talks.11.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.11.nodes.0.options.2.label>Очисти его светом.</LotM_Companion_Cicada.talks.11.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.11.nodes.0.options.3.label>Оставь его, на всякий случай.</LotM_Companion_Cicada.talks.11.nodes.0.options.3.label>
+  <LotM_Companion_Cicada.talks.11.nodes.1.speech>Сквозь духовное зрение перо имеет очень тонкую золотую нить, уходящую к горизонту. На другом конце что-то огромное и горячее тянет, нежно, словно проверяя, укусил ли рыбу.
+
+ Цикада вздрагивает. Он смотрит на меня. Разве нет? Издалека. Точно так же, как я смотрю на гитару перед настройкой.</LotM_Companion_Cicada.talks.11.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.11.nodes.2.speech>*Ответы ясны, и ни один из них не хорош: это его. Это предупреждение. Он знает, где Цикада.*
+
+*Цикада сжимает перо.* Значит, это не подарок. Это ярлык. "Это моё".</LotM_Companion_Cicada.talks.11.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.11.nodes.3.speech>*Свет, который касается его, не сжигает его: перо впитывает его и сияет ярче. Свет от того же Солнца, с более высокой точки.*
+
+*Цикада бледнеет, если цикада может.* Это его. Мой свет не может превзойти его. Пока нет.</LotM_Companion_Cicada.talks.11.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.11.nodes.4.speech>На всякий случай. *Кладет его в карман рубашки, рядом с сердцем, и ясно, что он ненавидит его там держать.* Если кто спросит, то это от очень элегантной курицы.</LotM_Companion_Cicada.talks.11.nodes.4.speech>
+  <LotM_Companion_Cicada.talks.12.nodes.0.speech>Без тени. *Он больше не говорит это с наслаждением: он говорит это так, будто проверяет что-то в списке.*
+
+I раньше продвигался, чтобы петь лучше. Теперь у меня есть другая причина. Если я когда-нибудь встану перед ним, я хочу, чтобы он смотрел мне в глаза, а не смотрел вниз.
+
+I нужна формула. И чтобы ты был рядом, когда я это выпью.</LotM_Companion_Cicada.talks.12.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.12.nodes.0.options.0.label>Мы это получим.</LotM_Companion_Cicada.talks.12.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.12.nodes.0.options.1.label>Скажи ему, что ты знаешь о том, каково быть полубогом.</LotM_Companion_Cicada.talks.12.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.12.nodes.0.options.2.label>Ты уверен, что это для тебя, а не для него?</LotM_Companion_Cicada.talks.12.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.12.nodes.1.speech>Спасибо. *Он похлопывает по гитаре.* Она тоже идёт. Полубог с гитарой. Я уже вижу постеры.</LotM_Companion_Cicada.talks.12.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.12.nodes.2.speech>*Он слушает без перебивания один раз. Когда ты заканчиваешь, он делает короткий поклон, настоящий.* Так что это не просто больше света. Это другой способ бытия в мире. Я буду осторожен. Более осторожен, чем когда-либо.</LotM_Companion_Cicada.talks.12.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.12.nodes.3.speech>*Он замолкает.* Не знаю. Может, это для него. Но поет же моя глотка, не так ли? Так что это мое. Пойдем все равно.</LotM_Companion_Cicada.talks.12.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.13.nodes.0.speech>*Цикада напряжена, наблюдая за краем карты.*
+
+Прошлой ночью мужчина в одеяниях Церкви Солнца пришёл. Пока вы все спали. Он спросил о "насекомом, которое поёт". Я сказал ему, что здесь только сверчки, и они поют не в такт.
+
+Он ушёл с улыбкой. Мне не понравилась улыбка.</LotM_Companion_Cicada.talks.13.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.13.nodes.0.options.0.label>Ты сделал правильное дело.</LotM_Companion_Cicada.talks.13.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.13.nodes.0.options.1.label>Церковь не посылает людей спрашивать: она посылает охотников.</LotM_Companion_Cicada.talks.13.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.13.nodes.0.options.2.label>Если Церковь ищет тебя, возможно, тебе стоит уйти.</LotM_Companion_Cicada.talks.13.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.13.nodes.0.options.2.effects.memory>Когда Церковь Солнца пришла его искать, было предложено уйти.</LotM_Companion_Cicada.talks.13.nodes.0.options.2.effects.memory>
+  <LotM_Companion_Cicada.talks.13.nodes.1.speech>*Он кивает, не очень убежденный.* Да. Наверняка просто любопытный человек. Любопытный человек с мечом.</LotM_Companion_Cicada.talks.13.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.13.nodes.2.speech>Охотники. *Он сжимает гитару за гриф, как дубину.* Пусть приходят. На этот раз я не один в дереве.</LotM_Companion_Cicada.talks.13.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.13.nodes.3.speech>*Он смотрит на тебя всеми своими глазами сразу.* Уходи. Конечно. Пусть проблема уходит сама, гитара на плече. *Он смеется, и это не звучит как лето.* Меня уже однажды вышвырнули, знаешь?</LotM_Companion_Cicada.talks.13.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.13.nodes.4.speech>Вдалеке звучат колокола. Мало, быстро. Появляются белые и золотые одежды вдоль дороги.
+
+*Цикада проглатывает.* Ну. Вот улыбка.</LotM_Companion_Cicada.talks.13.nodes.4.speech>
+  <LotM_Companion_Cicada.talks.13.nodes.4.effects.raid.letterLabel>Охотники за Солнцем</LotM_Companion_Cicada.talks.13.nodes.4.effects.raid.letterLabel>
+  <LotM_Companion_Cicada.talks.13.nodes.4.effects.raid.letterText>Три Потусторонних входят в колонию. Они пришли за {0}: «насекомым, которое поёт», сказали они. Они охотники за Церковью, но кто-то выше послал их.</LotM_Companion_Cicada.talks.13.nodes.4.effects.raid.letterText>
+  <LotM_Companion_Cicada.talks.14.nodes.0.speech>Наставник по правосудию. *Он сидит на полу, гитара на ногах.*
+
+Ты знаешь, что справедливо? Что никто не бросает то, чего не хочет, на кого-то другого. Что никто не вырывает своё сердце и не роняет его на какое-то случайное дерево.
+
+I хотят это зелье. А я хочу, чтобы правосудие имело мой голос.</LotM_Companion_Cicada.talks.14.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.14.nodes.0.options.0.label>Пойдём за ним.</LotM_Companion_Cicada.talks.14.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.14.nodes.0.options.1.label>Справедливость — это не месть.</LotM_Companion_Cicada.talks.14.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.14.nodes.0.options.2.label>Скажи ему, что видит в других Учитель по правосудию.</LotM_Companion_Cicada.talks.14.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.14.nodes.1.speech>*Он играет громкую мажорную аккорду, такую, которая заканчивает песню.* А теперь продолжим.</LotM_Companion_Cicada.talks.14.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.14.nodes.2.speech>Я знаю. *Пауза.* Я знаю это в своей голове. Остальная часть меня все еще учится. Вот почему я хочу зелье: чтобы оно научило меня разнице.</LotM_Companion_Cicada.talks.14.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.15.nodes.0.options.0.label>Мы идём с вами.</LotM_Companion_Cicada.talks.15.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.15.nodes.0.options.0.effects.memory>Когда он решил пойти за Солнцем, ему сказали: «мы идем с тобой».</LotM_Companion_Cicada.talks.15.nodes.0.options.0.effects.memory>
+  <LotM_Companion_Cicada.talks.15.nodes.0.options.1.label>Эта месть сожжёт тебя.</LotM_Companion_Cicada.talks.15.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.15.nodes.0.options.2.label>Пообещай мне, что вернёшься.</LotM_Companion_Cicada.talks.15.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.15.nodes.0.options.2.effects.memory>Он пообещал своему партнеру, что вернется.</LotM_Companion_Cicada.talks.15.nodes.0.options.2.effects.memory>
+  <LotM_Companion_Cicada.talks.15.nodes.0.options.3.label>Убийство бога Солнца — ересь.</LotM_Companion_Cicada.talks.15.nodes.0.options.3.label>
+  <LotM_Companion_Cicada.talks.15.nodes.0.options.4.label>Ты сумасшедший. Мы не будем тебе в этом помогать.</LotM_Companion_Cicada.talks.15.nodes.0.options.4.label>
+  <LotM_Companion_Cicada.talks.15.nodes.0.options.4.effects.memory>Когда он решил пойти за Солнцем, ему сказали, что он сумасшедший, и что никто ему не поможет.</LotM_Companion_Cicada.talks.15.nodes.0.options.4.effects.memory>
+  <LotM_Companion_Cicada.talks.15.nodes.1.speech>*Обе антенны одновременно взмывают вверх.* Правда? *А затем, тише:* Никто никогда не ходил со мной куда-либо. Я всегда приходил один и уходил один.
+
+Тогда это третий акт. И мы поём его вместе.</LotM_Companion_Cicada.talks.15.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.15.nodes.2.speech>Это не месть. *Он думает об этом.* Ну, немного. Но посмотри: если я — солнце, никто другой не падает с неба без того, чтобы кто-то хотел этого. Это не месть. Это подготовка сцены для того, кто придёт следующим.</LotM_Companion_Cicada.talks.15.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.15.nodes.3.speech>*Он берёт твоё лицо в обе руки. Оно теплое, теплее, чем когда-либо.* Клянусь. А клятва нотариуса подписана перед светом. Если я не вернусь, свет будет должен мне объяснение.</LotM_Companion_Cicada.talks.15.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.15.nodes.4.speech>Тогда я еретик. *Он улыбается.* Со всей душой. Что, кстати, не моя, а ангела. Так что это второстепенная ересь.</LotM_Companion_Cicada.talks.15.nodes.4.speech>
+  <LotM_Companion_Cicada.talks.15.nodes.5.speech>*Он не злится. Хуже: он кивает, как будто ожидал этого.* Хорошо. Я все равно пойду. Но теперь я знаю, чьей стороне все.</LotM_Companion_Cicada.talks.15.nodes.5.speech>
+  <LotM_Companion_Cicada.talks.15.nodes.6.speech>*Он достает обожжённое перо из кармана и бросает его в огонь. На этот раз его рука подчиняется.*</LotM_Companion_Cicada.talks.15.nodes.6.speech>
+  <LotM_Companion_Cicada.talks.16.nodes.0.speech>*Цикада начертила на полу мелом карту: огромное солнце и перед ним крылатая фигура.*
+
+Шараак знает, где я, с тех пор как выпала перья. Он придёт, и он не пошлёт охотников: он придёт сам. Я лучше буду ждать его здесь, с тобой, чем искать его в одиночку.
+
+Когда он падёт, я съем то, что он оставит. Я стану ангелом. А потом мы пойдём за Солнцем.</LotM_Companion_Cicada.talks.16.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.16.nodes.0.options.0.label>Мы будем готовы к нему.</LotM_Companion_Cicada.talks.16.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.16.nodes.0.options.1.label>Сначала Солнце. Твой отец позже.</LotM_Companion_Cicada.talks.16.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.16.nodes.0.options.2.label>Я же сказал тебе: мы не последуем за тобой в этом.</LotM_Companion_Cicada.talks.16.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.16.nodes.1.speech>Три дня, грубо говоря. Я чувствую это, как ты чувствуешь летнюю бурю: воздух становится тяжёлым, птицы замолкают. Приготовьте всё.
+
+ *Настраивает гитару.* Я подготовлю репертуар.</LotM_Companion_Cicada.talks.16.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.16.nodes.2.speech>Это невозможно. *Он указывает на крылатую фигуру.* Пока он меня отмечен, он придет, когда мы меньше всего ждем. Например, посреди битвы с Солнцем. Лучше, чтобы он пришел, когда мы выберем.
+
+Три дня. Приготовьте все.</LotM_Companion_Cicada.talks.16.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.16.nodes.3.speech>Он долго смотрит на рисунок. Затем он стирает его ногой, медленно, пока ничего не остается.
+
+Только не. Я не могу сделать это в одиночку. Я знал это, и хотел верить в обратное.
+
+*Он садится. Он не берет гитару.*</LotM_Companion_Cicada.talks.16.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.16.nodes.3.effects.memory>Колония не пошла с ним, и новое солнце так и не появилось.</LotM_Companion_Cicada.talks.16.nodes.3.effects.memory>
+  <LotM_Companion_Cicada.talks.17.nodes.0.speech>*Небо становится белым. Не от облаков: от света. Голос доносится отовсюду, спокойный, как будто кто-то говорит о чем-то, что принадлежит ему.*
+
+"То, что отбрасывают, не перестает быть своим. Я пришел за тем, что мое."
+
+*Цикада становится очень неподвижной. Ее крылья дрожат.*
+
+"Возвращайся ко мне, существо. Ты станешь частью ангела. Ты перестанешь быть насекомым, поющим для тех, кто тебя не заслуживает."
+
+*Цикада смотрит на тебя. Впервые ты не знаешь, что он собирается делать.*</LotM_Companion_Cicada.talks.17.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.17.nodes.0.options.0.label>Цикада, мы с тобой.</LotM_Companion_Cicada.talks.17.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.17.nodes.0.options.1.label>Твой партнер берет его за руку: "Ты пообещал вернуться".</LotM_Companion_Cicada.talks.17.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.17.nodes.0.options.2.label>Ваш партнёр встаёт перед ним: «Ты не то, что он выбросил. Ты тот, кого я выбрал».</LotM_Companion_Cicada.talks.17.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.17.nodes.0.options.3.label>Выбирай, Цикада.</LotM_Companion_Cicada.talks.17.nodes.0.options.3.label>
+  <LotM_Companion_Cicada.talks.17.nodes.1.speech>*Цикада делает глубокий вдох. Затем он смеётся, громко, летним смехом, который разбивает белый свет, как стекло.*
+
+Люди, которые меня не заслуживают! Вы это слышали? *Он бросает гитару на спину.* Смотрите, пап: зрители выбрали меня. А зрители всегда правы.
+
+*Свет собирается на краю карты. Он идёт.*</LotM_Companion_Cicada.talks.17.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.17.nodes.1.effects.memory>Когда его отец вызвал его, он выбрал колонию.</LotM_Companion_Cicada.talks.17.nodes.1.effects.memory>
+  <LotM_Companion_Cicada.talks.17.nodes.2.speech>*Цикада смотрит на руку, держащую его. Смотрит на небо. Смотрит обратно на руку.*
+
+… Я пообещал. До света. *Его голос срывается.* То, что делается в этой колонии, я не прощаю. Но я не буду врать тебе.
+
+*Он встает перед своим партнером, глядя в небо.* Давай, пап. Вот я. На стороне того, кто выбрал меня.</LotM_Companion_Cicada.talks.17.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.17.nodes.2.effects.memory>Он собирался вернуться к своему отцу. Его партнёр напомнил ему о его обещании, и он остался.</LotM_Companion_Cicada.talks.17.nodes.2.effects.memory>
+  <LotM_Companion_Cicada.talks.17.nodes.3.speech>*Цикада смотрит на спину своего партнера, которая не двигается.*
+
+Тот, кого ты выбрал. *Он тихо повторяет это, как будто учится песне.* Мне не нравится то, что происходит в этой колонии. Но я люблю тебя.
+
+*Он стоит рядом с ними, плечом к плечу.* Ну, папа. Кажется, у меня другая семья.</LotM_Companion_Cicada.talks.17.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.17.nodes.3.effects.memory>Он собирался вернуться к своему отцу. Его партнер встал перед ним, и он остался.</LotM_Companion_Cicada.talks.17.nodes.3.effects.memory>
+  <LotM_Companion_Cicada.talks.17.nodes.4.effects.memory>Его отец вызвал его, и он вернулся к нему.</LotM_Companion_Cicada.talks.17.nodes.4.effects.memory>
+  <LotM_Companion_Cicada.talks.18.nodes.0.speech>*Когда всё кончено, Цикада стоит там, где пал её отец. Он не плачет. Он не поет. Он просто смотрит.*
+
+Он был огромным. И в конце он издал тот же звук, который издает любой, когда падает.
+
+*Он указывает на что-то сияющее.* Вот что от него осталось. Если я съем это, я стану тем, кем он был. Ангелом. Разве это не странно? Чтобы стать чем-то другим, я должен съесть своего отца.</LotM_Companion_Cicada.talks.18.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.18.nodes.0.options.0.label>Это твоё. Это всегда так было.</LotM_Companion_Cicada.talks.18.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.18.nodes.0.options.1.label>Ты можешь подождать. Это не обязательно сегодня.</LotM_Companion_Cicada.talks.18.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.18.nodes.0.options.2.label>Твой партнер держит его молча.</LotM_Companion_Cicada.talks.18.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.18.nodes.0.options.2.effects.memory>После битвы с отцом его партнёр обнял его, не говоря ни слова.</LotM_Companion_Cicada.talks.18.nodes.0.options.2.effects.memory>
+  <LotM_Companion_Cicada.talks.18.nodes.0.options.3.label>На одного ангела меньше. Хорошая работа.</LotM_Companion_Cicada.talks.18.nodes.0.options.3.label>
+  <LotM_Companion_Cicada.talks.18.nodes.1.speech>Мое. *Это слово снова.* Мне нравится, как оно звучит всё больше и больше.</LotM_Companion_Cicada.talks.18.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.18.nodes.2.speech>Нет. *Он медленно качает головой.* Если я буду ждать, я убедюсь, что не заслуживаю быть больше, чем цикада. Лучше сейчас, пока я еще помню, почему.</LotM_Companion_Cicada.talks.18.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.18.nodes.3.speech>*Он долго остается неподвижным в объятиях. Постепенно его крылья перестают дрожать.*
+
+… Спасибо. Этого мне было нужно. Я не знал, что мне это нужно.</LotM_Companion_Cicada.talks.18.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.18.nodes.4.speech>*Он смотрит на тебя.* Он был моим отцом. Ужасный отец, но единственный, которого у меня был. *Он отворачивается.* Дай мне время.</LotM_Companion_Cicada.talks.18.nodes.4.speech>
+  <LotM_Companion_Cicada.talks.18.nodes.5.speech>Помоги мне сварить зелье Искателя Света. С его характеристикой. *Пауза.* По крайней мере, пусть оно будет полезным для чего-то.</LotM_Companion_Cicada.talks.18.nodes.5.speech>
+  <LotM_Companion_Cicada.talks.19.nodes.0.speech>*Цикада, теперь ангел, сидит на крыше колонии и смотрит на солнце. Она больше не прикрывает глаза: она смотрит прямо на него.*
+
+Теперь я понимаю, как это работает. Моя сущность пришла от ангела Солнца, поэтому свет наверху меня узнаёт. Когда падает Вечно Пылающее Солнце, я смогу есть то, что оно оставляет, не проходя через Белого Ангела: свет открывает боковую дверь для меня.
+
+Три характеристики и Уникальность. А после этого — апофеоз. Алтарь, Святилище Солнца.
+
+Это самая трудная песня, которую я когда-либо буду петь. Ты идёшь?</LotM_Companion_Cicada.talks.19.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.19.nodes.0.options.0.label>До конца.</LotM_Companion_Cicada.talks.19.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.19.nodes.0.options.1.label>Ты станешь богом. Будешь ли ты все еще собой?</LotM_Companion_Cicada.talks.19.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.19.nodes.0.options.2.label>Твой партнер: "А я? Какое место у меня рядом с богом?"</LotM_Companion_Cicada.talks.19.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.19.nodes.1.speech>*Он стоит на краю крыши.* Тогда пойдём. Если со мной что-то случится, кто-нибудь закончит мюзикл. Третий акт называется «Новое Солнце», и он заканчивается хорошо. Он всегда заканчивается хорошо.</LotM_Companion_Cicada.talks.19.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.19.nodes.2.speech>*Он долго об этом думает.* Мой отец отбросил свою человечность, чтобы быть светлее. Я — та человечность. Если я стану богом, я достигну этого целиком, с цикадой, музыкантом и всем, что со мной произошло здесь. В этом и есть разница. Вся разница.</LotM_Companion_Cicada.talks.19.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.19.nodes.3.speech>*Он прыгает с крыши и приземляется перед своим партнёром, его крылья света широко расправлены.* То же самое, что и сейчас. Прямо рядом со мной. Бог с партнёром: это будет скандал в каждой церкви. Мне это нравится.</LotM_Companion_Cicada.talks.19.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.19.nodes.4.speech>*Он играет аккорд. Впервые за долгое время он звучит счастливо.*</LotM_Companion_Cicada.talks.19.nodes.4.speech>
+  <LotM_Companion_Cicada.talks.20.nodes.0.speech>*Цикада сияет так ярко, что трудно на нее смотреть. Внутри нее находятся три характеристики Белого Ангела и Уникальность Солнца. Старый бог закончил умирать.*
+
+I может почувствовать все это. Каждый рассвет в каждом уголке мира, как ноты. Но я еще не Солнце: я король ангелов с слишком большим светом внутри.
+
+Апофеоз все еще отсутствует. Санктум Солнца, с готовым алтарем. Вот где я закончу песню.</LotM_Companion_Cicada.talks.20.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.21.nodes.0.options.0.label>Мы всё ещё здесь.</LotM_Companion_Cicada.talks.21.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.21.nodes.0.options.1.label>Твой партнёр садится рядом с ним и кладет голову ему на плечо.</LotM_Companion_Cicada.talks.21.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.21.nodes.0.options.1.effects.memory>Когда новое солнце никогда не пришло, его партнёр сел рядом с ним.</LotM_Companion_Cicada.talks.21.nodes.0.options.1.effects.memory>
+  <LotM_Companion_Cicada.talks.21.nodes.1.speech>Да. *В его голосе нет убежденности.* Ты все еще здесь. Я буду продолжать играть. Но я не думаю, что напишу ничего нового.</LotM_Companion_Cicada.talks.21.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.21.nodes.2.speech>*Что-то ускользает от него, что может быть рыданием или смехом.* Не отпускай меня, хорошо? Не сегодня.</LotM_Companion_Cicada.talks.21.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.22.nodes.0.speech>*На рассвете солнце восходит, как всегда. Цикада смотрит на него, и его крылья тускнеют.*
+
+Он вернулся. Дни закончились, прежде чем я успел съесть его свет, и он вернулся на свой трон, как будто ничего не произошло. Как будто меня никогда и не существовало.
+
+Это был единственный шанс. Я знаю. Свет говорит мне: второго прогона не будет.</LotM_Companion_Cicada.talks.22.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.22.nodes.0.options.0.label>Ты пытался. Это имеет значение.</LotM_Companion_Cicada.talks.22.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.22.nodes.0.options.1.label>Твой партнёр крепко его держит.</LotM_Companion_Cicada.talks.22.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.22.nodes.0.options.1.effects.memory>Когда Солнце вернулось на его трон, его партнёр крепко обнял его.</LotM_Companion_Cicada.talks.22.nodes.0.options.1.effects.memory>
+  <LotM_Companion_Cicada.talks.22.nodes.1.speech>Это считается песнями. *Он берёт гитару, смотрит на неё, кладёт её.* Для всего остального — не так уж много.</LotM_Companion_Cicada.talks.22.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.22.nodes.2.speech>*Он позволяет себя держать.* По крайней мере, на этот раз никто меня не бросил. Я остался здесь. *Долгая пауза.* Это что-то, не так ли?</LotM_Companion_Cicada.talks.22.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.23.nodes.0.options.0.label>Останьтесь с нами.</LotM_Companion_Cicada.talks.23.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.23.nodes.0.options.1.label>Мир нуждается в тебе. Сияй с твоего трона.</LotM_Companion_Cicada.talks.23.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.23.nodes.0.options.2.label>Твой партнер: "Куда бы ты ни пошел, я пойду".</LotM_Companion_Cicada.talks.23.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.23.nodes.0.options.2.effects.memory>Когда он стал новым солнцем, его партнёр сказал ему: "Куда бы ты ни пошёл, я иду".</LotM_Companion_Cicada.talks.23.nodes.0.options.2.effects.memory>
+  <LotM_Companion_Cicada.talks.23.nodes.1.speech>Тогда я остаюсь. *Он бросает гитару через плечо.* Самое странное Солнце в истории: с головой цикады, с партнером, если повезет, и концертом по четвергам.
+
+И музыка теперь имеет конец. Он заканчивается хорошо. Он всегда заканчивается хорошо.</LotM_Companion_Cicada.talks.23.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.23.nodes.2.speech>*Он кивает, медленно.* Ты прав. Солнце, которое не светит ни на кого, не имеет большого смысла.
+
+Но я буду продолжать проходить мимо. И когда ты заметишь, что рассвет приходит с музыкой, это я говорю тебе привет.</LotM_Companion_Cicada.talks.23.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.24.nodes.0.speech>Цикада снова держит перья своего отца в руке. Ты не знаешь, откуда он их взял.
+
+I мечтал о нем прошлой ночью. Он не кричал на меня. Он предлагал мне место. Место, где никто не делает то, что делаешь ты.
+
+I не сказал да. И всё же.</LotM_Companion_Cicada.talks.24.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.24.nodes.0.options.0.label>Мы изменимся. Я обещаю.</LotM_Companion_Cicada.talks.24.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.24.nodes.0.options.1.label>Твой партнер вынимает перышко из его руки.</LotM_Companion_Cicada.talks.24.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.24.nodes.0.options.2.label>Делай что хочешь.</LotM_Companion_Cicada.talks.24.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.24.nodes.1.speech>Надеюсь. *Он убирает перья.* Потому что когда он придет, мне придется выбирать. И я хочу быть в состоянии выбирать тебя.</LotM_Companion_Cicada.talks.24.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.24.nodes.2.speech>*Он не сопротивляется. Он смотрит на свою пустую руку.* … Хорошо. Держи ее. Я не доверяю себе этой вещи рядом со мной.</LotM_Companion_Cicada.talks.24.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.24.nodes.3.speech>*Он кивает.* Вот что я делаю. *И уходит, с перышком.*</LotM_Companion_Cicada.talks.24.nodes.3.speech>
+  <LotM_Companion_Cicada.talks.25.nodes.0.speech>*Сигара не горит. Это уже само по себе странно.*\n\nСмотри… мне это нравится. Люди, еда, публика. Но то, что они делают здесь, отключает у меня музыку. Я не могу петь на свет, пока всё это происходит.\n\nЕсли так пойдет дальше, мне придется уходить.</LotM_Companion_Cicada.talks.25.nodes.0.speech>
+  <LotM_Companion_Cicada.talks.25.nodes.0.options.0.label>Ты прав. Мы изменимся.</LotM_Companion_Cicada.talks.25.nodes.0.options.0.label>
+  <LotM_Companion_Cicada.talks.25.nodes.0.options.1.label>Напомни ему, что свет тоже горит.</LotM_Companion_Cicada.talks.25.nodes.0.options.1.label>
+  <LotM_Companion_Cicada.talks.25.nodes.0.options.2.label>Вот мы делаем то, что должно быть сделано.</LotM_Companion_Cicada.talks.25.nodes.0.options.2.label>
+  <LotM_Companion_Cicada.talks.25.nodes.1.speech>*Он кивает, не очень убежденный.* Хорошо. Я верю тебе. Но я буду наблюдать. И слушать. У музыкантов хорошее ухо.</LotM_Companion_Cicada.talks.25.nodes.1.speech>
+  <LotM_Companion_Cicada.talks.25.nodes.2.speech>Оно жжёт, да. Но оно жжёт гнилое, а не просто любого. *Он долго смотрит на тебя.* Надеюсь, ты знаешь разницу.</LotM_Companion_Cicada.talks.25.nodes.2.speech>
+  <LotM_Companion_Cicada.talks.25.nodes.3.speech>*Он прижимает гитару к груди.* А потом не удивляйся, если однажды ты проснёшься и музыки не будет.</LotM_Companion_Cicada.talks.25.nodes.3.speech>
+</LanguageData>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_FleshMutation.label>мутация</LotM_FleshMutation.label>
+  <LotM_FleshMutation.description>Плоть цели мутирует: кожа становится такой же прочной, как звериная шкура, с большей силой и костяными когтями. Это длится один день.</LotM_FleshMutation.description>
+  <LotM_FleshMutation.comps.1.tools.0.label>когти из кости</LotM_FleshMutation.comps.1.tools.0.label>
+  <LotM_ProfaneBargain.label>нечестное соглашение</LotM_ProfaneBargain.label>
+  <LotM_ProfaneBargain.description>Искажает слова кого-то из другой фракции. В течение дня каждая сделка идет намного лучше... пока другая сторона не заметит.</LotM_ProfaneBargain.description>
+  <LotM_Shadowless.label>без теней</LotM_Shadowless.label>
+  <LotM_Shadowless.description>Их тень была разорвана. Они угасают.</LotM_Shadowless.description>
+  <LotM_ShadowVeil.label>теневая завеса</LotM_ShadowVeil.label>
+  <LotM_ShadowVeil.description>Они притягивают своих ближайших союзников в тени. Свет или атака их обнаруживают.</LotM_ShadowVeil.description>
+  <LotM_FallingDepravity.label>упадок в порочность</LotM_FallingDepravity.label>
+  <LotM_FallingDepravity.description>Их душа тонет в пороке. Когда она достигнет дна, они больше не будут теми, кем были.</LotM_FallingDepravity.description>
+  <LotM_DegenerationPlague.label>чума дегенерации</LotM_DegenerationPlague.label>
+  <LotM_DegenerationPlague.description>В течение половины дня дегенерация распространяется по месту: враги гниют изнутри и обращаются против самих себя.</LotM_DegenerationPlague.description>
+  <LotM_BlackShroud.label>черный саван</LotM_BlackShroud.label>
+  <LotM_BlackShroud.description>Они покрывают ближайших союзников жидкостью черного океана. Каждый саван поглощает несколько выстрелов.</LotM_BlackShroud.description>
+  <LotM_LightDevoured.label>поглощённый свет</LotM_LightDevoured.label>
+  <LotM_LightDevoured.description>Тьма поглотила свет вокруг них: огонь не может их коснуться.</LotM_LightDevoured.description>
+  <LotM_BloodRuptureInjury.label>разбитая сосуд</LotM_BloodRuptureInjury.label>
+  <LotM_BloodRuptureInjury.labelNoun>взрывной сосуд</LotM_BloodRuptureInjury.labelNoun>
+  <LotM_BloodRuptureInjury.description>Кровь вырывается внутрь и продолжает течь.</LotM_BloodRuptureInjury.description>
+  <LotM_BloodRuptureInjury.comps.0.labelTendedWell>перевязанный</LotM_BloodRuptureInjury.comps.0.labelTendedWell>
+  <LotM_BloodRuptureInjury.comps.0.labelTendedWellInner>сшитый</LotM_BloodRuptureInjury.comps.0.labelTendedWellInner>
+  <LotM_BloodRuptureInjury.comps.0.labelSolidTendedWell>установить</LotM_BloodRuptureInjury.comps.0.labelSolidTendedWell>
+  <LotM_BloodRuptureInjury.injuryProps.destroyedLabel>Взрыв кровью</LotM_BloodRuptureInjury.injuryProps.destroyedLabel>
+  <LotM_BloodRuptureInjury.injuryProps.destroyedOutLabel>Взрыв кровью</LotM_BloodRuptureInjury.injuryProps.destroyedOutLabel>
+</LanguageData>

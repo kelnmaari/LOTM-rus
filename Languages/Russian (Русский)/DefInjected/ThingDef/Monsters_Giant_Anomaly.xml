@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_A_LostWarrior.label>потерянный воин</LotM_A_LostWarrior.label>
+  <LotM_A_LostWarrior.description>Воин, потерявший контроль. Его тело разрослось, пока не взорвалось, и он знает только бой.</LotM_A_LostWarrior.description>
+  <LotM_A_LostWarrior.tools.0.label>кулаки</LotM_A_LostWarrior.tools.0.label>
+  <LotM_A_LostWarrior.tools.1.label>укус</LotM_A_LostWarrior.tools.1.label>
+  <LotM_A_LostPugilist.label>потерянный пёстрый боец</LotM_A_LostPugilist.label>
+  <LotM_A_LostPugilist.description>Боец, потерявший контроль. Он бьёт по земле с такой силой, что сбивает всех поблизости.</LotM_A_LostPugilist.description>
+  <LotM_A_LostPugilist.tools.0.label>кулаки</LotM_A_LostPugilist.tools.0.label>
+  <LotM_A_LostPugilist.tools.1.label>шипы</LotM_A_LostPugilist.tools.1.label>
+  <LotM_A_LostWeaponMaster.label>потерянный мастер оружия</LotM_A_LostWeaponMaster.label>
+  <LotM_A_LostWeaponMaster.description>Мастер оружия, потерявший контроль. Из его плоти вырываются костяные лезвия, и он режет всех рядом с ним.</LotM_A_LostWeaponMaster.description>
+  <LotM_A_LostWeaponMaster.tools.0.label>Костяные лезвия</LotM_A_LostWeaponMaster.tools.0.label>
+  <LotM_A_LostWeaponMaster.tools.1.label>шипы</LotM_A_LostWeaponMaster.tools.1.label>
+  <LotM_A_LostDawnPaladin.label>потерянный рассветный паладин</LotM_A_LostDawnPaladin.label>
+  <LotM_A_LostDawnPaladin.description>Рассветный Паладин, потерявший контроль: деформированный гигант. Он бросается на того, кто далеко, и взрывается искаженным светом рассвета, который больше ничего не очищает, а только ослепляет.</LotM_A_LostDawnPaladin.description>
+  <LotM_A_LostDawnPaladin.tools.0.label>Когти</LotM_A_LostDawnPaladin.tools.0.label>
+  <LotM_A_LostDawnPaladin.tools.1.label>Удар</LotM_A_LostDawnPaladin.tools.1.label>
+  <LotM_A_LostGuardian.label>потерянный страж</LotM_A_LostGuardian.label>
+  <LotM_A_LostGuardian.description>Страж, который потерял контроль. Его тело из живого камня выдерживает почти всё, и издалека он метает копья из искаженного рассветного света.</LotM_A_LostGuardian.description>
+  <LotM_A_LostGuardian.tools.0.label>Каменные кулаки</LotM_A_LostGuardian.tools.0.label>
+  <LotM_A_LostGuardian.tools.1.label>шипы</LotM_A_LostGuardian.tools.1.label>
+  <LotM_A_LostDemonHunter.label>потерянный охотник на демонов</LotM_A_LostDemonHunter.label>
+  <LotM_A_LostDemonHunter.description>Охотник на демонов, который потерял контроль. Он смотрит зелеными глазами, полными символов, и помечает свою добычу; всё, что попадает в добычу, причиняет ему боль сильнее.</LotM_A_LostDemonHunter.description>
+  <LotM_A_LostDemonHunter.tools.0.label>Когти</LotM_A_LostDemonHunter.tools.0.label>
+  <LotM_A_LostDemonHunter.tools.1.label>челюсти</LotM_A_LostDemonHunter.tools.1.label>
+  <LotM_A_LostSilverKnight.label>потерянный серебряный рыцарь</LotM_A_LostSilverKnight.label>
+  <LotM_A_LostSilverKnight.description>Серебряный рыцарь, потерявший контроль: масса жидкого металла в форме зверя. Его серебряные клинки появляются внутри тел.</LotM_A_LostSilverKnight.description>
+  <LotM_A_LostSilverKnight.tools.0.label>Пасть</LotM_A_LostSilverKnight.tools.0.label>
+  <LotM_A_LostSilverKnight.tools.1.label>Удар</LotM_A_LostSilverKnight.tools.1.label>
+  <LotM_A_LostGlory.label>потерянная слава</LotM_A_LostGlory.label>
+  <LotM_A_LostGlory.description>Гигант-сумеречный ангел, потерявший контроль: деформированный гигант цвета заката. Вокруг него всё стареет и ржавеет.</LotM_A_LostGlory.description>
+  <LotM_A_LostGlory.tools.0.label>кулаки</LotM_A_LostGlory.tools.0.label>
+  <LotM_A_LostGlory.tools.1.label>Когти</LotM_A_LostGlory.tools.1.label>
+  <LotM_A_LostHandOfGod.label>потерянная рука Бога</LotM_A_LostHandOfGod.label>
+  <LotM_A_LostHandOfGod.description>Гигант Сумерек, высокий ангел, потерявший контроль: голубовато-чёрная плоть, покрытая божественными узорами. Сумеречный Меч падает на того, кто к нему приближается.</LotM_A_LostHandOfGod.description>
+  <LotM_A_LostHandOfGod.tools.0.label>Рука сумерек</LotM_A_LostHandOfGod.tools.0.label>
+  <LotM_A_LostHandOfGod.tools.1.label>Когти</LotM_A_LostHandOfGod.tools.1.label>
+</LanguageData>

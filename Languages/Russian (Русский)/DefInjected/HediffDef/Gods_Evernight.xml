@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_EndlessNightHediff.label>Бесконечная Ночь</LotM_EndlessNightHediff.label>
+  <LotM_EndlessNightHediff.description>Окутанные Тьмой: она и её союзники поблизости всегда в темноте, и она обладает большей силой.</LotM_EndlessNightHediff.description>
+  <LotM_SilenceAuraHediff.label>Тишина</LotM_SilenceAuraHediff.label>
+  <LotM_SilenceAuraHediff.description>Тишина царит вокруг неё: ни один близкий враг не может говорить, петь или произносить силы.</LotM_SilenceAuraHediff.description>
+  <LotM_Silenced.label>заглушенный</LotM_Silenced.label>
+  <LotM_Silenced.description>Тишина Вечной Ночи: они не могут говорить, петь или произносить никакую силу.</LotM_Silenced.description>
+  <LotM_SpiritSoothed.label>успокоенный дух</LotM_SpiritSoothed.label>
+  <LotM_SpiritSoothed.description>Их духовное тело спит: их силы не отвечают (власти и символизма всё ещё есть).</LotM_SpiritSoothed.description>
+  <LotM_ManifestedSpirit.label>материализованный дух</LotM_ManifestedSpirit.label>
+  <LotM_ManifestedSpirit.description>Естественный дух, зовущийся Вечной Ночью: он материализовался, поэтому любой может его видеть и трогать. Когда его время истекает, он погружается обратно в Мир духов.</LotM_ManifestedSpirit.description>
+</LanguageData>

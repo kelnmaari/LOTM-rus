@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_GodDescent.label>нисхождение</LotM_GodDescent.label>
+  <LotM_GodDescent.description>Бог покидает свое Святилище со всей своей силой на несколько часов, здесь или где-либо в мире. Мир не может вынести их вне: он напрягает барьер против Внешних Божеств, и когда он заканчивается, они возвращаются в свое Святилище сами. Тем временем их божественная сила над миром не может быть использована.</LotM_GodDescent.description>
+  <LotM_SanctumTransfer.label>перенос святыни</LotM_SanctumTransfer.label>
+  <LotM_SanctumTransfer.description>Бог перемещается в другое Святилище их пути, которое уже подготовлено, в этой колонии или другой. Это позволяет колонии двигаться, не оставляя своего бога позади.</LotM_SanctumTransfer.description>
+  <LotM_SacredFire.label>святое пламя</LotM_SacredFire.label>
+  <LotM_SacredFire.description>Переключатель: пока освещено, зло и враги, приближающиеся, сгорают в золотых пламени. Потребляет духовность в час.</LotM_SacredFire.description>
+</LanguageData>

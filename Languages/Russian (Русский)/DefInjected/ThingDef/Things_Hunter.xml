@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_Projectile_HunterFireball.label>Огненный шар</LotM_Projectile_HunterFireball.label>
+  <LotM_Projectile_HunterGiantFireball.label>гигантский огненный шар</LotM_Projectile_HunterGiantFireball.label>
+  <LotM_Projectile_HunterRaven.label>огненный ворона</LotM_Projectile_HunterRaven.label>
+  <LotM_Projectile_HunterSpear.label>Пылающий копье</LotM_Projectile_HunterSpear.label>
+  <LotM_HunterTrap_Spike.label>импровизированная ловушка с шипами</LotM_HunterTrap_Spike.label>
+  <LotM_HunterTrap_Spike.description>Ловушка-шпилька, установленная Охотником за секунды из того, что было под рукой, спрятанная в местности. Она обезвреживается через три дня.</LotM_HunterTrap_Spike.description>
+  <LotM_HunterTrap_Explosive.label>импровизированная взрывная ловушка</LotM_HunterTrap_Explosive.label>
+  <LotM_HunterTrap_Explosive.description>Взрывная ловушка, установленная Охотником за секунды, спрятанная в местности. Она взрывается при踏ании или выстреле. Она обезвреживается через три дня.</LotM_HunterTrap_Explosive.description>
+  <LotM_HunterQuicksand.label>песок</LotM_HunterQuicksand.label>
+  <LotM_HunterQuicksand.description>Земля, превращённая Охотником в зыбучий песок: кто войдёт, то утонет.</LotM_HunterQuicksand.description>
+  <LotM_HunterCrimsonFire.label>Стена огня</LotM_HunterCrimsonFire.label>
+  <LotM_HunterCrimsonFire.description>Багровое пламя, которое само себя поддерживает, используя землю в качестве проводника.</LotM_HunterCrimsonFire.description>
+  <LotM_HunterFlameBombThing.label>бомба огня</LotM_HunterFlameBombThing.label>
+  <LotM_HunterFlameBombThing.description>Сжатые пламя, готовое взорваться в любой момент.</LotM_HunterFlameBombThing.description>
+  <LotM_HunterDecoyFigure.label>огненный приманка</LotM_HunterDecoyFigure.label>
+  <LotM_HunterDecoyFigure.description>Огненная фигура в форме Заговорщика: враги стреляют в нее. Несколько попаданий гасят ее.</LotM_HunterDecoyFigure.description>
+  <LotM_Projectile_HunterHurled.label>оружие в огне</LotM_Projectile_HunterHurled.label>
+  <LotM_HunterFlameFigure.label>сгорающая фигура</LotM_HunterFlameFigure.label>
+  <LotM_HunterFlameFigure.description>Пламя, сотворенное в форме Жнеца. Оно движется и сражается, и его удары горят.</LotM_HunterFlameFigure.description>
+  <LotM_HunterFlameFigure.tools.0.label>кулак огня</LotM_HunterFlameFigure.tools.0.label>
+</LanguageData>

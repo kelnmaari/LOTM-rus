@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_RedOfWarArmy.label>Армия Красной Войны</LotM_RedOfWarArmy.label>
+  <LotM_RedOfWarArmy.fixedName>Армия Красной Войны</LotM_RedOfWarArmy.fixedName>
+  <LotM_RedOfWarArmy.description>Армия Медичи, Красный Ангел: путь Короля ангелов Красного Жреца. Единорог и Саурон, остальные двое Завоевателей, всегда маршируют рядом с ним: трое живут в железном замке и почти никогда не бывают поодиночке.
+
+Они стратеги перед тем, как стать солдатами. Они сражаются не ради сражения: они выбирают, кого завоевать, когда и как. Они объявляют войну соседним фракциям и сохраняют свои поселения, а тот, кто стоит того, получает выбор первым: плати или сражайся.
+
+Их ряды: солдаты, провокаторы, пироманыки, заговорщики, жанеры и, в командовании, рыцари железной крови. Над ними все трое.</LotM_RedOfWarArmy.description>
+  <LotM_RedOfWarArmy.pawnSingular>солдат Красной</LotM_RedOfWarArmy.pawnSingular>
+  <LotM_RedOfWarArmy.pawnsPlural>Солдаты Красных</LotM_RedOfWarArmy.pawnsPlural>
+  <LotM_RedOfWarArmy.leaderTitle>Красный Ангел</LotM_RedOfWarArmy.leaderTitle>
+</LanguageData>

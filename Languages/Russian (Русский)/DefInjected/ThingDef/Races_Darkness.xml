@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LotM_DarkWolf.label>ночной волк</LotM_DarkWolf.label>
+  <LotM_DarkWolf.description>То, что осталось от Потустороннего по пути Тьмы, потерявшего контроль: огромный волк, черный как ночь, который спит и пугает любого, кто к нему приближается.</LotM_DarkWolf.description>
+  <LotM_DarkWolf.tools.0.label>Когти</LotM_DarkWolf.tools.0.label>
+  <LotM_DarkWolf.tools.1.label>Клыки</LotM_DarkWolf.tools.1.label>
+  <LotM_DemonWolf.label>демоническая волк</LotM_DemonWolf.label>
+  <LotM_DemonWolf.description>Ночной страж, который потерял контроль: неполная форма Восьминого Демонического Волка. Тьма изливается из его тела, как прилив, разъедает тех, кто рядом, и из неё появляются тени.</LotM_DemonWolf.description>
+  <LotM_DemonWolf.tools.0.label>Когти</LotM_DemonWolf.tools.0.label>
+  <LotM_DemonWolf.tools.1.label>Клыки</LotM_DemonWolf.tools.1.label>
+  <LotM_ShadowSpirit.label>тень</LotM_ShadowSpirit.label>
+  <LotM_ShadowSpirit.description>Дух, сделанный из тьмы в форме волка. Его укус холодный, и он растворяется за несколько часов.</LotM_ShadowSpirit.description>
+  <LotM_ShadowSpirit.tools.0.label>замораживающий укус</LotM_ShadowSpirit.tools.0.label>
+  <LotM_DemonWolfGreater.label>великий демонический волк</LotM_DemonWolfGreater.label>
+  <LotM_DemonWolfGreater.description>Ангел или почти ангел пути Тьмы, потерявший контроль: гигантский демонический волк. Он пугает, тает приливами тьмы и стирает людей из мира.</LotM_DemonWolfGreater.description>
+  <LotM_DemonWolfGreater.tools.0.label>Когти</LotM_DemonWolfGreater.tools.0.label>
+  <LotM_DemonWolfGreater.tools.1.label>Клыки</LotM_DemonWolfGreater.tools.1.label>
+  <LotM_DemonWolfKing.label>волк-король несчастья</LotM_DemonWolfKing.label>
+  <LotM_DemonWolfKing.description>Рыцарь Несчастья, потерявший контроль: колоссальный демонический волк из ночи. Где он ступает, падает несчастье.</LotM_DemonWolfKing.description>
+  <LotM_DemonWolfKing.tools.0.label>Когти</LotM_DemonWolfKing.tools.0.label>
+  <LotM_DemonWolfKing.tools.1.label>Клыки</LotM_DemonWolfKing.tools.1.label>
+  <LotM_DemonWolfKing.tools.2.label>реберные руки</LotM_DemonWolfKing.tools.2.label>
+</LanguageData>
